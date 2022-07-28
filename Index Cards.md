@@ -1,3 +1,7 @@
+---
+tag: #journal 
+---
+
 ## Index Card as Zettelkasten
 Today, I received 15 sets of 100 sheets of white ruled index cards  4"x6" size. Two (2) ago I recieved the same but its six (6) different colored index cards.
 
@@ -20,4 +24,5 @@ Today, I received 15 sets of 100 sheets of white ruled index cards  4"x6" size. 
 -   For this reason, note-taking is effective to the extent that you **paraphrase, organize** and **make sense of the information** while taking notes[^1] — in other words, to the extent that you put the information in your own words. #nts
     -   _Footnote:_
         -   [^1]: Bretzing & Kulhavy 1979
-            
+
+[[index|Home]]
