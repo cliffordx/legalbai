@@ -23,6 +23,10 @@ My #Journal entries each time I post content is [[#journal|here]].  Everytime yo
 
 NOTE: This Github Page is a work in progress. Please bookmark so can come back and check out my latest post. Thank you!
 
+### Disclaimer
+The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general informational and educational purposes, and not offered as, and does not constitute, legal advice or legal opinion.
+
+
 ### Support or Contact
 
 You may reach me at @cliffordx on these Social Media: Messenger/Facebook/Twitter
