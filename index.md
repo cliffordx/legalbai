@@ -22,7 +22,7 @@ For those who want to engage in effective note-taking strategies, here is my lis
 4. Remember: The Science of Memory and The Art of Forgetting by Lisa Genova, 2021.
 
 
-NOTE: This Github Page is a work in progress. Please bookmark so can come back and check out my latest post. Thank you!
+NOTE: This Github Page is a work in progress. Please bookmark so you can come back anytime and check out my latest post. Thank you!
 
 ### Disclaimer
 The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general informational and educational purposes, and not offered as, and does not constitute, legal advice or legal opinion.
