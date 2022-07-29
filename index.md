@@ -1,6 +1,8 @@
 ## Welcome to Legal Bai
 
-This is the repository for my notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I will be on my third year. Law school is tough, but "I am tougher." — Paksiteer
+This is the repository for my notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I will be on my third year in law school. 
+
+Law school is tough, but "I am tougher." — Paksiteer
 
 
 ### What can you expect about my Github page?
@@ -30,4 +32,5 @@ The views and opinions expressed in this page and all pages herein are those of 
 
 You may reach me at @cliffordx on these Social Media: Messenger/Facebook/Twitter
 
-[[Index Cards.md]]
+<a href="
+http://cliffordx.github.io/legalbai/Index_Cards.md">Index Cards</a>
