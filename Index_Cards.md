@@ -25,4 +25,5 @@ Today, I received 15 sets of 100 sheets of white ruled index cards  4"x6" size. 
     -   _Footnote:_
         -   [^1]: Bretzing & Kulhavy 1979
 
-[[index|Home]]
+<a href="
+https://cliffordx.github.io/legalbai/">Home</a>
