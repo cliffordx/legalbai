@@ -33,4 +33,4 @@ The views and opinions expressed in this page and all pages herein are those of 
 You may reach me at @cliffordx on these Social Media: Messenger/Facebook/Twitter
 
 <a href="
-http://cliffordx.github.io/legalbai/Index_Cards.md">Index Cards</a>
+https://cliffordx.github.io/legalbai/Index_Cards.md">Index Cards</a>
