@@ -1,0 +1,2 @@
+- What is Graph in Logseq?
+- Logseq stores inter-connected information in infinite graphs. This means that you can traverse a research volume or dataset or CRM in Logseq by browsing these interconnected graphs.
