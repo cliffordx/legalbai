@@ -81,7 +81,7 @@
   :block/updated-at 1666720761571}
  {:block/name "clifford enoc",
   :block/created-at 1666760758005,
-  :block/updated-at 1666765073034}
+  :block/updated-at 1666767014290}
  {:block/name "codal",
   :block/created-at 1666720761579,
   :block/updated-at 1666720761579}
@@ -129,7 +129,7 @@
   :block/updated-at 1666762314194}
  {:block/name "index_cards",
   :block/created-at 1659873332628,
-  :block/updated-at 1666765580077}
+  :block/updated-at 1666767148433}
  {:block/name "interlocutory order",
   :block/created-at 1666720760522,
   :block/updated-at 1666720760522}
