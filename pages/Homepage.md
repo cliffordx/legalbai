@@ -10,9 +10,9 @@ tags:: paksiteer paksitive paksionate
 	- Since I am doing hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I have studied so far, here in Github. My previous plan was to have it in one place at my website (CliffordX.com) but I wanted it here since I just have to `commit` the pages that I have written on my PKM app (logseq, FTW!) from my laptop and it shall be published with updates and shown here instantly. It makes my workflow much easier.
 	- I do have handwritten outlines, notes on a 4"x6" [index card]([[Index_Cards]]) which I already plan to write simultaneously or concurrently with my typewritten notes here. I plan to upload also those handwritten notes if it so required. (But I'm lazy, [here's my alibi]([[26 Oct 2022]])
 	- For those who want to engage in effective note-taking strategies, here is my list of recommended (e)Books to read in alphabetical order on the subject of note-taking:
-		- 1. [Building A Second Brain](https://amzn.to/3fb27S7), 2022
+		- 1. [Building A Second Brain](https://amzn.to/3fb27S7) by Tiago Forte, 2022
 		- 2. [Digital Zettelkasten](https://amzn.to/3TVuZfV) by David Kadavy, 2021
-		- 3. How To Take Smart Notes by Sönke Ahrens, 2022
+		- 3. [How To Take Smart Notes](https://amzn.to/3swU1GI) by Sönke Ahrens, 2022
 		- 4. Remember: The Science of Memory and The Art of Forgetting by Lisa Genova, 2021.
 - ### Who owns Legal Bai GitHub page?
 	- *Clifford Enoc*, a licensed real estate broker and a law student from the best law school in Carbon, USJ-R School of Law. My one tag liner is "Be paksionate, Be Paksitive!" `#AdAstra`
