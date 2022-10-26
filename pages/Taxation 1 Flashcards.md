@@ -2,6 +2,7 @@ law-subject:: taxation
 type:: flashcards
 item-type:: card
 tags:: flashcards
+public:: true
 
 - #Q Which tax principle dictates that the government must maintain an ideal budgetary system?
   * [ ] a. Fiscal adequacy
