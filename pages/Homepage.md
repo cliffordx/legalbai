@@ -7,7 +7,7 @@ tags:: paksiteer paksitive paksionate
 	- Law school is tough, but "I am tougher." — The Paksiteer
 - ### What can you expect from my Github page?
 	- A ton.
-	- Since I am doing hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I have studied so far, here in Github. My previous plan was to have it in one place at my website (CliffordX.com) but I wanted it here since I just have to `commit` the pages that I hav written on my PKM app (logseq, FTW!) and it shall be published with updates and shown here instantly. It makes my workflow much easier.
+	- Since I am doing hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I have studied so far, here in Github. My previous plan was to have it in one place at my website (CliffordX.com) but I wanted it here since I just have to `commit` the pages that I have written on my PKM app (logseq, FTW!) from my laptop and it shall be published with updates and shown here instantly. It makes my workflow much easier.
 	- I do have handwritten outlines, notes on a 4"x6" [index card]([[Index_Cards]]) which I already plan to write simultaneously or concurrently with my typewritten notes here. I plan to upload also those handwritten notes if it so required. (But I'm lazy, [here's my alibi]([[26 Oct 2022]])
 	- For those who want to engage in effective note-taking strategies, here is my list of recommended (e)Books to read in alphabetical order on the subject of note-taking:
 		- 1. Building A Second Brain by Tiago Forte, 2022
