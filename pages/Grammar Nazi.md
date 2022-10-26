@@ -1,3 +1,3 @@
 - Here's the thing. When I publish my [[graph]] here, sometimes or often there are typos, that's a given and I sometimes missed it but mostly I double check but you can't be sure.
 - If you can help me point it out, thank you and [reach me out here](((de1311b9-7141-4a55-950c-2ffe17d350c0))) or send an email to `cresupport@gmail.com.`
-- Typos and specially grammar are annoying rih
+- Typos and specially wrong grammar are annoying right? I can relate because I myself annoyed but when it ca
