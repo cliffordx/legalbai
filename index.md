@@ -19,6 +19,5 @@
 - ### Support or Contact
 	- You may reach me at @cliffordx on these Social Media: Messenger/Facebook/Twitter
 ## Articles
-- <a href="
-  https://cliffordx.github.io/legalbai/Index_Cards">Index Cards</a>
--
+- [[Index_Cards]]
+- [[ROC_Annotated]]
