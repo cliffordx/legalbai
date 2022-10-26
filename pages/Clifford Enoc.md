@@ -5,4 +5,4 @@
 - Paksiteer
 - Chess aficionado
 - A 'wannabe' computer geek
-- Astronaut-hopeful
+- A Astronaut
