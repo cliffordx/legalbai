@@ -1,4 +1,4 @@
-title:: index
+title:: Homepage
 public:: true
 tags:: paksiteer paksitive paksionate
 
