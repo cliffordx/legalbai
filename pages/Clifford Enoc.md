@@ -4,5 +4,5 @@
 - Life-long learner
 - Paksiteer
 - Chess aficionado
-- a 'wannabe' computer geek
--
+- A 'wannabe' computer geek
+- Astronaut-hopeful
