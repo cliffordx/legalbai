@@ -6,4 +6,4 @@
 - Chess aficionado
 - A 'wannabe' computer geek
 - A hopeless astronomer-to-be
-- ... to be added. Stay golden!
+- ... to be added soon. Stay golden!
