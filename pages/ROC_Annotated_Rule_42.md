@@ -1,8 +1,5 @@
 title:: ROC_Annotated/Rule 42
-
-{{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
-
-- alt-title:: RULE 42 - Petition for Review from the Regional Trial Courts to the Court of Appeals
+alt-title:: RULE 42 - Petition for Review from the Regional Trial Courts to the Court of Appeals
   type:: codal
   law-subject:: remedial
   tag:: #codal/roc/civpro
