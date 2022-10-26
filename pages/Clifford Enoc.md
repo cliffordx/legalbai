@@ -1,3 +1,6 @@
 - Licensed Real Estate Broker
 - Law Student (JD -3)
--
+- Father
+- Life-long learner
+- Paksiteer
+- Chess aficionado
