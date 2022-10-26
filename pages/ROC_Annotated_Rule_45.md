@@ -55,9 +55,8 @@ public:: true
   collapsed:: true
 	- If the petition is given due course, the Supreme Court may require the elevation of the complete record of the case or specified parts thereof within fifteen (15) days from notice. (2a)
 - **SECTION 9.** Rule applicable to both civil and criminal cases.
-  collapsed:: true
 	- The mode of appeal prescribed in this Rule shall be applicable to both civil and criminal cases, except in criminal cases where the penalty imposed is death, *reclusion perpetua* or life imprisonment. (n)
-	- NOTES:
+	- NOTES: (this is a GPT-3 generated )
 	- The mode of appeal prescribed in this Rule shall be applicable to both civil and criminal cases, except in criminal cases where the penalty imposed is death, reclusion perpetua or life imprisonment.
 		- In such cases, the appeal shall be to the Supreme Court by petition for review on certiorari under Rule 45.”
 		  
