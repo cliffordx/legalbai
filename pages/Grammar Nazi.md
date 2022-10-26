@@ -1,1 +1,1 @@
-- Congra
+- Here's the thing. When I publish my [[graph]] here, sometimes or often there are typos, that's a given and I sometimes missed it.
