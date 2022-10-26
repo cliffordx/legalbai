@@ -1,6 +1,6 @@
 title:: index
 
-- public::true
+- public:: true
   tags:: paksiteer paksitive paksionate
 - ## Welcome to Legal Bai
 	- This is the repository for my notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I will be on my third year in law school.
