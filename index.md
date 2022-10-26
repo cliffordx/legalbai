@@ -1,7 +1,5 @@
-public::true
-tags:: paksiteer 
-<a href="
-  https://cliffordx.github.io/legalbai/pages/ROC_Annotated">Rules of Court Annotated</a>
+- public::true
+  tags:: paksiteer
 - ## Welcome to Legal Bai
 	- This is the repository for my notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I will be on my third year in law school.
 	- Law school is tough, but "I am tougher." — The Paksiteer
@@ -23,3 +21,4 @@ tags:: paksiteer
 ## Articles
 - <a href="
   https://cliffordx.github.io/legalbai/Index_Cards">Index Cards</a>
+-
