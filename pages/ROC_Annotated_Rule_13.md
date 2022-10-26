@@ -38,6 +38,12 @@ public:: true
 			- What is filing? #card
 				- Filing is the act of submitting the pleading or other paper to the court.
 			- What is service? #card
+			  card-last-interval:: -1
+			  card-repeats:: 1
+			  card-ease-factor:: 2.5
+			  card-next-schedule:: 2022-10-26T16:00:00.000Z
+			  card-last-reviewed:: 2022-10-26T07:44:16.175Z
+			  card-last-score:: 1
 				- Service is the act of providing a party with a copy of the pleading or any other court submission.
 			- What is effect of a party who is represented by counsel? #card
 				- When a party is represented by counsel of record, **service of orders and notices** must be **made upon said attorney**; and **notice to the client** and **to any other lawyer,** not the counsel of record, is not **notice in law**.[^1] The except­ion to this rule is when service upon the party himself has been ordered by the court.[^2]
