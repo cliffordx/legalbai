@@ -20,8 +20,8 @@
 	- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general informational and educational purposes, and not offered as, and does not constitute, legal advice or legal opinion.
 - ### Support or Contact
 	- You may reach me at @cliffordx on these Social Media:
-		- Messenger/Facebook
-		- Twitter {{tweet }}
+		- [Messenger/Facebook](https://faceboook.com/cliffordx)
+		- [Twitter](http://twitter.com/cliffordx)
 ## Articles
 - [[Index_Cards]]
 - [[ROC_Annotated]]
