@@ -1,8 +1,9 @@
 - Licensed Real Estate Broker
 - Law Student (JD -3)
 - Father
-- Life-long learner
 - Paksiteer
+- Life-long learner
 - Chess aficionado
 - A 'wannabe' computer geek
-- A Astronaut
+- A hopeless astronomer-to-be
+-
