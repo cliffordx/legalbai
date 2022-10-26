@@ -13,11 +13,13 @@ tags:: paksiteer paksitive paksionate
 		- 1. [Building A Second Brain](https://amzn.to/3fb27S7) by Tiago Forte, 2022
 		- 2. [Digital Zettelkasten](https://amzn.to/3TVuZfV) by David Kadavy, 2021
 		- 3. [How To Take Smart Notes](https://amzn.to/3swU1GI) by Sönke Ahrens, 2022
-		- 4. Remember: The Science of Memory and The Art of Forgetting by Lisa Genova, 2021.
+		- 4. [Remember: The Science of Memory and The Art of Forgetting](https://amzn.to/3SI2sJH) by Lisa Genova, 2021.
 - ### Who owns Legal Bai GitHub page?
 	- *Clifford Enoc*, a licensed real estate broker and a law student from the best law school in Carbon, USJ-R School of Law. My one tag liner is "Be paksionate, Be Paksitive!" `#AdAstra`
 - ### Disclaimer
 	- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general information and educational purposes onlt, and not offered as, and does not constitute, legal advice or legal opinion.
+	- #### Affiliate Links
+		-
 - ### Support or Contact
 	- You may reach me at @cliffordx on these Social Media:
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)
