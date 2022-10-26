@@ -19,7 +19,7 @@ tags:: paksiteer paksitive paksionate
 - ### Disclaimer
 	- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general information and educational purposes onlt, and not offered as, and does not constitute, legal advice or legal opinion.
 	- #### Affiliate Links
-		- Some outside links to websites are affiliate links, *i.e.,* Amazon, which are
+		- Some outside links to websites are affiliate links, *i.e.,* Amazon, which are sponsored/or affiliated which means that if you buy something from them, unless it is sponsored for a fee, then I earn a 'tiny' commission fee. I
 - ### Support or Contact
 	- You may reach me at @cliffordx on these Social Media:
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)
