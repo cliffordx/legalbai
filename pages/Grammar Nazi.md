@@ -1,1 +1,2 @@
-- Here's the thing. When I publish my [[graph]] here, sometimes or often there are typos, that's a given and I sometimes missed it.
+- Here's the thing. When I publish my [[graph]] here, sometimes or often there are typos, that's a given and I sometimes missed it but mostly I double check but you can't be sure.
+- If you can help me point it out, thank you and reach me out here
