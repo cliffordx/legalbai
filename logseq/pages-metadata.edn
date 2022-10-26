@@ -3,7 +3,7 @@
   :block/updated-at 1666720759360}
  {:block/name "26 oct 2022",
   :block/created-at 1666760141922,
-  :block/updated-at 1666765113807}
+  :block/updated-at 1666778259352}
  {:block/name "48c9e1f4-30b4-4071-94e4-135495115ea9",
   :block/created-at 1666720759133,
   :block/updated-at 1666720759133}
@@ -120,7 +120,7 @@
   :block/updated-at 1666720760680}
  {:block/name "grammar nazi",
   :block/created-at 1666777260397,
-  :block/updated-at 1666777660675}
+  :block/updated-at 1666777942143}
  {:block/name "graph",
   :block/created-at 1666774372935,
   :block/updated-at 1666774529962}
