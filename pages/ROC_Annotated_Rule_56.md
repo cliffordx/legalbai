@@ -7,7 +7,7 @@ status:: active
 public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
 
-- **PROCEDURE IN THE SUPREME COURT**
+- ### **PROCEDURE IN THE SUPREME COURT**
 	- ## A. Original Cases
 		- **SECTION 1.** Original cases cognizable.
 		  collapsed:: true
