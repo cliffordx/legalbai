@@ -4,6 +4,7 @@ type:: codal
 law-subject:: remedial
 tag:: #codal/roc/civpro
 status:: active
+public:: true
 
 - # RULE 21 - Subpoena
   heading:: true

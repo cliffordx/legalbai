@@ -4,6 +4,7 @@ type:: codal
 law-subject:: remedial
 tag:: #codal/roc/civpro
 status:: active
+public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
 
 - # RULE 43 - Appeals from the Court of Tax Appeals and Quasi-Judicial Agencies to the Court of Appeals

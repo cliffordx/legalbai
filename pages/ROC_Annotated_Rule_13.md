@@ -4,6 +4,7 @@ type:: codal
 law-subject:: remedial
 tag:: #codal/roc/civpro
 status:: active
+public:: true
 
 - [[Book:]] ![Noche Vol 1, 2021 ed., RULE 13](../assets/VOL1_NOCHE_2021_RULE13.pdf)
 - # RULE 13 - Filing and Service of Pleadings, Judgments and Other Papers

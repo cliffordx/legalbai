@@ -4,6 +4,7 @@ type:: codal
 law-subject:: remedial
 tag:: #codal/roc/civpro
 status:: active
+public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
 
 - # RULE 55 - Publication of Judgments and Final Resolutions
