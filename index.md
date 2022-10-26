@@ -17,7 +17,7 @@
 	  This Github Page is a work in progress. Please bookmark so you can come back anytime and check out my latest post. Thank you!
 	  #+END_NOTE
 - ### Who owns Legal Bai GitHub page?
-	- Clifford Enoc, a licensed real estate broker and a law student from the best law school of Carbon, USJ-R School of Law. My one tag
+	- *Clifford Enoc*, a licensed real estate broker and a law student from the best law school of Carbon, USJ-R School of Law. My one tag liner is "Be paksionate, Be Paksitive!" `#AdAstra`
 - ### Disclaimer
   collapsed:: true
 	- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general informational and educational purposes, and not offered as, and does not constitute, legal advice or legal opinion.
