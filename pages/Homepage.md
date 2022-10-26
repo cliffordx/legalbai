@@ -1,6 +1,6 @@
 title:: Homepage
 public:: true
-tags:: paksiteer paksitive paksionate
+tags:: paksiteer, paksitive, paksionate
 
 - ## Welcome to Legal Bai
 	- This is [my]([[Clifford Enoc]]) repository of law notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I am on my third year in law school. `updated: Oct 26, 2022: 13:06:00`
