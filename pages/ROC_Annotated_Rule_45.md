@@ -95,7 +95,7 @@ public:: true
 			  The High court, after carefully considering the petition and the supporting documents, found that there is no identification of any specific law or regulation which the respondent Sangguniang Panlungsod of Makati allegedly violated when it issued the assailed order to remove the stalls in the marketplace.
 			  
 			  We therefore find that the instant petition has no merit.
-			- Who is Clifford Enoc? (this is a generated GPT-3 during my free trial test app)
+			- Who is Clifford Enoc? (this is a generated GPT-3 during my free trial test application from Google. My verdict: `not accurate.` I am not sure about the generated output above.)
 				- Clifford Enoc is a Filipino bishop. He is the Bishop of Antipolo.
 					- Category:1955 births
 					  Category:Living people
