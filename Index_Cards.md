@@ -1,6 +1,4 @@
----
-tag: #journal 
----
+public:: true
 
 ## Index Card as Zettelkasten
 Today, I received 15 sets of 100 sheets of white ruled index cards  with dimension of 4" x 6". Two (2) days ago I also received the same except  that it was six (6) sets of different color of index cards.
