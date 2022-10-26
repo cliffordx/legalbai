@@ -1,7 +1,7 @@
 public:: true
 
-## Index Card as Zettelkasten
-Today, I received 15 sets of 100 sheets of white ruled index cards  with dimension of 4" x 6". Two (2) days ago I also received the same except  that it was six (6) sets of different color of index cards.
+- ## Index Card as Zettelkasten
+- Today, I received 15 sets of 100 sheets of white ruled index cards  with dimension of 4" x 6". Two (2) days ago I also received the same except  that it was six (6) sets of different color of index cards.
 - ## What is Zettelkasten?
 - A Zettelkasten is a system for taking notes and storing ideas. It is named after the German word for "slip box," which is a type of filing system. The Zettelkasten method was developed by German sociologist and historian Niklas Luhmann and has been gaining popularity in recent years.
 - The basic idea behind a Zettelkasten is that you store your ideas in a central location, where they are easy to find and retrieve. Each idea is represented by a "zettel," or note card. These notes are then organized into folders, or "kasten."
