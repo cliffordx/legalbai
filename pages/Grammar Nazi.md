@@ -3,5 +3,5 @@
 - Typos and specially wrong grammar are annoying right? I can relate because I myself annoyed but when it comes to my own grammar? Hahaha, I suck. So help me make me a better "grammar nazi," deal?
 - Below is a screenshot of what I learned when you are reading critically. I'm not degrading the author, perhaps it got lost on the press or the editor was lazy, or paid less.
 - ![IMG_4871.jpg](../assets/IMG_4871_1666777702220_0.jpg)
-- This is from the book, "Forester of Nations The Last Resort." it's a good book I recommend it.
+- if you happen to know which book, this is from the book, "Forester of Nations The Last Resort" page 65 of Chapter Two: From The Groves of Academe To the Corridors of Power it's a good book I recommend it.
 - So there's that.
