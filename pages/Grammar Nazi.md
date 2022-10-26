@@ -1,4 +1,4 @@
 - Here's the thing. When I publish my [[graph]] here, sometimes or often there are typos, that's a given and I sometimes missed it but mostly I double check but you can't be sure.
 - If you can help me point it out, thank you and [reach me out here](((de1311b9-7141-4a55-950c-2ffe17d350c0))) or send an email to `cresupport@gmail.com.`
 - Typos and specially wrong grammar are annoying right? I can relate because I myself annoyed but when it comes to my own grammar? Hahaha, I suck. So help me make me a better "grammar nazi," deal?
-- Below is what I learned when you do ctri
+- Below is a screenshot of what I learned when you are reading critically. I'm not degrading the author, maybe it got lost in the press or the editor was lazy,
