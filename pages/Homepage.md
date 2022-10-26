@@ -14,9 +14,6 @@ tags:: paksiteer paksitive paksionate
 		- 2. Digital Zettelkasten by David Kadavy, 2021
 		- 3. How To Take Smart Notes by Sönke Ahrens, 2022
 		- 4. Remember: The Science of Memory and The Art of Forgetting by Lisa Genova, 2021.
-	- #+BEGIN_NOTE
-	  This Github Page is a work in progress. Please bookmark so you can come back anytime and check out my latest post. Thank you!
-	  #+END_NOTE
 - ### Who owns Legal Bai GitHub page?
 	- *Clifford Enoc*, a licensed real estate broker and a law student from the best law school in Carbon, USJ-R School of Law. My one tag liner is "Be paksionate, Be Paksitive!" `#AdAstra`
 - ### Disclaimer
