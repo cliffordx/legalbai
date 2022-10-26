@@ -56,7 +56,7 @@ public:: true
 	- If the petition is given due course, the Supreme Court may require the elevation of the complete record of the case or specified parts thereof within fifteen (15) days from notice. (2a)
 - **SECTION 9.** Rule applicable to both civil and criminal cases.
 	- The mode of appeal prescribed in this Rule shall be applicable to both civil and criminal cases, except in criminal cases where the penalty imposed is death, *reclusion perpetua* or life imprisonment. (n)
-	- NOTES: (this is a GPT-3 generated )
+	- NOTES: (Below is a GPT-3 generated content. Be warned!)
 	- The mode of appeal prescribed in this Rule shall be applicable to both civil and criminal cases, except in criminal cases where the penalty imposed is death, reclusion perpetua or life imprisonment.
 		- In such cases, the appeal shall be to the Supreme Court by petition for review on certiorari under Rule 45.”
 		  
@@ -95,7 +95,7 @@ public:: true
 			  The High court, after carefully considering the petition and the supporting documents, found that there is no identification of any specific law or regulation which the respondent Sangguniang Panlungsod of Makati allegedly violated when it issued the assailed order to remove the stalls in the marketplace.
 			  
 			  We therefore find that the instant petition has no merit.
-			- Who is Clifford Enoc?
+			- Who is Clifford Enoc? (this is a generated GPT-3 during my free trial test app)
 				- Clifford Enoc is a Filipino bishop. He is the Bishop of Antipolo.
 					- Category:1955 births
 					  Category:Living people
