@@ -1,3 +1,5 @@
+title:: index
+
 - public::true
   tags:: paksiteer
 - ## Welcome to Legal Bai
