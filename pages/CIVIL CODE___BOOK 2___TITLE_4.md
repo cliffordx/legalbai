@@ -6,7 +6,7 @@ tags:: #codal/property/special
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- 🔴 CHAPTER 1- Waters
+- ## 🔴 CHAPTER 1- Waters
   collapsed:: true
   *(see Note below)*
 	- ```ad-note
@@ -97,12 +97,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 518.**
 		  collapsed:: true
 			- All matters not expressly determined by the provisions of this Chapter shall be governed by the Special Law of Waters of August 3, 1866, and by the Irrigation Law. (425a)
-- 🔴 CHAPTER 2 - Minerals
+- ## 🔴 CHAPTER 2 - Minerals
   collapsed:: true
 	- **ARTICLE 519.**
 	  collapsed:: true
 		- Mining claims and rights and other matters concerning minerals and mineral lands are governed by special laws. (427a)
-- 🔴 CHAPTER 3 - Trade-marks and Trade-names
+- ## 🔴 CHAPTER 3 - Trade-marks and Trade-names
   collapsed:: true
 	- **ARTICLE 520.**
 	  collapsed:: true

@@ -12,6 +12,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 562.**
 	  collapsed:: true
 		- Usufruct[^1] gives a right to enjoy the property of another with the obligation of preserving its form and substance, unless the title constituting it or the law otherwise provides. (467)
+		  collapsed:: true
 			- [^1]:  _{Latin *usufructus* [17c] A right for a certain period to use and enjoy the fruits of another's property without damaging or diminishing it, but allowing for any natural deterioration in the property over time. In Roman law, the usufruct  was considered a personal servitude, resulting in a real right. In modern civil law, the owner of the usufruct is similar to life tenant, and the owner of the property burdened is known as the *naked owner*. — Also called perfect usufruct; usufructus; ususfructus.(Black's Law, 2019, p. 1857)}
 	- **ARTICLE 563.**
 	  collapsed:: true
@@ -25,6 +26,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The rights and obligations of the usufructuary shall be those provided in the title constituting the usufruct; in default of such title, or in case it is deficient, the provisions contained in the two following Chapters shall be observed. (470)
 - 🔴 CHAPTER 2 - Rights of the Usufructuary]]
   heading:: true
+  collapsed:: true
 	- **ARTICLE 566.**
 	  collapsed:: true
 		- The usufructuary shall be entitled to all the natural, industrial and civil fruits of the property in usufruct.
@@ -96,6 +98,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 583.**
 	  collapsed:: true
 		- The usufructuary, before entering upon the enjoyment of the property, is obliged:
+		  collapsed:: true
 			- (1) To make, after notice to the owner or his legitimate representative, an inventory of all the property, which shall contain an appraisal of the movables and a description of the condition of the immovables;
 			- (2) To give security, binding himself to fulfill the obligations imposed upon him in accordance with this Chapter. (491)
 			  id:: 4323bbf7-af91-443a-ab38-c0e50c7d062b
@@ -179,6 +182,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 603.**
 	  collapsed:: true
 		- Usufruct is extinguished:
+		  collapsed:: true
 			- (1) By the death of the usufructuary, unless a contrary intention clearly appears;
 			- (2) By the expiration of the period for which it was constituted, or by the fulfillment of any resolutory condition provided in the title creating the usufruct;
 			- (3) By merger of the usufruct and ownership in the same person;
