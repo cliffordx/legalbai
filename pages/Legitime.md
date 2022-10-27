@@ -79,7 +79,7 @@ title:: Legitime
 	- {{embed ((635756d0-02d4-43fe-84d7-2668de85b297))}}
 	- # Necessity of being “legitimate”
 		- Article 992 provides a bar between the legitimate and illegitimate line of the family, thus preventing one from inheriting from the other by legal succession. The discrimination against an illegitimate child arises from his inability to inherit from the other relatives of his father and mother. Thus, an illegitimate child has successional rights only with respect to his own parents, beyond the parents, an illegitimate child has no successional rights in intestate succession. The law imposes a certain amount of discrimination with regard to illegitimate children; as if they are being condemned for something which was not of their own free volition. Even the fiction of adoption will not vest full legitimacy on the illegitimate child because the fiction of adoption produces its effect only between the adopter and the adopted.
-	- # ((6357caf2-edf7-4ebd-96c2-1101bbcef8fe))
+	- # Fractional combinations of legitime
 		- When concurring with other compulsory heirs, the fractional shares are adjusted in accordance to pertinent provisions of intestate succession. The portion of the estate that does not pertain to legitime is properly termed as free disposal.
 	- # Summary of table of shares of legitimes:
 	  background-color:: red
