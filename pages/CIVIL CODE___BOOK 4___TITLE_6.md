@@ -701,7 +701,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - # 🔴 CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHE INCORPOREAL RIGHTS
 	- **ARTICLE 1624.**
 	  id:: cf720ebf-c4f1-4bcd-aecd-a8e6cfee3454
-	  collapsed:: true
 		- An assignment of credits and other incorporeal rights shall be perfected in accordance with the provisions of [article 1475](((63370973-f334-42c1-99f2-a8f5e50632f1))). (n)
 	- **ARTICLE 1625.**
 	  id:: 73dc6c53-6572-48b4-9894-d6b68b845d3c
