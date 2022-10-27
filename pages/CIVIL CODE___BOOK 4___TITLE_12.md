@@ -9,7 +9,9 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - {{embed ((632349be-07cb-4ddd-a06c-7e83af1d5f71))}}
 - 🔴 CHAPTER 1- DEPOSIT IN GENERAL AND ITS DIFFERENT KINDS
   heading:: true
+  collapsed:: true
 	- **ARTICLE 1962.**
+	  collapsed:: true
 		- A deposit is constituted from the moment a person receives a thing belonging to another, with the obligation of safely keeping it and of returning the same. If the safekeeping of the thing delivered is not the principal purpose of the contract, there is no deposit but some other contract. (1758a)
 	- **ARTICLE 1963.**
 	  id:: b80db0e6-d4af-4d91-9e93-393bd0134fb5
@@ -23,17 +25,22 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- A deposit is a gratuitous contract, except when there is an agreement to the contrary, or unless the depositary is engaged in the business of storing goods. (1760a)
 	- **ARTICLE 1966.**
 	  id:: 35f9d356-aa4e-4bae-8e8e-d7fcb960030b
+	  collapsed:: true
 		- Only movable things may be the object of a deposit. (1761)
 	- **ARTICLE 1967.**
 	  collapsed:: true
 		- An extrajudicial deposit is either voluntary or necessary. (1762)
 - 🔴 CHAPTER 2 - VOLUNTARY DEPOSIT
   heading:: true
+  collapsed:: true
 	- ## SECTION 1 - General Provisions
+	  collapsed:: true
 		- **ARTICLE 1968.**
 		  id:: adc7a06c-1c54-44a0-98f1-fcb01982c626
+		  collapsed:: true
 			- A voluntary deposit is that wherein the delivery is made by the will of the depositor. A deposit may also be made by two or more persons each of whom believes himself entitled to the thing deposited with a third person, who shall deliver it in a proper case to the one to whom it belongs. (1763)
 			  id:: 62b5c50f-6840-421f-a154-37fb1b4f461a
+			  collapsed:: true
 				-
 		- **ARTICLE 1969.**
 		  collapsed:: true
@@ -47,6 +54,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- If the deposit has been made by a capacitated person with another who is not, the depositor shall only have an action to recover the thing deposited while it is still in the possession of the depositary, or to compel the latter to pay him the amount by which he may have enriched or benefited himself with the thing or its price. However, if a third person who acquired the thing acted in bad faith, the depositor may bring an action against him for its recovery. (1765a)
 	- ## SECTION 2 - Obligations of the Depositary
+	  collapsed:: true
 		- **ARTICLE 1972.**
 		  id:: 6d8f0e10-21ea-4304-a2a3-58006e7fbe2f
 		  collapsed:: true
@@ -81,11 +89,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1979.**
 		  collapsed:: true
 			- The depositary is liable for the loss of the thing through a fortuitous event:
+			  collapsed:: true
 				- (1) If it is so stipulated;
 				- (2) If he uses the thing without the depositor’s permission;
 				- (3) If he delays its return;
 				- (4) If he allows others to use it, even though he himself may have been authorized to use the same. (n)
 		- **ARTICLE 1980.**
+		  collapsed:: true
 			- Fixed, savings, and current deposits of money in banks and similar institutions shall be governed by the provisions concerning simple loan. (n)
 		- **ARTICLE 1981.**
 		  id:: 84af3846-f454-411e-ad10-fc6addeea0a9
@@ -148,6 +158,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1995.**
 		  collapsed:: true
 			- A deposit is extinguished:
+			  collapsed:: true
 				- (1) Upon the loss or destruction of the thing deposited;
 				- (2) In case of a gratuitous deposit, upon the death of either the depositor or the depositary. (n)
 - 🔴 CHAPTER 3 - NECESSARY DEPOSIT
@@ -156,44 +167,60 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   collapsed:: true
 	- **ARTICLE 1996.**
 	  id:: 8618242c-d3a4-4490-9e95-09f5931f54ab
+	  collapsed:: true
 		- A deposit is necessary:
+		  collapsed:: true
 			- (1) When it is made in compliance with a legal obligation;
 			  id:: 62b5c750-9a94-452c-badf-a4ea316f4c71
 			- (2) When it takes place on the occasion of any calamity, such as fire, storm, flood, pillage, shipwreck, or other similar events. (1781a)
 			  id:: 62b5c752-245c-4ebc-995b-3117a2114af6
 	- **ARTICLE 1997.**
+	  collapsed:: true
 		- The deposit referred to in [No. 1](logseq://graph/OBSIDIAN?block-id=62b5c750-9a94-452c-badf-a4ea316f4c71) of the preceding article shall be governed by the provisions of the law establishing it, and in case of its deficiency, by the rules on voluntary deposit.
 		- The deposit mentioned in [No. 2](logseq://graph/OBSIDIAN?block-id=62b5c752-245c-4ebc-995b-3117a2114af6) of the preceding article shall be regulated by the provisions concerning voluntary deposit and by article 2168. (1782)
 	- ## Responsibility of Hotel-Keepers
+	  collapsed:: true
 		- **ARTICLE 1998.**
 		  id:: 40a2311b-0cf2-4663-9cb4-c069516f97c0
+		  collapsed:: true
 			- The deposit of effects made by travellers in hotels or inns shall also be regarded as necessary. The keepers of hotels or inns shall be responsible for them as depositaries, provided that notice was given to them, or to their employees, of the effects brought by the guests and that, on the part of the latter, they take the precautions which said hotel-keepers or their substitutes advised relative to the care and vigilance of their effects. (1783)
 		- **ARTICLE 1999.**
+		  collapsed:: true
 			- The hotel-keeper is liable for the vehicles, animals and articles which have been introduced or placed in the annexes of the hotel. (n)
 		- **ARTICLE 2000.**
 		  id:: 631d71f9-739b-4644-bbd2-3f887501e809
+		  collapsed:: true
 			- The responsibility referred to in the two preceding articles shall include the loss of, or injury to the personal property of the guests caused by the servants or employees of the keepers of hotels or inns as well as by strangers; but not that which may proceed from any *force majeure*. The fact that travellers are constrained to rely on the vigilance of the keeper of the hotel or inn shall be considered in determining the degree of care required of him. (1784a)
 		- **ARTICLE 2001.**
+		  collapsed:: true
 			- The act of a thief or robber, who has entered the hotel is not deemed *force majeure*, unless it is done with the use of arms or through an irresistible force. (n)
 		- **ARTICLE 2002.**
+		  collapsed:: true
 			- The hotel-keeper is not liable for compensation if the loss is due to the acts of the guest, his family, servants or visitors, or if the loss arises from the character of the things brought into the hotel. (n)
 		- **ARTICLE 2003.**
 		  id:: 631d71f9-3820-48ff-af94-8807dca9a247
+		  collapsed:: true
 			- The hotel-keeper cannot free himself from responsibility by posting notices to the effect that he is not liable for the articles brought by the guest. Any stipulation between the hotel-keeper and the guest whereby the responsibility of the former as set forth in articles 1998 to 2001 is suppressed or diminished shall be void. (n)
 		- **ARTICLE 2004.**
+		  collapsed:: true
 			- The hotel-keeper has a right to retain the things brought into the hotel by the guest, as a security for credits on account of lodging, and supplies usually furnished to hotel guests. (n)
 - 🔴 CHAPTER 4 - SEQUESTRATION OR JUDICIAL DEPOSIT
   heading:: true
   collapsed:: true
 	- **ARTICLE 2005.**
 	  id:: fed8d412-c6f0-4f75-b26f-88c30e382e32
+	  collapsed:: true
 		- A judicial deposit or sequestration takes place when an attachment or seizure of property in litigation is ordered. (1785)
 	- **ARTICLE 2006.**
 	  id:: f1abaadd-0f67-40c5-ab33-63c4feecee1a
+	  collapsed:: true
 		- Movable as well as immovable property may be the object of sequestration. (1786)
 	- **ARTICLE 2007.**
+	  collapsed:: true
 		- The depositary of property or objects sequestrated cannot be relieved of his responsibility until the controversy which gave rise thereto has come to an end, unless the court so orders. (1787a)
 	- **ARTICLE 2008.**
+	  collapsed:: true
 		- The depositary of property sequestrated is bound to comply, with respect to the same, with all the obligations of a good father of a family. (1788)
 	- **ARTICLE 2009.**
+	  collapsed:: true
 		- As to matters not provided for in this Code, judicial sequestration shall be governed by the Rules of Court. (1789a)
