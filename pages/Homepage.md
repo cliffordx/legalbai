@@ -6,7 +6,8 @@ tags:: paksiteer, paksitive, paksionate
 	- This is [my]([[Clifford Enoc]]) repository of law notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I am on my third year in law school. `updated: Oct 26, 2022: 13:06:00`
 	- Law school is tough, but "I am tougher." — The Paksiteer
 - # How to navigate this site?
-	- You can collapse or uncollapse a heading to either show or hide subgroup or underneath the title. On this title `How to navigate this site` there's a `.` on the left but DO NOT click yet, as that will open into separate page. After you  hover, you will see a drop/side arrow, depending it the page is hidden or already shown. Try it!
+	- You can collapse or uncollapse a heading to either show or hide subgroup or underneath the title. On this title `How to navigate this site` there's a `.` on the left but DO NOT click yet, as that will open into separate page. After you  hover, you will see a drop/side arrow, depending it the page is hidden or already shown. Do try it!
+	- Next, there's a left side menu bar and right side menu bar. Go over them and let me know if you find something interesting. ;)
 - ### What can you expect from my Github page?
 	- A ton. For starters, I have #[[flashcards]] collated and collected from exams and quizzes.
 	- Also, I have the fundamental condals uploaded here, either annotated or commented by [me]([[Clifford Enoc]]).
