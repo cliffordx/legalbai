@@ -2,7 +2,7 @@ title:: ROC_Annotated/Rule 30
 alt-title:: RULE 30 - Trial
 type:: codal
 law-subject:: remedial
-tag:: #codal/roc/civpro
+tags:: #codal/roc/civpro
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true

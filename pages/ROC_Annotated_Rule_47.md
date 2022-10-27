@@ -2,7 +2,7 @@ title:: ROC_Annotated/Rule 47
 alt-title:: RULE 47 - Annulment of Judgments or Final Orders and Resolutions
 type:: codal
 law-subject:: remedial
-tag:: #codal/roc/civpro
+tags:: #codal/roc/civpro
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true

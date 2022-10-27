@@ -2,7 +2,7 @@ title:: ROC_Annotated/Rule 28
 alt-title:: RULE 28 - Physical and Mental Examination of Persons
 type:: codal
 law-subject:: remedial
-tag:: #codal/roc/civpro
+tags:: #codal/roc/civpro
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true

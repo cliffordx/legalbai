@@ -2,7 +2,7 @@ title:: ROC_Annotated/Rule 56
 alt-title:: PROCEDURE IN THE SUPREME COURT
 type:: codal
 law-subject:: remedial
-tag:: #codal/roc/civpro
+tags:: #codal/roc/civpro
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true
