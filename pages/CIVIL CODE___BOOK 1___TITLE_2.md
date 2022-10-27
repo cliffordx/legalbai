@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/citizenship #codal/domicile
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 48.**
   id:: 63370969-b8c8-49ce-9714-8cb8fcc05b5d
