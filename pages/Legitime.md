@@ -8,6 +8,7 @@ title:: Legitime
 		- **Black's Law Dictionary:** ***Legitime*** (18c). The part of testator's property that his or her children (and occasionally other heirs) are legally entitled to regardless of the will's terms; esp., the part of a decedent's estate reserved, by law, individually to a forced heir. The legitime cannot be denied the children without legal cause.In Roman law, the amount of the legitime was one-fourth of the claimant's share on intestacy. — Also termed legal portion; legitimate portion; legitima portio; forced partition. See *forced heir.*(Scots law) [^886]
 			- [^886] _{Garner, Bryan A., and Henry Campbell Black, eds. *Black’s Law Dictionary*. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p.1084.}
 - # Art. 886
+  collapsed:: true
 	- > {{embed ((634fba6d-78b7-4ce7-a959-dce0556783d5))}}
 	- # Concept of Legitime
 		- Under the Spanish Civil Code as well as under our Code, the legitime is defined as [[#red]]==that part of the testator’s property which he cannot dispose of because the law has reserved it for certain heirs who are, therefore, called compulsory heirs.==
