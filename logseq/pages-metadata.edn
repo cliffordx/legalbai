@@ -1,9 +1,81 @@
-[{:block/name "01e336a3-3b6c-4906-8494-c64e62935490",
+[{:block/name "#article 305|305",
+  :block/created-at 1666857310412,
+  :block/updated-at 1666857310412}
+ {:block/name "#blue",
+  :block/created-at 1666857317851,
+  :block/updated-at 1666857317851}
+ {:block/name "#green",
+  :block/created-at 1666857310277,
+  :block/updated-at 1666857310277}
+ {:block/name "#red",
+  :block/created-at 1666857310278,
+  :block/updated-at 1666857310278}
+ {:block/name "$blue",
+  :block/created-at 1666857317873,
+  :block/updated-at 1666857317873}
+ {:block/name "$green",
+  :block/created-at 1666857310277,
+  :block/updated-at 1666857310277}
+ {:block/name "$red",
+  :block/created-at 1666857317862,
+  :block/updated-at 1666857317862}
+ {:block/name "01e336a3-3b6c-4906-8494-c64e62935490",
   :block/created-at 1666720759360,
   :block/updated-at 1666720759360}
+ {:block/name
+  "04 - title iv - property relations between husband and wife#chapter 3 - system of absolute community|system of absolute community",
+  :block/created-at 1666857312451,
+  :block/updated-at 1666857312451}
+ {:block/name
+  "06 - title vi* - property relations between husband and wife#article 176|article 176",
+  :block/created-at 1666857311916,
+  :block/updated-at 1666857311916}
+ {:block/name
+  "06 - title vi* - property relations between husband and wife#article 195|article 195",
+  :block/created-at 1666857311918,
+  :block/updated-at 1666857311918}
+ {:block/name
+  "06 - title vi* - property relations between husband and wife#article 196|196",
+  :block/created-at 1666857312012,
+  :block/updated-at 1666857312012}
+ {:block/name
+  "06 - title vi* - property relations between husband and wife#article 197|197",
+  :block/created-at 1666857312011,
+  :block/updated-at 1666857312011}
+ {:block/name "07 - title vii* - the family#article 219|article 291",
+  :block/created-at 1666857328113,
+  :block/updated-at 1666857328113}
+ {:block/name "08 - title viii - support#article 194",
+  :block/created-at 1666857313372,
+  :block/updated-at 1666857313372}
+ {:block/name "08 - title viii - support#article 195",
+  :block/created-at 1666857313373,
+  :block/updated-at 1666857313373}
+ {:block/name "08 - title viii - support#article 205",
+  :block/created-at 1666857313377,
+  :block/updated-at 1666857313377}
+ {:block/name
+  "08 - title viii* - paternity and filiation#article 287|article 287",
+  :block/created-at 1666857310872,
+  :block/updated-at 1666857310872}
+ {:block/name "09 - title ix - parental authority",
+  :block/created-at 1666857310570,
+  :block/updated-at 1666857310570}
+ {:block/name "09 - title ix* - support#article 291|article 291",
+  :block/created-at 1666857333659,
+  :block/updated-at 1666857333659}
+ {:block/name "09 - title ix* - support#article 294|294",
+  :block/created-at 1666857310412,
+  :block/updated-at 1666857310412}
+ {:block/name "10 - title x - funerals#article 309|article 309",
+  :block/created-at 1666857328120,
+  :block/updated-at 1666857328120}
  {:block/name "26 oct 2022",
   :block/created-at 1666760141922,
   :block/updated-at 1666778259352}
+ {:block/name "36",
+  :block/created-at 1666857313625,
+  :block/updated-at 1666857313625}
  {:block/name "48c9e1f4-30b4-4071-94e4-135495115ea9",
   :block/created-at 1666720759133,
   :block/updated-at 1666720759133}
@@ -13,6 +85,9 @@
  {:block/name "62bbdbb4-3283-44bc-8899-bd7136d26451",
   :block/created-at 1666720759375,
   :block/updated-at 1666720759375}
+ {:block/name "62c2d9e7-6962-4f17-937b-6ffdda9e3328",
+  :block/created-at 1666857317901,
+  :block/updated-at 1666857317901}
  {:block/name "62c2d9f0-cdcc-43a5-8d5f-893e09c2fa4a",
   :block/created-at 1666720761012,
   :block/updated-at 1666720761012}
@@ -31,15 +106,84 @@
  {:block/name "62c7b7e1-641f-4a2e-8c7f-14c5674804a0",
   :block/created-at 1666720760886,
   :block/updated-at 1666720760886}
+ {:block/name "6302186c-f944-4725-948c-f200726045e3",
+  :block/created-at 1666857326671,
+  :block/updated-at 1666857326671}
+ {:block/name "630b2487-1b5d-4c70-8301-d564010a87f8",
+  :block/created-at 1666857317826,
+  :block/updated-at 1666857317826}
+ {:block/name "630f4e85-3674-4960-bfd6-dfd332a67c40",
+  :block/created-at 1666857311629,
+  :block/updated-at 1666857311629}
+ {:block/name "630f5189-ad67-4809-8fa0-ce9ad6a7a938",
+  :block/created-at 1666857311022,
+  :block/updated-at 1666857311022}
+ {:block/name "63105c5a-833f-4451-8c20-204f223ff5b4",
+  :block/created-at 1666857313608,
+  :block/updated-at 1666857313608}
+ {:block/name "631b1e7a-1602-44e7-bcd8-54eb0b19bb78",
+  :block/created-at 1666857323332,
+  :block/updated-at 1666857323332}
+ {:block/name "631b232b-16f6-484f-b4c7-f366bcc52cc5",
+  :block/created-at 1666857329297,
+  :block/updated-at 1666857329297}
+ {:block/name "631d71ee-4f3f-4017-8387-e39c63cfdec4",
+  :block/created-at 1666857317900,
+  :block/updated-at 1666857317900}
+ {:block/name "631d722e-3144-4a63-8453-27515e3c815d",
+  :block/created-at 1666857317849,
+  :block/updated-at 1666857317849}
+ {:block/name "632349be-07cb-4ddd-a06c-7e83af1d5f71",
+  :block/created-at 1666857324775,
+  :block/updated-at 1666857324775}
+ {:block/name "6326e2d2-ec57-47d7-93ab-d6ef19401011",
+  :block/created-at 1666857317902,
+  :block/updated-at 1666857317902}
+ {:block/name "632c0335-c60d-4c8c-933e-88eef4360562",
+  :block/created-at 1666857317880,
+  :block/updated-at 1666857317880}
+ {:block/name "63439bd6-57e9-40dc-a0d8-4d0b989d09e8",
+  :block/created-at 1666857317897,
+  :block/updated-at 1666857317897}
+ {:block/name "63491991-018e-4b9d-ad43-bc30c6dd29b9",
+  :block/created-at 1666857323375,
+  :block/updated-at 1666857323375}
  {:block/name "a",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "absence",
+  :block/created-at 1666857310269,
+  :block/updated-at 1666857310269}
+ {:block/name "absolute sale",
+  :block/created-at 1666857331235,
+  :block/updated-at 1666857331235}
+ {:block/name "accretion",
+  :block/created-at 1666857317959,
+  :block/updated-at 1666857317959}
+ {:block/name "action for rescission",
+  :block/created-at 1666857329334,
+  :block/updated-at 1666857329334}
+ {:block/name "actions available to recover possession or ownership",
+  :block/created-at 1666857313939,
+  :block/updated-at 1666857313939}
+ {:block/name "active subject",
+  :block/created-at 1666857317991,
+  :block/updated-at 1666857317991}
+ {:block/name "acts of administration",
+  :block/created-at 1666857323341,
+  :block/updated-at 1666857323341}
  {:block/name "adelante",
   :block/created-at 1666760620671,
   :block/updated-at 1666760620671}
+ {:block/name "admon-info",
+  :block/created-at 1666857317903,
+  :block/updated-at 1666857317903}
  {:block/name "alt-title",
   :block/created-at 1666720761574,
   :block/updated-at 1666720761574}
+ {:block/name "article 7 civil code",
+  :block/created-at 1666857309976,
+  :block/updated-at 1666857309976}
  {:block/name "as-amended",
   :block/created-at 1666720758809,
   :block/updated-at 1666720758809}
@@ -49,6 +193,9 @@
  {:block/name "b",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "bad faith",
+  :block/created-at 1666857313960,
+  :block/updated-at 1666857313960}
  {:block/name "bar",
   :block/created-at 1666720760218,
   :block/updated-at 1666720760218}
@@ -64,6 +211,9 @@
  {:block/name "book:",
   :block/created-at 1666720760375,
   :block/updated-at 1666720760375}
+ {:block/name "buildings",
+  :block/created-at 1666857313614,
+  :block/updated-at 1666857313614}
  {:block/name "c",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -73,6 +223,9 @@
  {:block/name "cancelled",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "capacity to act",
+  :block/created-at 1666857310274,
+  :block/updated-at 1666857310274}
  {:block/name "card",
   :block/created-at 1659873766464,
   :block/updated-at 1666771820418}
@@ -85,54 +238,454 @@
  {:block/name "civil code/book 1",
   :block/created-at 1666853378118,
   :block/updated-at 1666853378118}
+ {:block/name "civil code/book 1/prelim_title",
+  :block/created-at 1666857310005,
+  :block/updated-at 1666857310005}
  {:block/name "civil code/book 1/title_1",
   :block/created-at 1666853378113,
   :block/updated-at 1666853378113}
+ {:block/name "civil code/book 1/title_10",
+  :block/created-at 1666857310419,
+  :block/updated-at 1666857310419}
+ {:block/name "civil code/book 1/title_11",
+  :block/created-at 1666857310600,
+  :block/updated-at 1666857310600}
+ {:block/name "civil code/book 1/title_12",
+  :block/created-at 1666857310799,
+  :block/updated-at 1666857310799}
+ {:block/name "civil code/book 1/title_13",
+  :block/created-at 1666857310881,
+  :block/updated-at 1666857310881}
+ {:block/name "civil code/book 1/title_14",
+  :block/created-at 1666857311044,
+  :block/updated-at 1666857311044}
+ {:block/name "civil code/book 1/title_15",
+  :block/created-at 1666857311196,
+  :block/updated-at 1666857311196}
+ {:block/name "civil code/book 1/title_16",
+  :block/created-at 1666857311265,
+  :block/updated-at 1666857311265}
  {:block/name "civil code/book 1/title_2",
   :block/created-at 1666853378117,
   :block/updated-at 1666853378117}
+ {:block/name "civil code/book 1/title_3",
+  :block/created-at 1666857311657,
+  :block/updated-at 1666857311657}
+ {:block/name "civil code/book 1/title_4",
+  :block/created-at 1666857311923,
+  :block/updated-at 1666857311923}
+ {:block/name "civil code/book 1/title_5",
+  :block/created-at 1666857312021,
+  :block/updated-at 1666857312021}
+ {:block/name "civil code/book 1/title_6",
+  :block/created-at 1666857312487,
+  :block/updated-at 1666857312487}
+ {:block/name "civil code/book 1/title_7",
+  :block/created-at 1666857312935,
+  :block/updated-at 1666857312935}
+ {:block/name "civil code/book 1/title_8",
+  :block/created-at 1666857313151,
+  :block/updated-at 1666857313151}
+ {:block/name "civil code/book 1/title_9",
+  :block/created-at 1666857313388,
+  :block/updated-at 1666857313388}
+ {:block/name "civil code/book 2",
+  :block/created-at 1666857313522,
+  :block/updated-at 1666857313522}
+ {:block/name "civil code/book 2/title_1",
+  :block/created-at 1666857313505,
+  :block/updated-at 1666857313505}
+ {:block/name "civil code/book 2/title_2",
+  :block/created-at 1666857313513,
+  :block/updated-at 1666857313513}
+ {:block/name "civil code/book 2/title_3",
+  :block/created-at 1666857313513,
+  :block/updated-at 1666857313513}
+ {:block/name "civil code/book 2/title_4",
+  :block/created-at 1666857313510,
+  :block/updated-at 1666857313510}
+ {:block/name "civil code/book 2/title_5",
+  :block/created-at 1666857313512,
+  :block/updated-at 1666857313512}
+ {:block/name "civil code/book 2/title_6",
+  :block/created-at 1666857313515,
+  :block/updated-at 1666857313515}
+ {:block/name "civil code/book 2/title_7",
+  :block/created-at 1666857313517,
+  :block/updated-at 1666857313517}
+ {:block/name "civil code/book 2/title_8",
+  :block/created-at 1666857313519,
+  :block/updated-at 1666857313519}
+ {:block/name "civil code/book 2/title_9",
+  :block/created-at 1666857313521,
+  :block/updated-at 1666857313521}
+ {:block/name "civil code/book 3",
+  :block/created-at 1666857316027,
+  :block/updated-at 1666857316027}
+ {:block/name "civil code/book 3/title_1",
+  :block/created-at 1666857316017,
+  :block/updated-at 1666857316017}
+ {:block/name "civil code/book 3/title_2",
+  :block/created-at 1666857316182,
+  :block/updated-at 1666857316182}
+ {:block/name "civil code/book 3/title_3",
+  :block/created-at 1666857316020,
+  :block/updated-at 1666857316020}
+ {:block/name "civil code/book 3/title_4",
+  :block/created-at 1666857316022,
+  :block/updated-at 1666857316022}
+ {:block/name "civil code/book 3/title_5",
+  :block/created-at 1666857316026,
+  :block/updated-at 1666857316026}
+ {:block/name "civil code/book 4",
+  :block/created-at 1666857317994,
+  :block/updated-at 1666857317994}
+ {:block/name "civil code/book 4/title_1",
+  :block/created-at 1666857321525,
+  :block/updated-at 1666857321525}
+ {:block/name "civil code/book 4/title_10",
+  :block/created-at 1666857321545,
+  :block/updated-at 1666857321545}
+ {:block/name "civil code/book 4/title_11",
+  :block/created-at 1666857321547,
+  :block/updated-at 1666857321547}
+ {:block/name "civil code/book 4/title_12",
+  :block/created-at 1666857321547,
+  :block/updated-at 1666857321547}
+ {:block/name "civil code/book 4/title_13",
+  :block/created-at 1666857321533,
+  :block/updated-at 1666857321533}
+ {:block/name "civil code/book 4/title_14",
+  :block/created-at 1666857325783,
+  :block/updated-at 1666857325783}
+ {:block/name "civil code/book 4/title_15",
+  :block/created-at 1666857321548,
+  :block/updated-at 1666857321548}
+ {:block/name "civil code/book 4/title_16",
+  :block/created-at 1666857321550,
+  :block/updated-at 1666857321550}
+ {:block/name "civil code/book 4/title_17",
+  :block/created-at 1666857321531,
+  :block/updated-at 1666857321531}
+ {:block/name "civil code/book 4/title_18",
+  :block/created-at 1666857321554,
+  :block/updated-at 1666857321554}
+ {:block/name "civil code/book 4/title_19",
+  :block/created-at 1666857317993,
+  :block/updated-at 1666857317993}
+ {:block/name "civil code/book 4/title_2",
+  :block/created-at 1666857321524,
+  :block/updated-at 1666857321524}
+ {:block/name "civil code/book 4/title_3",
+  :block/created-at 1666857321529,
+  :block/updated-at 1666857321529}
+ {:block/name "civil code/book 4/title_4",
+  :block/created-at 1666857321535,
+  :block/updated-at 1666857321535}
+ {:block/name "civil code/book 4/title_5",
+  :block/created-at 1666857321541,
+  :block/updated-at 1666857321541}
+ {:block/name "civil code/book 4/title_6",
+  :block/created-at 1666857321539,
+  :block/updated-at 1666857321539}
+ {:block/name "civil code/book 4/title_7",
+  :block/created-at 1666857321537,
+  :block/updated-at 1666857321537}
+ {:block/name "civil code/book 4/title_8",
+  :block/created-at 1666857321538,
+  :block/updated-at 1666857321538}
+ {:block/name "civil code/book 4/title_9",
+  :block/created-at 1666857321544,
+  :block/updated-at 1666857321544}
+ {:block/name "civil code/book_1",
+  :block/created-at 1666857334566,
+  :block/updated-at 1666857334566}
+ {:block/name "civil code/book_1/title_1",
+  :block/created-at 1666857334564,
+  :block/updated-at 1666857334564}
+ {:block/name "civil interdiction",
+  :block/created-at 1666857310268,
+  :block/updated-at 1666857310268}
+ {:block/name "classification of lands",
+  :block/created-at 1666857313616,
+  :block/updated-at 1666857313616}
  {:block/name "clifford enoc",
   :block/created-at 1666760758005,
   :block/updated-at 1666767014290}
+ {:block/name "cloud on title",
+  :block/created-at 1666857313964,
+  :block/updated-at 1666857313964}
  {:block/name "codal",
   :block/created-at 1666720761579,
   :block/updated-at 1666720761579}
+ {:block/name "codal/absence",
+  :block/created-at 1666857311038,
+  :block/updated-at 1666857311038}
+ {:block/name "codal/agency",
+  :block/created-at 1666857323379,
+  :block/updated-at 1666857323379}
+ {:block/name "codal/antichresis",
+  :block/created-at 1666857326697,
+  :block/updated-at 1666857326697}
+ {:block/name "codal/arbitration",
+  :block/created-at 1666857325778,
+  :block/updated-at 1666857325778}
+ {:block/name "codal/barter",
+  :block/created-at 1666857331969,
+  :block/updated-at 1666857331969}
+ {:block/name "codal/children_care_edu",
+  :block/created-at 1666857310794,
+  :block/updated-at 1666857310794}
+ {:block/name "codal/citizenship",
+  :block/created-at 1666857311363,
+  :block/updated-at 1666857311363}
+ {:block/name "codal/civil",
+  :block/created-at 1666857321039,
+  :block/updated-at 1666857321039}
+ {:block/name "codal/civil_register",
+  :block/created-at 1666857311261,
+  :block/updated-at 1666857311261}
+ {:block/name "codal/comprises",
+  :block/created-at 1666857325777,
+  :block/updated-at 1666857325777}
+ {:block/name "codal/contracts",
+  :block/created-at 1666857325324,
+  :block/updated-at 1666857325324}
+ {:block/name "codal/credits",
+  :block/created-at 1666857328820,
+  :block/updated-at 1666857328820}
+ {:block/name "codal/damages",
+  :block/created-at 1666857328138,
+  :block/updated-at 1666857328138}
+ {:block/name "codal/deposit",
+  :block/created-at 1666857324797,
+  :block/updated-at 1666857324797}
+ {:block/name "codal/domicile",
+  :block/created-at 1666857311363,
+  :block/updated-at 1666857311363}
+ {:block/name "codal/donation",
+  :block/created-at 1666857316343,
+  :block/updated-at 1666857316343}
+ {:block/name "codal/estoppel",
+  :block/created-at 1666857330197,
+  :block/updated-at 1666857330197}
+ {:block/name "codal/exchange",
+  :block/created-at 1666857331970,
+  :block/updated-at 1666857331970}
  {:block/name "codal/family code of the philippines",
   :block/created-at 1666853378119,
   :block/updated-at 1666853378119}
+ {:block/name "codal/family code of the philippines/title 1",
+  :block/created-at 1666857311627,
+  :block/updated-at 1666857311627}
+ {:block/name "codal/family code of the philippines/title 10",
+  :block/created-at 1666857311183,
+  :block/updated-at 1666857311183}
+ {:block/name "codal/family code of the philippines/title 2",
+  :block/created-at 1666857311908,
+  :block/updated-at 1666857311908}
+ {:block/name "codal/family code of the philippines/title 3",
+  :block/created-at 1666857312004,
+  :block/updated-at 1666857312004}
+ {:block/name "codal/family code of the philippines/title 4",
+  :block/created-at 1666857312433,
+  :block/updated-at 1666857312433}
+ {:block/name "codal/family code of the philippines/title 5",
+  :block/created-at 1666857312912,
+  :block/updated-at 1666857312912}
+ {:block/name "codal/family code of the philippines/title 6",
+  :block/created-at 1666857313129,
+  :block/updated-at 1666857313129}
+ {:block/name "codal/family code of the philippines/title 8",
+  :block/created-at 1666857313365,
+  :block/updated-at 1666857313365}
+ {:block/name "codal/funeral",
+  :block/created-at 1666857310414,
+  :block/updated-at 1666857310414}
+ {:block/name "codal/guaranty",
+  :block/created-at 1666857325989,
+  :block/updated-at 1666857325989}
+ {:block/name "codal/ipl",
+  :block/created-at 1666857316177,
+  :block/updated-at 1666857316177}
+ {:block/name "codal/lease",
+  :block/created-at 1666857332444,
+  :block/updated-at 1666857332444}
+ {:block/name "codal/loan",
+  :block/created-at 1666857324191,
+  :block/updated-at 1666857324191}
+ {:block/name "codal/mortgage",
+  :block/created-at 1666857326696,
+  :block/updated-at 1666857326696}
+ {:block/name "codal/obligations",
+  :block/created-at 1666857322124,
+  :block/updated-at 1666857322124}
+ {:block/name "codal/obligations/natural",
+  :block/created-at 1666857330132,
+  :block/updated-at 1666857330132}
+ {:block/name "codal/occupation",
+  :block/created-at 1666857316081,
+  :block/updated-at 1666857316081}
+ {:block/name "codal/parental",
+  :block/created-at 1666857310593,
+  :block/updated-at 1666857310593}
+ {:block/name "codal/partnership",
+  :block/created-at 1666857333701,
+  :block/updated-at 1666857333701}
+ {:block/name "codal/personality",
+  :block/created-at 1666857310281,
+  :block/updated-at 1666857310281}
+ {:block/name "codal/pledge",
+  :block/created-at 1666857326695,
+  :block/updated-at 1666857326695}
+ {:block/name "codal/preliminary",
+  :block/created-at 1666857309999,
+  :block/updated-at 1666857309999}
+ {:block/name "codal/property",
+  :block/created-at 1666857313631,
+  :block/updated-at 1666857313631}
+ {:block/name "codal/property/classification",
+  :block/created-at 1666857313625,
+  :block/updated-at 1666857313625}
+ {:block/name "codal/property/co-ownership",
+  :block/created-at 1666857314264,
+  :block/updated-at 1666857314264}
+ {:block/name "codal/property/easement",
+  :block/created-at 1666857315509,
+  :block/updated-at 1666857315509}
+ {:block/name "codal/property/nuisance",
+  :block/created-at 1666857315827,
+  :block/updated-at 1666857315827}
+ {:block/name "codal/property/ownership",
+  :block/created-at 1666857313970,
+  :block/updated-at 1666857313970}
+ {:block/name "codal/property/possession",
+  :block/created-at 1666857314692,
+  :block/updated-at 1666857314692}
+ {:block/name "codal/property/registry",
+  :block/created-at 1666857315976,
+  :block/updated-at 1666857315976}
+ {:block/name "codal/property/special",
+  :block/created-at 1666857314453,
+  :block/updated-at 1666857314453}
+ {:block/name "codal/property/usufruct",
+  :block/created-at 1666857315039,
+  :block/updated-at 1666857315039}
+ {:block/name "codal/quasi-contract",
+  :block/created-at 1666857327438,
+  :block/updated-at 1666857327438}
+ {:block/name "codal/quasi-delict",
+  :block/created-at 1666857327438,
+  :block/updated-at 1666857327438}
  {:block/name "codal/roc",
   :block/created-at 1666720761580,
   :block/updated-at 1666720761580}
  {:block/name "codal/roc/civpro",
   :block/created-at 1666720761573,
   :block/updated-at 1666720761573}
+ {:block/name "codal/sales",
+  :block/created-at 1666857331300,
+  :block/updated-at 1666857331300}
+ {:block/name "codal/succession",
+  :block/created-at 1666857318030,
+  :block/updated-at 1666857318030}
+ {:block/name "codal/support",
+  :block/created-at 1666857313382,
+  :block/updated-at 1666857313382}
+ {:block/name "codal/surname",
+  :block/created-at 1666857310876,
+  :block/updated-at 1666857310876}
+ {:block/name "codal/trusts",
+  :block/created-at 1666857330631,
+  :block/updated-at 1666857330631}
+ {:block/name "comments",
+  :block/created-at 1666857311035,
+  :block/updated-at 1666857311035}
+ {:block/name "commodatum",
+  :block/created-at 1666857324179,
+  :block/updated-at 1666857324179}
+ {:block/name "conditional sale",
+  :block/created-at 1666857331234,
+  :block/updated-at 1666857331234}
+ {:block/name
+  "conditional testamentary dispositions and testamentary dispositions with a term",
+  :block/created-at 1666857317922,
+  :block/updated-at 1666857317922}
+ {:block/name "conjugal property vs. absolute community property",
+  :block/created-at 1666857312450,
+  :block/updated-at 1666857312450}
  {:block/name "contents",
   :block/created-at 1659873766464,
   :block/updated-at 1666765157285}
+ {:block/name "contingency",
+  :block/created-at 1666857331238,
+  :block/updated-at 1666857331238}
+ {:block/name "contract of loan",
+  :block/created-at 1666857324179,
+  :block/updated-at 1666857324179}
+ {:block/name "cruel and unusual punishment",
+  :block/created-at 1666857309994,
+  :block/updated-at 1666857309994}
+ {:block/name "deed of sale",
+  :block/created-at 1666857331287,
+  :block/updated-at 1666857331287}
  {:block/name "doing",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "donations",
+  :block/created-at 1666857330628,
+  :block/updated-at 1666857330628}
  {:block/name "done",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "due process clause",
+  :block/created-at 1666857309989,
+  :block/updated-at 1666857309989}
  {:block/name "e6e473d1-de40-47d8-a79d-da6de9578629",
   :block/created-at 1666720759366,
   :block/updated-at 1666720759366}
+ {:block/name "easements",
+  :block/created-at 1666857310266,
+  :block/updated-at 1666857310266}
+ {:block/name "equal protection",
+  :block/created-at 1666857309991,
+  :block/updated-at 1666857309991}
  {:block/name "fame",
   :block/created-at 1666720760214,
   :block/updated-at 1666720760214}
  {:block/name "favorites",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "fideicommissary substitution",
+  :block/created-at 1666857317917,
+  :block/updated-at 1666857317917}
  {:block/name "flashcards",
   :block/created-at 1666770188834,
   :block/updated-at 1666771844116}
+ {:block/name "forms of contract",
+  :block/created-at 1666857331241,
+  :block/updated-at 1666857331241}
+ {:block/name "forms of obligation",
+  :block/created-at 1666857329322,
+  :block/updated-at 1666857329322}
  {:block/name "forum shopping",
   :block/created-at 1666720760692,
   :block/updated-at 1666720760692}
  {:block/name "fresh period rule",
   :block/created-at 1666720760680,
   :block/updated-at 1666720760680}
+ {:block/name "friday, 14th october 2022",
+  :block/created-at 1666857323374,
+  :block/updated-at 1666857323374}
+ {:block/name "friday, 5th august 2022",
+  :block/created-at 1666857322116,
+  :block/updated-at 1666857322116}
+ {:block/name "fruits",
+  :block/created-at 1666857313946,
+  :block/updated-at 1666857313946}
+ {:block/name "good faith",
+  :block/created-at 1666857314680,
+  :block/updated-at 1666857314680}
  {:block/name "grammar nazi",
   :block/created-at 1666777260397,
   :block/updated-at 1666777942143}
@@ -154,15 +707,36 @@
  {:block/name "index_cards",
   :block/created-at 1659873332628,
   :block/updated-at 1666767148433}
+ {:block/name "inheritance",
+  :block/created-at 1666857317990,
+  :block/updated-at 1666857317990}
+ {:block/name "insolvency and trusteeship",
+  :block/created-at 1666857310270,
+  :block/updated-at 1666857310270}
+ {:block/name "insolvency law",
+  :block/created-at 1666857323369,
+  :block/updated-at 1666857323369}
  {:block/name "interlocutory order",
   :block/created-at 1666720760522,
   :block/updated-at 1666720760522}
+ {:block/name "introduction to obligations",
+  :block/created-at 1666857322059,
+  :block/updated-at 1666857322059}
  {:block/name "item-type",
   :block/created-at 1666770188836,
   :block/updated-at 1666770188836}
  {:block/name "journal",
   :block/created-at 1659873332498,
   :block/updated-at 1659873332498}
+ {:block/name "juridical capacity",
+  :block/created-at 1666857310265,
+  :block/updated-at 1666857310265}
+ {:block/name "juridical necessity",
+  :block/created-at 1666857322057,
+  :block/updated-at 1666857322057}
+ {:block/name "just compensation",
+  :block/created-at 1666857309990,
+  :block/updated-at 1666857309990}
  {:block/name "later",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -172,12 +746,33 @@
  {:block/name "leave of court",
   :block/created-at 1666720758678,
   :block/updated-at 1666720758678}
+ {:block/name "legitime",
+  :block/created-at 1666857317930,
+  :block/updated-at 1666857317930}
+ {:block/name "link-ref",
+  :block/created-at 1666857311042,
+  :block/updated-at 1666857311042}
  {:block/name "mandamus",
   :block/created-at 1666720761558,
   :block/updated-at 1666720761558}
  {:block/name "material data rule",
   :block/created-at 1666720760685,
   :block/updated-at 1666720760685}
+ {:block/name "minority",
+  :block/created-at 1666857310274,
+  :block/updated-at 1666857310274}
+ {:block/name "modes of acquiring ownership",
+  :block/created-at 1666857317832,
+  :block/updated-at 1666857317832}
+ {:block/name "multiplicity of suits",
+  :block/created-at 1666857322078,
+  :block/updated-at 1666857322078}
+ {:block/name "mutuum",
+  :block/created-at 1666857324178,
+  :block/updated-at 1666857324178}
+ {:block/name "natural person",
+  :block/created-at 1666857310264,
+  :block/updated-at 1666857310264}
  {:block/name "nde",
   :block/created-at 1666720760214,
   :block/updated-at 1666720760214}
@@ -295,15 +890,27 @@
  {:block/name "notes/codal/civpro/r45/3",
   :block/created-at 1666720761008,
   :block/updated-at 1666720761008}
+ {:block/name "novation",
+  :block/created-at 1666857322111,
+  :block/updated-at 1666857322111}
  {:block/name "now",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
  {:block/name "nts",
   :block/created-at 1659873332493,
   :block/updated-at 1659873332493}
+ {:block/name "object",
+  :block/created-at 1666857329348,
+  :block/updated-at 1666857329348}
  {:block/name "opinion",
   :block/created-at 1666720760885,
   :block/updated-at 1666720760885}
+ {:block/name "outside the commerce of men",
+  :block/created-at 1666857329348,
+  :block/updated-at 1666857329348}
+ {:block/name "ownership",
+  :block/created-at 1666857331234,
+  :block/updated-at 1666857331234}
  {:block/name "paksionate",
   :block/created-at 1666770722931,
   :block/updated-at 1666770722931}
@@ -316,15 +923,76 @@
  {:block/name "paksitive",
   :block/created-at 1666770722930,
   :block/updated-at 1666770722930}
+ {:block/name "paksitnotes",
+  :block/created-at 1666857317932,
+  :block/updated-at 1666857317932}
+ {:block/name "passive subject",
+  :block/created-at 1666857322091,
+  :block/updated-at 1666857322091}
+ {:block/name "patrimonial property",
+  :block/created-at 1666857313621,
+  :block/updated-at 1666857313621}
+ {:block/name "payment",
+  :block/created-at 1666857322087,
+  :block/updated-at 1666857322087}
+ {:block/name
+  "payment#how payment or performance is made|how payment or performance is made",
+  :block/created-at 1666857322089,
+  :block/updated-at 1666857322089}
+ {:block/name "perez v. tolete",
+  :block/created-at 1666857317881,
+  :block/updated-at 1666857317881}
+ {:block/name "personality",
+  :block/created-at 1666857310276,
+  :block/updated-at 1666857310276}
+ {:block/name "possession",
+  :block/created-at 1666857321025,
+  :block/updated-at 1666857321025}
+ {:block/name "prestation",
+  :block/created-at 1666857329319,
+  :block/updated-at 1666857329319}
+ {:block/name "preterition",
+  :block/created-at 1666857318007,
+  :block/updated-at 1666857318007}
+ {:block/name "probate",
+  :block/created-at 1666857317898,
+  :block/updated-at 1666857317898}
  {:block/name "q",
   :block/created-at 1666770188781,
   :block/updated-at 1666771830625}
+ {:block/name "qq22_23",
+  :block/created-at 1666857317831,
+  :block/updated-at 1666857317831}
  {:block/name "readme",
   :block/created-at 1659873332742,
   :block/updated-at 1659873332742}
+ {:block/name "regional trial court",
+  :block/created-at 1666857317982,
+  :block/updated-at 1666857317982}
+ {:block/name "renvoi",
+  :block/created-at 1666857309982,
+  :block/updated-at 1666857309982}
+ {:block/name "repealed",
+  :block/created-at 1666857310594,
+  :block/updated-at 1666857310594}
+ {:block/name "res judicata",
+  :block/created-at 1666857325773,
+  :block/updated-at 1666857325773}
  {:block/name "residual jurisdiction",
   :block/created-at 1666720760702,
   :block/updated-at 1666720760702}
+ {:block/name "revocation of wills and testamentary dispositions",
+  :block/created-at 1666857317891,
+  :block/updated-at 1666857317891}
+ {:block/name "right of accession",
+  :block/created-at 1666857313944,
+  :block/updated-at 1666857313944}
+ {:block/name "right of preemption",
+  :block/created-at 1666857331286,
+  :block/updated-at 1666857331286}
+ {:block/name "right of redemption",
+  :block/created-at 1666857331285,
+  :block/updated-at 1666857331285}
  {:block/name "roc",
   :block/created-at 1666720758822,
   :block/updated-at 1666720758822}
@@ -448,15 +1116,30 @@
  {:block/name "rule 65",
   :block/created-at 1666720760220,
   :block/updated-at 1666720760220}
+ {:block/name "searches and seizures",
+  :block/created-at 1666857309992,
+  :block/updated-at 1666857309992}
+ {:block/name "special power of attorney",
+  :block/created-at 1666857323348,
+  :block/updated-at 1666857323348}
  {:block/name "status",
   :block/created-at 1666720761578,
   :block/updated-at 1666720761578}
+ {:block/name "statute of frauds",
+  :block/created-at 1666857329343,
+  :block/updated-at 1666857329343}
  {:block/name "sunday, 7th august 2022",
   :block/created-at 1666753389242,
   :block/updated-at 1666753389242}
  {:block/name "supreme court",
   :block/created-at 1666720758987,
   :block/updated-at 1666720758987}
+ {:block/name "suretyship",
+  :block/created-at 1666857325973,
+  :block/updated-at 1666857325973}
+ {:block/name "sys-category",
+  :block/created-at 1666857313630,
+  :block/updated-at 1666857313630}
  {:block/name "tag",
   :block/created-at 1659873332498,
   :block/updated-at 1659873332498}
@@ -466,9 +1149,18 @@
  {:block/name "taxation 1 flashcards",
   :block/created-at 1666770177673,
   :block/updated-at 1666770367916}
+ {:block/name "things",
+  :block/created-at 1666857322117,
+  :block/updated-at 1666857322117}
+ {:block/name "third person",
+  :block/created-at 1666857329306,
+  :block/updated-at 1666857329306}
  {:block/name "this is a page test",
   :block/created-at 1666759567855,
   :block/updated-at 1666759567855}
+ {:block/name "thursday, 1st september 2022",
+  :block/created-at 1666857311036,
+  :block/updated-at 1666857311036}
  {:block/name "thursday, 23rd june 2022",
   :block/created-at 1666720760134,
   :block/updated-at 1666720760134}
@@ -478,6 +1170,9 @@
  {:block/name "thursday, 28th july 2022",
   :block/created-at 1666765521827,
   :block/updated-at 1666765549553}
+ {:block/name "thursday, 4th august 2022",
+  :block/created-at 1666857322115,
+  :block/updated-at 1666857322115}
  {:block/name "todo",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -514,6 +1209,380 @@
  {:block/name "⭐️",
   :block/created-at 1666720759390,
   :block/updated-at 1666720759390}
+ {:block/name "⭐️/agency",
+  :block/created-at 1666857323347,
+  :block/updated-at 1666857323347}
+ {:block/name "⭐️/agency/5",
+  :block/created-at 1666857323344,
+  :block/updated-at 1666857323344}
  {:block/name "⭐️/remedial",
-  :block/created-at 1666720759389, 
-  :block/updated-at 1666720759389}]
+  :block/created-at 1666720759389,
+  :block/updated-at 1666720759389}
+ {:block/name "🔴 chapter 1 - commodatum",
+  :block/created-at 1666857324181,
+  :block/updated-at 1666857324181}
+ {:block/name "🔴 chapter 1 - compromises",
+  :block/created-at 1666857325767,
+  :block/updated-at 1666857325767}
+ {:block/name
+  "🔴 chapter 1 - deposit in general and its different kinds",
+  :block/created-at 1666857324779,
+  :block/updated-at 1666857324779}
+ {:block/name "🔴 chapter 1 - easements in general",
+  :block/created-at 1666857315473,
+  :block/updated-at 1666857315473}
+ {:block/name "🔴 chapter 1 - effect and application of laws",
+  :block/created-at 1666857309969,
+  :block/updated-at 1666857309969}
+ {:block/name "🔴 chapter 1 - general provisions",
+  :block/created-at 1666857312439,
+  :block/updated-at 1666857312439}
+ {:block/name "🔴 chapter 1 - immovable property",
+  :block/created-at 1666857313613,
+  :block/updated-at 1666857313613}
+ {:block/name "🔴 chapter 1 - insurance",
+  :block/created-at 1666857325317,
+  :block/updated-at 1666857325317}
+ {:block/name "🔴 chapter 1 - nature and extent of guaranty",
+  :block/created-at 1666857325970,
+  :block/updated-at 1666857325970}
+ {:block/name "🔴 chapter 1 - nature and form of the contract",
+  :block/created-at 1666857331230,
+  :block/updated-at 1666857331230}
+ {:block/name "🔴 chapter 1 - nature of donations",
+  :block/created-at 1666857316321,
+  :block/updated-at 1666857316321}
+ {:block/name "🔴 chapter 1 - nature, form, and kinds of agency",
+  :block/created-at 1666857323336,
+  :block/updated-at 1666857323336}
+ {:block/name "🔴 chapter 1 - ownership in general",
+  :block/created-at 1666857313931,
+  :block/updated-at 1666857313931}
+ {:block/name "🔴 chapter 1 - possession and the kinds thereof",
+  :block/created-at 1666857314674,
+  :block/updated-at 1666857314674}
+ {:block/name "🔴 chapter 1 - provisional measures in case of absence",
+  :block/created-at 1666857311026,
+  :block/updated-at 1666857311026}
+ {:block/name
+  "🔴 chapter 1 - provisions common to pledge and mortgage",
+  :block/created-at 1666857326672,
+  :block/updated-at 1666857326672}
+ {:block/name "🔴 chapter 1 - quasi-contracts",
+  :block/created-at 1666857327413,
+  :block/updated-at 1666857327413}
+ {:block/name "🔴 chapter 1 - usufruct in general",
+  :block/created-at 1666857315014,
+  :block/updated-at 1666857315014}
+ {:block/name "🔴 chapter 1 - waters",
+  :block/created-at 1666857314439,
+  :block/updated-at 1666857314439}
+ {:block/name "🔴 chapter 2 - acquisition of possession",
+  :block/created-at 1666857314681,
+  :block/updated-at 1666857314681}
+ {:block/name "🔴 chapter 2 - actual or compensatory damages",
+  :block/created-at 1666857328108,
+  :block/updated-at 1666857328108}
+ {:block/name "🔴 chapter 2 - arbitrations",
+  :block/created-at 1666857325774,
+  :block/updated-at 1666857325774}
+ {:block/name "🔴 chapter 2 - classification of credits",
+  :block/created-at 1666857328801,
+  :block/updated-at 1666857328801}
+ {:block/name "🔴 chapter 2 - declaration of absence",
+  :block/created-at 1666857311028,
+  :block/updated-at 1666857311028}
+ {:block/name "🔴 chapter 2 - donations by reason of marriage",
+  :block/created-at 1666857312442,
+  :block/updated-at 1666857312442}
+ {:block/name "🔴 chapter 2 - effects of guaranty",
+  :block/created-at 1666857325978,
+  :block/updated-at 1666857325978}
+ {:block/name "🔴 chapter 2 - essential requisites of contracts",
+  :block/created-at 1666857329308,
+  :block/updated-at 1666857329308}
+ {:block/name "🔴 chapter 2 - express trusts",
+  :block/created-at 1666857330625,
+  :block/updated-at 1666857330625}
+ {:block/name "🔴 chapter 2 - gambling",
+  :block/created-at 1666857325319,
+  :block/updated-at 1666857325319}
+ {:block/name "🔴 chapter 2 - human relations",
+  :block/created-at 1666857309985,
+  :block/updated-at 1666857309985}
+ {:block/name "🔴 chapter 2 - lease of rural and urban lands",
+  :block/created-at 1666857332389,
+  :block/updated-at 1666857332389}
+ {:block/name "🔴 chapter 2 - legal easements",
+  :block/created-at 1666857315487,
+  :block/updated-at 1666857315487}
+ {:block/name "🔴 chapter 2 - minerals",
+  :block/created-at 1666857314450,
+  :block/updated-at 1666857314450}
+ {:block/name "🔴 chapter 2 - movable property",
+  :block/created-at 1666857313617,
+  :block/updated-at 1666857313617}
+ {:block/name "🔴 chapter 2 - nature and effect of obligations",
+  :block/created-at 1666857322061,
+  :block/updated-at 1666857322061}
+ {:block/name "🔴 chapter 2 - obligations of the agent",
+  :block/created-at 1666857323351,
+  :block/updated-at 1666857323351}
+ {:block/name "🔴 chapter 2 - obligations of the partners",
+  :block/created-at 1666857333648,
+  :block/updated-at 1666857333648}
+ {:block/name
+  "🔴 chapter 2 - persons who may give or receive a donation",
+  :block/created-at 1666857316326,
+  :block/updated-at 1666857316326}
+ {:block/name "🔴 chapter 2 - pledge",
+  :block/created-at 1666857326676,
+  :block/updated-at 1666857326676}
+ {:block/name
+  "🔴 chapter 2 - prescription of ownership and other real rights",
+  :block/created-at 1666857321024,
+  :block/updated-at 1666857321024}
+ {:block/name "🔴 chapter 2 - quasi-delicts",
+  :block/created-at 1666857327428,
+  :block/updated-at 1666857327428}
+ {:block/name "🔴 chapter 2 - right of accession",
+  :block/created-at 1666857313943,
+  :block/updated-at 1666857313943}
+ {:block/name "🔴 chapter 2 - rights of the usufructuary",
+  :block/created-at 1666857315020,
+  :block/updated-at 1666857315020}
+ {:block/name "🔴 chapter 2 - simple loan or mutuum",
+  :block/created-at 1666857324186,
+  :block/updated-at 1666857324186}
+ {:block/name "🔴 chapter 2 - testamentary succession",
+  :block/created-at 1666857317840,
+  :block/updated-at 1666857317840}
+ {:block/name "🔴 chapter 2 - voluntary deposit",
+  :block/created-at 1666857324781,
+  :block/updated-at 1666857324781}
+ {:block/name
+  "🔴 chapter 3 - administration of the property of the absentee",
+  :block/created-at 1666857311030,
+  :block/updated-at 1666857311030}
+ {:block/name "🔴 chapter 3 - different kinds of obligations",
+  :block/created-at 1666857322066,
+  :block/updated-at 1666857322066}
+ {:block/name "🔴 chapter 3 - dissolution and winding up",
+  :block/created-at 1666857333666,
+  :block/updated-at 1666857333666}
+ {:block/name
+  "🔴 chapter 3 - effect of donations and limitations thereon",
+  :block/created-at 1666857316333,
+  :block/updated-at 1666857316333}
+ {:block/name "🔴 chapter 3 - effects of possession",
+  :block/created-at 1666857314685,
+  :block/updated-at 1666857314685}
+ {:block/name "🔴 chapter 3 - extinguishment of guaranty",
+  :block/created-at 1666857325984,
+  :block/updated-at 1666857325984}
+ {:block/name "🔴 chapter 3 - form of contracts",
+  :block/created-at 1666857329321,
+  :block/updated-at 1666857329321}
+ {:block/name "🔴 chapter 3 - implied trusts",
+  :block/created-at 1666857330626,
+  :block/updated-at 1666857330626}
+ {:block/name "🔴 chapter 3 - legal or intestate succession",
+  :block/created-at 1666857317957,
+  :block/updated-at 1666857317957}
+ {:block/name "🔴 chapter 3 - life annuity",
+  :block/created-at 1666857325321,
+  :block/updated-at 1666857325321}
+ {:block/name "🔴 chapter 3 - mortgage",
+  :block/created-at 1666857326686,
+  :block/updated-at 1666857326686}
+ {:block/name "🔴 chapter 3 - necessary deposit",
+  :block/created-at 1666857324791,
+  :block/updated-at 1666857324791}
+ {:block/name "🔴 chapter 3 - obligations of the principal",
+  :block/created-at 1666857323358,
+  :block/updated-at 1666857323358}
+ {:block/name "🔴 chapter 3 - obligations of the usufructuary",
+  :block/created-at 1666857315027,
+  :block/updated-at 1666857315027}
+ {:block/name "🔴 chapter 3 - order of preference of credits",
+  :block/created-at 1666857328808,
+  :block/updated-at 1666857328808}
+ {:block/name "🔴 chapter 3 - other kinds of damages",
+  :block/created-at 1666857328117,
+  :block/updated-at 1666857328117}
+ {:block/name "🔴 chapter 3 - paraphernal property",
+  :block/created-at 1666857312447,
+  :block/updated-at 1666857312447}
+ {:block/name "🔴 chapter 3 - prescription of actions",
+  :block/created-at 1666857321030,
+  :block/updated-at 1666857321030}
+ {:block/name
+  "🔴 chapter 3 - property in relation to the person to whom it belongs",
+  :block/created-at 1666857313620,
+  :block/updated-at 1666857313620}
+ {:block/name "🔴 chapter 3 - quieting of title (n)",
+  :block/created-at 1666857313963,
+  :block/updated-at 1666857313963}
+ {:block/name "🔴 chapter 3 - trade-marks and trade-names",
+  :block/created-at 1666857314451,
+  :block/updated-at 1666857314451}
+ {:block/name "🔴 chapter 3 - voluntary easements",
+  :block/created-at 1666857315503,
+  :block/updated-at 1666857315503}
+ {:block/name "🔴 chapter 3 - work and labor",
+  :block/created-at 1666857332409,
+  :block/updated-at 1666857332409}
+ {:block/name "🔴 chapter 4 - antichresis",
+  :block/created-at 1666857326689,
+  :block/updated-at 1666857326689}
+ {:block/name "🔴 chapter 4 - conjugal partnership of gains",
+  :block/created-at 1666857312449,
+  :block/updated-at 1666857312449}
+ {:block/name "🔴 chapter 4 - extinguishment of obligations",
+  :block/created-at 1666857322086,
+  :block/updated-at 1666857322086}
+ {:block/name "🔴 chapter 4 - extinguishment of usufruct",
+  :block/created-at 1666857315033,
+  :block/updated-at 1666857315033}
+ {:block/name "🔴 chapter 4 - legal and judicial bonds",
+  :block/created-at 1666857325986,
+  :block/updated-at 1666857325986}
+ {:block/name "🔴 chapter 4 - limited partnership",
+  :block/created-at 1666857333679,
+  :block/updated-at 1666857333679}
+ {:block/name "🔴 chapter 4 - modes of extinguishment of agency",
+  :block/created-at 1666857323365,
+  :block/updated-at 1666857323365}
+ {:block/name "🔴 chapter 4 - obligations of the vendor",
+  :block/created-at 1666857331247,
+  :block/updated-at 1666857331247}
+ {:block/name "🔴 chapter 4 - presumption of death",
+  :block/created-at 1666857311031,
+  :block/updated-at 1666857311031}
+ {:block/name
+  "🔴 chapter 4 - provisions common to testate and intestate successions",
+  :block/created-at 1666857317975,
+  :block/updated-at 1666857317975}
+ {:block/name "🔴 chapter 4 - reformation of instruments",
+  :block/created-at 1666857329324,
+  :block/updated-at 1666857329324}
+ {:block/name "🔴 chapter 4 - revocation and reduction of donations",
+  :block/created-at 1666857316336,
+  :block/updated-at 1666857316336}
+ {:block/name
+  "🔴 chapter 4 - ruinous buildings and trees in danger of falling",
+  :block/created-at 1666857313966,
+  :block/updated-at 1666857313966}
+ {:block/name "🔴 chapter 4 - sequestration or judicial deposit",
+  :block/created-at 1666857324794,
+  :block/updated-at 1666857324794}
+ {:block/name "🔴 chapter 5 - chattel mortgage",
+  :block/created-at 1666857326692,
+  :block/updated-at 1666857326692}
+ {:block/name
+  "🔴 chapter 5 - effect of absence upon the contingent rights of the absentee",
+  :block/created-at 1666857311033,
+  :block/updated-at 1666857311033}
+ {:block/name "🔴 chapter 5 - interpretation of contracts",
+  :block/created-at 1666857329327,
+  :block/updated-at 1666857329327}
+ {:block/name
+  "🔴 chapter 5 - separation of property of the spouses and administration of property by the wife during the marriage",
+  :block/created-at 1666857312467,
+  :block/updated-at 1666857312467}
+ {:block/name "🔴 chapter 6 - rescissible contracts",
+  :block/created-at 1666857329330,
+  :block/updated-at 1666857329330}
+ {:block/name "🔴 chapter 6 - system of absolute community (n)",
+  :block/created-at 1666857312471,
+  :block/updated-at 1666857312471}
+ {:block/name "🔴 chapter 7 - extinguishment of sale",
+  :block/created-at 1666857331279,
+  :block/updated-at 1666857331279}
+ {:block/name
+  "🔴 chapter 7 - system of complete separation of property (n)",
+  :block/created-at 1666857312475,
+  :block/updated-at 1666857312475}
+ {:block/name "🔴 chapter 7 - voidable contracts",
+  :block/created-at 1666857329337,
+  :block/updated-at 1666857329337}
+ {:block/name
+  "🔴 chapter 8 - assignment of credits and othe incorporeal rights",
+  :block/created-at 1666857331288,
+  :block/updated-at 1666857331288}
+ {:block/name "🔴 chapter 8 - unenforceable contracts",
+  :block/created-at 1666857329341,
+  :block/updated-at 1666857329341}
+ {:block/name "🔴 chapter 9 - void or inexistent contracts",
+  :block/created-at 1666857329346,
+  :block/updated-at 1666857329346}
+ {:block/name "🔴 different modes of acquiring ownership",
+  :block/created-at 1666857316028,
+  :block/updated-at 1666857316028}
+ {:block/name "🔴 general provisions",
+  :block/created-at 1666857324177,
+  :block/updated-at 1666857324177}
+ {:block/name "🔴 preliminary provisions",
+  :block/created-at 1666857313612,
+  :block/updated-at 1666857313612}
+ {:block/name "🔴 provisions common to the three preceding chapters",
+  :block/created-at 1666857313623,
+  :block/updated-at 1666857313623}
+ {:block/name "🔴 repealing clause",
+  :block/created-at 1666857328816,
+  :block/updated-at 1666857328816}
+ {:block/name "🔴 transitory provisions",
+  :block/created-at 1666857328810,
+  :block/updated-at 1666857328810}
+ {:block/name "🗂 obs_persons_family",
+  :block/created-at 1666857312015,
+  :block/updated-at 1666857312015}
+ {:block/name "🗂 obs_persons_family/🗒 codal",
+  :block/created-at 1666857312016,
+  :block/updated-at 1666857312016}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 21|21",
+  :block/created-at 1666857328130,
+  :block/updated-at 1666857328130}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25",
+  :block/created-at 1666857312014,
+  :block/updated-at 1666857312014}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 26|26",
+  :block/created-at 1666857328128,
+  :block/updated-at 1666857328128}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 27|27",
+  :block/created-at 1666857328127,
+  :block/updated-at 1666857328127}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 28|28",
+  :block/created-at 1666857328126,
+  :block/updated-at 1666857328126}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 29|29",
+  :block/created-at 1666857328125,
+  :block/updated-at 1666857328125}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 30|30",
+  :block/created-at 1666857328124,
+  :block/updated-at 1666857328124}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 32|32",
+  :block/created-at 1666857328123,
+  :block/updated-at 1666857328123}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 34|34",
+  :block/created-at 1666857328122,
+  :block/updated-at 1666857328122}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 35|35",
+  :block/created-at 1666857312013,
+  :block/updated-at 1666857312013}
+ {:block/name "🗂 obs_property",
+  :block/created-at 1666857313941,
+  :block/updated-at 1666857313941}
+ {:block/name "🗂 obs_property/public utility vs public service",
+  :block/created-at 1666857313941, 
+  :block/updated-at 1666857313941}]
