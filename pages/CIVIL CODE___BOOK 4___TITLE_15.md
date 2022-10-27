@@ -62,7 +62,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- If the guarantor should be convicted in first instance of a crime involving dishonesty or should become insolvent, the creditor may demand another who has all the qualifications required in the preceding article.
 		- The case is excepted where the creditor has required and stipulated that a specified person should be the guarantor. (1829a)
-- [[🔴 CHAPTER 2 - EFFECTS OF GUARANTY]]
+- 🔴 CHAPTER 2 - EFFECTS OF GUARANTY]]
   heading:: true
   collapsed:: true
   id:: 631d71fa-810d-442e-9413-ec9e879ed9f7
@@ -148,7 +148,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 2075.**
 		  collapsed:: true
 			- A sub-guarantor, in case of the insolvency of the guarantor for whom he bound himself, is responsible to the co-guarantors in the same terms as the guarantor. (1846)
-- [[🔴 CHAPTER 3 - EXTINGUISHMENT OF GUARANTY]]
+- 🔴 CHAPTER 3 - EXTINGUISHMENT OF GUARANTY]]
   heading:: true
   id:: 631d71fa-8cb4-4853-8a9e-b5873665b0c3
 	- **ARTICLE 2076.**
@@ -171,7 +171,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2081.**
 	  collapsed:: true
 		- The guarantor may set up against the creditor all the defenses which pertain to the principal debtor and are inherent in the debt; but not those that are purely personal to the debtor. (1853)
-- [[🔴 CHAPTER 4 - LEGAL AND JUDICIAL BONDS
+- 🔴 CHAPTER 4 - LEGAL AND JUDICIAL BONDS
   heading:: true
 	- **ARTICLE 2082.**
 		- The bondsman who is to be offered in virtue of a provision of law or of a judicial order shall have the qualifications prescribed in special laws. (1854a)

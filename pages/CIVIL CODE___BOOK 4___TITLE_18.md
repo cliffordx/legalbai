@@ -28,7 +28,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2198.**
 	  collapsed:: true
 		- The principles of the general law on damages are hereby adopted insofar as they are not inconsistent with this Code.
-- # [[🔴 CHAPTER 2 - ACTUAL OR COMPENSATORY DAMAGES
+- # 🔴 CHAPTER 2 - ACTUAL OR COMPENSATORY DAMAGES
   collapsed:: true
 	- **ARTICLE 2199.**
 		- Except as provided by law or by stipulation, one is entitled to an adequate compensation only for such pecuniary loss suffered by him as he has duly proved.
@@ -93,7 +93,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (3) In cases where exemplary damages are to be awarded, that the defendant acted upon the advice of counsel;
 			- (4) That the loss would have resulted in any event;
 			- (5) That since the filing of the action, the defendant has done his best to lessen the plaintiff’s loss or injury.
-- # [[🔴 CHAPTER 3 - OTHER KINDS OF DAMAGES
+- # 🔴 CHAPTER 3 - OTHER KINDS OF DAMAGES
   collapsed:: true
 	- **ARTICLE 2216.**
 		- No proof of pecuniary loss is necessary in order that moral, nominal, temperate, liquidated or exemplary damages, may be adjudicated. The assessment of such damages, except liquidated ones, is left to the discretion of the court, according to the circumstances of each case.

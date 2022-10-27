@@ -119,7 +119,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The provisions of this article shall be understood to be without prejudice to the actions between the principal and agent. (1717)
 		- #### Commentaries:
 		- [Paras](((63275419-c2fb-4b90-9ae2-17fc6be63960)))
-- # [[🔴 CHAPTER 2 - OBLIGATIONS OF THE AGENT]]
+- # 🔴 CHAPTER 2 - OBLIGATIONS OF THE AGENT]]
 	- **ARTICLE 1884.**
 	  collapsed:: true
 		- The agent is bound by his acceptance to carry out the agency, and is liable for the damages which, through his non-performance, the principal may suffer.
@@ -207,7 +207,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1909.**
 	  collapsed:: true
 		- The agent is responsible not only for fraud, but also for negligence, which shall be judged with more or less rigor by the courts, according to whether the agency was or was not for a compensation. (1726)
-- # [[🔴 CHAPTER 3 - OBLIGATIONS OF THE PRINCIPAL]]
+- # 🔴 CHAPTER 3 - OBLIGATIONS OF THE PRINCIPAL]]
   id:: 6337096e-434c-4976-9eee-69a1b285fa8d
 	- **ARTICLE 1910.**
 	  id:: 6337096e-1240-433f-b90e-d409d8e1c6ca
@@ -261,7 +261,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (2) When the expenses were due to the fault of the agent;
 			- (3) When the agent incurred them with knowledge that an unfavorable result would ensue, if the principal was not aware thereof;
 			- (4) When it was stipulated that the expenses would be borne by the agent, or that the latter would be allowed only a certain sum. (n)
-- #  [[🔴 CHAPTER 4 - MODES OF EXTINGUISHMENT OF AGENCY]]
+- #  🔴 CHAPTER 4 - MODES OF EXTINGUISHMENT OF AGENCY]]
 	- **ARTICLE 1919.**
 		- Agency is extinguished:
 			- (1) By its revocation;

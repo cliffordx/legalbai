@@ -18,7 +18,7 @@ link-ref:: [Paras](((631d53e4-9da2-4390-949e-7f7ce5d69a17))) [Albano](((631d57ad
 	  id:: ae872a3d-55ec-4e0e-ac22-8c3a0cdec6e1
 		- In the appointment of a representative, the spouse present shall be preferred when there is no legal separation.
 		- If the absentee left no spouse, or if the spouse present is a minor, any competent person may be appointed by the court. (183a)
-- # [[🔴 CHAPTER 2 - Declaration of Absence]]
+- # 🔴 CHAPTER 2 - Declaration of Absence]]
 	- **ARTICLE 384.**
 		- Two years having elapsed without any news about the absentee or since the receipt of the last news, and five years in case the absentee has left a person in charge of the administration of his property, his absence may be declared. (184)
 	- **ARTICLE 385.**
@@ -29,7 +29,7 @@ link-ref:: [Paras](((631d53e4-9da2-4390-949e-7f7ce5d69a17))) [Albano](((631d57ad
 			- (4) Those who may have over the property of the absentee some right subordinated to the condition of his death. (185)
 	- **ARTICLE 386.**
 		- The judicial declaration of absence shall not take effect until six months after its publication in a newspaper of general circulation. (186a)
-- # [[🔴 CHAPTER 3 - Administration of the Property of the Absentee]]
+- # 🔴 CHAPTER 3 - Administration of the Property of the Absentee]]
 	- **ARTICLE 387.**
 		- An administrator of the absentee’s property shall be appointed in accordance with [article 383](((ae872a3d-55ec-4e0e-ac22-8c3a0cdec6e1))). (187a)
 	- **ARTICLE 388.**
@@ -40,7 +40,7 @@ link-ref:: [Paras](((631d53e4-9da2-4390-949e-7f7ce5d69a17))) [Albano](((631d57ad
 			- (2) When the death of the absentee is proved and his testate or intestate heirs appear;
 			- (3) When a third person appears, showing by a proper document that he has acquired the absentee’s property by purchase or other title.
 		- In these cases the administrator shall cease in the performance of his office, and the property shall be at the disposal of those who may have a right thereto. (190)
-- # [[🔴 CHAPTER 4 - Presumption of Death]]
+- # 🔴 CHAPTER 4 - Presumption of Death]]
   id:: 5dd34f60-88f2-407e-a339-bf6fba22e691
 	- **ARTICLE 390.**
 	  id:: 0b392473-97bf-4e68-ac7e-b048559a1cb1
@@ -56,7 +56,7 @@ link-ref:: [Paras](((631d53e4-9da2-4390-949e-7f7ce5d69a17))) [Albano](((631d57ad
 			- (3) A person who has been in danger of death under other circumstances and his existence has not been known for four years. (n)
 	- **ARTICLE 392.**
 		- If the absentee appears, or without appearing his existence is proved, he shall recover his property in the condition in which it may be found, and the price of any property that may have been alienated or the property acquired therewith; but he cannot claim either fruits or rents. (194)
-- # [[🔴 CHAPTER 5 - Effect of Absence Upon the Contingent Rights of the Absentee]]
+- # 🔴 CHAPTER 5 - Effect of Absence Upon the Contingent Rights of the Absentee]]
 	- **ARTICLE 393.**
 		- Whoever claims a right pertaining to a person whose existence is not recognized must prove that he was living at the time his existence was necessary in order to acquire said right. (195)
 	- **ARTICLE 394.**

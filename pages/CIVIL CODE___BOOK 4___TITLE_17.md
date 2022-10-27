@@ -142,7 +142,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 2175.**
 		  collapsed:: true
 			- Any person who is constrained to pay the taxes of another shall be entitled to reimbursement from the latter.
-- [[🔴 CHAPTER 2 - QUASI-DELICTS
+- 🔴 CHAPTER 2 - QUASI-DELICTS
   heading:: true
 	- **ARTICLE 2176.**
 	  id:: d635e13b-045f-4eaf-89fe-b4730f48cd71

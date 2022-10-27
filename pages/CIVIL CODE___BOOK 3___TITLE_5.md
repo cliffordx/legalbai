@@ -51,7 +51,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1116.**
 	  collapsed:: true
 		- Prescription already running before the effectivity of this Code shall be governed by laws previously in force; but if since the time this Code took effect the entire period herein required for prescription should elapse, the present Code shall be applicable, even though by the former laws a longer period might be required. (1939)
-- # [[🔴 CHAPTER 2 - Prescription of Ownership and Other Real Rights]]
+- # 🔴 CHAPTER 2 - Prescription of Ownership and Other Real Rights]]
   collapsed:: true
 	- **ARTICLE 1117.**
 	  collapsed:: true
@@ -135,7 +135,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (1) The present possessor may complete the period necessary for prescription by tacking his possession to that of his grantor or predecessor in interest;
 			- (2) It is presumed that the present possessor who was also the possessor at a previous time, has continued to be in possession during the intervening time, unless there is proof to the contrary;
 			- (3) The first day shall be excluded and the last day included. (1960a)
-- # [[🔴 CHAPTER 3 - Prescription of Actions]]
+- # 🔴 CHAPTER 3 - Prescription of Actions]]
 	- **ARTICLE 1139.**
 	  collapsed:: true
 		- Actions prescribe by the mere lapse of time fixed by law. (1961)

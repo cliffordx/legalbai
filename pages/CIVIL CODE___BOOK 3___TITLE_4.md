@@ -96,7 +96,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Devisees and legatees are persons to whom gifts of real and personal property are respectively given by virtue of a will. (n)
 		- #### Commentaries:
 		- [Paras](((63272c2b-eed7-4b69-ad58-2e6762ef885b))); [Bueno Mison](((632728ed-b043-4268-9520-d1558b628e34))); [Jurado](((63283f82-fb7a-4173-9c1c-4b13e237f301)))
-- [[🔴 CHAPTER 2 - Testamentary Succession]]
+- 🔴 CHAPTER 2 - Testamentary Succession]]
   heading:: true
   id:: 62e7ca76-4262-4aaa-88d3-5e1e32d199ca
 	- ## SECTION 1 - Wills
@@ -1204,7 +1204,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 959.**
 		  collapsed:: true
 			- A disposition made in general terms in favor of the testator’s relatives shall be understood to be in favor of those nearest in degree. (751)
-- [[🔴 CHAPTER 3 - Legal or Intestate Succession]]
+- 🔴 CHAPTER 3 - Legal or Intestate Succession]]
   heading:: true
   collapsed:: true
 	- ## SECTION 1 - General Provisions
@@ -1432,7 +1432,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1014.**
 			  collapsed:: true
 				- If a person legally entitled to the estate of the deceased appears and files a claim thereto with the court within five years from the date the property was delivered to the State, such person shall be entitled to the possession of the same, or if sold, the municipality or city shall be accountable to him for such part of the proceeds as may not have been lawfully spent. (n)
-- [[🔴 CHAPTER 4 - Provisions Common to Testate and Intestate Successions]]
+- 🔴 CHAPTER 4 - Provisions Common to Testate and Intestate Successions]]
   heading:: true
   collapsed:: true
 	- ## SECTION 1 - Right of Accretion

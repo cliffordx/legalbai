@@ -91,12 +91,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Those who by their fault may have caused the damage shall be liable for the expenses. (422)
 		- **ARTICLE 518.**
 			- All matters not expressly determined by the provisions of this Chapter shall be governed by the Special Law of Waters of August 3, 1866, and by the Irrigation Law. (425a)
-- [[🔴 CHAPTER 2 - Minerals]]
+- 🔴 CHAPTER 2 - Minerals]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 519.**
 		- Mining claims and rights and other matters concerning minerals and mineral lands are governed by special laws. (427a)
-- [[🔴 CHAPTER 3 - Trade-marks and Trade-names]]
+- 🔴 CHAPTER 3 - Trade-marks and Trade-names]]
   heading:: true
 	- **ARTICLE 520.**
 		- A trade-mark or trade-name duly registered in the proper government bureau or office is owned by and pertains to the person, corporation, or firm registering the same, subject to the provisions of special laws. (n)

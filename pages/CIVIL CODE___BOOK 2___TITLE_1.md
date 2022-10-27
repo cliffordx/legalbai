@@ -8,7 +8,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 sys-category:: [[36]]
 
 - {{embed ((63105c5a-833f-4451-8c20-204f223ff5b4))}}
-- [[🔴 PRELIMINARY PROVISIONS
+- 🔴 PRELIMINARY PROVISIONS
   heading:: true
   collapsed:: true
 	- **ARTICLE 414.**
@@ -36,7 +36,7 @@ sys-category:: [[36]]
 			- (9) Docks and structures which, though floating, are intended by their nature and object to remain at a fixed place on a river, lake, or coast;
 			- (10) Contracts for public works, and servitudes and other real rights over immovable property. (334a)
 		- *See:* [[Classification of Lands]]
-- [[🔴 CHAPTER 2 - Movable Property]]
+- 🔴 CHAPTER 2 - Movable Property]]
   heading:: true
   id:: 758c441f-559d-4aea-aef2-ab385cb42364
   collapsed:: true
@@ -55,7 +55,7 @@ sys-category:: [[36]]
 	- **ARTICLE 418.**
 	  collapsed:: true
 		- Movable property is either consumable or nonconsumable. To the first class belong those movables which cannot be used in a manner appropriate to their nature without their being consumed; to the second class belong all the others. (337)
-- [[🔴 CHAPTER 3 - Property in Relation to the Person to Whom It Belongs]]
+- 🔴 CHAPTER 3 - Property in Relation to the Person to Whom It Belongs]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 419.**
@@ -82,7 +82,7 @@ sys-category:: [[36]]
 	- **ARTICLE 425.**
 	  collapsed:: true
 		- Property of private ownership, besides the patrimonial property of the State, provinces, cities, and municipalities, consists of all property belonging to private persons, either individually or collectively. (345a)
-- [[🔴 Provisions Common to the Three Preceding Chapters]]
+- 🔴 Provisions Common to the Three Preceding Chapters]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 426.**

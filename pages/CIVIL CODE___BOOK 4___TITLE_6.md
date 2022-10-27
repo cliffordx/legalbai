@@ -139,7 +139,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1488.**
 	  collapsed:: true
 		- The expropriation of property for public use is governed by special laws. (1456)
-- # [[🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR]]
+- # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR]]
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
 	- ## SECTION 1 - General Provisions
 		- **ARTICLE 1495.**
@@ -577,7 +577,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1581.**
 			  collapsed:: true
 				- The form of sale of large cattle shall be governed by special laws. (n)
-- # [[🔴 CHAPTER 7 - EXTINGUISHMENT OF SALE]]
+- # 🔴 CHAPTER 7 - EXTINGUISHMENT OF SALE]]
   heading:: true
 	- **ARTICLE 1600.**
 	  collapsed:: true
@@ -682,7 +682,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The right of legal pre-emption or redemption shall not be exercised except within thirty days from the notice in writing by the prospective vendor, or by the vendor, as the case may be. The [[deed of sale]] shall not be recorded in the Registry of Property, unless accompanied by an affidavit of the vendor that he has given written notice thereof to all possible redemptioners.
 			- The right of redemption of co-owners excludes that of adjoining owners. (1524a)
-- # [[🔴 CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHE INCORPOREAL RIGHTS
+- # 🔴 CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHE INCORPOREAL RIGHTS
 	- **ARTICLE 1624.**
 	  id:: cf720ebf-c4f1-4bcd-aecd-a8e6cfee3454
 		- An assignment of credits and other incorporeal rights shall be perfected in accordance with the provisions of [article 1475](((63370973-f334-42c1-99f2-a8f5e50632f1))). (n)

@@ -58,7 +58,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2092.**
 	  collapsed:: true
 		- A promise to constitute a pledge or mortgage gives rise only to a personal action between the contracting parties, without prejudice to the criminal responsibility incurred by him who defrauds another, by offering in pledge or mortgage as unencumbered, things which he knew were subject to some burden, or by misrepresenting himself to be the owner of the same. (1862)
-- [[🔴 CHAPTER 2 - PLEDGE]]
+- 🔴 CHAPTER 2 - PLEDGE]]
   heading:: true
   collapsed:: true
   id:: 62b32e88-0268-45da-aafb-5e449c82d711
@@ -179,7 +179,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2123.**
 	  collapsed:: true
 		- With regard to pawnshops and other establishments, which are engaged in making loans secured by pledges, the special laws and regulations concerning them shall be observed, and subsidiarily, the provisions of this Title. (1873a)
-- [[🔴 CHAPTER 3 - MORTGAGE]]
+- 🔴 CHAPTER 3 - MORTGAGE]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 2124.**
@@ -221,7 +221,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2131.**
 	  collapsed:: true
 		- The form, extent and consequences of a mortgage, both as to its constitution, modification and extinguishment, and as to other matters not included in this Chapter, shall be governed by the provisions of the Mortgage Law and of the Land Registration Law. (1880a)
-- [[🔴 CHAPTER 4 - ANTICHRESIS
+- 🔴 CHAPTER 4 - ANTICHRESIS
   heading:: true
 	- **ARTICLE 2132.**
 	  id:: 62b32e88-4fe1-45d2-9586-9e6ae01943b4
@@ -254,7 +254,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2139.**
 	  collapsed:: true
 		- The last paragraph of article 2085, and articles 2089 to 2091 are applicable to this contract. (1886a)
-- [[🔴 CHAPTER 5 - CHATTEL MORTGAGE]]
+- 🔴 CHAPTER 5 - CHATTEL MORTGAGE]]
   heading:: true
   collapsed:: true
   id:: 62b32e88-bdc4-40a8-a2e9-5fc1bd0a5044

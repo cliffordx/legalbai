@@ -55,7 +55,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- No one may contract in the name of another without being authorized by the latter, or unless he has by law a right to represent him.
 		- A contract entered into in the name of another by one who has no authority or legal representation, or who has acted beyond his powers, shall be unenforceable, unless it is ratified, expressly or impliedly, by the person on whose behalf it has been executed, before it is revoked by the other contracting party. (1259a)
-- [[🔴 CHAPTER 2 - Essential Requisites of Contracts]]
+- 🔴 CHAPTER 2 - Essential Requisites of Contracts]]
   heading:: true
 	- ### General Provisions
 		- **ARTICLE 1318.**
@@ -204,7 +204,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1355.**
 		  collapsed:: true
 			- Except in cases specified by law, lesion or inadequacy of cause shall not invalidate a contract, unless there has been fraud, mistake or undue influence. (n)
-- [[🔴 CHAPTER 3 - Form of Contracts]]
+- 🔴 CHAPTER 3 - Form of Contracts]]
   heading:: true
 	- **ARTICLE 1356.**
 	  collapsed:: true
@@ -225,7 +225,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (3) The power to administer property, or any other power which has for its object an act appearing or which should appear in a public document, or should prejudice a third person;
 			- (4) The cession of actions or rights proceeding from an act appearing in a public document.
 		- All other contracts where the amount involved exceeds five hundred pesos must appear in writing, even a private one. But sales of goods, chattels or things in action are governed by articles  1403, No. 2, and 1405. (1280a)
-- [[🔴 CHAPTER 4 - Reformation of Instruments]]
+- 🔴 CHAPTER 4 - Reformation of Instruments]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 1359.**
@@ -266,7 +266,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1369.**
 	  collapsed:: true
 		- The procedure for the reformation of instrument shall be governed by rules of court to be promulgated by the Supreme Court.
-- [[🔴 CHAPTER 5 - Interpretation of Contracts]]
+- 🔴 CHAPTER 5 - Interpretation of Contracts]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 1370.**
@@ -302,7 +302,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1379.**
 	  collapsed:: true
 		- The principles of interpretation stated in Rule 123 of the Rules of Court shall likewise be observed in the construction of contracts. (n)
-- [[🔴 CHAPTER 6 - Rescissible Contracts]]
+- 🔴 CHAPTER 6 - Rescissible Contracts]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 1380.**
@@ -349,7 +349,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The action to claim rescission must be commenced within four years.
 		- For persons under guardianship and for absentees, the period of four years shall not begin until the termination of the former’s incapacity, or until the domicile of the latter is known. (1299)
-- [[🔴 CHAPTER 7 - Voidable Contracts]]
+- 🔴 CHAPTER 7 - Voidable Contracts]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 1390.**
@@ -403,7 +403,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1402.**
 	  collapsed:: true
 		- As long as one of the contracting parties does not restore what in virtue of the decree of annulment he is bound to return, the other cannot be compelled to comply with what is incumbent upon him. (1308)
-- [[🔴 CHAPTER 8 - Unenforceable Contracts]]
+- 🔴 CHAPTER 8 - Unenforceable Contracts]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 1403.**
@@ -439,7 +439,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1408.**
 	  collapsed:: true
 		- Unenforceable contracts cannot be assailed by third persons.
-- [[🔴 CHAPTER 9 - Void or Inexistent Contracts]]
+- 🔴 CHAPTER 9 - Void or Inexistent Contracts]]
   heading:: true
 	- **ARTICLE 1409.**
 	  id:: 63007579-a50a-4b60-bb19-32776b092e4e

@@ -17,7 +17,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1442.**
 	  id:: f53fb589-8947-40d2-9b85-804f43d2e035
 		- The principles of the general law of trusts, insofar as they are not in conflict with this Code, the Code of Commerce, the Rules of Court and special laws are hereby adopted.
-- # [[🔴 CHAPTER 2 - Express Trusts]]
+- # 🔴 CHAPTER 2 - Express Trusts]]
 	- **ARTICLE 1443.**
 		- No express trusts concerning an immovable or any interest therein may be proved by parol evidence.
 	- **ARTICLE 1444.**
@@ -27,7 +27,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1446.**
 		- Acceptance by the beneficiary is necessary.
 		- Nevertheless, if the trust imposes no onerous condition upon the beneficiary, his acceptance shall be presumed, if there is no proof to the contrary.
-- # [[🔴 CHAPTER 3 - Implied Trusts]]
+- # 🔴 CHAPTER 3 - Implied Trusts]]
 	- **ARTICLE 1447.**
 		- The enumeration of the following cases of implied trust does not exclude others established by the general law of trust, but the limitation laid down in [article 1442](((f53fb589-8947-40d2-9b85-804f43d2e035))) shall be applicable.
 	- **ARTICLE 1448.**

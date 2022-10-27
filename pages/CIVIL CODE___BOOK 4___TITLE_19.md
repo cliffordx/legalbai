@@ -24,7 +24,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2240.**
 	  collapsed:: true
 		- Property held by the insolvent debtor as a trustee of an express or implied trust, shall be excluded from the insolvency proceedings. (n)
-- [[🔴 CHAPTER 2 - CLASSIFICATION OF CREDITS
+- 🔴 CHAPTER 2 - CLASSIFICATION OF CREDITS
   heading:: true
 	- **ARTICLE 2241.**
 	  id:: 67216c80-c714-48ac-aada-3336b5dc228a
@@ -89,7 +89,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: f7ae8c48-7250-4f6b-ad1c-80f3ce24425a
 	  collapsed:: true
 		- Credits of any other kind or class, or by any other right or title not comprised in the four preceding articles, shall enjoy no preference. (1925)
-- [[🔴 CHAPTER 3 - ORDER OF PREFERENCE OF CREDITS
+- 🔴 CHAPTER 3 - ORDER OF PREFERENCE OF CREDITS
   heading:: true
   id:: 62cc59ef-1e45-4c0e-8e17-8c762285ab8b
 	- **ARTICLE 2246.**
@@ -112,7 +112,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Those credits which do not enjoy any preference with respect to specific property, and those which enjoy preference, as to the amount not paid, shall be satisfied according to the following rules:
 			- (1) In the order established in ((2f3db8c9-3031-43fd-bf5b-ade14f72421f));
 			- (2) Common credits referred to in ((f7ae8c48-7250-4f6b-ad1c-80f3ce24425a)) shall be paid *pro rata* regardless of dates. (1929a)
-- [[🔴 TRANSITORY PROVISIONS
+- 🔴 TRANSITORY PROVISIONS
   heading:: true
   collapsed:: true
 	- **ARTICLE 2252.**
@@ -182,7 +182,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2269.**
 	  collapsed:: true
 		- The principles upon which the preceding transitional provisions are based shall, by analogy, be applied to cases not specifically regulated by them. (Rule 13a)
-- [[🔴 REPEALING CLAUSE]]
+- 🔴 REPEALING CLAUSE]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 2270.**

@@ -71,7 +71,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- [Paras](((633af738-407d-4894-8ecf-2e48acd39c30)))
 	- **ARTICLE 18.**
 		- In matters which are governed by the Code of Commerce and special laws, their deficiency shall be supplied by the provisions of this Code. (16a)
-- # [[🔴 CHAPTER 2 - Human Relations]]
+- # 🔴 CHAPTER 2 - Human Relations]]
 	- **ARTICLE 19.**
 	  id:: cbe695a1-ab06-4f2f-88c8-7bf7fe04a686
 		- Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe honesty and good faith.

@@ -88,7 +88,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 633.**
 		  collapsed:: true
 			- If the dominant estate belongs to several persons in common, the use of the easement by any one of them prevents prescription with respect to the others. (548)
-- [[🔴 CHAPTER 2 - Legal Easements]]
+- 🔴 CHAPTER 2 - Legal Easements]]
   heading:: true
   collapsed:: true
 	- ### SECTION 1 - General Provisions
@@ -292,7 +292,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The legal easement of lateral and subjacent support is not only for buildings standing at the time the excavations are made but also for constructions that may be erected.
 		- **ARTICLE 687.**
 			- Any proprietor intending to make any excavation contemplated in the three preceding articles shall notify all owners of adjacent lands.
-- [[🔴 CHAPTER 3 - Voluntary Easements]]
+- 🔴 CHAPTER 3 - Voluntary Easements]]
   heading:: true
 	- **ARTICLE 688.**
 		- Every owner of a tenement or piece of land may establish thereon the easements which he may deem suitable, and in the manner and form which he may deem best, provided he does not contravene the laws, public policy or public order. (594)

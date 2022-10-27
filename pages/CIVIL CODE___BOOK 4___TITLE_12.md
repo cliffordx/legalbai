@@ -27,7 +27,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1967.**
 	  collapsed:: true
 		- An extrajudicial deposit is either voluntary or necessary. (1762)
-- [[🔴 CHAPTER 2 - VOLUNTARY DEPOSIT]]
+- 🔴 CHAPTER 2 - VOLUNTARY DEPOSIT]]
   heading:: true
 	- ## SECTION 1 - General Provisions
 		- **ARTICLE 1968.**
@@ -150,7 +150,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- A deposit is extinguished:
 				- (1) Upon the loss or destruction of the thing deposited;
 				- (2) In case of a gratuitous deposit, upon the death of either the depositor or the depositary. (n)
-- [[🔴 CHAPTER 3 - NECESSARY DEPOSIT]]
+- 🔴 CHAPTER 3 - NECESSARY DEPOSIT]]
   heading:: true
   id:: 62b5c743-8f47-4977-8838-73d245e74d49
   collapsed:: true
@@ -182,7 +182,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The hotel-keeper cannot free himself from responsibility by posting notices to the effect that he is not liable for the articles brought by the guest. Any stipulation between the hotel-keeper and the guest whereby the responsibility of the former as set forth in articles 1998 to 2001 is suppressed or diminished shall be void. (n)
 		- **ARTICLE 2004.**
 			- The hotel-keeper has a right to retain the things brought into the hotel by the guest, as a security for credits on account of lodging, and supplies usually furnished to hotel guests. (n)
-- [[🔴 CHAPTER 4 - SEQUESTRATION OR JUDICIAL DEPOSIT]]
+- 🔴 CHAPTER 4 - SEQUESTRATION OR JUDICIAL DEPOSIT]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 2005.**

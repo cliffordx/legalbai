@@ -53,7 +53,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Ignorance of a judgment which may be revoked or set aside is not a valid ground for attacking a compromise. (1819a)
 	- **ARTICLE 2041.**
 		- If one of the parties fails or refuses to abide by the compromise, the other party may either enforce the compromise or regard it as rescinded and insist upon his original demand. (n)
-- # [[🔴 CHAPTER 2 - ARBITRATIONS
+- # 🔴 CHAPTER 2 - ARBITRATIONS
 	- **ARTICLE 2042.**
 		- The same persons who may enter into a compromise may submit their controversies to one or more arbitrators for decision. (1820a)
 	- **ARTICLE 2043.**

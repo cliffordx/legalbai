@@ -33,7 +33,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- It is presumed that possession continues to be enjoyed in the same character in which it was acquired, until the contrary is proved. (436)
 	- **ARTICLE 530.**
 		- Only things and rights which are susceptible of being appropriated may be the object of possession. (437)
-- [[🔴 CHAPTER 2 - Acquisition of Possession]]
+- 🔴 CHAPTER 2 - Acquisition of Possession]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 531.**
@@ -58,7 +58,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 63104e90-0f90-4864-b8c6-2b3e965b373a
 		- Possession as a fact cannot be recognized at the same time in two different personalities except in the cases of co-possession.
 		- Should a question arise regarding the fact of possession, the present possessor shall be preferred; if there are two possessors, the one longer in possession; if the dates of the possession are the same, the one who presents a title; and if all these conditions are equal, the thing shall be placed in judicial deposit pending determination of its possession or ownership through proper proceedings. (445)
-- [[🔴 CHAPTER 3 - Effects of Possession]]
+- 🔴 CHAPTER 3 - Effects of Possession]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 539.**

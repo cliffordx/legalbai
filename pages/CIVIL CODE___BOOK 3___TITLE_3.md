@@ -32,7 +32,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 734.**
 	  id:: 63007574-2813-488d-a29d-63f0b8723388
 		- The donation is perfected from the moment the donor knows of the acceptance by the donee. (623)
-- # [[🔴 CHAPTER 2 - Persons Who May Give or Receive a Donation]]
+- # 🔴 CHAPTER 2 - Persons Who May Give or Receive a Donation]]
   collapsed:: true
 	- **ARTICLE 735.**
 		- All persons who may contract and dispose of their property may make a donation. (624)
@@ -77,7 +77,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In order that the donation of an immovable may be valid, it must be made in a public document, specifying therein the property donated and the value of the charges which the donee must satisfy.
 		- The acceptance may be made in the same deed of donation or in a separate public document, but it shall not take effect unless it is done during the lifetime of the donor.
 		- If the acceptance is made in a separate instrument, the donor shall be notified thereof in an authentic form, and this step shall be noted in both instruments. (633)
-- # [[🔴 CHAPTER 3 - Effect of Donations and Limitations Thereon]]
+- # 🔴 CHAPTER 3 - Effect of Donations and Limitations Thereon]]
   collapsed:: true
 	- **ARTICLE 750.**
 	  id:: 93e65218-9890-4c80-98a2-e292d534d4ed
@@ -112,7 +112,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 759.**
 		- There being no stipulation regarding the payment of debts, the donee shall be responsible therefor only when the donation has been made in fraud of creditors.
 		- The donation is always presumed to be in fraud of creditors, when at the time thereof the donor did not reserve sufficient property to pay his debts prior to the donation. (643)
-- # [[🔴 CHAPTER 4 - Revocation and Reduction of Donations]]
+- # 🔴 CHAPTER 4 - Revocation and Reduction of Donations]]
   collapsed:: true
 	- **ARTICLE 760.**
 	  id:: 1c70157b-4a2c-4d2c-9285-aa8642b5a182

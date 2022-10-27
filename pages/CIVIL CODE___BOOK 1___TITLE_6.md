@@ -43,7 +43,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- Everything stipulated in the settlements or contracts referred to in the preceding articles in consideration of a future marriage shall be rendered void and without effect whatever, if the marriage should not take place.
 		- However, those stipulations that do not depend upon the celebration of the marriage shall be valid. (1326a)
-- # [[🔴 CHAPTER 2 - Donations by Reason of Marriage]]
+- # 🔴 CHAPTER 2 - Donations by Reason of Marriage]]
   collapsed:: true
 	- **ARTICLE 126.**
 	  collapsed:: true
@@ -81,7 +81,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 134.**
 	  collapsed:: true
 		- Donations during the marriage by one of the spouses to the children whom the other spouse had by another marriage, or to persons of whom the other spouse is a presumptive heir at the time of the donation are voidable, at the instance of the donor’s heirs after his death. (1335a)
-- # [[🔴 CHAPTER 3 - Paraphernal Property]]
+- # 🔴 CHAPTER 3 - Paraphernal Property]]
   collapsed:: true
 	- **ARTICLE 135.**
 	  collapsed:: true
@@ -106,7 +106,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 141.**
 	  collapsed:: true
 		- toThe alienation of any paraphernal property administered by the husband gives a right to the wife to require the constitution of a mortgage or any other security for the amount of the price which the husband may have received. (1390a)
-- # [[🔴 CHAPTER 4 - Conjugal Partnership of Gains]]
+- # 🔴 CHAPTER 4 - Conjugal Partnership of Gains]]
   collapsed:: true
   id:: 631d71f1-3e7a-4587-a7a4-cd86e4aec5d6
 	- Compare: [[04 - TITLE IV - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE#Chapter 3 - System of Absolute Community|System of Absolute Community]][^3]
@@ -319,7 +319,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 189.**
 		  collapsed:: true
 			- Whenever the liquidation of the partnership of two or more marriages contracted by the same person should be carried out at the same time, in order to determine the capital of each partnership all kinds of proof in the absence of inventories shall be admitted; and in case of doubt, the partnership property shall be divided between the different partnerships in proportion to the duration of each and to the property belonging to the respective spouses. (1431)
-- # [[🔴 CHAPTER 5 - Separation of Property of the Spouses and Administration of Property by the Wife During the Marriage]]
+- # 🔴 CHAPTER 5 - Separation of Property of the Spouses and Administration of Property by the Wife During the Marriage]]
   collapsed:: true
 	- **ARTICLE 190.**
 	  collapsed:: true
@@ -368,7 +368,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 197.**
 	  collapsed:: true
 		- The wife to whom the administration of all the property of the marriage is transferred shall have, with respect to said property, the same powers and responsibility which the husband has when he is the administrator, but always subject to the provisions of the last paragraph of the preceding article. (1442a)
-- # [[🔴 CHAPTER 6 - System of Absolute Community (n)]]
+- # 🔴 CHAPTER 6 - System of Absolute Community (n)]]
   collapsed:: true
 	- **ARTICLE 198.**
 	  collapsed:: true
@@ -421,7 +421,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 211.**
 	  collapsed:: true
 		- Liquidation of the absolute community shall be governed by the Rules of Court on the administration of the estate of deceased persons.
-- # [[🔴 CHAPTER 7 - System of Complete Separation of Property (n)]]
+- # 🔴 CHAPTER 7 - System of Complete Separation of Property (n)]]
   collapsed:: true
 	- **ARTICLE 212.**
 	  collapsed:: true

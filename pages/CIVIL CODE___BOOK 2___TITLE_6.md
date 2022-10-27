@@ -23,7 +23,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 565.**
 	  collapsed:: true
 		- The rights and obligations of the usufructuary shall be those provided in the title constituting the usufruct; in default of such title, or in case it is deficient, the provisions contained in the two following Chapters shall be observed. (470)
-- [[🔴 CHAPTER 2 - Rights of the Usufructuary]]
+- 🔴 CHAPTER 2 - Rights of the Usufructuary]]
   heading:: true
 	- **ARTICLE 566.**
 	  collapsed:: true
@@ -90,7 +90,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The usufructuary of a part of a thing held in common shall exercise all the rights pertaining to the owner thereof with respect to the administration and the collection of fruits or interest.
 		- Should the co-ownership cease by reason of the division of the thing held in common, the usufruct of the part allotted to the co-owner shall belong to the usufructuary. (490)
-- [[🔴 CHAPTER 3 - Obligations of the Usufructuary]]
+- 🔴 CHAPTER 3 - Obligations of the Usufructuary]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 583.**
@@ -173,7 +173,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 602.**
 	  collapsed:: true
 		- The expenses, costs and liabilities in suits brought with regard to the usufruct shall be borne by the usufructuary. (512)
-- [[🔴 CHAPTER 4 - Extinguishment of Usufruct]]
+- 🔴 CHAPTER 4 - Extinguishment of Usufruct]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 603.**

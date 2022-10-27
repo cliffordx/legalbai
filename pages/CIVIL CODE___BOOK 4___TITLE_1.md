@@ -44,7 +44,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1162.**
 	  collapsed:: true
 		- Obligations derived from quasi-delicts shall be governed by the provisions of Chapter 2, Title XVII of this Book, and by special laws. (1093a)
-- # [[🔴 CHAPTER 2 - Nature and Effect of Obligations]]
+- # 🔴 CHAPTER 2 - Nature and Effect of Obligations]]
   heading:: true
 	- **ARTICLE 1163.**
 	  collapsed:: true
@@ -114,7 +114,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1178.**
 	  collapsed:: true
 		- Subject to the laws, all rights acquired in virtue of an obligation are transmissible, if there has been no stipulation to the contrary. (1112)
-- # [[🔴 CHAPTER 3 - Different Kinds of Obligations]]
+- # 🔴 CHAPTER 3 - Different Kinds of Obligations]]
   heading:: true
 	- ### SECTION 1 - Pure and Conditional Obligations
 		- **ARTICLE 1179.**
@@ -353,7 +353,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The nullity of the penal clause does not carry with it that of the principal obligation.
 			- The nullity of the principal obligation carries with it that of the penal clause. (1155)
-- # [[🔴 CHAPTER 4 - Extinguishment of Obligations]]
+- # 🔴 CHAPTER 4 - Extinguishment of Obligations]]
   heading:: true
 	- ### General Provisions
 	  collapsed:: true

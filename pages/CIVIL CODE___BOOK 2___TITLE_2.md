@@ -60,7 +60,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 439.**
 	  collapsed:: true
 		- By treasure is understood, for legal purposes, any hidden and unknown deposit of money, jewelry, or other precious objects, the lawful ownership of which does not appear. (352)
-- [[🔴 CHAPTER 2 - Right of Accession]]
+- 🔴 CHAPTER 2 - Right of Accession]]
   heading:: true
   collapsed:: true
 	- ### GENERAL PROVISIONS
@@ -212,7 +212,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 475.**
 		  collapsed:: true
 			- In the preceding articles, sentimental value shall be duly appreciated. (n)
-- [[🔴 CHAPTER 3 - Quieting of Title (n)]]
+- 🔴 CHAPTER 3 - Quieting of Title (n)]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 476.**
@@ -228,7 +228,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The principles of the general law on the quieting of title are hereby adopted insofar as they are not in conflict with this Code.
 	- **ARTICLE 481.**
 		- The procedure for the quieting of title or the removal of a cloud therefrom shall be governed by such rules of court as the Supreme Court shall promulgate.
-- [[🔴 CHAPTER 4 - Ruinous Buildings and Trees in Danger of Falling]]
+- 🔴 CHAPTER 4 - Ruinous Buildings and Trees in Danger of Falling]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 482.**
