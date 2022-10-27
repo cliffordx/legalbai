@@ -2,6 +2,7 @@ title:: CIVIL CODE/BOOK 1/TITLE_5
 alt-title:: Civil Code of the Philippines BOOK I - TITLE III-IX —  **REPEALED**
 tags:: #repealed
 status:: repealed
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 	- Superseded by: [TITLE III - RIGHTS AND OBLIGATIONS BETWEEN HUSBAND AND WIFE]([[codal/Family Code of the Philippines/Title 3]]) (Family Code of the Philippines)
 	- {{embed ((630f4e85-3674-4960-bfd6-dfd332a67c40))}}
