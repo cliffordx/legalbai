@@ -20,8 +20,8 @@
 			- c. Surviving spouse
 			- d. Illegitimate children
 			- e. Illegitimate parents as to the illegitimate children without issue
-			- f. Adopted children, for all civil purposes are considered as legitimate children under the Family Code. *Read* ((6357c9ab-849e-4ac2-954d-cd21364854ff))
-- # T: ((635756e1-0c31-4c12-a6d6-a10b73ed7599))
+			- f. Adopted children, for all civil purposes are considered as legitimate children under the Family Code. *Read* BARITUA v. CA 183 SCRA 565.
+- # Compulsory Heirs
   id:: 635756d0-02d4-43fe-84d7-2668de85b297
 	- In general, compulsory heirs are those heirs for whom the law has reserved that part of the testator’s estate known as the legitime.[Art. 886](((634fba6d-78b7-4ce7-a959-dce0556783d5))) As such, testator cannot disregard them.
 	- # T: ((63575a19-3fde-41d8-a5ba-61ba6950dd8e))
