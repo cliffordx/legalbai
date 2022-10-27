@@ -8,7 +8,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
 
-- [[Book:]] ![Noche Vol 1, 2021 ed., RULE 36](../assets/VOL1_NOCHE_2021_RULE36.pdf)
+- [[Book:]] ![Noche Vol 1, 2021 ed., RULE 36](_RULE36.pdf)
 - # RULE 36 - Judgments, Final Orders and Entry Thereof
   heading:: true
 - **SECTION 1.** Rendition of judgments and final orders.

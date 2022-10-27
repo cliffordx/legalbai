@@ -8,7 +8,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true
 
 - {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
-- [[Book:]] ![Noche Vol 1, 2021 ed., RULE 32](../assets/VOL1_NOCHE_2021_RULE32.pdf)
+- [[Book:]] ![Noche Vol 1, 2021 ed., RULE 32](_RULE32.pdf)
 # RULE 32 - Trial by Commissioner
 heading:: true
 - **SECTION 1.** Reference by consent.
