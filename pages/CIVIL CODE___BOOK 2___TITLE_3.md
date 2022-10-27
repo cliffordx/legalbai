@@ -40,6 +40,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - **ARTICLE 490.**
   collapsed:: true
 	- Whenever the different stories of a house belong to different owners, if the titles of ownership do not specify the terms under which they should contribute to the necessary expenses and there exists no agreement on the subject, the following rules shall be observed:
+	  collapsed:: true
 		- (1) The main and party walls, the roof and the other things used in common, shall be preserved at the expense of all the owners in proportion to the value of the story belonging to each;
 		- (2) Each owner shall bear the cost of maintaining the floor of his story; the floor of the entrance, front door, common yard and sanitary works common to all, shall be maintained at the expense of all the owners *pro rata*;
 		- (3) The stairs from the entrance to the first story shall be maintained at the expense of all the owners *pro rata*, with the exception of the owner of the ground floor; the stairs from the first to the second story shall be preserved at the expense of all, except the owner of the ground floor and the owner of the first story; and so on successively. (396)
@@ -61,6 +62,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- But the effect of the alienation or the mortgage, with respect to the co-owners, shall be limited to the portion which may be allotted to him in the division upon the termination of the co-ownership. (399)
 - **ARTICLE 494.**
   id:: 6300756e-528a-4885-99f8-539e59a4b1ab
+  collapsed:: true
 	- No co-owner shall be obliged to remain in the co-ownership.
 	- Each co-owner may demand at any time the partition of the thing owned in common, insofar as his share is concerned.
 	- Nevertheless, an agreement to keep the thing undivided for a certain period of time, not exceeding ten years, shall be valid. 
@@ -72,6 +74,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 6300756e-b7b0-45ff-a5dc-49f4aa93694d
 - **ARTICLE 495.**
   id:: 631d71f3-b1b4-4822-8e6d-84f41bf06ed9
+  collapsed:: true
 	- Notwithstanding the provisions of the preceding article, the co-owners cannot demand a physical division of the thing owned in common, when to do so would render it unserviceable for the use for which it is intended. But the co-ownership may be terminated in accordance with [article 498](((36deb439-f390-4b1a-a778-c2130bb6995f))). (401a)
 - **ARTICLE 496.**
   collapsed:: true
@@ -83,6 +86,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- But they cannot impugn any partition already executed, unless there has been fraud, or in case it was made notwithstanding a formal opposition presented to prevent it, without prejudice to the right of the debtor or assignor to maintain its validity. (403)
 - **ARTICLE 498.**
   id:: 36deb439-f390-4b1a-a778-c2130bb6995f
+  collapsed:: true
 	- Whenever the thing is essentially indivisible and the co-owners cannot agree that it be allotted to one of them who shall indemnify the others, it shall be sold and its proceeds distributed. (404)
 - **ARTICLE 499.**
   collapsed:: true

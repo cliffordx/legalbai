@@ -6,8 +6,7 @@ tags:: #codal/property/special
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- 🔴 CHAPTER 1- Waters]]
-  heading:: true
+- 🔴 CHAPTER 1- Waters
   collapsed:: true
   *(see Note below)*
 	- ```ad-note
@@ -19,6 +18,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 502.**
 		  collapsed:: true
 			- The following are of public dominion:
+			  collapsed:: true
 				- (1) Rivers and their natural beds;
 				- (2) Continuous or intermittent waters of springs and brooks running in their natural beds and the beds themselves;
 				- (3) Waters rising continuously or intermittently on lands of public dominion;
@@ -31,6 +31,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 503.**
 		  collapsed:: true
 			- The following are of private ownership:
+			  collapsed:: true
 				- (1) Continuous or intermittent waters rising on lands of private ownership, while running through the same;
 				- (2) Lakes and lagoons, and their beds, formed by Nature on such lands;
 				- (3) Subterranean waters found on the same;
@@ -42,6 +43,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 504.**
 		  collapsed:: true
 			- The use of public waters is acquired:
+			  collapsed:: true
 				- (1) By administrative concession;
 				- (2) By prescription for ten years.
 			- The extent of the rights and obligations of the use shall be that established, in the first case, by the terms of the concession, and, in the second case, by the manner and form in which the waters have been used. (409a)
@@ -83,24 +85,31 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- ## SECTION 5 - General Provisions
 	  collapsed:: true
 		- **ARTICLE 515.**
+		  collapsed:: true
 			- The owner of a piece of land on which there are defensive works to check waters, or on which, due to a change of their course, it may be necessary to reconstruct such works, shall be obliged, at his election, either to make the necessary repairs or construction himself, or to permit them to be done, without damage to him, by the owners of the lands which suffer or are clearly exposed to suffer injury. (420)
 		- **ARTICLE 516.**
+		  collapsed:: true
 			- The provisions of the preceding article are applicable to the case in which it may be necessary to clear a piece of land of matter, whose accumulation or fall may obstruct the course of the waters, to the damage or peril of third persons. (421)
 		- **ARTICLE 517.**
+		  collapsed:: true
 			- All the owners who participate in the benefits arising from the works referred to in the two preceding articles, shall be obliged to contribute to the expenses of construction in proportion to their respective interests.
 			- Those who by their fault may have caused the damage shall be liable for the expenses. (422)
 		- **ARTICLE 518.**
+		  collapsed:: true
 			- All matters not expressly determined by the provisions of this Chapter shall be governed by the Special Law of Waters of August 3, 1866, and by the Irrigation Law. (425a)
-- 🔴 CHAPTER 2 - Minerals]]
-  heading:: true
+- 🔴 CHAPTER 2 - Minerals
   collapsed:: true
 	- **ARTICLE 519.**
+	  collapsed:: true
 		- Mining claims and rights and other matters concerning minerals and mineral lands are governed by special laws. (427a)
-- 🔴 CHAPTER 3 - Trade-marks and Trade-names]]
-  heading:: true
+- 🔴 CHAPTER 3 - Trade-marks and Trade-names
+  collapsed:: true
 	- **ARTICLE 520.**
+	  collapsed:: true
 		- A trade-mark or trade-name duly registered in the proper government bureau or office is owned by and pertains to the person, corporation, or firm registering the same, subject to the provisions of special laws. (n)
 	- **ARTICLE 521.**
+	  collapsed:: true
 		- The goodwill of a business is property, and may be transferred together with the right to use the name under which the business is conducted. (n)
 	- **ARTICLE 522.**
+	  collapsed:: true
 		- Trade-marks and trade-names are governed by special laws. (n)

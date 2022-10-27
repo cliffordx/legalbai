@@ -59,8 +59,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 439.**
 	  collapsed:: true
 		- By treasure is understood, for legal purposes, any hidden and unknown deposit of money, jewelry, or other precious objects, the lawful ownership of which does not appear. (352)
-- 🔴 CHAPTER 2 - Right of Accession]]
-  heading:: true
+- 🔴 CHAPTER 2 - Right of Accession
   collapsed:: true
 	- ### GENERAL PROVISIONS
 	  collapsed:: true
@@ -211,8 +210,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 475.**
 		  collapsed:: true
 			- In the preceding articles, sentimental value shall be duly appreciated. (n)
-- 🔴 CHAPTER 3 - Quieting of Title (n)]]
-  heading:: true
+- 🔴 CHAPTER 3 - Quieting of Title (n)
   collapsed:: true
 	- **ARTICLE 476.**
 		- Whenever there is a [[cloud on title]] to real property or any interest therein, by reason of any instrument, record, claim, encumbrance or proceeding which is apparently valid or effective but is in truth and in fact invalid, ineffective, voidable, or unenforceable, and may be prejudicial to said title, an action may be brought to remove such cloud or to quiet the title.
@@ -227,8 +225,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The principles of the general law on the quieting of title are hereby adopted insofar as they are not in conflict with this Code.
 	- **ARTICLE 481.**
 		- The procedure for the quieting of title or the removal of a cloud therefrom shall be governed by such rules of court as the Supreme Court shall promulgate.
-- 🔴 CHAPTER 4 - Ruinous Buildings and Trees in Danger of Falling]]
-  heading:: true
+- 🔴 CHAPTER 4 - Ruinous Buildings and Trees in Danger of Falling
   collapsed:: true
 	- **ARTICLE 482.**
 		- If a building, wall, column, or any other construction is in danger of falling, the owner shall be obliged to demolish it or to execute the necessary work in order to prevent it from falling.
