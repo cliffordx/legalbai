@@ -2,6 +2,7 @@ title:: Legitime
 
 - # Learning Objectives:
   background-color:: yellow
+  collapsed:: true
 	- What is legitime
 	- What is compulsory heirs
 	- # *legitime*; meaning
@@ -10,6 +11,7 @@ title:: Legitime
 			- [^886] _{Garner, Bryan A., and Henry Campbell Black, eds. *Black’s Law Dictionary*. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p.1084.}
 - # Art. 886
   background-color:: blue
+  collapsed:: true
 	- > {{embed ((634fba6d-78b7-4ce7-a959-dce0556783d5))}}
 	- # Concept of Legitime
 	  background-color:: yellow
@@ -85,9 +87,11 @@ title:: Legitime
 			- It is true that the right to enter into the possession of any inheritance commences only from the moment of the death of the predecessor-in-interest. But it is undeniable that a necessary or forced heir (compulsory heir), according to the system of legitimes, has **by provision of law, from the time of his birth, a vested right to eventually acquire the inheritance from his ascendants, the right to be actually vested, from the moment of death.** [[#green]]==Such a vested right is inherent with his filiation to which belong the obligations and rights of the author of his being.== ^{(Rocha v. Tuason and Rocha de Despujol, 39 Phil. 973).}
 	- # No Right of Compulsory Heirs To Insist That the Legitimes Be Given in the Form of Property
 	  background-color:: pink
+	  collapsed:: true
 		- While compulsory heirs have a right to the legitime, **they cannot insist that they be paid in the form of property**, whether real or personal, [[$red]]==when they are NOT AVAILABLE,== as [[#blue]]==when the will itself contains a partition of the estate,== specifically assigning the property to various heirs. In a case like this, [[#red]]==the legitimes may be satisfied by paying CASH.== ^{(Marina DizonRivera v. Estela Dizon, et al., L-24561, June 30, 1970).}
 	-
 	- # Right of Completion of Legitime
+	  background-color:: blue
 		- Compulsory heirs are never compelled to accept the legitime — they may accept or reject — for no one can compel another to receive a gift or an economic advantage. They are called compulsory, only because the testator cannot disregard them.^{(Gala v. Ellice Agro-Industrial Corp., 418 SCRA 431 [2003]).}
 - # Art. 887
   background-color:: purple
@@ -96,8 +100,10 @@ title:: Legitime
 	- {{embed ((6357bf07-4204-4d58-a767-9dc6d7950092))}}
 	- {{embed ((635756d0-02d4-43fe-84d7-2668de85b297))}}
 	- # Necessity of being “legitimate”
+	  background-color:: gray
 		- Article 992 provides a bar between the legitimate and illegitimate line of the family, thus preventing one from inheriting from the other by legal succession. The discrimination against an illegitimate child arises from his inability to inherit from the other relatives of his father and mother. Thus, an illegitimate child has successional rights only with respect to his own parents, beyond the parents, an illegitimate child has no successional rights in intestate succession. The law imposes a certain amount of discrimination with regard to illegitimate children; as if they are being condemned for something which was not of their own free volition. Even the fiction of adoption will not vest full legitimacy on the illegitimate child because the fiction of adoption produces its effect only between the adopter and the adopted.
 	- # Fractional combinations of legitime
+	  background-color:: blue
 		- When concurring with other compulsory heirs, the fractional shares are adjusted in accordance to pertinent provisions of intestate succession. The portion of the estate that does not pertain to legitime is properly termed as free disposal.
 	- # Summary of table of shares of legitimes:
 	  background-color:: red

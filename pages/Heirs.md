@@ -11,6 +11,7 @@
 	- *Civil law.* **^^Someone who succeeds to the rights and occupies the place of, or is entitled to succeed to the estate of a decedent, whether by an act of the decedent or by operation of law^^**. The term *heir* under the civil law has a more expansive meaning than under the common law.
 - # Different classes of heirs:
   id:: 6357bf07-4204-4d58-a767-9dc6d7950092
+  background-color:: red
 	- There are in general three classes of heirs; voluntary, legal or intestate, and compulsory.
 		- 1. **Voluntary heirs** are those called upon to succeed by virtue of the will of a person expressed in his last will and testament.
 		- 2. **Legal or intestate heirs** are those called to succeed by operation of law.
@@ -23,9 +24,11 @@
 			- f. Adopted children, for all civil purposes are considered as legitimate children under the Family Code. *Read* BARITUA v. CA 183 SCRA 565.
 - # Compulsory Heirs
   id:: 635756d0-02d4-43fe-84d7-2668de85b297
+  background-color:: red
 	- In general, compulsory heirs are those heirs for whom the law has reserved that part of the testator’s estate known as the legitime.[Art. 886](((634fba6d-78b7-4ce7-a959-dce0556783d5))) As such, testator cannot disregard them.
 	- # Kinds/Classes of Compulsory Heirs
 	  id:: 63575a0e-3348-4ac4-a7bf-79af6d8bec62
+	  background-color:: blue
 		- The compulsory heirs as [enumerated in Art. 887](((63575738-b48f-4a77-8be9-43280a8f6fb1))) may be classified into **primary compulsory heirs** and **secondary compulsory heirs.**
 		- (There may be also the concurring compulsory heirs as it will be explained later.)
 		- Primary compulsory heirs are those who are always entitled to their legitime as provided by law regardless of the class of compulsory heirs with which they may concur, while secondary compulsory heirs are those who may be excluded by other compulsory heirs.
