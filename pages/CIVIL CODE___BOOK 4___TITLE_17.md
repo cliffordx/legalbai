@@ -8,10 +8,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - 🔴 CHAPTER 1- QUASI-CONTRACTS
   heading:: true
+  collapsed:: true
 	- **ARTICLE 2142.**
 	  collapsed:: true
 		- Certain lawful, voluntary and unilateral acts give rise to the juridical relation of quasi-contract to the end that no one shall be unjustly enriched or benefited at the expense of another. (n)
 	- **ARTICLE 2143.**
+	  collapsed:: true
 		- The provisions for quasi-contracts in this Chapter do not exclude other quasi-contracts which may come within the purview of the preceding article. (n)
 	- ### SECTION 1 - Negotiorum Gestio
 	  collapsed:: true
@@ -20,6 +22,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- Whoever voluntarily takes charge of the agency or management of the business or property of another, without any power from the latter, is obliged to continue the same until the termination of the affair and its incidents, or to require the person concerned to substitute him, if the owner is in a position to do so.
 			- This juridical relation does not arise in either of these instances:
+			  collapsed:: true
 				- (1) When the property or business is not neglected or abandoned;
 				- (2) If in fact the manager has been tacitly authorized by the owner.
 			- In the first case, the provisions of [article 1317](((9952ac75-a0c7-4ad5-8229-9496e664e3a2))), [1403, No. 1](((a89bccfe-4648-4084-84da-4fc192115383))), and [1404](((06f26ae6-3cf6-4486-afbb-3d52b84472ee))) regarding unauthorized contracts shall govern.
@@ -35,6 +38,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 2147.**
 		  collapsed:: true
 			- The officious manager shall be liable for any fortuitous event:
+			  collapsed:: true
 				- (1) If he undertakes risky operations which the owner was not accustomed to embark upon;
 				- (2) If he has preferred his own interest to that of the owner;
 				- (3) If he fails to return the property or business after demand by the owner;
@@ -42,6 +46,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 2148.**
 		  collapsed:: true
 			- Except when the management was assumed to save the property or business from imminent danger, the officious manager shall be liable for fortuitous events:
+			  collapsed:: true
 				- (1) If he is manifestly unfit to carry on the management;
 				- (2) If by his intervention he prevented a more competent person from taking up the management. (n)
 		- **ARTICLE 2149.**
@@ -54,17 +59,20 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 2151.**
 		  collapsed:: true
 			- Even though the owner did not derive any benefit and there has been no imminent and manifest danger to the property or business, the owner is liable as under the first paragraph of the preceding article, provided:
+			  collapsed:: true
 				- (1) The officious manager has acted in good faith, and
 				- (2) The property or business is intact, ready to be returned to the owner. (n)
 		- **ARTICLE 2152.**
 		  collapsed:: true
 			- The officious manager is personally liable for contracts which he has entered into with third persons, even though he acted in the name of the owner, and there shall be no right of action between the owner and third persons.
+			  collapsed:: true
 				- These provisions shall not apply:
 				- (1) If the owner has expressly or tacitly ratified the management, or
 				- (2) When the contract refers to things pertaining to the owner of the business. (n)
 		- **ARTICLE 2153.**
 		  collapsed:: true
 			- The management is extinguished:
+			  collapsed:: true
 				- (1) When the owner repudiates it or puts an end thereto;
 				- (2) When the officious manager withdraws from the management, subject to the provisions of ((1196e21b-a57f-4e3e-955a-091270b939e9));
 				- (3) By the death, civil interdiction, insanity or insolvency of the owner or the officious manager. (n)
@@ -144,8 +152,10 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Any person who is constrained to pay the taxes of another shall be entitled to reimbursement from the latter.
 - 🔴 CHAPTER 2 - QUASI-DELICTS
   heading:: true
+  collapsed:: true
 	- **ARTICLE 2176.**
 	  id:: d635e13b-045f-4eaf-89fe-b4730f48cd71
+	  collapsed:: true
 		- Whoever by act or omission causes damage to another, there being fault or negligence, is obliged to pay for the damage done.
 		- Such fault or negligence, if there is no pre-existing contractual relation between the parties, is called a quasi-delict and is governed by the provisions of this Chapter. (1902a)
 	- **ARTICLE 2177.**
@@ -162,6 +172,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- But if his negligence was only contributory, the immediate and proximate cause of the injury being the defendant’s lack of due care, the plaintiff may recover damages, but the courts shall mitigate the damages to be awarded. (n)
 	- **ARTICLE 2180.**
 	  id:: da241e50-f4cd-46af-af2e-fd692c15a255
+	  collapsed:: true
 		- The obligation imposed by ((d635e13b-045f-4eaf-89fe-b4730f48cd71)) is demandable not only for one’s own acts or omissions, but also for those of persons for whom one is responsible.
 		  id:: 634fba6f-dfe5-4364-b94a-591aa70e039a
 		- The father and, in case of his death or incapacity, the mother, are responsible for the damages caused by the minor children who live in their company.
@@ -211,6 +222,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2191.**
 	  collapsed:: true
 		- Proprietors shall also be responsible for damages caused:
+		  collapsed:: true
 			- (1) By the explosion of machinery which has not been taken care of with due diligence, and the inflammation of explosive substances which have not been kept in a safe and adequate place;
 			- (2) By excessive smoke, which may be harmful to persons or property;
 			- (3) By the falling of trees situated at or near highways or lanes, if not caused by force majeure;

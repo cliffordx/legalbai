@@ -10,12 +10,15 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - 🔴 CHAPTER 1- NATURE AND EXTENT OF GUARANTY
   heading:: true
   id:: 631d71fa-4056-4465-a1e3-95858fa597e4
+  collapsed:: true
 	- **ARTICLE 2047.**
 	  id:: 62f13785-5d3b-4494-8abf-fd3ec4f96f7d
+	  collapsed:: true
 		- By guaranty a person, called the guarantor, binds himself to the creditor to fulfill the obligation of the principal debtor in case the latter should fail to do so.
 		- If a person binds himself solidarily with the principal debtor, the provisions of Section 4, Chapter 3, Title I of this Book shall be observed. In such case the contract is called a [[suretyship]]. (1822a)
 	- **ARTICLE 2048.**
 	  id:: 62f13785-35f7-4228-9245-b41a5fb13f8a
+	  collapsed:: true
 		- A guaranty is gratuitous, unless there is a stipulation to the contrary. (n)
 	- **ARTICLE 2049.**
 	  collapsed:: true
@@ -24,9 +27,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 	  id:: 62f13785-0ef4-44e8-9cb8-2cd4397ad9a3
 		- If a guaranty is entered into without the knowledge or consent, or against the will of the principal debtor, the provisions of articles 1236 and 1237 shall apply. (n)
+		  collapsed:: true
 			- COMMENTARY:
 			- if the contract is entered into
+			  collapsed:: true
 				- principal debtor but:
+				  collapsed:: true
 					- without knowledge and consent, or
 					- against his or her will
 				- art. 1236 and art. 1237 apply.
@@ -67,13 +73,16 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   collapsed:: true
   id:: 631d71fa-810d-442e-9413-ec9e879ed9f7
 	- ### SECTION 1 - Effects of Guaranty Between the Guarantor and the Creditor
+	  collapsed:: true
 		- **ARTICLE 2058.**
 		  id:: 3a38b394-b585-4585-a15c-92b189d4c684
+		  collapsed:: true
 			- The guarantor cannot be compelled to pay the creditor unless the latter has exhausted all the property of the debtor, and has resorted to all the legal remedies against the debtor. (1830a)
 		- **ARTICLE 2059.**
 		  id:: 0eb944a4-2f5d-43ed-b89a-abe10762c98a
 		  collapsed:: true
 			- This excussion shall not take place:
+			  collapsed:: true
 				- (1) If the guarantor has expressly renounced it;
 				- (2) If he has bound himself solidarily with the debtor;
 				- (3) In case of insolvency of the debtor;
@@ -99,10 +108,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Should there be several guarantors of only one debtor and for the same debt, the obligation to answer for the same is divided among all. The creditor cannot claim from the guarantors except the shares which they are respectively bound to pay, unless solidarity has been expressly stipulated.
 			- The benefit of division against the co-guarantors ceases in the same cases and for the same reasons as the benefit of excussion against the principal debtor. (1837)
 	- ### SECTION 2 - Effects of Guaranty Between the Debtor and the Guarantor
+	  collapsed:: true
 		- **ARTICLE 2066.**
 		  collapsed:: true
 		  id:: 62f13785-965d-4bda-b516-c9ee8269f279
 			- The guarantor who pays for a debtor must be indemnified by the latter.
+			  collapsed:: true
 				- The indemnity comprises:
 				- (1) The total amount of the debt;
 				- (2) The legal interests thereon from the time the payment was made known to the debtor, even though it did not earn interest for the creditor;
@@ -125,6 +136,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 2071.**
 		  collapsed:: true
 			- The guarantor, even before having paid, may proceed against the principal debtor:
+			  collapsed:: true
 				- (1) When he is sued for the payment;
 				- (2) In case of insolvency of the principal debtor;
 				- (3) When the debtor has bound himself to relieve him from the guaranty within a specified period, and this period has expired;
@@ -137,6 +149,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- If one, at the request of another, becomes a guarantor for the debt of a third person who is not present, the guarantor who satisfies the debt may sue either the person so requesting or the debtor for reimbursement. (n)
 	- ### SECTION 3 - Effects of Guaranty as Between Co-Guarantors
+	  collapsed:: true
 		- **ARTICLE 2073.**
 		  collapsed:: true
 			- When there are two or more guarantors of the same debtor and for the same debt, the one among them who has paid may demand of each of the others the share which is proportionally owing from him.
@@ -151,6 +164,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - 🔴 CHAPTER 3 - EXTINGUISHMENT OF GUARANTY
   heading:: true
   id:: 631d71fa-8cb4-4853-8a9e-b5873665b0c3
+  collapsed:: true
 	- **ARTICLE 2076.**
 	  collapsed:: true
 		- The obligation of the guarantor is extinguished at the same time as that of the debtor, and for the same causes as all other obligations. (1847)
@@ -162,6 +176,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- A release made by the creditor in favor of one of the guarantors, without the consent of the others, benefits all to the extent of the share of the guarantor to whom it has been granted. (1850)
 	- **ARTICLE 2079.**
 	  id:: 63007592-0540-4d33-ac6d-80664d32432a
+	  collapsed:: true
 		- An extension granted to the debtor by the creditor without the consent of the guarantor extinguishes the guaranty.
 		- The mere failure on the part of the creditor to demand payment after the debt has become due does not of itself constitute any extension of time referred to herein. (1851a)
 	- **ARTICLE 2080.**
@@ -173,10 +188,14 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The guarantor may set up against the creditor all the defenses which pertain to the principal debtor and are inherent in the debt; but not those that are purely personal to the debtor. (1853)
 - 🔴 CHAPTER 4 - LEGAL AND JUDICIAL BONDS
   heading:: true
+  collapsed:: true
 	- **ARTICLE 2082.**
+	  collapsed:: true
 		- The bondsman who is to be offered in virtue of a provision of law or of a judicial order shall have the qualifications prescribed in special laws. (1854a)
 	- **ARTICLE 2083.**
+	  collapsed:: true
 		- If the person bound to give a bond in the cases of the preceding article, should not be able to do so, a pledge or mortgage considered sufficient to cover his obligation shall be admitted in lieu thereof. (1855)
 	- **ARTICLE 2084.**
+	  collapsed:: true
 		- A judicial bondsman cannot demand the exhaustion of the property of the principal debtor.
 		- A sub-surety in the same case, cannot demand the exhaustion of the property of the debtor or of the surety.

@@ -39,6 +39,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- It is also of the essence of these contracts that when the principal obligation becomes due, the things in which the pledge or mortgage consists may be alienated for the payment to the creditor. (1858)
 	- **ARTICLE 2088.**
 	  id:: 62b32e88-2f4f-492c-9d93-1c65c63d9349
+	  collapsed:: true
 		- The creditor cannot appropriate the things given by way of pledge or mortgage, or dispose of them.
 		  id:: 62b32e88-ca99-4afe-a9eb-3f8c8b05123e
 		- Any stipulation to the contrary is null and void. (1859a)
@@ -197,6 +198,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In addition to the requisites stated in [Article 2085](((79b8da0a-777a-45b4-b76a-fc9347aceff8))), it is indispensable, in order that a mortgage may be validly constituted, that the document in which it appears be recorded in the Registry of Property.
 		- If the instrument is not recorded, the mortgage is nevertheless binding between the parties.
 		- The persons in whose favor the law establishes a mortgage have no other right than to demand the execution and the recording of the document in which the mortgage is formalized. (1875a)
+		  collapsed:: true
 			- ((632342b9-171e-4218-81e6-2c0c686125f8))
 	- **ARTICLE 2126.**
 	  id:: 62b32e88-0c78-462c-af54-332c374aaa90
@@ -223,9 +225,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The form, extent and consequences of a mortgage, both as to its constitution, modification and extinguishment, and as to other matters not included in this Chapter, shall be governed by the provisions of the Mortgage Law and of the Land Registration Law. (1880a)
 - 🔴 CHAPTER 4 - ANTICHRESIS
   heading:: true
+  collapsed:: true
 	- **ARTICLE 2132.**
 	  id:: 62b32e88-4fe1-45d2-9586-9e6ae01943b4
+	  collapsed:: true
 		- By the contract of antichresis the creditor acquires the right to receive the fruits of an immovable of his debtor, with the obligation to apply them to the payment of the interest, if owing, and thereafter to the principal of his credit. (1881)
+		  collapsed:: true
 			- ((632350f5-ff19-47ac-bee8-330dd8eed28d))
 	- **ARTICLE 2133.**
 	  collapsed:: true
