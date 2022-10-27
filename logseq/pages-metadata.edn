@@ -397,12 +397,6 @@
  {:block/name "civil code/book 4/title_9",
   :block/created-at 1666857321544,
   :block/updated-at 1666857321544}
- {:block/name "civil code/book_1",
-  :block/created-at 1666857334566,
-  :block/updated-at 1666857334566}
- {:block/name "civil code/book_1/title_1",
-  :block/created-at 1666857334564,
-  :block/updated-at 1666857334564}
  {:block/name "civil interdiction",
   :block/created-at 1666857310268,
   :block/updated-at 1666857310268}
