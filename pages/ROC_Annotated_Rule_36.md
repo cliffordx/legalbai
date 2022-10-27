@@ -7,8 +7,6 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
-
-- [[Book:]] ![Noche Vol 1, 2021 ed., RULE 36](_RULE36.pdf)
 - # RULE 36 - Judgments, Final Orders and Entry Thereof
   heading:: true
 - **SECTION 1.** Rendition of judgments and final orders.
@@ -27,8 +25,8 @@ public:: true
 	- The record shall contain the dispositive part of the judgment or final order and shall be signed by the clerk, with a certificate that such judgment or final order has become final and executory. (2a, 10, R51)
 - **SECTION 3.** Judgment for or against one or more of several parties.
   collapsed:: true
-	- Judgment may be given for or against one or more of several plaintiffs, and for or against one or more of several defendants. 
-	  
+	- Judgment may be given for or against one or more of several plaintiffs, and for or against one or more of several defendants.
+
 	  When justice so demands, the court may require the parties on each side to file adversary pleadings as between themselves and determine their ultimate rights and obligations. (3)
 - **SECTION 4.** Several judgments.
   collapsed:: true

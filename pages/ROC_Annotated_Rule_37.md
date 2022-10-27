@@ -7,8 +7,6 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
-
-- [[Book:]] ![Noche Vol 1, 2021 ed., RULE 37](_RULE37.pdf)
 - # RULE 37 - New Trial or Reconsideration
   heading:: true
 - **SECTION 1.** Grounds of and period for filing motion for new trial or reconsideration.
