@@ -7,6 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - # 🔴 CHAPTER 1- General Provisions
+  collapsed:: true
 	- **ARTICLE 1106.**
 	  collapsed:: true
 		- By prescription, one acquires ownership and other real rights through the lapse of time in the manner and under the conditions laid down by law.
@@ -51,7 +52,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1116.**
 	  collapsed:: true
 		- Prescription already running before the effectivity of this Code shall be governed by laws previously in force; but if since the time this Code took effect the entire period herein required for prescription should elapse, the present Code shall be applicable, even though by the former laws a longer period might be required. (1939)
-- # 🔴 CHAPTER 2 - Prescription of Ownership and Other Real Rights]]
+- # 🔴 CHAPTER 2 - Prescription of Ownership and Other Real Rights
   collapsed:: true
 	- **ARTICLE 1117.**
 	  collapsed:: true
@@ -135,7 +136,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (1) The present possessor may complete the period necessary for prescription by tacking his possession to that of his grantor or predecessor in interest;
 			- (2) It is presumed that the present possessor who was also the possessor at a previous time, has continued to be in possession during the intervening time, unless there is proof to the contrary;
 			- (3) The first day shall be excluded and the last day included. (1960a)
-- # 🔴 CHAPTER 3 - Prescription of Actions]]
+- # 🔴 CHAPTER 3 - Prescription of Actions
+  collapsed:: true
 	- **ARTICLE 1139.**
 	  collapsed:: true
 		- Actions prescribe by the mere lapse of time fixed by law. (1961)
@@ -159,7 +161,9 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (2) To bring an action to abate a public or private nuisance. (n)
 	- **ARTICLE 1144.**
 	  id:: e1acf6a4-4288-448f-b960-f6d351739820
+	  collapsed:: true
 		- The following actions must be brought within ten years from the time the right of action accrues:
+		  collapsed:: true
 			- (1) Upon a written contract;
 			- (2) Upon an obligation created by law;
 			- (3) Upon a judgment. (n)
@@ -178,7 +182,9 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- However, when the action arises from or out of any act, activity, or conduct of any public officer involving the exercise of powers or authority arising from Martial Law including the arrest, detention and/or trial of the plaintiff, the same must be brought within one (1) year.
 	- **ARTICLE 1147.**
 	  id:: 07524caf-402a-4935-9978-bdcd2fe6fc1f
+	  collapsed:: true
 		- The following actions must be filed within one year:
+		  collapsed:: true
 			- (1) For forcible entry and detainer;
 			- (2) For defamation. (n)
 	- **ARTICLE 1148.**

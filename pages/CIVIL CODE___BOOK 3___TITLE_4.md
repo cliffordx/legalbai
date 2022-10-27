@@ -10,8 +10,10 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - 🔴 CHAPTER 1- General Provisions
   heading:: true
   id:: 63007585-7804-4375-b637-8b9d9a7a79c3
+  collapsed:: true
 	- **ARTICLE 774.**
 	  id:: 6302fb2f-0856-441c-8758-34cf3cfe904b
+	  collapsed:: true
 		- Succession is a [mode of acquisition]([[Modes of Acquiring Ownership]]) by virtue of which the property, rights and obligations to the extent of the value of the inheritance, of a person are transmitted through his death to another or others either by his will or by operation of law. (n) #QQ22_23
 		  id:: 63104e94-272f-43bd-b213-501dbe8caa1b
 		- #### Commentaries:
@@ -74,8 +76,10 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- #### Commentaries:
 		- [Paras](((63272c17-98e7-44b8-8cd8-2adaa62d83d8))); [Bueno Mison](((6327287d-8298-44ff-8ef2-16591c0e888a)));
 		- [Jurado](((63283f47-1d6d-4ee0-84af-6d5acf5a29a6)))
+		  collapsed:: true
 			- ((633c105e-0927-4510-9ca7-bd760f169d93))
 			- ((633c1098-a451-4808-9701-a960cf15b3cc))
+			  collapsed:: true
 				- (1) rights and obligations between husband and wife;
 				- (2) property relations between husband and wife;
 				- (3) action for legal separation;
@@ -96,9 +100,9 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Devisees and legatees are persons to whom gifts of real and personal property are respectively given by virtue of a will. (n)
 		- #### Commentaries:
 		- [Paras](((63272c2b-eed7-4b69-ad58-2e6762ef885b))); [Bueno Mison](((632728ed-b043-4268-9520-d1558b628e34))); [Jurado](((63283f82-fb7a-4173-9c1c-4b13e237f301)))
-- 🔴 CHAPTER 2 - Testamentary Succession]]
-  heading:: true
+- 🔴 CHAPTER 2 - Testamentary Succession
   id:: 62e7ca76-4262-4aaa-88d3-5e1e32d199ca
+  collapsed:: true
 	- ## SECTION 1 - Wills
 	  collapsed:: true
 		- ### SUBSECTION 1 - Wills in General
@@ -110,22 +114,27 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- #### Commentaries:
 				- [PARAS](((632084de-3004-454d-a542-1241a644fe1d))); [De Leon](((63271f61-b417-4357-b707-66e82c8c7be5))); [Bueno Mison](((632723b2-6516-4290-9849-2dfde94a29bc))); [Jurado](((63283fb3-145f-442b-80ba-ff0d999b1646)))
 			- **ARTICLE 784.**
+			  collapsed:: true
 				- The making of a will is a strictly personal act; it cannot be left in whole or in part to the discretion of a third person, or accomplished through the instrumentality of an agent or attorney. (670a)
 				- #### Commentaries:
 				- [PARAS ](((63208500-a0e2-4c4f-bf77-a63f04046fb8))); [De Leon](((63271f81-3d4e-40fe-94ab-609cd7a75552))); [Bueno Mison](((63272474-8f91-42ca-b98d-6397e5ec6a1b))); [Jurado](((63283fc9-8777-43a3-b02f-3b68859e0213)))
 			- **ARTICLE 785.**
+			  collapsed:: true
 				- The duration or efficacy of the designation of heirs, devisees or legatees, or the determination of the portions which they are to take, when referred to by name, **cannot be left to the discretion of a third person**. (670a)
 				- #### Commentaries:
 				- [PARAS](((63208525-98cf-4103-bf51-33e6576ffd9a))); [De Leon](((63271f9d-246a-4744-9646-cd642a160de6))); [Bueno Mison](((6327248c-af32-484e-a4c0-82c6da7bd5e4))); [Jurado](((63283fdb-6cde-4e2d-be1e-75762dffd15e)))
 			- **ARTICLE 786.**
+			  collapsed:: true
 				- The testator may entrust to a third person the distribution of specific property or sums of money that he may leave in general to specified classes or causes, and also the designation of the persons, institutions or establishments to which such property or sums are to be given or applied. (671a)
 				- #### Commentaries:
 				- [PARAS Commentary](((63208542-65c3-4cba-9a9f-b55619f218fa))); [Bueno Mison](((632724ae-a0a4-40ac-be17-0db0f8f26936))); [Jurado 786-787](((63283fef-5bf7-4dcd-bef6-2f536a30ee97)))
 			- **ARTICLE 787.**
+			  collapsed:: true
 				- The testator may not make a testamentary disposition in such manner that another person has to determine whether or not it is to be operative. (n)
 				- #### Commentaries:
 				- [PARAS](((63208566-d4cd-439a-934d-aebaf557f356))); [De Leon](((63271fc3-9462-4af8-b2d6-b15c8272c619))); [Bueno Mison](((632724cf-4f2b-461f-9859-3ce1fbe2c160)))
 			- **ARTICLE 788.**
+			  collapsed:: true
 				- If a testamentary disposition admits of different interpretations, in case of doubt, that interpretation by which the disposition is to be operative shall be preferred. (n)
 				- #### Commentaries:
 				- [PARAS](((63208580-d48b-412b-8a0b-36a86a9b29c5))): [De Leon: Arts. 788-794](((63271fea-8198-4e68-96c9-a7add7a5407c))); [Bueno Mison](((632724ef-9316-4fe9-9952-b60e5b78c8b4))); [Jurado, Arts. 788-794](((6328401a-b290-47f4-9d78-23dc3adb679f)))
@@ -145,6 +154,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- The testator’s intent is the all-important consideration in the construction of wills.” Thus, in American decisions, the testatorial intention, or its ascertainment and effectuation, has frequently been described as the “polar star,” “polestar,” “guiding star” or “Golden Rule” of testamentary construction.
 					- The rule that the testatorial intention governs in the construction of a will has been held to apply to every clause and part of the instrument. And a testator’s intention, it has been said, is necessarily his intention when the will was executed.
 			- **ARTICLE 789.**
+			  collapsed:: true
 				- When there is an imperfect description, or when no person or property exactly answers the description, mistakes and omissions must be corrected, if the error appears from the context of the will or from extrinsic evidence, excluding the oral declarations of the testator as to his intention; and when an uncertainty arises upon the face of the will, as to the application of any of its provisions, the testator’s intention is to be ascertained from the words of the will, taking into consideration the circumstances under which it was made, excluding such oral declarations. (n)
 				- #### Commentaries:
 				- [Paras](((63271dfe-3520-48dd-ab57-31012edc8dee))); [Bueno Mison](((63272535-8699-475d-9d26-6fae639ea5a7)))
@@ -156,11 +166,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- ((63271ea2-e628-4882-a3d0-90e5ea5d970a))
 					- ((63271eb6-d243-4e1b-8e46-b390415b4095))
 			- **ARTICLE 790.**
+			  collapsed:: true
 				- The words of a will are to be taken in their ordinary and grammatical sense, unless a clear intention to use them in another sense can be gathered, and that other can be ascertained.
 				- Technical words in a will are to be taken in their technical sense, unless the context clearly indicates a contrary intention, or unless it satisfactorily appears that the will was drawn solely by the testator, and that he was unacquainted with such technical sense. (675a)
 				- #### Commentaries:
 				- [Paras](((63271ec6-8258-46f4-9476-47bfaf64f242))); [Bueno Mison](((6327255a-4c49-4126-88d4-fac63618d9ea)))
 			- **ARTICLE 791.**
+			  collapsed:: true
 				- The words of a will are to receive an interpretation which will give to every expression some effect, rather than one which will render any of the expressions inoperative; and of two modes of interpreting a will, that is to be preferred which will prevent intestacy. (n)
 				- #### Commentaries:
 				- [Paras](((63271edd-04ec-4d2f-bc52-d7dcd6229533))); [Bueno Mison](((63272577-dede-44e7-b53c-af3a853e11fc)))
@@ -178,6 +190,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- [Paras](((63208491-2094-48a5-874c-6980d9c4be64))); [Bueno Mison](((632725b0-304c-4779-a9ef-ec59cc1ad719)))
 					- ((6329b070-f01f-41d8-a326-12d6ee77df05))
 			- **ARTICLE 794.**
+			  collapsed:: true
 				- Every devise or legacy shall convey all the interest which the testator could devise or bequeath in the property disposed of, unless it clearly appears from the will that he intended to convey a less interest. (n)
 				- #### Commentaries:
 				- [Paras](((63208478-2018-4c06-8bc4-f7bfa28f36a8))) [De Leon After-acquired Property](((63272034-b4b7-4a45-ac9b-6494957e03e1))); [Bueno Mison](((632725dc-caeb-4e66-8942-74654ed77b2c)))
@@ -185,6 +198,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- {{embed ((631d722e-3144-4a63-8453-27515e3c815d))}}
 			- **ARTICLE 795.**
 			  id:: 632c0335-4f2c-4ee6-9df5-d4d83c83f052
+			  collapsed:: true
 				- The validity of a will as to its form depends upon the observance of the law in force [[#blue]]==at the time it is made==. (n)
 				- #### Commentaries:
 				- [Paras](((63271f22-3b6b-411a-93bc-001f5d304909))); [De Leon](((63272359-398e-4a71-86ce-22e15b0fe019))); [Bueno Mison](((632725f8-723d-4d91-8e5f-cbe0a89feea6))); [Jurado](((6328405a-be1a-4be0-a596-f563be0329b8)))
@@ -201,29 +215,35 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 6327f2d7-dfc4-4df6-8acd-84474330571f
 		  collapsed:: true
 			- **ARTICLE 796.**
+			  collapsed:: true
 				- All persons who are not expressly prohibited by law may make a will. (662)
 				- #### Commentaries:
 				- [Paras](((63272caa-a7b2-48ac-bad1-a550b4009c68))); [Mison, Arts. 796-798](((632736b3-a409-4e88-9454-a6306575aa3a))); [Jurado](((6328407f-4598-4cf5-b62b-8c1e86557d92)))
 			- **ARTICLE 797.**
+			  collapsed:: true
 				- Persons of either sex [under eighteen years of age]([[Minority]]) cannot make a will. (n)
 				- #### Commentaries:
 				- [Paras](((63272cfa-d9be-420a-83f4-20946a399199))); [Jurado](((6328409b-451f-4b1a-99c5-a999db6ae4ee)))
 			- **ARTICLE 798.**
+			  collapsed:: true
 				- In order to make a will it is essential that the testator be of sound mind at the time of its execution. (n)
 				- #### Commentaries:
 				- [Paras](((63272d08-0cde-4ff8-83ea-f90f66b30710))); [ Jurado, Arts. 798-800](((632840b0-a05e-49af-82b3-74e192ab27ec)))
 			- **ARTICLE 799.**
+			  collapsed:: true
 				- To be of sound mind, it is not necessary that the testator be in full possession of all his reasoning faculties, or that his mind be wholly unbroken, unimpaired, or unshattered by disease, injury or other cause.
 				- It shall be sufficient if the testator was able at the time of making the will to know the nature of the estate to be disposed of, the proper objects of his bounty, and the character of the testamentary act. (n)
 				- #### Commentaries:
 				- [Paras](((63272d15-6b75-434c-99aa-06239b3d9af9))); [Mison](((632736d8-dfb6-45d0-a819-ae155c5f3692)))
 				- ((6329b745-5601-45bb-902d-4aa9bdc5f5f7))
 			- **ARTICLE 800.**
+			  collapsed:: true
 				- The law presumes that every person is of sound mind, in the absence of proof to the contrary.
 				- The burden of proof that the testator was not of sound mind at the time of making his dispositions is on the person who opposes the probate of the will; but if the testator, one month, or less, before making his will was publicly known to be insane, the person who maintains the validity of the will must prove that the testator made it during a lucid interval. (n)
 				- #### Commentaries:
 				- [Paras](((63272d39-2430-477a-8869-d74ad3fd6417))); [Mison](((632736f1-6124-4f6c-b9a5-f7fc1ce83df5)))
 			- **ARTICLE 801.**
+			  collapsed:: true
 				- Supervening incapacity does not invalidate an effective will, nor is the will of an incapable validated by the supervening of capacity. (n)
 				- #### Commentaries:
 				- [Paras](((63272d48-6850-41bc-bc05-0492eed80e74))); [Mison](((63273702-5063-47a3-82d8-ace5a166529c))); [Jurado, Arts. 801-803](((632840e1-a402-466e-bb90-e66030c82e7c)))
@@ -444,16 +464,20 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 6327f2d7-89a5-40a8-ad57-fd7cbba92d93
 		  collapsed:: true
 			- **ARTICLE 820.**
+			  collapsed:: true
 				- Any person of [sound mind](((62cc5a56-d209-4742-a042-fdcd27232b84))) and of the [age of eighteen years or more]([[Minority]]), and not blind, deaf or dumb, and able to read and write, may be a witness to the execution of a will mentioned in [article 805](((d8e378d4-0596-4e0d-9686-5c590efcfde6))) of this Code. (n)
 				- #### Commentaries:
 				- [Paras](((63272fb0-6e64-485b-90ff-5f129dada493))); [De Leon, Arts. 820-824](((632734be-00f1-4be9-b962-be82806dc0ec))); [Mison](((632739fc-342c-452e-92a1-653ce6fc3d9a)))
 			- **ARTICLE 821.**
+			  collapsed:: true
 				- The following are disqualified from being witnesses to a will:
+				  collapsed:: true
 					- (1) Any person not domiciled in the Philippines;
 					- (2) Those who have been convicted of falsification of a document, perjury or false testimony. (n)
 				- #### Commentaries:
 				- [Paras](((63272fc0-7ea4-4aab-b8f1-0e7ff6a391dc))); [Mison](((63273a0e-7a98-498b-91fc-133033058b1c)))
 			- **ARTICLE 822.**
+			  collapsed:: true
 				- If the witnesses attesting the execution of a will are competent at the time of attesting, their becoming subsequently incompetent shall not prevent the allowance of the will. (n)
 				- #### Commentaries:
 				- [Paras](((63272fd4-9d57-48d9-9263-d9d02691b5bc))); [Mison](((63273a23-0d77-470a-af53-1e06042f2492)))
@@ -472,6 +496,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 6327f2d7-ced6-4f72-a5d6-c82a366ff9c8
 		  collapsed:: true
 			- **ARTICLE 825.**
+			  collapsed:: true
 				- A codicil is a supplement or addition to a will, made after the execution of a will and annexed to be taken as a part thereof, by which any disposition made in the original will is explained, added to, or altered. (n)
 				- #### Commentaries:
 				- [Paras](((6327303a-0b39-4155-927e-541cc957e56b))); [Jurado, Arts. 825-826](((632734e6-f90a-465d-9253-680a9e1f0f80))); [Mison, Arts. 825-826](((63273a80-285d-4143-93c6-abc48ea8a58d)))
@@ -508,12 +533,16 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [Paras](((632730d6-cba0-4bc6-8f29-03ece42590ec))); [Jurado](((6327356c-8b3f-4953-bc03-1bf19d8b4327))); [Mison](((63273ace-33c3-4f8a-91d2-f4023e8b01b0)))
 			- **ARTICLE 830.**
 			  id:: 6337096d-d88f-4d4f-ad21-051f16df4d84
+			  collapsed:: true
 				- No will shall be revoked except in the following cases:
+				  collapsed:: true
 					- (1) By implication of law; or
+					  collapsed:: true
 						- ((6356aa5f-8778-46c5-9ce3-d1c904d2c96c))
 						- ((6344f950-7a22-4213-85a2-db3772d5ca8b))
 					- (2) By some will, codicil, or other writing executed as provided in case of wills; or
 					  id:: 634fba6d-fbf4-4aab-b531-66c1c4d45050
+					  collapsed:: true
 						- ((6344f961-ddce-4ec0-86d9-6c96bacb7f80))
 					- (3) By burning, tearing, cancelling, or obliterating the will with the intention of revoking it, by the testator himself, or by some other person in his presence, and by his express direction.
 					  collapsed:: true
@@ -527,6 +556,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- #### Commentaries:
 				- [Paras](((63273104-6604-4aa2-9ac7-2c4c7878e143))); [Mison](((63273b0d-0402-424a-b067-54164c367707)))
 			- **ARTICLE 832.**
+			  collapsed:: true
 				- A revocation made in a subsequent will shall take effect, even if the new will should become inoperative by reason of the incapacity of the heirs, devisees or legatees designated therein, or by their renunciation. (740a)
 				- #### Commentaries:
 				- [Paras](((63273112-8f72-4aef-b045-cb2661e97282))); [Mison](((63273b1f-e977-4fc6-a964-d403f05a4198)))
@@ -536,6 +566,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- #### Commentaries:
 				- [Paras](((6327311f-972b-49be-9af5-99312377ab58))); [De Leon](((632735c9-2d15-4e77-837b-9aa8a1395fa9))); [Mison](((63273b34-312f-45da-b6ee-421bc653f49b)))
 			- **ARTICLE 834.**
+			  collapsed:: true
 				- The recognition of an illegitimate child does not lose its legal effect, even though the will wherein it was made should be revoked. (741)
 				- #### Commentaries:
 				- [Paras](((6327312c-e562-4439-9be9-3182f7a912b1))); [Jurado](((632735dc-4495-4b74-836d-75714a3b003b))); [Mison](((63273b46-6e88-4018-bd8d-59ec860ec67d)))
@@ -543,14 +574,17 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 		  id:: 6337096d-22bf-4914-9fd4-a6623b34b23a
 			- **ARTICLE 835.**
+			  collapsed:: true
 				- The testator cannot republish, without reproducing in a subsequent will, the dispositions contained in a previous one which is void as to its form. (n)
 				- #### Commentaries:
 				- [Paras](((63273158-6f0b-4b2e-bd08-6f3effab07bc))); [De Leon, Arts. 835-836](((632735f3-6a67-4c19-9f17-67c7f5d20537))); [Mison, Arts. 835-836](((63273b5c-a468-4141-8e44-dde93134cc37)))
 			- **ARTICLE 836.**
+			  collapsed:: true
 				- The execution of a codicil referring to a previous will has the effect of republishing the will as modified by the codicil. (n)
 				- #### Commentaries:
 				- [Paras](((63273165-1aa2-4d0b-8067-661dc303a73a)))
 			- **ARTICLE 837.**
+			  collapsed:: true
 				- If after making a will, the testator makes a second will expressly revoking the first, the revocation of the second will does not revive the first will, which can be revived only by another will or codicil. (739a)
 				- #### Commentaries:
 				- [Paras](((6327317c-3645-42aa-a8bc-612a08211b81))); [De Leon](((63273615-e1c3-41be-a63b-b6ae86ade6b0))); [Mison](((63273b87-52f1-4806-86c0-c3994a6ca530)))
@@ -559,6 +593,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- **ARTICLE 838.**
 			  id:: 632c0334-3bd8-4314-a4e2-54841fe76163
+			  collapsed:: true
 				- No will shall pass either real or personal property unless it is proved and allowed in accordance with the [Rules of Court](((63439bd6-57e9-40dc-a0d8-4d0b989d09e8))).
 				  id:: 6337096d-68f7-42d1-a9b9-938cbb08fc76
 				- The testator himself may, during his lifetime, petition the court having jurisdiction for the allowance of his will.
@@ -568,15 +603,18 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The Supreme Court shall formulate such additional Rules of Court as may be necessary for the allowance of wills on petition of the testator.
 				- Subject to the right of appeal, the allowance of the will, either during the lifetime of the testator or after his death, shall be conclusive as to its due execution. (n)
 				- #### Commentaries:
+				  collapsed:: true
 					- {{embed ((63439bd6-57e9-40dc-a0d8-4d0b989d09e8))}}
 				- [Paras](((632731c7-5eac-4738-9b70-1b46b4a3b0f6)));
 				- [Jurado](((63273630-b497-4823-88dd-925f74f166fa)));
+				  collapsed:: true
 					- [[probate]]
 				- [Mison](((63273b9b-90a8-4e38-8fdf-eb301aabb530)))
 			- **ARTICLE 839.**
 			  id:: 632c0334-de77-4af2-b907-ffeeecfb598f
 			  collapsed:: true
 				- The will shall be disallowed in any of the following cases:
+				  collapsed:: true
 					- (1) If the formalities required by law have not been complied with;
 					- (2) If the testator was insane, or otherwise mentally incapable of making a will, at the time of its execution;
 					- (3) If it was executed through force or under duress, or the influence of fear, or threats;
@@ -589,11 +627,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 	  id:: 6337096d-d8d7-44ee-8dd7-f0058b74eb08
 		- **ARTICLE 840.**
+		  collapsed:: true
 			- Institution of heir is an act by virtue of which a testator designates in his will the person or persons who are to succeed him in his property and transmissible rights and obligations. (n)
 			- #### Commentaries
 			- [Paras](((63273d51-f072-4a95-a37e-d7b0d6d726cc))); [Mison](((63273cf1-f908-41b0-9ed7-1bb07556187d)))
 			- **[18 September 2022 23:49]** ^^Institution of an heir is a process whereby the testator, designates another person or persons who are to receive a fractional part of his or her estate, he is called an heir^^ <mark class='pink'>whereas if a person is supposed to receive a specific property comprising the estate, he or she is called legatee or devisee.</mark>
 			- ((63273f5a-ce8d-447a-9d65-93056779467a))
+			  collapsed:: true
 				- {{embed ((631d71ee-4f3f-4017-8387-e39c63cfdec4))}}
 				- {{embed ((62c2d9e7-6962-4f17-937b-6ffdda9e3328))}}
 			- {{embed ((6326e2d2-ec57-47d7-93ab-d6ef19401011))}}
@@ -605,20 +645,26 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				  collapsed:: true
 					- #admon-info NOTE: In the proper case, there can be institution in a marriage settlement. (See [Art. 130](((631d723d-bf08-45f0-8937-a6e356a2139e)))).
 		- **ARTICLE 841.**
+		  collapsed:: true
 			- A will shall be valid even though it should not contain an institution of an heir, or such institution should not comprise the entire estate, and even though the person so instituted should not accept the inheritance or should be incapacitated to succeed.
 			- In such cases the testamentary dispositions made in accordance with law shall be complied with and the remainder of the estate shall pass to the legal heirs. (764)
 			- #### Commentaries
+			  collapsed:: true
 				- [Paras](((6343f0eb-a268-4b02-80f6-b7906f150710)))
 		- **ARTICLE 842.**
 		  id:: 6337096d-87cb-425f-8e92-0debbc566e4d
+		  collapsed:: true
 			- One who has no compulsory heirs may dispose by will of all his estate or any part of it in favor of any person having capacity to succeed.
 			- One who has compulsory heirs may dispose of his estate provided he does not contravene the provisions of this Code with regard to the legitime of said heirs. (763a)
 			- #### Commentaries
+			  collapsed:: true
 				- [Paras](((6343f0ba-e828-490b-b44a-767f7e90186e)))
 		- **ARTICLE 843.**
+		  collapsed:: true
 			- The testator shall designate the heir by his name and surname, and when there are two persons having the same names, he shall indicate some circumstance by which the instituted heir may be known.
 			- Even though the testator may have omitted the name of the heir, should he designate him in such manner that there can be no doubt as to who has been instituted, the institution shall be valid. (772)
 			- #### Commentaries
+			  collapsed:: true
 				- [Paras](((6343f08a-808d-454a-902d-3a97c4cf3985)))
 		- **ARTICLE 844.**
 		  collapsed:: true
@@ -626,9 +672,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If among persons having the same names and surnames, there is a similarity of circumstances in such a way that, even with the use of other proof, the person instituted cannot be identified, none of them shall be an heir. (773a)
 			- #### Commentaries
 		- **ARTICLE 845.**
+		  collapsed:: true
 			- Every disposition in favor of an unknown person shall be void, unless by some event or circumstance his identity becomes certain.
 			- However, a disposition in favor of a definite class or group of persons shall be valid. (750a)
 			- #### Commentaries
+			  collapsed:: true
 				- [Paras](((6343f471-8b47-48d1-93a7-4047e1ddd1fa)))
 		- **ARTICLE 846.**
 		  collapsed:: true
@@ -648,14 +696,18 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- #### Commentaries
 		- **ARTICLE 850.**
 		  id:: 6337096d-e94b-42b3-aac4-e94466c0a352
+		  collapsed:: true
 			- The statement of a false cause for the institution of an heir shall be considered as not written, unless it appears from the will that the testator would not have made such institution if he had known the falsity of such cause. (767a)
 			- #### Commentaries
 			- [Jurado](((634b8898-e17b-476f-a370-506537b4b00d)))
+			  collapsed:: true
 				- ## Requisites that must concur before the institution of heirs may annulled
+				  collapsed:: true
 					- First, the cause for the institution of heirs must be stated in the will;
 					- Second, the cause must be shown to be false; and
 					- Third, it must appear from the face of the will that the testator would not have made such institution if he had known of the falsity of the cause.
 				- Consequently, where the testator’s will does not state in a specific or unequivocal manner the cause for such institution, the annulment of such institution cannot be availed of.[^30]
+				  collapsed:: true
 					- [^30]: _{Austria vs. Reyes, 31 SCRA 754.}
 		- **ARTICLE 851.**
 		  id:: 6337096d-0fd1-43eb-b728-ebcafd67236e
@@ -663,10 +715,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the testator has instituted only one heir, and the institution is limited to an aliquot part of the inheritance, legal succession takes place with respect to the remainder of the estate.
 			- The same rule applies, if the testator has instituted several heirs each being limited to an aliquot part, and all the parts do not cover the whole inheritance. (n)
 			- #### Commentaries
+			  collapsed:: true
 				- [Mison](((634b8861-dae6-4541-bb0d-79079cfb3c78)))
 				- [Arts. 851-853 Jurado](((634b8970-5961-489a-add8-e0188ad25c3f)))
 		- **ARTICLE 852.**
 		  id:: 6337096d-669d-48a1-b19c-13ebb0aa45a4
+		  collapsed:: true
 			- If it was the intention of the testator that the instituted heirs should become sole heirs to the whole estate, or the whole free portion, as the case may be, and each of them has been instituted to an aliquot part of the inheritance and their aliquot parts together do not cover the whole inheritance, or the whole free portion, each part shall be increased proportionally. (n)
 			- #### Commentaries
 		- **ARTICLE 853.**
@@ -676,16 +730,20 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- #### Commentaries
 		- **ARTICLE 854.**
 		  id:: 6337096d-207b-48c7-b538-db584ba012e6
+		  collapsed:: true
 			- The [[preterition]] or omission of one, some, or all of the compulsory heirs in the direct line, whether living at the time of the execution of the will or [born after the death of the testator](((634d420d-6d89-4780-93f0-b4a3cc27a214))), shall annul the institution of heir; but the devises and legacies shall be valid insofar as they are not [inofficious](((634b8a5b-98c0-4147-80bc-af5a5be15738))).
 			- If the omitted compulsory heirs should die before the testator, the institution shall be effectual, without prejudice to the right of representation. (814a)
 			- #### Commentaries
+			  collapsed:: true
 				- [Bueno Mison on Preterition](((6327294a-c3ad-4e8d-84bc-43fbaf4fe552)))
 				- [Jurado](((634b89ad-ecb0-40d6-8331-5624d42077e0)))
+				  collapsed:: true
 					-
 			- *inofficious* — **Indifferent to obligation or duty.** Contrary to one's natural obligation or duty, as of a testament by which a child is unjustly deprived of inheritance.
 			  id:: 634b8a5b-98c0-4147-80bc-af5a5be15738
 		- **ARTICLE 855.**
 		  id:: 6337096d-7357-4805-8256-bb4d977e2dd6
+		  collapsed:: true
 			- The share of a child or descendant omitted in a will must first be taken from the part of the estate not disposed of by the will, if any; if that is not sufficient, so much as may be necessary must be taken proportionally from the shares of the other compulsory heirs. (1080a)
 			- #### Commentaries
 		- **ARTICLE 856.**
@@ -698,45 +756,59 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 6337096d-4cfb-4150-834c-aa73eaad29cf
 	  collapsed:: true
 		- **ARTICLE 857.**
+		  collapsed:: true
 			- Substitution is the appointment of another heir so that he may enter into the inheritance in default of the heir originally instituted. (n)
 		- **ARTICLE 858.**
+		  collapsed:: true
 			- Substitution of heirs may be:
 			- (1) Simple or common;
 			- (2) Brief or compendious;
 			- (3) Reciprocal; or
 			- (4) Fideicommissary. (n)
+			  collapsed:: true
 				- ***Commentaries:***
 				- [Mison Arts 858-859](((635667e5-723f-4c43-87fc-9c34f1047d8a)))
 				- [Jurado](((63566822-b5b5-4ef4-926a-82866df62dc0)))
 		- **ARTICLE 859.**
+		  collapsed:: true
 			- The testator may designate one or more persons to substitute the heir or heirs instituted in case such heir or heirs should die before him, or should not wish, or should be incapacitated to accept the inheritance.
 			- A simple substitution, without a statement of the cases to which it refers, shall comprise the three mentioned in the preceding paragraph, unless the testator has otherwise provided. (774)
 			- ***Commentaries:***
+			  collapsed:: true
 				- [Jurado Arts. 859-862](((6356685a-07d6-4060-baa8-89f8be0855f1)))
 		- **ARTICLE 860.**
 		  collapsed:: true
 			- Two or more persons may be substituted for one; and one person for two or more heirs. (778)
 		- **ARTICLE 861.**
+		  collapsed:: true
 			- If heirs instituted in unequal shares should be reciprocally substituted, the substitute shall acquire the share of the heir who dies, renounces, or is incapacitated, unless it clearly appears that the intention of the testator was otherwise.
 			- If there are more than one substitute, they shall have the same share in the substitution as in the institution. (779a)
+			  collapsed:: true
 				- ***Commentaries:***
 				- [Mison](((635668c9-f73c-4fbf-9656-cc3401d1f0dc)))
 		- **ARTICLE 862.**
+		  collapsed:: true
 			- The substitute shall be subject to the same charges and conditions imposed upon the instituted heir, unless the testator has expressly provided the contrary, or the charges or conditions are personally applicable only to the heir instituted. (780)
+			  collapsed:: true
 				- ***Commentaries:***
 				- [Mison, 862-863](((635668ed-2daf-45b7-bc3f-37ac7f670bea)))
 		- **ARTICLE 863.**
 		  id:: 51969761-7636-4cef-8546-c0cef954b27d
+		  collapsed:: true
 			- A fideicommissary substitution by virtue of which the fiduciary or first heir instituted is entrusted with the obligation to preserve and to transmit to a second heir the whole or part of the inheritance, shall be valid and shall take effect, provided such substitution does not go beyond one degree from the heir originally instituted, and provided further, that the fiduciary or first heir and the second heir are living at the time of the death of the testator. (781a)
 			- ***Commentaries:***
 			- [Jurado, Arts. 863-866](((634e9aa2-04b4-42d0-817e-12b7b2531c48)))
+			  collapsed:: true
 				- [[Fideicommissary Substitution]] ((634e9d49-ee49-4f2c-8401-e97aa16774cd))
 		- **ARTICLE 864.**
+		  collapsed:: true
 			- A fideicommissary substitution can never burden the legitime. (782a)
+			  collapsed:: true
 				- ***Commentaries:***
 				- [Mison](((6356693d-be43-47c0-9367-2a35bea47e87)))
 				- [Jurado requisites](((634e9a06-a5a4-458a-b4e6-e1412276975c)))
 				  id:: 634e99f5-48e0-4935-b763-1eedd022fd75
+				  collapsed:: true
 					- (1) There must be a first heir primarily called to the enjoyment of the estate.
 					- (2) There must be a second heir.
 					- (3) There must be an obligation clearly imposed upon the first heir to preserve the estate and to transmit it to the second heir.
@@ -747,38 +819,55 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- ((634e9a6e-ecbf-4b83-b28d-268110130a30))
 					- ((634e9a7c-e757-4b06-8e82-63a42f8425fd))
 		- **ARTICLE 865.**
+		  collapsed:: true
 			- Every fideicommissary substitution must be expressly made in order that it may be valid.
 			- The fiduciary shall be obliged to deliver the inheritance to the second heir, without other deductions than those which arise from legitimate expenses, credits and improvements, save in the case where the testator has provided otherwise. (783)
+			  collapsed:: true
 				- [Mison](((63566969-d5ae-4b71-806e-34180b69111c)))
 		- **ARTICLE 866.**
+		  collapsed:: true
 			- The second heir shall acquire a right to the succession from the time of the testator’s death, even though he should die before the fiduciary.
 			- The right of the second heir shall pass to his heirs. (784)
+			  collapsed:: true
 				- [Mison](((63566983-eb6a-4dee-9d12-4c783dafc3ea)))
+				  collapsed:: true
 					- ((635669a1-8188-40b5-8ef1-713b156d2c4b))
 		- **ARTICLE 867.**
+		  collapsed:: true
 			- The following shall not take effect:
+			  collapsed:: true
 				- (1) Fideicommissary substitutions which are not made in an express manner, either by giving them this name, or imposing upon the fiduciary the absolute obligation to deliver the property to a second heir;
 				- (2) Provisions which contain a perpetual prohibition to alienate, and even a temporary one, beyond the limit fixed in [article 863](((51969761-7636-4cef-8546-c0cef954b27d)));
 				- (3) Those which impose upon the heir the charge of paying to various persons successively, beyond the limit prescribed in [article 863](((51969761-7636-4cef-8546-c0cef954b27d))), a certain income or pension;
 				- (4) Those which leave to a person the whole or part of the hereditary property in order that he may apply or invest the same according to secret instructions communicated to him by the testator. (785a)
+				  collapsed:: true
 					- ***Commentaries:***
 					- [Mison](((635669b0-4ae2-4322-ade7-2b05f82bc64b)))
 		- **ARTICLE 868.**
+		  collapsed:: true
 			- The nullity of the fideicommissary substitution does not prejudice the validity of the institution of the heirs first designated; the fideicommissary clause shall simply be considered as not written. (786)
+			  collapsed:: true
 				- ***Commentaries:***
 				- [Jurado](((63566a25-c349-438e-9654-ed6984c9941d)))
+				  collapsed:: true
 					- ((63566a75-cfd0-4d6b-ac0a-cadfa332096f))
 		- **ARTICLE 869.**
+		  collapsed:: true
 			- A provision whereby the testator leaves to a person the whole or part of the inheritance, and to another the usufruct, shall be valid.
 			- If he gives the usufruct to various persons, not simultaneously, but successively, the provisions of [article 863](((51969761-7636-4cef-8546-c0cef954b27d))) shall apply. (787a)
+			  collapsed:: true
 				- [Mison](((635669cb-a3e2-4340-8e26-b9ff040791e0)))
 		- **ARTICLE 870.**
+		  collapsed:: true
 			- The dispositions of the testator declaring all or part of the estate inalienable for more than twenty years are void. (n)
+			  collapsed:: true
 				- [Mison](((635669df-d6d9-4602-9d3f-ce2bb34d9ed5)))
 				- [Jurado](((63566abc-26b2-47a4-8226-65ff273c0310)))
 	- ## SECTION 4 - [[Conditional Testamentary Dispositions and Testamentary Dispositions With a Term]]
 	  background-color:: yellow
+	  collapsed:: true
 		- ***Commentaries***
+		  collapsed:: true
 			- [Jurado](((63567c65-c8c8-43c1-b2e6-cbb7c59de07e)))
 			- [Mison](((635669fc-ba23-4415-be9d-6b1196b19214)))
 			- [Paras](((63567cdf-ab71-4e8e-a362-c4dfd37650da)))
@@ -802,6 +891,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- An absolute condition not to contract a first or subsequent marriage shall be considered as not written unless such condition has been imposed on the widow or widower by the deceased spouse, or by the latter’s ascendants or descendants.
 			- Nevertheless, the right of usufruct, or an allowance or some personal prestation may be devised or bequeathed to any person for the time during which he or she should remain unmarried or in widowhood. (793a)
 			- [Paras](((63568324-63ba-401e-ba9e-87b8db71d33e)))
+			  collapsed:: true
 				- ((63568a79-292b-422a-b168-c8d0c58fde2b))
 			-
 		- **ARTICLE 875.**
@@ -810,10 +900,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Any disposition made upon the condition that the heir shall make some provision in his will in favor of the testator or of any other person shall be void. (794a)
 		- **ARTICLE 876.**
 		  id:: 634fba6d-dc7e-4894-a0c2-5faefc556bc3
+		  collapsed:: true
 			- Any purely potestative condition imposed upon an heir must be fulfilled by him as soon as he learns of the testator’s death.
 			- This rule shall not apply when the condition, already complied with, cannot be fulfilled again. (795a)
 		- **ARTICLE 877.**
 		  id:: 634fba6d-02b2-40e0-bc83-8a4618335437
+		  collapsed:: true
 			- If the condition is casual or mixed, it shall be sufficient if it happen or be fulfilled at any time before or after the death of the testator, unless he has provided otherwise.
 			- Should it have existed or should it have been fulfilled at the time the will was executed and the testator was unaware thereof, it shall be deemed as complied with.
 			- If he had knowledge thereof, the condition shall be considered fulfilled only when it is of such a nature that it can no longer exist or be complied with again. (796)
@@ -821,11 +913,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- A disposition with a suspensive term does not prevent the instituted heir from acquiring his rights and transmitting them to his heirs even before the arrival of the term. (799a)
 			- [Mison](((6357d70a-62ec-47fb-943b-9544032ceb72)))
+			  collapsed:: true
 				- ((6357d70a-62ec-47fb-943b-9544032ceb72))
 				- ((6357d71e-4cb7-48cd-a3bd-64d1168523ab))
 				- ((6357d72c-cf64-4f0e-af49-3bf52f5baac2))
 		- **ARTICLE 879.**
 		  id:: 634fba6d-e14c-41e1-9989-1262309c2794
+		  collapsed:: true
 			- If the potestative condition imposed upon the heir is negative, or consists in not doing or not giving something, he shall comply by giving a security that he will not do or give that which has been prohibited by the testator, and that in case of contravention he will return whatever he may have received, together with its fruits and interests. (800a)
 		- **ARTICLE 880.**
 		  collapsed:: true
@@ -854,15 +948,19 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- But in the first case he shall not enter into possession of the property until after having given sufficient security, with the intervention of the instituted heir. (805)
 			- [Paras](((6357df6e-767b-4222-8de2-cf61670b5f75)))
 	- ## SECTION 5 - [[Legitime]]
+	  collapsed:: true
 		- [Jurado](((6356d91e-053a-4ae4-8f2e-26e11b50b033)))
 		- [Mison](((6356d695-7e19-4891-b34c-da020b8b167a)))
 		- [Paras](((6356d937-61ca-4c04-aded-7170e380b77a)))
 		- **ARTICLE 886.**
 		  id:: 634fba6d-78b7-4ce7-a959-dce0556783d5
+		  collapsed:: true
 			- Legitime is that part of the testator’s property which he cannot dispose of because the law has reserved it for certain heirs who are, therefore, called compulsory heirs. (806)
 		- **ARTICLE 887.**
 		  id:: 634fba6d-b427-495e-a84a-98c6daab592b
+		  collapsed:: true
 			- The following are compulsory heirs:
+			  collapsed:: true
 				- (1) Legitimate children and descendants, with respect to their legitimate parents and ascendants;
 				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their legitimate children and descendants;
 				- (3) The widow or widower;
@@ -953,6 +1051,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Every renunciation or compromise as regards a future legitime between the person owing it and his compulsory heirs is void, and the latter may claim the same upon the death of the former; but they must bring to collation whatever they may have received by virtue of the renunciation or compromise. (816)
 		- **ARTICLE 906.**
 		  id:: 6337096d-076f-4b58-a622-ef9cf6d7b62f
+		  collapsed:: true
 			- Any compulsory heir to whom the testator has left by any title less than the legitime belonging to him may demand that the same be fully satisfied. (815)
 		- **ARTICLE 907.**
 		  collapsed:: true
@@ -1052,6 +1151,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The children and descendants of the person disinherited shall take his or her place and shall preserve the rights of compulsory heirs with respect to the legitime; but the disinherited parent shall not have the usufruct or administration of the property which constitutes the legitime. (857)
 	- ## SECTION 7 - Legacies and Devises
+	  collapsed:: true
 		- **ARTICLE 924.**
 		  collapsed:: true
 			- All things and rights which are within the commerce of man may be bequeathed or devised. (865a)
@@ -1096,6 +1196,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Any other charge, perpetual or temporary, with which the thing bequeathed is burdened, passes with it to the legatee or devisee. (867a)
 		- **ARTICLE 935.**
 		  id:: 634fba6c-c347-4290-95ce-cda01cb2be1c
+		  collapsed:: true
 			- The legacy of a credit against a third person or of the remission or release of a debt of the legatee shall be effective only as regards that part of the credit or debt existing at the time of the death of the testator.
 			- In the first case, the estate shall comply with the legacy by assigning to the legatee all rights of action it may have against the debtor. In the second case, by giving the legatee an acquittance, should he request one.
 			- In both cases, the legacy shall comprise all interests on the credit or debt which may be due the testator at the time of his death. (870a)
@@ -1190,6 +1291,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the legatee or devisee cannot or is unwilling to accept the legacy or devise, or if the legacy or devise for any reason should become ineffective, it shall be merged into the mass of the estate, except in cases of substitution and of the right of accretion. (888a)
 		- **ARTICLE 957.**
 		  id:: 634fba6c-8cac-41b2-8084-46912e88b257
+		  collapsed:: true
 			- The legacy or devise shall be without effect:
 			  collapsed:: true
 				- (1) If the testator transforms the thing bequeathed in such a manner that it does not retain either the form or the denomination it had;
@@ -1298,6 +1400,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- Succession pertains, in the first place, to the descending direct line. (930)
 			- **ARTICLE 979.**
 			  id:: 6337096d-1fa5-4399-8147-acc5e4f068f5
+			  collapsed:: true
 				- Legitimate children and their descendants succeed the parents and other ascendants, without distinction as to sex or age, and even if they should come from different marriages.
 				- An adopted child succeeds to the property of the adopting parents in the same manner as a legitimate child. (931a)
 				  id:: 6337096d-4969-4540-8415-8513f893cb14
@@ -1315,6 +1418,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- If illegitimate children survive with legitimate children, the shares of the former shall be in the proportions prescribed by article 895. (n)
 			- **ARTICLE 984.**
 			  id:: 6337096d-cafe-4ee6-9ca0-9e55e45e2899
+			  collapsed:: true
 				- In case of the death of an adopted child, leaving no children or descendants, his parents and relatives by consanguinity and not by adoption, shall be his legal heirs. (n)
 				  id:: 6337096d-be29-4ffc-903b-f90c56d3c110
 		- ### SUBSECTION 2 - Ascending Direct Line
@@ -1514,6 +1618,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 		  id:: 6337096d-fd19-423c-8f18-3e4a0b3c177e
 			- The following are incapable of succeeding by reason of unworthiness:
+			  collapsed:: true
 				- (1) Parents who have abandoned their children or induced their daughters to lead a corrupt or immoral life, or attempted against their virtue;
 				- (2) Any person who has been convicted of an attempt against the life of the testator, his or her spouse, descendants, or ascendants;
 				  id:: 3dc7eddc-274c-4fad-b77e-98f3093abf85
@@ -1723,6 +1828,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- Every act which is intended to put an end to indivision among co-heirs and legatees or devisees is deemed to be a partition, although it should purport to be a sale, an exchange, a compromise, or any other transaction. (n)
 			- **ARTICLE 1083.**
 			  id:: 63007584-349e-4436-8922-66cdf8808529
+			  collapsed:: true
 				- Every co-heir has a right to demand the division of the estate unless the testator should have expressly forbidden its partition, in which case the period of indivision shall not exceed twenty years as provided in [article 494](((6300756e-528a-4885-99f8-539e59a4b1ab))).
 				- This power of the testator to prohibit division applies to the legitime.
 				- Even though forbidden by the testator, the co-ownership terminates when any of the causes for which partnership is dissolved takes place, or when the court finds for compelling reasons that division should be ordered, upon petition of one of the co-heirs. (1051a)
@@ -1809,9 +1915,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			  collapsed:: true
 				- A partition which includes a person believed to be an heir, but who is not, shall be void only with respect to such person. (1081a)
 - [[Comments]]
-  collapsed:: true
 	- [[Thursday, 1st September 2022]]
-	  collapsed:: true
 		- ((63104e94-272f-43bd-b213-501dbe8caa1b))
 		  collapsed:: true
 			- Elements of Succession:
