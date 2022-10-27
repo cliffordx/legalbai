@@ -9,7 +9,7 @@ title:: Legitime
 			- [^886] _{Garner, Bryan A., and Henry Campbell Black, eds. *Black’s Law Dictionary*. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p.1084.}
 - # Art. 886
 	- > {{embed ((634fba6d-78b7-4ce7-a959-dce0556783d5))}}
-	- # ((6356d6c9-4ec9-4996-b88c-b04dadd42557))
+	- # Concept of Legitime
 		- Under the Spanish Civil Code as well as under our Code, the legitime is defined as [[#red]]==that part of the testator’s property which he cannot dispose of because the law has reserved it for certain heirs who are, therefore, called compulsory heirs.==
 		- From this definition, it is clear that a part or portion of the hereditary estate is to a certain extent withdrawn from the patrimony of the testator so that he can no longer dispose of it by any gratuitous title, although he can still enjoy it. According to Manresa, this is the distinctive nature or characteristic of the system of legitime.[^3] This limited withdrawal from the testator’s patrimony is due to the fact that the legitime is already reserved by operation of law for certain heirs who are, therefore called compulsory heirs.
 			- #### Meaning of “Compulsory”
