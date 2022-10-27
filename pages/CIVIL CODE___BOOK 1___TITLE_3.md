@@ -2,7 +2,7 @@ title:: CIVIL CODE/BOOK 1/TITLE_3
 alt-title:: Civil Code of the Philippines BOOK I - TITLE III-IX —  **REPEALED**
 tags:: #[[codal/Family Code of the Philippines]] #repealed
 status:: repealed
-date-uploaded:: 16:03; Thursday, 27th October 2022
+
 
 - Repealed by Executive Order No. 209, Otherwise Known as the "Family Code of the Philippines."
 - Superseded by: [TITLE I - MARRIAGE]([[codal/Family Code of the Philippines/Title 1]]) (Family Code of the Philippines)
