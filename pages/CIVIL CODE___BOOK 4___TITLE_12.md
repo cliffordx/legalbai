@@ -150,7 +150,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- A deposit is extinguished:
 				- (1) Upon the loss or destruction of the thing deposited;
 				- (2) In case of a gratuitous deposit, upon the death of either the depositor or the depositary. (n)
-- 🔴 CHAPTER 3 - NECESSARY DEPOSIT]]
+- 🔴 CHAPTER 3 - NECESSARY DEPOSIT
   heading:: true
   id:: 62b5c743-8f47-4977-8838-73d245e74d49
   collapsed:: true
