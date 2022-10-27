@@ -10,16 +10,21 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   heading:: true
   collapsed:: true
 	- **ARTICLE 1642.**
+	  collapsed:: true
 		- The contract of lease may be of things, or of work and service. (1542)
 	- **ARTICLE 1643.**
+	  collapsed:: true
 		- In the lease of things, one of the parties binds himself to give to another the enjoyment or use of a thing for a price certain, and for a period which may be definite or indefinite.  ^d2ef6f
 		- However, no lease for more than ninety-nine years shall be valid. (1543a)
 	- **ARTICLE 1644.**
+	  collapsed:: true
 		- In the lease of work or service, one of the parties binds himself to execute a piece of work or to render to the other some service for a price certain, but the relation of principal and agent does not exist between them. (1544a)
 	- **ARTICLE 1645.**
+	  collapsed:: true
 		- Consumable goods cannot be the subject matter of a contract of lease, except when they are merely to be exhibited or when they are accessory to an industrial establishment. (1545a)
 - 🔴 CHAPTER 2 - LEASE OF RURAL AND URBAN LANDS
   heading:: true
+  collapsed:: true
 	- ## SECTION 1 - General Provisions
 	  collapsed:: true
 		- **ARTICLE 1646.**
@@ -30,6 +35,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If a lease is to be recorded in the Registry of Property, the following persons cannot constitute the same without proper authority: the husband with respect to the wife’s paraphernal real estate, the father or guardian as to the property of the minor or ward, and the manager without special power. (1548a)
 		- **ARTICLE 1648.**
 		  id:: 63370974-fb38-4b1e-b5b2-fc29f603e55c
+		  collapsed:: true
 			- Every lease of real estate may be recorded in the Registry of Property. Unless a lease is recorded, it shall not be binding upon third persons. (1549a)
 		- **ARTICLE 1649.**
 		  collapsed:: true
@@ -53,6 +59,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1654.**
 		  collapsed:: true
 			- The lessor is obliged:
+			  collapsed:: true
 				- (1) To deliver the thing which is the object of the contract in such a condition as to render it fit for the use intended;
 				  id:: 62b5cf8b-d2b4-43d4-a40b-ca84df423b10
 				- (2) To make on the same during the lease all the necessary repairs in order to keep it suitable for the use to which it has been devoted, unless there is a stipulation to the contrary;
@@ -126,6 +133,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: e81ee7ce-c4c9-4d72-84a0-1adb4027f559
 		  collapsed:: true
 			- The lessor may judicially eject the lessee for any of the following causes:
+			  collapsed:: true
 				- (1) When the period agreed upon, or that which is fixed for the duration of leases under articles 1682 and 1687, has expired;
 				- (2) Lack of payment of the price stipulated;
 				- (3) Violation of any of the conditions agreed upon in the contract;
@@ -154,6 +162,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- If nothing has been stipulated concerning the place and the time for the payment of the lease, the provisions of article 1251 shall be observed as regards the place; and with respect to the time, the custom of the place shall be followed. (1574)
 	- ## SECTION 3 - Special Provisions for Leases of Rural Lands
+	  collapsed:: true
 		- **ARTICLE 1680.**
 		  collapsed:: true
 			- The lessee shall have no right to a reduction of the rent on account of the sterility of the land leased, or by reason of the loss of fruits due to ordinary fortuitous events; but he shall have such right in case of the loss of more than one-half of the fruits through extraordinary and unforeseen fortuitous events, save always when there is a specific stipulation to the contrary.
@@ -174,6 +183,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The tenant on shares cannot be ejected except in cases specified by law. (n)
 	- ## SECTION 4 - Special Provisions for the Lease of Urban Lands
+	  collapsed:: true
 		- **ARTICLE 1686.**
 		  collapsed:: true
 			- In default of a special stipulation, the custom of the place shall be observed with regard to the kind of repairs on urban property for which the lessor shall be liable.
@@ -189,6 +199,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When the lessor of a house, or part thereof, used as a dwelling for a family, or when the lessor of a store, or industrial establishment, also leases the furniture, the lease of the latter shall be deemed to be for the duration of the lease of the premises. (1582)
 - 🔴 CHAPTER 3 - WORK AND LABOR
   heading:: true
+  collapsed:: true
 	- ## SECTION 1 - Household Service (n)
 	  collapsed:: true
 		- **ARTICLE 1689.**
@@ -221,6 +232,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1698.**
 		  collapsed:: true
 			- If the duration of the household service is not determined either by stipulation or by the nature of the service, the head of the family or the house helper may give notice to put an end to the service relation, according to the following rules:
+			  collapsed:: true
 				- (1) If the compensation is paid by the day, notice may be given on any day that the service shall end at the close of the following day;
 				- (2) If the compensation is paid by the week, notice may be given, at the latest, on the first business day of the week, that the service shall be terminated at the end of the seventh day from the beginning of the week;
 				- (3) If the compensation is paid by the month, notice may be given, at the latest, on the fifth day of the month, that the service shall cease at the end of the month.
@@ -228,6 +240,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- Upon the extinguishment of the service relation, the house helper may demand from the head of the family a written statement on the nature and duration of the service and the efficiency and conduct of the house helper.
 	- ## SECTION 2 - Contract of Labor (n)
+	  collapsed:: true
 		- **ARTICLE 1700.**
 		  collapsed:: true
 			- The relations between capital and labor are not merely contractual. They are so impressed with public interest that labor contracts must yield to the common good. Therefore, such contracts are subject to the special laws on labor unions, collective bargaining, strikes and lockouts, closed shop, wages, working conditions, hours of labor and similar subjects.
@@ -272,6 +285,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the death or injury is due to the negligence of a fellow worker, the latter and the employer shall be solidarily liable for compensation.
 			- If a fellow worker’s intentional or malicious act is the only cause of the death or injury, the employer shall not be answerable, unless it should be shown that the latter did not exercise due diligence in the selection or supervision of the plaintiff’s fellow worker.
 	- ## SECTION 3 - Contract for a Piece of Work
+	  collapsed:: true
 		- **ARTICLE 1713.**
 		  collapsed:: true
 			- By the contract for a piece of work the contractor binds himself to execute a piece of work for the employer, in consideration of a certain price or compensation.
@@ -298,6 +312,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1719.**
 		  collapsed:: true
 			- Acceptance of the work by the employer relieves the contractor of liability for any defect in the work, unless:
+			  collapsed:: true
 				- (1) The defect is hidden and the employer is not, by his special knowledge, expected to recognize the same; or
 				- (2) The employer expressly reserves his rights against the contractor by reason of the defect. (n)
 		- **ARTICLE 1720.**
@@ -322,6 +337,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1724.**
 		  collapsed:: true
 			- The contractor who undertakes to build a structure or any other work for a stipulated price, in conformity with plans and specifications agreed upon with the land-owner, can neither withdraw from the contract nor demand an increase in the price on account of the higher cost of labor or materials, save when there has been a change in the plans and specifications, provided:
+			  collapsed:: true
 				- (1) Such change has been authorized by the proprietor in writing; and
 				- (2) The additional price to be paid to the contractor has been determined in writing by both parties. (1593a)
 		- **ARTICLE 1725.**
@@ -342,6 +358,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- Those who put their labor upon or furnish materials for a piece of work undertaken by the contractor have an action against the owner up to the amount owing from the latter to the contractor at the time the claim is made.
 			- However, the following shall not prejudice the laborers, employees and furnishers of materials:
+			  collapsed:: true
 				- (1) Payments made by the owner to the contractor before they are due;
 				- (2) Renunciation by the contractor of any amount due him from the owner.
 			- This article is subject to the provisions of special laws. (1597a)
@@ -354,17 +371,24 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- He who has executed work upon a movable has a right to retain it by way of pledge until he is paid. (1600)
 	- ## SECTION 4 - Common Carriers (n)
 	  id:: 63007580-14c3-4bbb-8a30-3cdce7e2c1d6
+	  collapsed:: true
 		- ### SUBSECTION 1- General Provisions
+		  collapsed:: true
 			- **ARTICLE 1732.**
+			  collapsed:: true
 				- Common carriers are persons, corporations, firms or associations engaged in the business of carrying or transporting passengers or goods or both, by land, water, or air, for compensation, offering their services to the public.
 			- **ARTICLE 1733.**
 			  id:: b373a407-5ca0-437e-84fe-0e32097d1edb
+			  collapsed:: true
 				- Common carriers, from the nature of their business and for reasons of public policy, are bound to observe extraordinary diligence in the vigilance over the goods and for the safety of the passengers transported by them, according to all the circumstances of each case.
 				- Such extraordinary diligence in the vigilance over the goods is further expressed in articles [1734](((5fe71abe-5b29-4409-9f8f-e5bf435d15d5))), [1735](((6811a026-b34b-4eb1-948a-174e521d8313))), and 1745, Nos. [5](((631d71fe-01c4-45ee-b407-0322d49b868c))), [6](((631d71fe-1e17-43eb-8e40-6e95a5ee3ddd))), and [7](((631d71fe-9a98-42fe-900b-357b9083a7c0))), while the extraordinary diligence for the safety of the passengers is further set forth in articles [1755](((1a2fc100-9b9d-4c4f-8387-cda2225eebbf))) and [1756](((4e6ac37f-7443-4af5-a414-7331b8f045fd))).
 		- ### SUBSECTION 2 - Vigilance Over Goods
+		  collapsed:: true
 			- **ARTICLE 1734.**
 			  id:: 5fe71abe-5b29-4409-9f8f-e5bf435d15d5
+			  collapsed:: true
 				- Common carriers are responsible for the loss, destruction, or deterioration of the goods, unless the same is due to any of the following causes only:
+				  collapsed:: true
 					- (1) Flood, storm, earthquake, lightning, or other natural disaster or calamity;
 					- (2) Act of the public enemy in war, whether international or civil;
 					- (3) Act or omission of the shipper or owner of the goods;
@@ -372,35 +396,48 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- (5) Order or act of competent public authority.
 			- **ARTICLE 1735.**
 			  id:: 6811a026-b34b-4eb1-948a-174e521d8313
+			  collapsed:: true
 				- In all cases other than those mentioned in Nos. 1, 2, 3, 4, and 5 of the preceding article, if the goods are lost, destroyed or deteriorated, common carriers are presumed to have been at fault or to have acted negligently, unless they prove that they observed extraordinary diligence as required in [article 1733](((b373a407-5ca0-437e-84fe-0e32097d1edb))).
 			- **ARTICLE 1736.**
 			  id:: 634fba72-77c2-42f5-920b-f42a7105e99a
+			  collapsed:: true
 				- The extraordinary responsibility of the common carrier lasts from the time the goods are unconditionally placed in the possession of, and received by the carrier for transportation until the same are delivered, actually or constructively, by the carrier to the consignee, or to the person who has a right to receive them, without prejudice to the provisions of [article 1738](((634fba72-b285-4878-abf9-b99d5e6d8786))).
 			- **ARTICLE 1737.**
+			  collapsed:: true
 				- The common carrier’s duty to observe extraordinary diligence in the vigilance over the goods remains in full force and effect even when they are temporarily unloaded or stored in transit, unless the shipper or owner has made use of the right of stoppage *in transitu*.
 			- **ARTICLE 1738.**
 			  id:: 634fba72-b285-4878-abf9-b99d5e6d8786
+			  collapsed:: true
 				- The extraordinary liability of the common carrier continues to be operative even during the time the goods are stored in a warehouse of the carrier at the place of destination, until the consignee has been advised of the arrival of the goods and has had reasonable opportunity thereafter to remove them or otherwise dispose of them.
 			- **ARTICLE 1739.**
+			  collapsed:: true
 				- In order that the common carrier may be exempted from responsibility, the natural disaster must have been the proximate and only cause of the loss.
 				- However, the common carrier must exercise due diligence to prevent or minimize loss before, during and after the occurrence of flood, storm or other natural disaster in order that the common carrier may be exempted from liability for the loss, destruction, or deterioration of the goods.
 				- The same duty is incumbent upon the common carrier in case of an act of the public enemy referred to in article 1734, No. 2.
 			- **ARTICLE 1740.**
+			  collapsed:: true
 				- If the common carrier negligently incurs in delay in transporting the goods, a natural disaster shall not free such carrier from responsibility.
 			- **ARTICLE 1741.**
+			  collapsed:: true
 				- If the shipper or owner merely contributed to the loss, destruction or deterioration of the goods, the proximate cause thereof being the negligence of the common carrier, the latter shall be liable in damages, which however, shall be equitably reduced.
 			- **ARTICLE 1742.**
+			  collapsed:: true
 				- Even if the loss, destruction, or deterioration of the goods should be caused by the character of the goods, or the faulty nature of the packing or of the containers, the common carrier must exercise due diligence to forestall or lessen the loss.
 			- **ARTICLE 1743.**
+			  collapsed:: true
 				- If through the order of public authority the goods are seized or destroyed, the common carrier is not responsible, provided said public authority had power to issue the order.
 			- **ARTICLE 1744.**
+			  collapsed:: true
 				- A stipulation between the common carrier and the shipper or owner limiting the liability of the former for the loss, destruction, or deterioration of the goods to a degree less than extraordinary diligence shall be valid, provided it be:
+				  collapsed:: true
 					- (1) In writing, signed by the shipper or owner;
 					- (2) Supported by a valuable consideration other than the service rendered by the common carrier; and
 					- (3) Reasonable, just and not contrary to public policy.
 			- **ARTICLE 1745.**
 			  id:: fa2e0328-3fd2-4109-9e96-ae654261e819
+			  collapsed:: true
 				- Any of the following or similar stipulations shall be considered unreasonable, unjust and contrary to public policy:
+				  collapsed:: true
 					- (1) That the goods are transported at the risk of the owner or shipper;
 					- (2) That the common carrier will not be liable for any loss, destruction, or deterioration of the goods;
 					- (3) That the common carrier need not observe any diligence in the custody of the goods;
@@ -412,52 +449,75 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- (7) That the common carrier is not responsible for the loss, destruction, or deterioration of goods on account of the defective condition of the car, vehicle, ship, airplane or other equipment used in the contract of carriage.
 					  id:: 631d71fe-9a98-42fe-900b-357b9083a7c0
 			- **ARTICLE 1746.**
+			  collapsed:: true
 				- An agreement limiting the common carrier’s liability may be annulled by the shipper or owner if the common carrier refused to carry the goods unless the former agreed to such stipulation.
 			- **ARTICLE 1747.**
+			  collapsed:: true
 				- If the common carrier, without just cause, delays the transportation of the goods or changes the stipulated or usual route, the contract limiting the common carrier’s liability cannot be availed of in case of the loss, destruction, or deterioration of the goods.
 			- **ARTICLE 1748.**
+			  collapsed:: true
 				- An agreement limiting the common carrier’s liability for delay on account of strikes or riots is valid.
 			- **ARTICLE 1749.**
+			  collapsed:: true
 				- A stipulation that the common carrier’s liability is limited to the value of the goods appearing in the bill of lading, unless the shipper or owner declares a greater value, is binding.
 			- **ARTICLE 1750.**
+			  collapsed:: true
 				- A contract fixing the sum that may be recovered by the owner or shipper for the loss, destruction, or deterioration of the goods is valid, if it is reasonable and just under the circumstances, and has been fairly and freely agreed upon.
 			- **ARTICLE 1751.**
+			  collapsed:: true
 				- The fact that the common carrier has no competitor along the line or route, or a part thereof, to which the contract refers shall be taken into consideration on the question of whether or not a stipulation limiting the common carrier’s liability is reasonable, just and in consonance with public policy.
 			- **ARTICLE 1752.**
+			  collapsed:: true
 				- Even when there is an agreement limiting the liability of the common carrier in the vigilance over the goods, the common carrier is disputably presumed to have been negligent in case of their loss, destruction or deterioration.
 			- **ARTICLE 1753.**
 			  id:: 631d71fe-ad1b-498f-bcce-27085054cf3b
+			  collapsed:: true
 				- The law of the country to which the goods are to be transported shall govern the liability of the common carrier for their loss, destruction or deterioration.
 			- **ARTICLE 1754.**
+			  collapsed:: true
 				- The provisions of articles [1733](((b373a407-5ca0-437e-84fe-0e32097d1edb))) to [1753](((631d71fe-ad1b-498f-bcce-27085054cf3b))) shall apply to the passenger’s baggage which is not in his personal custody or in that of his employee.
 				- As to other baggage, the rules in articles [1998](((40a2311b-0cf2-4663-9cb4-c069516f97c0))) and [2000](((631d71f9-739b-4644-bbd2-3f887501e809))) to [2003](((631d71f9-3820-48ff-af94-8807dca9a247))) concerning the responsibility of hotel-keepers shall be applicable.
 		- ### SUBSECTION 3 - Safety of Passengers
+		  collapsed:: true
 			- **ARTICLE 1755.**
 			  id:: 1a2fc100-9b9d-4c4f-8387-cda2225eebbf
+			  collapsed:: true
 				- A common carrier is bound to carry the passengers safely as far as human care and foresight can provide, using the utmost diligence of very cautious persons, with a due regard for all the circumstances.
 			- **ARTICLE 1756.**
 			  id:: 4e6ac37f-7443-4af5-a414-7331b8f045fd
+			  collapsed:: true
 				- In case of death of or injuries to passengers, common carriers are presumed to have been at fault or to have acted negligently, unless they prove that they observed extraordinary diligence as prescribed in articles [1733](((b373a407-5ca0-437e-84fe-0e32097d1edb))) and [1755](((1a2fc100-9b9d-4c4f-8387-cda2225eebbf))).
 			- **ARTICLE 1757.**
+			  collapsed:: true
 				- The responsibility of a common carrier for the safety of passengers as required in articles  [1733](((b373a407-5ca0-437e-84fe-0e32097d1edb))) and [1755](((1a2fc100-9b9d-4c4f-8387-cda2225eebbf))) cannot be dispensed with or lessened by stipulation, by the posting of notices, by statements on tickets, or otherwise.
 			- **ARTICLE 1758.**
+			  collapsed:: true
 				- When a passenger is carried gratuitously, a stipulation limiting the common carrier’s liability for negligence is valid, but not for willful acts or gross negligence.
 				- The reduction of fare does not justify any limitation of the common carrier’s liability.
 			- **ARTICLE 1759.**
+			  collapsed:: true
 				- Common carriers are liable for the death of or injuries to passengers through the negligence or willful acts of the former’s employees, although such employees may have acted beyond the scope of their authority or in violation of the orders of the common carriers.
 				- This liability of the common carriers does not cease upon proof that they exercised all the diligence of a good father of a family in the selection and supervision of their employees.
 			- **ARTICLE 1760.**
+			  collapsed:: true
 				- The common carrier’s responsibility prescribed in the preceding article cannot be eliminated or limited by stipulation, by the posting of notices, by statements on the tickets or otherwise.
 			- **ARTICLE 1761.**
+			  collapsed:: true
 				- The passenger must observe the diligence of a good father of a family to avoid injury to himself.
 			- **ARTICLE 1762.**
+			  collapsed:: true
 				- The contributory negligence of the passenger does not bar recovery of damages for his death or injuries, if the proximate cause thereof is the negligence of the common carrier, but the amount of damages shall be equitably reduced.
 			- **ARTICLE 1763.**
+			  collapsed:: true
 				- A common carrier is responsible for injuries suffered by a passenger on account of the wilful acts or negligence of other passengers or of strangers, if the common carrier’s employees through the exercise of the diligence of a good father of a family could have prevented or stopped the act or omission.
 		- ### SUBSECTION 4 - Common Provisions
+		  collapsed:: true
 			- **ARTICLE 1764.**
+			  collapsed:: true
 				- Damages in cases comprised in this Section shall be awarded in accordance with Title XVIII of this Book, concerning Damages. Article 2206 shall also apply to the death of a passenger caused by the breach of contract by a common carrier.
 			- **ARTICLE 1765.**
+			  collapsed:: true
 				- The Public Service Commission may, on its own motion or on petition of any interested party, after due hearing, cancel the certificate of public convenience granted to any common carrier that repeatedly fails to comply with his or its duty to observe extraordinary diligence as prescribed in this Section.
 			- **ARTICLE 1766.**
+			  collapsed:: true
 				- In all matters not regulated by this Code, the rights and obligations of common carriers shall be governed by the Code of Commerce and by special laws.

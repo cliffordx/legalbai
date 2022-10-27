@@ -7,6 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - # 🔴 CHAPTER 1- NATURE AND FORM OF THE CONTRACT
+  collapsed:: true
 	- **ARTICLE 1458.**
 	  id:: 7b1b3e18-bc92-4d11-8f36-c1d86c985a71
 	  collapsed:: true
@@ -121,7 +122,9 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Subject to the provisions of the Statute of Frauds and of any other applicable statute, a contract of sale may be made in writing, or by word of mouth, or partly in writing and partly by word of mouth, or may be inferred from the conduct of the parties. (n)
 	- **ARTICLE 1484.**
 	  id:: abdc6016-b342-476b-8200-d4c8c27e693d
+	  collapsed:: true
 		- In a contract of sale of personal property the price of which is payable in installments, the vendor may exercise any of the following remedies:
+		  collapsed:: true
 			- (1) Exact fulfillment of the obligation, should the vendee fail to pay;
 			- (2) Cancel the sale, should the vendee’s failure to pay cover two or more installments;
 			- (3) Foreclose the chattel mortgage on the thing sold, if one has been constituted, should the vendee’s failure to pay cover two or more installments.
@@ -141,9 +144,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The expropriation of property for public use is governed by special laws. (1456)
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
+  collapsed:: true
 	- ## SECTION 1 - General Provisions
+	  collapsed:: true
 		- **ARTICLE 1495.**
 		  id:: 6300757d-b104-49d4-ae30-ce3dde4614de
+		  collapsed:: true
 			- The vendor is bound to transfer the ownership of and deliver, as well as warrant the thing which is the object of the sale. (1461a)
 		- **ARTICLE 1496.**
 		  collapsed:: true
@@ -191,6 +197,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1504.**
 		  collapsed:: true
 			- Unless otherwise agreed, the goods remain at the seller’s risk until the ownership therein is transferred to the buyer, but when the ownership therein is transferred to the buyer the goods are at the buyer’s risk whether actual delivery has been made or not, except that:
+			  collapsed:: true
 				- (1) Where delivery of the goods has been made to the buyer or to a bailee for the buyer, in pursuance of the contract and the **ownership in the goods has been retained by the seller merely to secure performance by the buyer of his obligations under the contract, the goods are at the buyer’s risk from the time of such delivery**;
 				- (2) Where actual delivery has been delayed through the fault of either the buyer or seller the goods are at the risk of the party in fault. (n)
 		- **ARTICLE 1505.**
@@ -416,16 +423,21 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the same thing should have been sold to different vendees, the ownership shall be transferred to the person who may have first taken possession thereof in good faith, if it should be movable property.
 			- Should it be immovable property, the ownership shall belong to the person acquiring it who in good faith first recorded it in the Registry of Property.
 			- Should there be no inscription, the ownership shall pertain to the person who in good faith was first in the possession; and, in the absence thereof, to the person who presents the oldest title, provided there is good faith. (1473)
+			  collapsed:: true
 				- inscription
+				  collapsed:: true
 					- phonetic
+					  collapsed:: true
 						- /ɪnˈskɹɪpʃən/
 						  <audio controls><source src="https://api.dictionaryapi.dev/media/pronunciations/en/inscription-us.mp3"></audio>
 					- noun
+					  collapsed:: true
 						- The act of inscribing.
 						- Text carved on a wall or plaque, such as a memorial or gravestone.
 						- The text on a coin.
 						- Words written in the front of a book as a dedication.
 	- ## SECTION 3 - Conditions and Warranties
+	  collapsed:: true
 		- **ARTICLE 1545.**
 		  collapsed:: true
 			- Where the obligation of either party to a contract of sale is subject to any condition which is not performed, such party may refuse to proceed with the contract or he may waive performance of the condition.
@@ -498,6 +510,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- Within one year, to be computed from the execution of the deed, the vendee may bring the action for rescission, or sue for damages.
 				- One year having elapsed, he may only bring an action for damages within an equal period, to be counted from the date on which he discovered the burden or servitude. (1483a)
 		- ### SUBSECTION 2 - Warranty Against Hidden Defects of or Encumbrances Upon the Thing Sold
+		  collapsed:: true
 			- **ARTICLE 1561.**
 			  id:: f607dbfd-7cc8-4679-b572-5a7338b87c86
 			  collapsed:: true
@@ -579,6 +592,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The form of sale of large cattle shall be governed by special laws. (n)
 - # 🔴 CHAPTER 7 - EXTINGUISHMENT OF SALE
   heading:: true
+  collapsed:: true
 	- **ARTICLE 1600.**
 	  collapsed:: true
 		- Sales are extinguished by the same causes as all other obligations, by those stated in the preceding articles of this Title, and by conventional or legal redemption. (1506)
@@ -650,6 +664,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 7bbcc6cf-0d3b-41be-8d0f-770d8e26568b
 		  collapsed:: true
 			- The vendor cannot avail himself of the right of repurchase without returning to the vendee the price of the sale, and in addition:
+			  collapsed:: true
 				- (1) The expenses of the contract, and any other legitimate payments made by reason of the sale;
 				  id:: 63370973-5324-4ef1-9a89-b47c73f927c2
 				- (2) The necessary and useful expenses made on the thing sold. (1518)
@@ -661,6 +676,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The vendor who recovers the thing sold shall receive it free from all charges or mortgages constituted by the vendee, but he shall respect the leases which the latter may have executed in good faith, and in accordance with the custom of the place where the land is situated. (1520)
 	- ## **SECTION 2** - Legal Redemption
+	  collapsed:: true
 		- **ARTICLE 1619.**
 		  collapsed:: true
 			- Legal redemption is the right to be subrogated, upon the same terms and conditions stipulated in the contract, in the place of one who acquires a thing by purchase or dation in payment, or by any other transaction whereby ownership is transmitted by onerous title. (1521a)
@@ -683,37 +699,51 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The right of legal pre-emption or redemption shall not be exercised except within thirty days from the notice in writing by the prospective vendor, or by the vendor, as the case may be. The [[deed of sale]] shall not be recorded in the Registry of Property, unless accompanied by an affidavit of the vendor that he has given written notice thereof to all possible redemptioners.
 			- The right of redemption of co-owners excludes that of adjoining owners. (1524a)
 - # 🔴 CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHE INCORPOREAL RIGHTS
+  collapsed:: true
 	- **ARTICLE 1624.**
 	  id:: cf720ebf-c4f1-4bcd-aecd-a8e6cfee3454
+	  collapsed:: true
 		- An assignment of credits and other incorporeal rights shall be perfected in accordance with the provisions of [article 1475](((63370973-f334-42c1-99f2-a8f5e50632f1))). (n)
 	- **ARTICLE 1625.**
 	  id:: 73dc6c53-6572-48b4-9894-d6b68b845d3c
+	  collapsed:: true
 		- An assignment of a credit, right or action shall produce no effect as against third persons, unless it appears in a public instrument, or the instrument is recorded in the Registry of Property in case the assignment involves real property. (1526)
 	- **ARTICLE 1626.**
+	  collapsed:: true
 		- The debtor who, before having knowledge of the assignment, pays his creditor shall be released from the obligation. (1527)
 	- **ARTICLE 1627.**
+	  collapsed:: true
 		- The assignment of a credit includes all the accessory rights, such as a guaranty, mortgage, pledge or preference. (1528)
 	- **ARTICLE 1628.**
+	  collapsed:: true
 		- The vendor in good faith shall be responsible for the existence and legality of the credit at the time of the sale, unless it should have been sold as doubtful; but not for the solvency of the debtor, unless it has been so expressly stipulated or unless the insolvency was prior to the sale and of common knowledge.
 		- Even in these cases he shall only be liable for the price received and for the expenses specified in [No. 1 of article 1616](((63370973-5324-4ef1-9a89-b47c73f927c2))).
 		- The vendor in bad faith shall always be answerable for the payment of all expenses, and for damages. (1529)
 	- **ARTICLE 1629.**
+	  collapsed:: true
 		- In case the assignor in good faith should have made himself responsible for the solvency of the debtor, and the contracting parties should not have agreed upon the duration of the liability, it shall last for one year only, from the time of the assignment if the period had already expired.
 		- If the credit should be payable within a term or period which has not yet expired, the liability shall cease one year after the maturity. (1530a)
 	- **ARTICLE 1630.**
+	  collapsed:: true
 		- One who sells an inheritance without enumerating the things of which it is composed, shall only be answerable for his character as an heir. (1531)
 	- **ARTICLE 1631.**
+	  collapsed:: true
 		- One who sells for a lump sum the whole of certain rights, rents, or products, shall comply by answering for the legitimacy of the whole in general; but he shall not be obliged to warrant each of the various parts of which it may be composed, except in the case of eviction from the whole or the part of greater value. (1532a)
 	- **ARTICLE 1632.**
+	  collapsed:: true
 		- Should the vendor have profited by some of the fruits or received anything from the inheritance sold, he shall pay the vendee thereof, if the contrary has not been stipulated. (1533)
 	- **ARTICLE 1633.**
+	  collapsed:: true
 		- The vendee shall, on his part, reimburse the vendor for all that the latter may have paid for the debts of and charges on the estate and satisfy the credits he may have against the same, unless there is an agreement to the contrary. (1534)
 	- **ARTICLE 1634.**
+	  collapsed:: true
 		- When a credit or other incorporeal right in litigation is sold, the debtor shall have a right to extinguish it by reimbursing the assignee for the price the latter paid therefor, the judicial costs incurred by him, and the interest on the price from the day on which the same was paid.
 		- A credit or other incorporeal right shall be considered in litigation from the time the complaint concerning the same is answered.
 		- The debtor may exercise his right within thirty days from the date the assignee demands payment from him. (1535)
 	- **ARTICLE 1635.**
+	  collapsed:: true
 		- From the provisions of the preceding article shall be excepted the assignments or sales made:
+		  collapsed:: true
 			- (1) To a co-heir or co-owner of the right assigned;
 			- (2) To a creditor in payment of his credit;
 			- (3) To the possessor of a tenement or piece of land which is subject to the right in litigation assigned. (1536)
