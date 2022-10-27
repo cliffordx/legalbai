@@ -5,7 +5,7 @@ law-subject:: civil
 tags:: #codal/parental  #[[codal/Family Code of the Philippines]] #repealed
 status:: inactive, superseded
 
-- Superseded by: [[09 - TITLE IX - PARENTAL AUTHORITY]] (Family Code of the Philippines)
+- Superseded by: [[09 - TITLE IX - PARENTAL AUTHORITY (Family Code of the Philippines)
 - **Note:**[^1]
 - [^1]: Executive Order No. 209, July 6, 1987, as amended by Executive Order No. 227, July 17, 1987.[^2]
 - [^2]: Art. 254. Titles III, IV, V, VI, VIII, IX, XI, and XV of Book 1 of Republic Act No. 386, otherwise known as the Civil Code of the Philippines, as amended, and Articles 17, 18, 19, 27, 28, 29, 30, 31, 39, 40, 41, and 42 of Presidential Decree No. 603, otherwise known as the Child and Youth Welfare Code, as amended, and all laws, decrees, executive orders, proclamations, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed.
@@ -137,7 +137,7 @@ collapsed:: true
 			- (1) If the adopted person has attempted against the life of the adopter;
 			- (2) When the adopted minor has abandoned the home of the adopter for more than three years;
 			- (3) When by other acts the adopted person has definitely repudiated the adoption. (n)
-## CHAPTER 6 - Substitute Parental Authority 
+## CHAPTER 6 - Substitute Parental Authority
 collapsed:: true
 	- **ARTICLE 349.**
 		- The following persons shall exercise substitute parental authority:
