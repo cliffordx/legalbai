@@ -40,4 +40,4 @@ tags:: paksiteer, paksitive, paksionate
 - #### Articles
 - [[Index_Cards]]
 - [[ROC_Annotated]]
-- [^typo]: See: [[Grammar Nazi]]
+- If you see any typo or grammatical error, please see: [[Grammar Nazi]]
