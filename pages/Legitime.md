@@ -10,9 +10,10 @@ title:: Legitime
 			- [^886] _{Garner, Bryan A., and Henry Campbell Black, eds. *Black’s Law Dictionary*. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p.1084.}
 - # Art. 886
   background-color:: blue
-  collapsed:: true
 	- > {{embed ((634fba6d-78b7-4ce7-a959-dce0556783d5))}}
 	- # Concept of Legitime
+	  background-color:: yellow
+	  collapsed:: true
 		- Under the Spanish Civil Code as well as under our Code, the legitime is defined as [[#red]]==that part of the testator’s property which he cannot dispose of because the law has reserved it for certain heirs who are, therefore, called compulsory heirs.==
 		- From this definition, it is clear that a part or portion of the hereditary estate is to a certain extent withdrawn from the patrimony of the testator so that he can no longer dispose of it by any gratuitous title, although he can still enjoy it. According to Manresa, this is the distinctive nature or characteristic of the system of legitime.[^3] This limited withdrawal from the testator’s patrimony is due to the fact that the legitime is already reserved by operation of law for certain heirs who are, therefore called [compulsory heirs](((635756d0-02d4-43fe-84d7-2668de85b297))).
 			- #### Meaning of “Compulsory”
@@ -22,10 +23,13 @@ title:: Legitime
 		- Thus, the Supreme Court, describing the interest which a son has in the estate of his father, once stated:
 			- > “It is undeniable that a necessary or forced heir, according to the system of legitimes, has, by provision of law, **from the time of his birth, a vested right to acquire the inheritance from his ascendants after their death and such a vested right is inherent with his legitimate filiation to which belong the obligations and rights of the author of his being.** The son and the father are in some respects co-owners of the property of the latter.”
 	- ## Historical Notes on the Legitime
+	  background-color:: green
+	  collapsed:: true
 		- The system of legitime is preserved in the new Code. It is a vogue in almost all countries of Europe and Latin America. China has realized that the legitime is essential to maintain her customs and traditions. Russia, though the leading exponent of communism, nevertheless adopted a certain form of legitime in 1928. (Comment of the Code Commission).
 		- Generally speaking, freedom of disposition of property is permitted only in England and in the United States of America. But in some States of the American Union, there is a certain kind of legitime for the widow. Some American and English jurists have criticized the present system in their countries and advocated the adoption of the scheme of legitime. Considering the customs and traditions of the Filipino people, and for the sake of family solidarity, the Commission decided that the legitime should be retained in the new Civil Code. Although legitime is preserved in the new Civil Code, changes are made with respect to the amounts that the compulsory heirs should receive, and illegitimate children other than acknowledged natural are made compulsory heirs. (Comments of the Code Commission).
 	- # Purpose of Legitime
 	  collapsed:: true
+	  background-color:: blue
 		- The avowed purpose of the system of legitime is of course **[[#blue]]==to protect compulsory heirs.==** It is always possible that a man or a woman may forget his or her parental, filial or conjugal obligations. The law, by reserving a part or portion of the testator’s estate for the benefit of compulsory heirs, is thus able to protect such heirs from his or her anger or neglect. **To protect the children and the surviving widow or widower from the unjustified anger or thoughtlessness of the other spouse.**
 		- **The system of legitimes is a limitation** upon the freedom of the testator to dispose of his property. Its purpose is to protect those heirs, for whom the testator is presumed to have an obligation to reserve certain portions of his estate, from his unjust weakness or thoughtlessness. The law was constructed in such a way that this reservation made by law is properly protected so a parent and child may not deviate so and everyone will have to comply with some particular norm.
 		- A parent is expected to leave something to the children and the children who have no descendant are to leave something for their parents. It is bilateral. It is a restriction to our right to make dispositions of our property effective mortis causa.
@@ -41,6 +45,8 @@ title:: Legitime
 				- Thus, **the legitime of legitimate children or descendants and legitimate parents or ascendants is always one-half of the testator’s estate**, [[#green]]==while that of the other classes of compulsory heirs depends upon whether they survive as a class or they concur with other classes of compulsory heirs.==
 	- # System of Legitime
 	  id:: 6356dab4-d8bf-4364-9196-428f8144330f
+	  background-color:: gray
+	  collapsed:: true
 		- As it is, the system of legitime, as adopted in the New Civil Code, is still fundamentally the same as that found in the Spanish Code. **There are, however, certain changes. Among the most important changes are the following:**
 			- (a) The legitime of the surviving spouse has been converted from usufruct into full ownership.
 				- > NOTE: The legitime of the spouse under the old Civil Code (which was a share in usufruct equivalent to the share of a legitimate child) was a right, which, of course, could be waived, but the waiver must be express. (Gamis v. Court of Appeals, L-10732, May23, 1959).
@@ -58,20 +64,27 @@ title:: Legitime
 					- *Read:* _{VAN DORN v. ROMILLO, JR.139 SCRA 139}
 			-
 	- # Three Systems Affecting The Legitime
+	  background-color:: yellow
+	  collapsed:: true
 		- (a) System of the LEGITIME (PARTIAL RESERVATION)— here, a part is for the legitime, a part is for the free portion.
 		- (b) System of TOTAL RESERVATION — here, everything goes to the compulsory heirs, as long as there is at least one. Only when there is none is there freedom to dispose.
 		- (c) System of TOTAL FREEDOM OF DISPOSITION — in this system, there is no legitime. Everything is free. (See4 Castan 478).
 		-
 	- # Ways of violating the legitime
+	  background-color:: yellow
+	  collapsed:: true
 		- 1. **Shortchange:** Give the compulsory heir less than what he is entitled to. In this case, Article 906 shall be applicable which orders the completion of the legitime by charging against the free portion of the estate.
 		  2. **Omission:** Omit the compulsory heir in the will; preterition. In this case, Article 854 annuls the institution of the heir and results to partial intestacy where the legitime shall be paid to the compulsory heir.
 		  3. **Circumvention.** The best way of circumvention is to dissipate the estate by an act inter vivos making the estate so little or insignificant at the time of death. In this case, Article 1061 shall be applicable where all donations inter vivos or dispositions made during the testator’s lifetime shall be collated. The collation is done for the proper determination or computation of the legitime. In case there exists an impairment of the legitime and/or the estate becomes insufficient to pay all the shares of the compulsory heir, the donations shall be reduced to the extent that they impair the legitime of the compulsory heir.
 	- # Effect of Donations
+	  background-color:: green
+	  collapsed:: true
 		- The law respects the legitime so much that even donations inter vivos are to be reduced if found inofficious (that is, if they exceed the free portion) for no person may give by way of donation more than he may give by will. The donation is considered inofficious in all that it may exceed this limitation.(Art. 762). An alienation, however, which is for an onerous or valuable consideration (as a sale) would be proper since in this case, there merely is the substitution of one kind of property for another.
 		- # Vested Right to the Legitime
 		  id:: 6356de0b-45e6-418d-917e-36e8b0e5532b
 			- It is true that the right to enter into the possession of any inheritance commences only from the moment of the death of the predecessor-in-interest. But it is undeniable that a necessary or forced heir (compulsory heir), according to the system of legitimes, has **by provision of law, from the time of his birth, a vested right to eventually acquire the inheritance from his ascendants, the right to be actually vested, from the moment of death.** [[#green]]==Such a vested right is inherent with his filiation to which belong the obligations and rights of the author of his being.== ^{(Rocha v. Tuason and Rocha de Despujol, 39 Phil. 973).}
 	- # No Right of Compulsory Heirs To Insist That the Legitimes Be Given in the Form of Property
+	  background-color:: pink
 		- While compulsory heirs have a right to the legitime, **they cannot insist that they be paid in the form of property**, whether real or personal, [[$red]]==when they are NOT AVAILABLE,== as [[#blue]]==when the will itself contains a partition of the estate,== specifically assigning the property to various heirs. In a case like this, [[#red]]==the legitimes may be satisfied by paying CASH.== ^{(Marina DizonRivera v. Estela Dizon, et al., L-24561, June 30, 1970).}
 	-
 	- # Right of Completion of Legitime
