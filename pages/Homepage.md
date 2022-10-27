@@ -9,9 +9,10 @@ tags:: paksiteer, paksitive, paksionate
 	- You can collapse or uncollapse a heading to either show or hide subgroup or underneath the title. On this title `How to navigate this site` there's a `.` on the left but DO NOT click yet, as that will open into separate page. After you  hover, you will see a drop/side arrow, depending if the page is hidden or already shown. Do try it!
 	- Next, there's a left side menu bar and right side menu bar. Go over them and let me know if you find something interesting. ;)
 - ### What can you expect from my Github page?
-  collapsed:: true
 	- A ton. For starters, I have #[[flashcards]] collated and collected from exams and quizzes.
-	- Also, I have the fundamental condals uploaded here, either annotated or commented by [me]([[Clifford Enoc]]).
+	- Also, I have the fundamental codals uploaded here, either annotated or commented by [me]([[Clifford Enoc]]).
+		- But don't expect too much. Some are not meant to be shared.
+			- Reason: They are from bo
 	- Since I am doing hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I have studied so far, here in Github. My previous plan was to have it in one place at my website (CliffordX.com) but I wanted it here since I just have to `commit` the pages that I have written on my PKM app (logseq, FTW!) from my laptop and it shall be published with updates and shown here instantly. It makes my workflow much easier.
 	- I do have handwritten outlines, notes on a 4"x6" [index card]([[Index_Cards]]) which I already plan to write simultaneously or concurrently with my typewritten notes here. I plan to upload also those handwritten notes if it so required. (But I'm busy, [here's my lazy alibi]([[26 Oct 2022]]))
 	- For those who want to engage in effective note-taking strategies, here is my list of recommended (e)Books to read in alphabetical order on the subject of note-taking:
