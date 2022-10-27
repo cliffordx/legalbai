@@ -19,21 +19,21 @@ tags:: paksiteer, paksitive, paksionate
 		- 2. [Digital Zettelkasten](https://amzn.to/3TVuZfV) by David Kadavy, 2021
 		- 3. [How To Take Smart Notes](https://amzn.to/3swU1GI) by Sönke Ahrens, 2022
 		- 4. [Remember: The Science of Memory and The Art of Forgetting](https://amzn.to/3SI2sJH) by Lisa Genova, 2021. (*[disclaimer, woot](((6358df01-20ef-4b83-9569-7742d7622398)))*)
-- ### Who owns Legal Bai GitHub page?
+- ### Who is the author of Legal Bai GitHub page?
 	- *Clifford Enoc*, a licensed real estate broker and a law student from the best law school in Carbon, USJ-R School of Law. My one tag liner is "Be paksionate, Be Paksitive!" `#AdAstra`
-- ### Disclaimer
-	- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general information and educational purposes onlt[^typo], and not offered as, and does not constitute, legal advice or legal opinion.
-	  id:: f58f3bdc-7e2d-4e84-a836-45daaad58780
+	- ### Disclaimer
+		- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general information and educational purposes onlt[^typo], and not offered as, and does not constitute, legal advice or legal opinion.
+		  id:: f58f3bdc-7e2d-4e84-a836-45daaad58780
 	- #### Affiliate Links
 	  id:: 6358df01-20ef-4b83-9569-7742d7622398
 		- Some outside links to websites are affiliate links, *i.e.,* Amazon, which are sponsored/or affiliated which means that if you buy something from them, unless it is sponsored for a fee, then I earn a 'tiny' commission fee. It pays to know that I disclose this stuff because it is required nowadays.
-- ### Support or Contact
+- ## Support or Contact
 	- You may reach me at @cliffordx on these Social Media:
 	  id:: de1311b9-7141-4a55-950c-2ffe17d350c0
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)
 		- [Twitter](https://twitter.com/cliffordx)
 		- [Youtube](https://youtube.com/CliffordEnoc)
-## Articles
+- #### Articles
 - [[Index_Cards]]
 - [[ROC_Annotated]]
 - [^typo]: See: [[Grammar Nazi]]
