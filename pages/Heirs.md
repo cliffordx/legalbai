@@ -38,7 +38,7 @@
 		- ### Secondary Compulsory Heirs
 		  collapsed:: true
 			- The secondary compulsory heirs are those mentioned in No. 2 in Art. 887. They inherit only in the absence of No. 1 in Art. 887. The father or the mother of illegitimate children is also a secondary compulsory heir but only as provided for in [Art. 903](((634fba6c-299a-40f2-93e6-2c1226a1ef4a))).
-	- ## TABLE OF [COMPULSORY HEIRS](((6357d119-5652-4645-8e47-29771fafffca)))
+	- ## TABLE OF COMPULSORY HEIRS
 		- ![Screen Shot 2022-10-25 at 8.04.05 PM.png](../assets/Screen_Shot_2022-10-25_at_8.04.05_PM_1666699470912_0.png)
 - **Compulsory heirs are those enumerated in Art. 887 of the Civil Code.**
   id:: 63575738-b48f-4a77-8be9-43280a8f6fb1
