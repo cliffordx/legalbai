@@ -221,7 +221,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2131.**
 	  collapsed:: true
 		- The form, extent and consequences of a mortgage, both as to its constitution, modification and extinguishment, and as to other matters not included in this Chapter, shall be governed by the provisions of the Mortgage Law and of the Land Registration Law. (1880a)
-- [[🔴 CHAPTER 4 - ANTICHRESIS]]
+- [[🔴 CHAPTER 4 - ANTICHRESIS
   heading:: true
 	- **ARTICLE 2132.**
 	  id:: 62b32e88-4fe1-45d2-9586-9e6ae01943b4

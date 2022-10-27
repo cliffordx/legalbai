@@ -6,7 +6,7 @@ tags:: #codal/contracts
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- # [[🔴 GENERAL PROVISIONS]]
+- # [[🔴 GENERAL PROVISIONS
 	- **ARTICLE 2010.**
 	  id:: 631d71f9-d983-4e6c-b8f8-466990b9dde0
 		- By an aleatory contract, one of the parties or both reciprocally bind themselves to give or to do something in consideration of what the other shall give or do upon the happening of an event which is uncertain, or which is to occur at an indeterminate time. (1790)

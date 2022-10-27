@@ -6,7 +6,7 @@ tags:: #codal/lease
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- 🔴 CHAPTER 1- GENERAL PROVISIONS]]
+- 🔴 CHAPTER 1- GENERAL PROVISIONS
   heading:: true
   collapsed:: true
 	- **ARTICLE 1642.**
@@ -18,7 +18,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In the lease of work or service, one of the parties binds himself to execute a piece of work or to render to the other some service for a price certain, but the relation of principal and agent does not exist between them. (1544a)
 	- **ARTICLE 1645.**
 		- Consumable goods cannot be the subject matter of a contract of lease, except when they are merely to be exhibited or when they are accessory to an industrial establishment. (1545a)
-- [[🔴 CHAPTER 2 - LEASE OF RURAL AND URBAN LANDS]]
+- [[🔴 CHAPTER 2 - LEASE OF RURAL AND URBAN LANDS
   heading:: true
 	- ## SECTION 1 - General Provisions
 	  collapsed:: true

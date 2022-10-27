@@ -9,7 +9,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - ***Sources***
   id:: 632349be-07cb-4ddd-a06c-7e83af1d5f71
 	- (PDF deleted)
-- # [[🔴 GENERAL PROVISIONS]]
+- # [[🔴 GENERAL PROVISIONS
 	- **ARTICLE 1933.**
 	  id:: 4052a899-4185-4bde-97f8-718f7b3a8694
 		- By the [contract of loan]([[Contract of Loan]]), one of the parties delivers to another, either something not consumable so that the latter may use the same for a certain time and return it, in which case the contract is called a *[[commodatum]]*; or money or other consumable thing, upon the condition that the same amount of the same kind and quality shall be paid, in which case the contract is simply called a loan or *[mutuum]([[Mutuum]])*.

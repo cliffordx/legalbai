@@ -171,7 +171,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2081.**
 	  collapsed:: true
 		- The guarantor may set up against the creditor all the defenses which pertain to the principal debtor and are inherent in the debt; but not those that are purely personal to the debtor. (1853)
-- [[🔴 CHAPTER 4 - LEGAL AND JUDICIAL BONDS]]
+- [[🔴 CHAPTER 4 - LEGAL AND JUDICIAL BONDS
   heading:: true
 	- **ARTICLE 2082.**
 		- The bondsman who is to be offered in virtue of a provision of law or of a judicial order shall have the qualifications prescribed in special laws. (1854a)

@@ -8,7 +8,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 sys-category:: [[36]]
 
 - {{embed ((63105c5a-833f-4451-8c20-204f223ff5b4))}}
-- [[🔴 PRELIMINARY PROVISIONS]]
+- [[🔴 PRELIMINARY PROVISIONS
   heading:: true
   collapsed:: true
 	- **ARTICLE 414.**
