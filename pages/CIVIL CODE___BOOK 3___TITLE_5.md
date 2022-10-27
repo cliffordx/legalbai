@@ -6,7 +6,7 @@ tags:: #codal/civil
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- # 🔴 CHAPTER 1- General Provisions]]
+- # 🔴 CHAPTER 1- General Provisions
 	- **ARTICLE 1106.**
 	  collapsed:: true
 		- By prescription, one acquires ownership and other real rights through the lapse of time in the manner and under the conditions laid down by law.

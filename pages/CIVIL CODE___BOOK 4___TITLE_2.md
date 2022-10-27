@@ -7,7 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((631b232b-16f6-484f-b4c7-f366bcc52cc5))}}
-- 🔴 CHAPTER 1- General Provisions]]
+- 🔴 CHAPTER 1- General Provisions
   heading:: true
 	- **ARTICLE 1305.**
 	  id:: 62e7ca7d-5cc4-4a93-bcb6-41d5de926cff
