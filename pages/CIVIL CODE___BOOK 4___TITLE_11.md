@@ -20,7 +20,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 1181f4f3-c8aa-481e-97b7-288112297acd
 		- An accepted promise to deliver something by way of *commodatum* or simple loan is binding upon the parties, but the *commodatum* or simple loan itself shall not be perfected until the delivery of the object of the contract. (n)
 		-
-- # 🔴 CHAPTER 1- COMMODATUM]]
+- # 🔴 CHAPTER 1- COMMODATUM
   collapsed:: true
 	- ## SECTION 1 - Nature of Commodatum
 		- **ARTICLE 1935.**
@@ -81,7 +81,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1952.**
 		  id:: 4fa167ff-a0a0-488e-b27d-eb94bfe070ee
 			- The bailor cannot exempt himself from the payment of expenses or damages by abandoning the thing to the bailee. (n)
-- # 🔴 CHAPTER 2 - SIMPLE LOAN OR MUTUUM]]
+- # 🔴 CHAPTER 2 - SIMPLE LOAN OR MUTUUM
 	- **ARTICLE 1953.**
 	  collapsed:: true
 		- A person who receives a loan of money or any other fungible thing acquires the ownership thereof, and is bound to pay to the creditor an equal amount of the same kind and quality. (1753a)
