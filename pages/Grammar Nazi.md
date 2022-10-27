@@ -5,6 +5,7 @@
 - Below is a screenshot of what I learned when you are reading critically. It is not a typo (though there are lot throughout the book) but an [anthropomorphism](https://www.collinsdictionary.com/us/dictionary/english/anthropomorphism) where the animals were interchanged. (*Read* [Explanation](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox))
 - I'm not bashing the author, perhaps it got lost in the press or the editor was lazy, or paid less.
 - ![IMG_4871.jpg](../assets/IMG_4871_1666777702220_0.jpg)
-- iIf you happen to have or want to know which book is this, it's from the book, "**Forester of Nations The Last Resort"** page 65 of ***Chapter Two**: From The Groves of Academe To the Corridors of Power*. It's a good book I recommend it. There are typos throughout the book but I can live it with it. How about you?
-- So there's that.
-- Thanks for reading.
+- iIf you happen to have or want to know which book is this, it's from the book, "**Forester of Nations The Last Resort"** page 65 of **Chapter Two**: *From The Groves of Academe To the Corridors of Power*.
+- It's a good book I really recommend it but a little bit pricey.
+- There are typos throughout the book but I can live it with it. How about you? So there's that.
+- Thanks for reading. - Pak
