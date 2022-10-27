@@ -75,8 +75,7 @@ title:: Legitime
 		- Compulsory heirs are never compelled to accept the legitime — they may accept or reject — for no one can compel another to receive a gift or an economic advantage. They are called compulsory, only because the testator cannot disregard them.^{(Gala v. Ellice Agro-Industrial Corp., 418 SCRA 431 [2003]).}
 - # Art. 887
 	- > {{embed ((634fba6d-b427-495e-a84a-98c6daab592b))}}
-	- {{embed ((6357bf07-4204-4d58-a767-9dc6d7950092))}}
-	- {{embed ((635756d0-02d4-43fe-84d7-2668de85b297))}}
+	- #
 	- # Necessity of being “legitimate”
 		- Article 992 provides a bar between the legitimate and illegitimate line of the family, thus preventing one from inheriting from the other by legal succession. The discrimination against an illegitimate child arises from his inability to inherit from the other relatives of his father and mother. Thus, an illegitimate child has successional rights only with respect to his own parents, beyond the parents, an illegitimate child has no successional rights in intestate succession. The law imposes a certain amount of discrimination with regard to illegitimate children; as if they are being condemned for something which was not of their own free volition. Even the fiction of adoption will not vest full legitimacy on the illegitimate child because the fiction of adoption produces its effect only between the adopter and the adopted.
 	- # ((6357caf2-edf7-4ebd-96c2-1101bbcef8fe))
