@@ -27,7 +27,7 @@
 	- # T: ((63575a19-3fde-41d8-a5ba-61ba6950dd8e))
 	  id:: 63575a0e-3348-4ac4-a7bf-79af6d8bec62
 		- The compulsory heirs as [enumerated in Art. 887](((63575738-b48f-4a77-8be9-43280a8f6fb1))) may be classified into **primary compulsory heirs** and **secondary compulsory heirs.**
-		- (There may be also the concurring compulsory heirs as [(Paras)](((6357cde7-af4c-41a7-a196-dd5024dcc7f5))) will be explained later.)
+		- (There may be also the concurring compulsory heirs as it will be explained later.)
 		- Primary compulsory heirs are those who are always entitled to their legitime as provided by law regardless of the class of compulsory heirs with which they may concur, while secondary compulsory heirs are those who may be excluded by other compulsory heirs.
 		- The first includes all kinds of compulsory heirs with the exception of parents or ascendants, while the second embraces only parents or ascendants.
 		- ### Primary Compulsory Heirs
