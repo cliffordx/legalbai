@@ -699,7 +699,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The right of legal pre-emption or redemption shall not be exercised except within thirty days from the notice in writing by the prospective vendor, or by the vendor, as the case may be. The [[deed of sale]] shall not be recorded in the Registry of Property, unless accompanied by an affidavit of the vendor that he has given written notice thereof to all possible redemptioners.
 			- The right of redemption of co-owners excludes that of adjoining owners. (1524a)
 - # 🔴 CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHE INCORPOREAL RIGHTS
-  collapsed:: true
 	- **ARTICLE 1624.**
 	  id:: cf720ebf-c4f1-4bcd-aecd-a8e6cfee3454
 	  collapsed:: true

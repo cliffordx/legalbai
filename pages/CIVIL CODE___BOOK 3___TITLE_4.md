@@ -1306,7 +1306,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 959.**
 		  collapsed:: true
 			- A disposition made in general terms in favor of the testator’s relatives shall be understood to be in favor of those nearest in degree. (751)
-- 🔴 CHAPTER 3 - Legal or Intestate Succession
+- ## 🔴 CHAPTER 3 - Legal or Intestate Succession
   collapsed:: true
 	- ## SECTION 1 - General Provisions
 	  collapsed:: true
@@ -1535,7 +1535,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1014.**
 			  collapsed:: true
 				- If a person legally entitled to the estate of the deceased appears and files a claim thereto with the court within five years from the date the property was delivered to the State, such person shall be entitled to the possession of the same, or if sold, the municipality or city shall be accountable to him for such part of the proceeds as may not have been lawfully spent. (n)
-- 🔴 CHAPTER 4 - Provisions Common to Testate and Intestate Successions
+- ## 🔴 CHAPTER 4 - Provisions Common to Testate and Intestate Successions
   collapsed:: true
 	- ## SECTION 1 - Right of Accretion
 	  collapsed:: true
