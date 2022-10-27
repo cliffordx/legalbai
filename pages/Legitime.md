@@ -36,11 +36,10 @@ title:: Legitime
 				- **1. Fixed:** Legitime is fixed if the amount, that is the fractional part, does not vary or change regardless of whether there are concurring compulsory heirs or not. It is fixed if the aliquot part of the testator’s estate to which a certain class of compulsory heirs is entitled by operation of law is always the same whether they survive alone or with other classes of compulsory heirs.
 				- **2. Variable:** Legitime is variable if the amount changes or varies in accordance with whether compulsory heirs concur. It is variable if the aliquot part changes depending upon whether they survive alone or with other classes of compulsory heirs.
 				- Thus, **the legitime of legitimate children or descendants and legitimate parents or ascendants is always one-half of the testator’s estate**, [[#green]]==while that of the other classes of compulsory heirs depends upon whether they survive as a class or they concur with other classes of compulsory heirs.==
-	- # ((6356dabb-d087-4279-8f93-459e5c99bf05))
+	- # System of Legitime
 	  id:: 6356dab4-d8bf-4364-9196-428f8144330f
 		- As it is, the system of legitime, as adopted in the New Civil Code, is still fundamentally the same as that found in the Spanish Code. **There are, however, certain changes. Among the most important changes are the following:**
 			- (a) The legitime of the surviving spouse has been converted from usufruct into full ownership.
-			  collapsed:: true
 				- > NOTE: The legitime of the spouse under the old Civil Code (which was a share in usufruct equivalent to the share of a legitimate child) was a right, which, of course, could be waived, but the waiver must be express. (Gamis v. Court of Appeals, L-10732, May23, 1959).
 			- (b) Illegitimate children other than acknowledged natural under the Civil Code have been given a regular legitime.
 				- Children of void marriages are considered natural children by legal fiction and receive the same legitime as acknowledged natural children. And other illegitimate children are each entitled to a share equal to four-fifths of that of an acknowledged natural child (Under the Family Code(Arts. [172](((634fbac2-8000-45ca-bd06-e5829cc5fb9f))), [175](((634fbac2-2bc3-4def-9ade-3b59ef5b2d99)))), however, all illegitimate children are simply referred to as illegitimate children.
@@ -55,25 +54,22 @@ title:: Legitime
 					- {{embed ((634fbac2-2bc3-4def-9ade-3b59ef5b2d99))}}
 					- *Read:* ((6356d5d8-09b0-4921-95f6-bf08801f4b90))
 			-
-	- # ((6356da83-9502-4315-a1e0-5cf8f1d5e934))
+	- # Three Systems Affecting The Legitime
 	  collapsed:: true
 		- (a) System of the LEGITIME (PARTIAL RESERVATION)— here, a part is for the legitime, a part is for the free portion.
 		- (b) System of TOTAL RESERVATION — here, everything goes to the compulsory heirs, as long as there is at least one. Only when there is none is there freedom to dispose.
 		- (c) System of TOTAL FREEDOM OF DISPOSITION — in this system, there is no legitime. Everything is free. (See4 Castan 478).
 		-
-	- # ((6356d5e9-05d1-4add-9810-fe43a749fa45))
-	  collapsed:: true
+	- # Ways of violating the legitime
 		- 1. Shortchange: Give the compulsory heir less than what he is entitled to. In this case, Article 906 shall be applicable which orders the completion of the legitime by charging against the free portion of the estate.
 		  2. Omission: Omit the compulsory heir in the will; preterition. In this case, Article 854 annuls the institution of the heir and results to partial intestacy where the legitime shall be paid to the compulsory heir.
 		  3. Circumvention. The best way of circumvention is to dissipate the estate by an act inter vivos making the estate so little or insignificant at the time of death. In this case, Article 1061 shall be applicable where all donations inter vivos or dispositions made during the testator’s lifetime shall be collated. The collation is done for the proper determination or computation of the legitime. In case there exists an impairment of the legitime and/or the estate becomes insufficient to pay all the shares of the compulsory heir, the donations shall be reduced to the extent that they impair the legitime of the compulsory heir.
-	- # ((6356ddf5-79e8-4fbf-9e66-3ece3a65f2bc))
-	  collapsed:: true
+	- # Effect of Donations
 		- The law respects the legitime so much that even donations inter vivos are to be reduced if found inofficious (that is, if they exceed the free portion) for no person may give by way of donation more than he may give by will. The donation is considered inofficious in all that it may exceed this limitation.(Art. 762). An alienation, however, which is for an onerous or valuable consideration (as a sale) would be proper since in this case, there merely is the substitution of one kind of property for another.
 		- # ((6356de14-61cb-4611-8ae3-b3ea1a417496))
 		  id:: 6356de0b-45e6-418d-917e-36e8b0e5532b
 			- It is true that the right to enter into the possession of any inheritance commences only from the moment of the death of the predecessor-in-interest. But it is undeniable that a necessary or forced heir (compulsory heir), according to the system of legitimes, has **by provision of law, from the time of his birth, a vested right to eventually acquire the inheritance from his ascendants, the right to be actually vested, from the moment of death.** [[#green]]==Such a vested right is inherent with his filiation to which belong the obligations and rights of the author of his being.== ^{(Rocha v. Tuason and Rocha de Despujol, 39 Phil. 973).}
 	- # No Right of Compulsory Heirs To Insist That the Legitimes Be Given in the Form of Property
-	  collapsed:: true
 		- While compulsory heirs have a right to the legitime, **they cannot insist that they be paid in the form of property**, whether real or personal, [[$red]]==when they are NOT AVAILABLE,== as [[#blue]]==when the will itself contains a partition of the estate,== specifically assigning the property to various heirs. In a case like this, [[#red]]==the legitimes may be satisfied by paying CASH.== ^{(Marina DizonRivera v. Estela Dizon, et al., L-24561, June 30, 1970).}
 	-
 	- # Right of Completion of Legitime
