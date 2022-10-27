@@ -1335,9 +1335,6 @@
  {:block/name "sys-category",
   :block/created-at 1666857313630,
   :block/updated-at 1666857313630}
- {:block/name "tag",
-  :block/created-at 1659873332498,
-  :block/updated-at 1659873332498}
  {:block/name "taxation 1 flashcards",
   :block/created-at 1666770177673,
   :block/updated-at 1666770367916}
