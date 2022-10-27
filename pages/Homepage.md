@@ -26,7 +26,7 @@ tags:: paksiteer, paksitive, paksionate
 - ### Who is the author of Legal Bai GitHub page?
 	- *Clifford Enoc*, a licensed real estate broker and a law student from the best law school in Carbon, USJ-R School of Law. My one tag liner is "Be paksionate, Be Paksitive!" `#AdAstra`
 	- ### Disclaimer
-		- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general information and educational purposes onlt[^typo], and not offered as, and does not constitute, legal advice or legal opinion.
+		- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general information and educational purposes [only]([[Grammar Nazi]]), and not offered as, and does not constitute, legal advice or legal opinion.
 		  id:: f58f3bdc-7e2d-4e84-a836-45daaad58780
 	- #### Affiliate Links
 	  id:: 6358df01-20ef-4b83-9569-7742d7622398
