@@ -7,7 +7,7 @@ status:: active
 public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
 
-- [[Book:]] ![Noche Vol 2, 2021 ed., RULE 40](file:///Users/adzrealty/Databases/lawdee.dtBase2/Files.noindex/pdf/6/NOCHE_VOL2_RULE40.pdf)
+- [[Book:]] ![Noche Vol 2, 2021 ed., RULE 40](NOCHE_VOL2_RULE40.pdf)
 - # RULE 40 - Appeal from Municipal Trial Courts to the Regional Trial Courts
   heading:: true
 - ## _Flowchart / Diagram_:
