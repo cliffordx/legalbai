@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/personality
 status:: active
+date-
 
 - Chapter 1 - General Provisions
   heading:: true
