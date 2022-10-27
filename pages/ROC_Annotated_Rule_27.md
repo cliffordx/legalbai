@@ -7,8 +7,6 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
-
-- [[Book:]] ![Noche Vol 1, 2021 ed., RULE 27](_RULE27.pdf)
 - # RULE 27 - Production or Inspection of Documents or Things
   heading:: true
 - **SECTION 1.** Motion for production or inspection; order.
