@@ -7,18 +7,22 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((631b232b-16f6-484f-b4c7-f366bcc52cc5))}}
-- 🔴 CHAPTER 1- General Provisions
+- ## 🔴 CHAPTER 1- General Provisions
   heading:: true
+  collapsed:: true
 	- **ARTICLE 1305.**
 	  id:: 62e7ca7d-5cc4-4a93-bcb6-41d5de926cff
+	  collapsed:: true
 		- A contract is a meeting of minds between two persons whereby one binds himself, with respect to the other, to give something or to render some service. (1254a)
 	- **ARTICLE 1306.**
 	  collapsed:: true
 		- The contracting parties may establish such stipulations, clauses, terms and conditions as they may deem convenient, provided they are not contrary to law, morals, good customs, public order, or public policy. (1255a)
 	- **ARTICLE 1307.**
+	  collapsed:: true
 		- Innominate contracts shall be regulated by the stipulations of the parties, by the provisions of [Titles I]([[CIVIL CODE/BOOK 4/TITLE_1]]) and [II]([[CIVIL CODE/BOOK 4/TITLE_2]]) of this Book, by the rules governing the most analogous nominate contracts, and by the customs of the place. (n)
 	- **ARTICLE 1308.**
 	  id:: 634fba70-4047-43df-8e06-b19eb2e19db4
+	  collapsed:: true
 		- The contract must bind both contracting parties; its validity or compliance cannot be left to the will of one of them. (1256a)
 	- **ARTICLE 1309.**
 	  collapsed:: true
@@ -55,17 +59,20 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- No one may contract in the name of another without being authorized by the latter, or unless he has by law a right to represent him.
 		- A contract entered into in the name of another by one who has no authority or legal representation, or who has acted beyond his powers, shall be unenforceable, unless it is ratified, expressly or impliedly, by the person on whose behalf it has been executed, before it is revoked by the other contracting party. (1259a)
-- 🔴 CHAPTER 2 - Essential Requisites of Contracts]]
-  heading:: true
+- ## 🔴 CHAPTER 2 - Essential Requisites of Contracts
+  collapsed:: true
 	- ### General Provisions
+	  collapsed:: true
 		- **ARTICLE 1318.**
 		  collapsed:: true
 		  id:: 62f13786-cd6f-4a99-b3cb-9fd12448800c
 			- There is no contract unless the following requisites concur:
+			  collapsed:: true
 				- (1) Consent of the contracting parties;
 				- (2) Object certain which is the subject matter of the contract;
 				- (3) Cause of the obligation which is established. (1261)
 	- ### SECTION 1 - Consent
+	  collapsed:: true
 		- **ARTICLE 1319.**
 		  collapsed:: true
 		  id:: 62f13786-d41b-495d-b3b0-ec9df16e7009
@@ -88,6 +95,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- An offer becomes ineffective upon the death, civil interdiction, insanity, or insolvency of either party before acceptance is conveyed. (n)
 		- **ARTICLE 1324.**
 		  id:: 63370972-fd9d-42b7-9e71-89202def1471
+		  collapsed:: true
 			- When the offerer has allowed the offeree a certain period to accept, the offer may be withdrawn at any time before acceptance by communicating such withdrawal, except when the option is founded upon a consideration, as something paid or promised. (n)
 		- **ARTICLE 1325.**
 		  collapsed:: true
@@ -99,6 +107,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 10b949d8-cb89-4305-a881-311aa1a7736d
 		  collapsed:: true
 			- The following cannot give consent to a contract:
+			  collapsed:: true
 				- (1) Unemancipated minors;
 				- (2) Insane or demented persons, and deaf-mutes who do not know how to write. (1263a)
 		- **ARTICLE 1328.**
@@ -110,6 +119,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The incapacity declared in ((10b949d8-cb89-4305-a881-311aa1a7736d)) is subject to the modifications determined by law, and is understood to be without prejudice to special disqualifications established in the laws. (1264)
 		- **ARTICLE 1330.**
 		  id:: 63007579-6fcf-4f85-a8a6-177dd086fec1
+		  collapsed:: true
 			- A contract where consent is given through mistake, violence, intimidation, undue influence, or fraud is voidable. (1265a)
 		- **ARTICLE 1331.**
 		  collapsed:: true
@@ -169,6 +179,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- An absolutely simulated or fictitious contract is void.
 			- A relative simulation, when it does not prejudice a third person and is not intended for any purpose contrary to law, morals, good customs, public order or public policy binds the parties to their real agreement. (n)
 	- ### SECTION 2 - Object of Contracts
+	  collapsed:: true
 		- **ARTICLE 1347.**
 		  collapsed:: true
 		  id:: 62e7ca7d-f992-432a-85fd-5692adbe3751
@@ -178,6 +189,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- All services which are not contrary to law, morals, good customs, public order or public policy may likewise be the object of a contract. (1271a)
 		- **ARTICLE 1348.**
 		  id:: 63007579-1f7e-4b03-9591-be2399c0e611
+		  collapsed:: true
 			- Impossible things or services cannot be the object of contracts. (1272)
 		- **ARTICLE 1349.**
 		  collapsed:: true
@@ -204,8 +216,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1355.**
 		  collapsed:: true
 			- Except in cases specified by law, lesion or inadequacy of cause shall not invalidate a contract, unless there has been fraud, mistake or undue influence. (n)
-- 🔴 CHAPTER 3 - Form of Contracts]]
-  heading:: true
+- ## 🔴 CHAPTER 3 - Form of Contracts
+  collapsed:: true
 	- **ARTICLE 1356.**
 	  collapsed:: true
 	  id:: 62e7ca7d-49ac-40a7-b148-6eb5c0be8170
@@ -220,13 +232,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1358.**
 	  collapsed:: true
 		- The following must appear in a public document:
+		  collapsed:: true
 			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over immovable property; sales of real property or of an interest therein are governed by articles 1403, No. 2, and 1405;
 			- (2) The cession, repudiation or renunciation of hereditary rights or of those of the conjugal partnership of gains;
 			- (3) The power to administer property, or any other power which has for its object an act appearing or which should appear in a public document, or should prejudice a third person;
 			- (4) The cession of actions or rights proceeding from an act appearing in a public document.
 		- All other contracts where the amount involved exceeds five hundred pesos must appear in writing, even a private one. But sales of goods, chattels or things in action are governed by articles  1403, No. 2, and 1405. (1280a)
-- 🔴 CHAPTER 4 - Reformation of Instruments]]
-  heading:: true
+- ## 🔴 CHAPTER 4 - Reformation of Instruments
   collapsed:: true
 	- **ARTICLE 1359.**
 	  collapsed:: true
@@ -266,8 +278,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1369.**
 	  collapsed:: true
 		- The procedure for the reformation of instrument shall be governed by rules of court to be promulgated by the Supreme Court.
-- 🔴 CHAPTER 5 - Interpretation of Contracts]]
-  heading:: true
+- 🔴 CHAPTER 5 - Interpretation of Contracts
   collapsed:: true
 	- **ARTICLE 1370.**
 	  collapsed:: true
@@ -293,6 +304,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The usage or custom of the place shall be borne in mind in the interpretation of the ambiguities of a contract, and shall fill the omission of stipulations which are ordinarily established. (1287)
 	- **ARTICLE 1377.**
 	  id:: 631d71fc-e3d4-4c44-94bc-f49bcdf2729b
+	  collapsed:: true
 		- The interpretation of obscure words or stipulations in a contract shall not favor the party who caused the obscurity. (1288)
 	- **ARTICLE 1378.**
 	  collapsed:: true
@@ -302,8 +314,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1379.**
 	  collapsed:: true
 		- The principles of interpretation stated in Rule 123 of the Rules of Court shall likewise be observed in the construction of contracts. (n)
-- 🔴 CHAPTER 6 - Rescissible Contracts]]
-  heading:: true
+- 🔴 CHAPTER 6 - Rescissible Contracts
   collapsed:: true
 	- **ARTICLE 1380.**
 	  collapsed:: true
@@ -311,6 +322,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1381.**
 	  collapsed:: true
 		- The following contracts are rescissible:
+		  collapsed:: true
 			- (1) Those which are entered into by guardians whenever the wards whom they represent suffer lesion by more than one-fourth of the value of the things which are the object thereof;
 			- (2) Those agreed upon in representation of absentees, if the latter suffer the lesion stated in the preceding number;
 			- (3) Those undertaken in fraud of creditors when the latter cannot in any other manner collect the claims due them;
@@ -349,8 +361,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The action to claim rescission must be commenced within four years.
 		- For persons under guardianship and for absentees, the period of four years shall not begin until the termination of the former’s incapacity, or until the domicile of the latter is known. (1299)
-- 🔴 CHAPTER 7 - Voidable Contracts]]
-  heading:: true
+- 🔴 CHAPTER 7 - Voidable Contracts
   collapsed:: true
 	- **ARTICLE 1390.**
 	  collapsed:: true
@@ -363,6 +374,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The action for annulment shall be brought within four years.
 		- This period shall begin:
+		  collapsed:: true
 			- In cases of intimidation, violence or undue influence, from the time the defect of the consent ceases.
 			- In case of mistake or fraud, from the time of the discovery of the same.
 			- And when the action refers to contracts entered into by minors or other incapacitated persons, from the time the guardianship ceases. (1301a)
@@ -403,12 +415,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1402.**
 	  collapsed:: true
 		- As long as one of the contracting parties does not restore what in virtue of the decree of annulment he is bound to return, the other cannot be compelled to comply with what is incumbent upon him. (1308)
-- 🔴 CHAPTER 8 - Unenforceable Contracts]]
-  heading:: true
+- 🔴 CHAPTER 8 - Unenforceable Contracts
   collapsed:: true
 	- **ARTICLE 1403.**
 	  collapsed:: true
 		- The following contracts are unenforceable, unless they are ratified:
+		  collapsed:: true
 			- (1) Those entered into in the name of another person by one who has been given no authority or legal representation, or who has acted beyond his powers;
 			  id:: a89bccfe-4648-4084-84da-4fc192115383
 			- (2) Those that do not comply with the [[Statute of Frauds]] as set forth in this number.
@@ -425,6 +437,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (3) Those where both parties are incapable of giving consent to a contract.
 	- **ARTICLE 1404.**
 	  id:: 06f26ae6-3cf6-4486-afbb-3d52b84472ee
+	  collapsed:: true
 		- Unauthorized contracts are governed by ((9952ac75-a0c7-4ad5-8229-9496e664e3a2)) and the principles of agency in Title X of this Book.
 	- **ARTICLE 1405.**
 	  collapsed:: true
@@ -439,11 +452,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1408.**
 	  collapsed:: true
 		- Unenforceable contracts cannot be assailed by third persons.
-- 🔴 CHAPTER 9 - Void or Inexistent Contracts]]
-  heading:: true
+- 🔴 CHAPTER 9 - Void or Inexistent Contracts
+  collapsed:: true
 	- **ARTICLE 1409.**
 	  id:: 63007579-a50a-4b60-bb19-32776b092e4e
+	  collapsed:: true
 		- The following contracts are inexistent and void from the beginning:
+		  collapsed:: true
 			- (1) Those whose cause, [[object]] or purpose is contrary to law, morals, good customs, public order or public policy;
 			  id:: 63007579-e114-4387-a677-da0c4966a21e
 			- (2) Those which are absolutely simulated or fictitious;
@@ -459,12 +474,15 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The action or defense for the declaration of the inexistence of a contract does not prescribe.
 	- **ARTICLE 1411.**
 	  id:: 63007579-8157-46c1-9cf3-5455ac1f0885
+	  collapsed:: true
 		- When the nullity proceeds from the illegality of the cause or object of the contract, and the act constitutes a criminal offense, both parties being in *pari delicto*, they shall have no action against each other, and both shall be prosecuted.
 		- Moreover, the provisions of the Penal Code relative to the disposal of effects or instruments of a crime shall be applicable to the things or the price of the contract.
 		- This rule shall be applicable when only one of the parties is guilty; but the innocent one may claim what he has given, and shall not be bound to comply with his promise. (1305)
 	- **ARTICLE 1412.**
 	  id:: 63007579-18fa-49f4-a202-f737426c0374
+	  collapsed:: true
 		- If the act in which the unlawful or forbidden cause consists does not constitute a criminal offense, the following rules shall be observed:
+		  collapsed:: true
 			- (1) When the fault is on the part of both contracting parties, neither may recover what he has given by virtue of the contract, or demand the performance of the other’s undertaking;
 			- (2) When only one of the contracting parties is at fault, he cannot recover what he has given by reason of the contract, or ask for the fulfillment of what has been promised him. The other, who is not at fault, may demand the return of what he has given without any obligation to comply with his promise. (1306)
 	- **ARTICLE 1413.**
