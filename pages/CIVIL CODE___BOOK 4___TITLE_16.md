@@ -16,7 +16,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- x x x
 		- {{embed ((6302186c-f944-4725-948c-f200726045e3))}}
-- 🔴 CHAPTER 1- PROVISIONS COMMON TO PLEDGE AND MORTGAGE]]
+- 🔴 CHAPTER 1- PROVISIONS COMMON TO PLEDGE AND MORTGAGE
   heading:: true
   collapsed:: true
   id:: 62b32e88-b0da-4464-a2d0-b2d3743ff1cc
@@ -39,7 +39,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- It is also of the essence of these contracts that when the principal obligation becomes due, the things in which the pledge or mortgage consists may be alienated for the payment to the creditor. (1858)
 	- **ARTICLE 2088.**
 	  id:: 62b32e88-2f4f-492c-9d93-1c65c63d9349
-		- The creditor cannot appropriate the things given by way of pledge or mortgage, or dispose of them. 
+		- The creditor cannot appropriate the things given by way of pledge or mortgage, or dispose of them.
 		  id:: 62b32e88-ca99-4afe-a9eb-3f8c8b05123e
 		- Any stipulation to the contrary is null and void. (1859a)
 	- **ARTICLE 2089.**
@@ -58,7 +58,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2092.**
 	  collapsed:: true
 		- A promise to constitute a pledge or mortgage gives rise only to a personal action between the contracting parties, without prejudice to the criminal responsibility incurred by him who defrauds another, by offering in pledge or mortgage as unencumbered, things which he knew were subject to some burden, or by misrepresenting himself to be the owner of the same. (1862)
-- 🔴 CHAPTER 2 - PLEDGE]]
+- 🔴 CHAPTER 2 - PLEDGE
   heading:: true
   collapsed:: true
   id:: 62b32e88-0268-45da-aafb-5e449c82d711
@@ -179,7 +179,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2123.**
 	  collapsed:: true
 		- With regard to pawnshops and other establishments, which are engaged in making loans secured by pledges, the special laws and regulations concerning them shall be observed, and subsidiarily, the provisions of this Title. (1873a)
-- 🔴 CHAPTER 3 - MORTGAGE]]
+- 🔴 CHAPTER 3 - MORTGAGE
   heading:: true
   collapsed:: true
 	- **ARTICLE 2124.**

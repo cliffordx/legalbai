@@ -7,7 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((632349be-07cb-4ddd-a06c-7e83af1d5f71))}}
-- 🔴 CHAPTER 1- NATURE AND EXTENT OF GUARANTY]]
+- 🔴 CHAPTER 1- NATURE AND EXTENT OF GUARANTY
   heading:: true
   id:: 631d71fa-4056-4465-a1e3-95858fa597e4
 	- **ARTICLE 2047.**
@@ -62,7 +62,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- If the guarantor should be convicted in first instance of a crime involving dishonesty or should become insolvent, the creditor may demand another who has all the qualifications required in the preceding article.
 		- The case is excepted where the creditor has required and stipulated that a specified person should be the guarantor. (1829a)
-- 🔴 CHAPTER 2 - EFFECTS OF GUARANTY]]
+- 🔴 CHAPTER 2 - EFFECTS OF GUARANTY
   heading:: true
   collapsed:: true
   id:: 631d71fa-810d-442e-9413-ec9e879ed9f7
@@ -148,7 +148,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 2075.**
 		  collapsed:: true
 			- A sub-guarantor, in case of the insolvency of the guarantor for whom he bound himself, is responsible to the co-guarantors in the same terms as the guarantor. (1846)
-- 🔴 CHAPTER 3 - EXTINGUISHMENT OF GUARANTY]]
+- 🔴 CHAPTER 3 - EXTINGUISHMENT OF GUARANTY
   heading:: true
   id:: 631d71fa-8cb4-4853-8a9e-b5873665b0c3
 	- **ARTICLE 2076.**

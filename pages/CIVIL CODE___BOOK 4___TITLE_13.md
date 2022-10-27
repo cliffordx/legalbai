@@ -10,7 +10,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2010.**
 	  id:: 631d71f9-d983-4e6c-b8f8-466990b9dde0
 		- By an aleatory contract, one of the parties or both reciprocally bind themselves to give or to do something in consideration of what the other shall give or do upon the happening of an event which is uncertain, or which is to occur at an indeterminate time. (1790)
-- # 🔴 CHAPTER 1- INSURANCE]]
+- # 🔴 CHAPTER 1- INSURANCE
 	- **ARTICLE 2011.**
 	  id:: 631d71f9-a463-46a4-9b4f-81c64f91d858
 		- The contract of insurance is governed by special laws.
@@ -18,7 +18,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2012.**
 	  id:: 631d71f9-e88b-4840-b4c9-7f4c827809ab
 		- Any person who is forbidden from receiving any donation under [article 739](((63007574-2fd7-470e-a2be-c357fdccd68d))) cannot be named beneficiary of a life insurance policy by the person who cannot make any donation to him, according to said article. (n)
-- # 🔴 CHAPTER 2 - GAMBLING]]
+- # 🔴 CHAPTER 2 - GAMBLING
 	- **ARTICLE 2013.**
 		- A game of chance is that which depends more on chance or hazard than or skill or ability.
 		- For the purposes of the following articles, in case of doubt a game is deemed to be one of chance. (n)
@@ -43,7 +43,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2020.**
 		- The loser in any game which is not one of chance, when there is no local ordinance which prohibits betting therein, is under obligation to pay his loss, unless the amount thereof is excessive under the circumstances.
 		- In the latter case, the court shall reduce the loss to the proper sum. (1801a)
-- # 🔴 CHAPTER 3 - LIFE ANNUITY]]
+- # 🔴 CHAPTER 3 - LIFE ANNUITY
 	- **ARTICLE 2021.**
 		- The aleatory contract of life annuity binds the debtor to pay an annual pension or income during the life of one or more determinate persons in consideration of a capital consisting of money or other property, whose ownership is transferred to him at once with the burden of the income. (1802a)
 	- **ARTICLE 2022.**
