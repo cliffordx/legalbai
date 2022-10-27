@@ -278,7 +278,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1369.**
 	  collapsed:: true
 		- The procedure for the reformation of instrument shall be governed by rules of court to be promulgated by the Supreme Court.
-- 🔴 CHAPTER 5 - Interpretation of Contracts
+- ## 🔴 CHAPTER 5 - Interpretation of Contracts
   collapsed:: true
 	- **ARTICLE 1370.**
 	  collapsed:: true
@@ -314,7 +314,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1379.**
 	  collapsed:: true
 		- The principles of interpretation stated in Rule 123 of the Rules of Court shall likewise be observed in the construction of contracts. (n)
-- 🔴 CHAPTER 6 - Rescissible Contracts
+- ## 🔴 CHAPTER 6 - Rescissible Contracts
   collapsed:: true
 	- **ARTICLE 1380.**
 	  collapsed:: true
@@ -361,7 +361,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The action to claim rescission must be commenced within four years.
 		- For persons under guardianship and for absentees, the period of four years shall not begin until the termination of the former’s incapacity, or until the domicile of the latter is known. (1299)
-- 🔴 CHAPTER 7 - Voidable Contracts
+- ## 🔴 CHAPTER 7 - Voidable Contracts
   collapsed:: true
 	- **ARTICLE 1390.**
 	  collapsed:: true
@@ -415,7 +415,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1402.**
 	  collapsed:: true
 		- As long as one of the contracting parties does not restore what in virtue of the decree of annulment he is bound to return, the other cannot be compelled to comply with what is incumbent upon him. (1308)
-- 🔴 CHAPTER 8 - Unenforceable Contracts
+- ## 🔴 CHAPTER 8 - Unenforceable Contracts
   collapsed:: true
 	- **ARTICLE 1403.**
 	  collapsed:: true
@@ -452,7 +452,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1408.**
 	  collapsed:: true
 		- Unenforceable contracts cannot be assailed by third persons.
-- 🔴 CHAPTER 9 - Void or Inexistent Contracts
+- ## 🔴 CHAPTER 9 - Void or Inexistent Contracts
   collapsed:: true
 	- **ARTICLE 1409.**
 	  id:: 63007579-a50a-4b60-bb19-32776b092e4e
