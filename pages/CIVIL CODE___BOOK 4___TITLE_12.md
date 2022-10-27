@@ -7,7 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((632349be-07cb-4ddd-a06c-7e83af1d5f71))}}
-- [[🔴 CHAPTER 1 - DEPOSIT IN GENERAL AND ITS DIFFERENT KINDS]]
+- 🔴 CHAPTER 1- DEPOSIT IN GENERAL AND ITS DIFFERENT KINDS]]
   heading:: true
 	- **ARTICLE 1962.**
 		- A deposit is constituted from the moment a person receives a thing belonging to another, with the obligation of safely keeping it and of returning the same. If the safekeeping of the thing delivered is not the principal purpose of the contract, there is no deposit but some other contract. (1758a)

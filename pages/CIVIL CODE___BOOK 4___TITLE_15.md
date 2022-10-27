@@ -7,7 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((632349be-07cb-4ddd-a06c-7e83af1d5f71))}}
-- [[🔴 CHAPTER 1 - NATURE AND EXTENT OF GUARANTY]]
+- 🔴 CHAPTER 1- NATURE AND EXTENT OF GUARANTY]]
   heading:: true
   id:: 631d71fa-4056-4465-a1e3-95858fa597e4
 	- **ARTICLE 2047.**

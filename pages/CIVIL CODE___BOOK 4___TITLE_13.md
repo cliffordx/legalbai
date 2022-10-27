@@ -10,7 +10,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2010.**
 	  id:: 631d71f9-d983-4e6c-b8f8-466990b9dde0
 		- By an aleatory contract, one of the parties or both reciprocally bind themselves to give or to do something in consideration of what the other shall give or do upon the happening of an event which is uncertain, or which is to occur at an indeterminate time. (1790)
-- # [[🔴 CHAPTER 1 - INSURANCE]]
+- # 🔴 CHAPTER 1- INSURANCE]]
 	- **ARTICLE 2011.**
 	  id:: 631d71f9-a463-46a4-9b4f-81c64f91d858
 		- The contract of insurance is governed by special laws.

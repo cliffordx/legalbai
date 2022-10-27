@@ -6,7 +6,7 @@ tags:: #codal/donation
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- # [[🔴 CHAPTER 1 - Nature of Donations]]
+- # 🔴 CHAPTER 1- Nature of Donations]]
   collapsed:: true
 	- **ARTICLE 725.**
 	  id:: 63007574-985f-42d2-af0b-54b93a946614

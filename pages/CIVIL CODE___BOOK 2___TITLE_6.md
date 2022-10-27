@@ -6,7 +6,7 @@ tags:: #codal/property/usufruct
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- [[🔴 CHAPTER 1 - Usufruct in General]]
+- 🔴 CHAPTER 1- Usufruct in General]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 562.**

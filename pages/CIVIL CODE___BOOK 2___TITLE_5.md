@@ -6,7 +6,7 @@ tags:: #codal/property/possession
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- [[🔴 CHAPTER 1 - Possession and the Kinds Thereof]]
+- 🔴 CHAPTER 1- Possession and the Kinds Thereof]]
   heading:: true
   collapsed:: true
 	- **ARTICLE 523.**

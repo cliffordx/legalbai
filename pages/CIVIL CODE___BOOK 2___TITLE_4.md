@@ -6,7 +6,7 @@ tags:: #codal/property/special
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- [[🔴 CHAPTER 1 - Waters]]
+- 🔴 CHAPTER 1- Waters]]
   heading:: true
   collapsed:: true
   *(see Note below)*

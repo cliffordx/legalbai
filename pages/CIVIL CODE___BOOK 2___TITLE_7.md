@@ -6,7 +6,7 @@ tags:: #codal/property/easement
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- [[🔴 CHAPTER 1 - Easements in General]]
+- 🔴 CHAPTER 1- Easements in General]]
   heading:: true
 	- ## SECTION 1 - Different Kinds of Easements
 	  collapsed:: true

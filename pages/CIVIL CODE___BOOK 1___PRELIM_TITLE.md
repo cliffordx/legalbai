@@ -6,7 +6,7 @@ tags:: #codal/preliminary
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- # [[🔴 CHAPTER 1 - Effect and Application of Laws]]
+- # 🔴 CHAPTER 1- Effect and Application of Laws]]
 	- **ARTICLE 1.**
 		- This Act shall be known as the “Civil Code of the Philippines.” (n)
 	- **ARTICLE 2.**

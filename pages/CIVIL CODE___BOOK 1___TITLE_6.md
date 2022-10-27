@@ -7,7 +7,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - Superseded by: [TITLE IV - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE]([[codal/Family Code of the Philippines/Title 4]]) (Family Code of the Philippines)
 - {{embed ((630f4e85-3674-4960-bfd6-dfd332a67c40))}}
-- # [[🔴 CHAPTER 1 - General Provisions]]
+- # 🔴 CHAPTER 1- General Provisions]]
   collapsed:: true
 	- **ARTICLE 118.**
 	  collapsed:: true

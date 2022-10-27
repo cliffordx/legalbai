@@ -6,7 +6,7 @@ tags:: #codal/comprises #codal/arbitration
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- # [[🔴 CHAPTER 1 - COMPROMISES]]
+- # 🔴 CHAPTER 1- COMPROMISES]]
 	- **ARTICLE 2028.**
 		- A compromise is a contract whereby the parties, by making reciprocal concessions, avoid a litigation or put an end to one already commenced. (1809a)
 	- **ARTICLE 2029.**

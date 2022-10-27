@@ -6,7 +6,7 @@ tags:: #codal/quasi-contract #codal/quasi-delict
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- [[🔴 CHAPTER 1 - QUASI-CONTRACTS]]
+- 🔴 CHAPTER 1- QUASI-CONTRACTS]]
   heading:: true
 	- **ARTICLE 2142.**
 	  collapsed:: true

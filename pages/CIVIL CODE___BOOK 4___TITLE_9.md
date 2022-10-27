@@ -7,7 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((631b1e7a-1602-44e7-bcd8-54eb0b19bb78))}}
-- # [[🔴 CHAPTER 1 - GENERAL PROVISIONS]]
+- # 🔴 CHAPTER 1- GENERAL PROVISIONS]]
 	- **ARTICLE 1767.**
 	  collapsed:: true
 		- By the contract of partnership two or more persons bind themselves to contribute money, property, or industry to a common fund, with the intention of dividing the profits among themselves.

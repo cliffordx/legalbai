@@ -16,7 +16,7 @@ sys-category:: [[36]]
 		- All things which are or may be the [object of appropriation](((62cc5a6d-a91b-4884-843e-456a29fdf848))) are considered either:
 			- (1) Immovable or real property; or
 			- (2) Movable or personal property. (333)
-- [[🔴 CHAPTER 1 - Immovable Property]]
+- 🔴 CHAPTER 1- Immovable Property]]
   heading:: true
   id:: ead48f81-2f1d-4464-baac-e5d3dd6205da
   collapsed:: true

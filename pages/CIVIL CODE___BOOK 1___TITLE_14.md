@@ -8,7 +8,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 link-ref:: [Paras](((631d53e4-9da2-4390-949e-7f7ce5d69a17))) [Albano](((631d57ad-e139-4e52-83ca-1d262397d10a))) [Sta. Maria](((631d581f-bb3c-4aff-8a15-5a9e3cbe484b))) [Vitug](((631da5e6-7bd6-4d9d-a01f-203f8b625993)))
 
 - {{embed ((630f5189-ad67-4809-8fa0-ce9ad6a7a938))}}
-- # [[🔴 CHAPTER 1 - Provisional Measures in Case of Absence]]
+- # 🔴 CHAPTER 1- Provisional Measures in Case of Absence]]
 	- **ARTICLE 381.**
 		- When a person disappears from his domicile, his whereabouts being unknown, and without leaving an agent to administer his property, the judge, at the instance of an interested party, a relative, or a friend, may appoint a person to represent him in all that may be necessary.
 		- This same rule shall be observed when under similar circumstances the power conferred by the absentee has expired. (181a)

@@ -16,7 +16,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- x x x
 		- {{embed ((6302186c-f944-4725-948c-f200726045e3))}}
-- [[🔴 CHAPTER 1 - PROVISIONS COMMON TO PLEDGE AND MORTGAGE]]
+- 🔴 CHAPTER 1- PROVISIONS COMMON TO PLEDGE AND MORTGAGE]]
   heading:: true
   collapsed:: true
   id:: 62b32e88-b0da-4464-a2d0-b2d3743ff1cc

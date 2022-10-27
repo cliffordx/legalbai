@@ -20,7 +20,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 1181f4f3-c8aa-481e-97b7-288112297acd
 		- An accepted promise to deliver something by way of *commodatum* or simple loan is binding upon the parties, but the *commodatum* or simple loan itself shall not be perfected until the delivery of the object of the contract. (n)
 		-
-- # [[🔴 CHAPTER 1 - COMMODATUM]]
+- # 🔴 CHAPTER 1- COMMODATUM]]
   collapsed:: true
 	- ## SECTION 1 - Nature of Commodatum
 		- **ARTICLE 1935.**

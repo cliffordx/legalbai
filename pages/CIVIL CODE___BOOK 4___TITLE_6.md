@@ -6,7 +6,7 @@ tags:: #codal/sales
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- # [[🔴 CHAPTER 1 - NATURE AND FORM OF THE CONTRACT]]
+- # 🔴 CHAPTER 1- NATURE AND FORM OF THE CONTRACT]]
 	- **ARTICLE 1458.**
 	  id:: 7b1b3e18-bc92-4d11-8f36-c1d86c985a71
 	  collapsed:: true

@@ -7,7 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((631b232b-16f6-484f-b4c7-f366bcc52cc5))}}
-- # [[🔴 CHAPTER 1 - General Provisions]]
+- # 🔴 CHAPTER 1- General Provisions]]
 	- **ARTICLE 1440.**
 		- A person who establishes a trust is called the trustor; one in whom confidence is reposed as regards property for the benefit of another person is known as the trustee; and the person for whose benefit the trust has been created is referred to as the beneficiary.
 	- **ARTICLE 1441.**
