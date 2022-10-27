@@ -2,6 +2,7 @@ title:: CIVIL CODE/BOOK 1/TITLE_15
 alt-title:: Civil Code of the Philippines BOOK I - TITLE III-IX —  **REPEALED**
 tags:: #[[codal/Family Code of the Philippines]] #repealed
 status:: repealed
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - Superseded by: [ TITLE X - EMANCIPATION AND AGE OF MAJORITY]([[codal/Family Code of the Philippines/Title 10]]) (Family Code of the Philippines)
 ## CHAPTER 1 - Emancipation
