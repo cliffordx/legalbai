@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/children_care_edu
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 356.**
 	- Every child:

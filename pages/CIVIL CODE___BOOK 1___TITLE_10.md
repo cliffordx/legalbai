@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/funeral
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 # TITLE X - Funerals
 	- **ARTICLE 305.**

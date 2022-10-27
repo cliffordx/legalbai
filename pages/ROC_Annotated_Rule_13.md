@@ -4,6 +4,7 @@ type:: codal
 law-subject:: remedial
 tag:: #codal/roc/civpro
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 public:: true
 
 - [[Book:]] ![Noche Vol 1, 2021 ed., RULE 13](../assets/VOL1_NOCHE_2021_RULE13.pdf)

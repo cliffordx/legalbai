@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/occupation
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 713.**
   id:: 065ea719-f427-48e1-9f68-abccc322d69c

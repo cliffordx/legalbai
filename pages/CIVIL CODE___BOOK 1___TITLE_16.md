@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/civil_register
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 407.**
   id:: 631d71f0-c181-43d5-8e7d-c81fa0d2ccce

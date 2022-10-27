@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/succession
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((630b2487-1b5d-4c70-8301-d564010a87f8))}}
 - [[🔴 CHAPTER 1 - General Provisions]]

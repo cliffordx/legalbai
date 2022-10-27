@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/ipl
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 721.**
 	- By intellectual creation, the following persons acquire ownership:

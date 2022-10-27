@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/property/easement
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - [[🔴 CHAPTER 1 - Easements in General]]
   heading:: true

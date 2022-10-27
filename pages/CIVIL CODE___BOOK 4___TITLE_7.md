@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/barter #codal/exchange
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 1638.**
 	- By the contract of barter or exchange one of the parties binds himself to give one thing in consideration of the other’s promise to give another thing. (1538a)

@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/sales
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - # [[🔴 CHAPTER 1 - NATURE AND FORM OF THE CONTRACT]]
 	- **ARTICLE 1458.**

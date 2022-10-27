@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/surname
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 364.**
 	- Legitimate and legitimated children shall principally use the surname of the father.

@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/personality
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 
 - Chapter 1 - General Provisions

@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/guaranty
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((632349be-07cb-4ddd-a06c-7e83af1d5f71))}}
 - [[🔴 CHAPTER 1 - NATURE AND EXTENT OF GUARANTY]]

@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/lease
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - [[🔴 CHAPTER 1 - GENERAL PROVISIONS]]
   heading:: true

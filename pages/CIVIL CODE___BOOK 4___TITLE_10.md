@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/agency
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - {{embed ((631b1e7a-1602-44e7-bcd8-54eb0b19bb78))}}
 - # [[🔴 CHAPTER 1 - NATURE, FORM, AND KINDS OF AGENCY]]

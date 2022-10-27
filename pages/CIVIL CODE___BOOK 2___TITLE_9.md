@@ -4,6 +4,7 @@ type:: codal
 law-subject:: civil
 tags:: #codal/property/registry
 status:: active
+date-uploaded:: 16:03; Thursday, 27th October 2022
 
 	- **ARTICLE 708.**
 		- The Registry of Property has for its object the inscription or annotation of acts and contracts relating to the ownership and other rights over immovable property. (605)
