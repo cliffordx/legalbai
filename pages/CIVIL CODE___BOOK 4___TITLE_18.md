@@ -6,7 +6,7 @@ tags:: #codal/damages
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- # [[🔴 CHAPTER 1 - GENERAL PROVISIONS]]
+- # 🔴 CHAPTER 1 - GENERAL PROVISIONS
 	- **ARTICLE 2195.**
 	  collapsed:: true
 		- The provisions of this Title shall be respectively applicable to all obligations mentioned in [article 1157](((62e7ca78-13cd-4fe7-8bf6-b5659bbe8b55))).
