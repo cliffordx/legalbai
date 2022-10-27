@@ -24,14 +24,14 @@
 - # Compulsory Heirs
   id:: 635756d0-02d4-43fe-84d7-2668de85b297
 	- In general, compulsory heirs are those heirs for whom the law has reserved that part of the testator’s estate known as the legitime.[Art. 886](((634fba6d-78b7-4ce7-a959-dce0556783d5))) As such, testator cannot disregard them.
-	- # T: ((63575a19-3fde-41d8-a5ba-61ba6950dd8e))
+	- # Kinds/Classes of Compulsory Heirs
 	  id:: 63575a0e-3348-4ac4-a7bf-79af6d8bec62
 		- The compulsory heirs as [enumerated in Art. 887](((63575738-b48f-4a77-8be9-43280a8f6fb1))) may be classified into **primary compulsory heirs** and **secondary compulsory heirs.**
 		- (There may be also the concurring compulsory heirs as it will be explained later.)
 		- Primary compulsory heirs are those who are always entitled to their legitime as provided by law regardless of the class of compulsory heirs with which they may concur, while secondary compulsory heirs are those who may be excluded by other compulsory heirs.
 		- The first includes all kinds of compulsory heirs with the exception of parents or ascendants, while the second embraces only parents or ascendants.
 		- ### Primary Compulsory Heirs
-			- The primary compulsory heirs get their legitime even in the presence of the other primary compulsory heirs and even in the presence of the secondary compulsory heirs. The primary forced heirs are those mentioned in Nos. 1, 3, 4, and 5, Art.887. Note that the illegitimate children, to be compulsory heirs, must be recognized. *Read* ((6357ce29-c469-4b72-b233-f2b3485b2f69)); ((6357ce42-1881-42f3-812b-f460e75245a1))
+			- The primary compulsory heirs get their legitime even in the presence of the other primary compulsory heirs and even in the presence of the secondary compulsory heirs. The primary forced heirs are those mentioned in Nos. 1, 3, 4, and 5, Art.887. Note that the illegitimate children, to be compulsory heirs, must be recognized.
 			- Natural children, *who have not been voluntarily recognized or acknowledged* should be regarded as LEGITIMATED in case their parents will have a subsequent valid marriage. This is particularly true if said children had enjoyed the continuous possession of the status of acknowledged natural children by direct acts of the parents or the members of the family. Estoppel should prevent the family from questioning the status. Besides, technicality should give way. The said children will therefore be allowed to inherit.
 			- > *NOTE:* There is no more distinction between the natural and spurious children under the Civil Code. (See Art. 165, Family Code).
 		- ### Secondary Compulsory Heirs
