@@ -955,9 +955,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Legitime is that part of the testator’s property which he cannot dispose of because the law has reserved it for certain heirs who are, therefore, called compulsory heirs. (806)
 		- **ARTICLE 887.**
 		  id:: 634fba6d-b427-495e-a84a-98c6daab592b
-		  collapsed:: true
 			- The following are compulsory heirs:
-			  collapsed:: true
 				- (1) Legitimate children and descendants, with respect to their legitimate parents and ascendants;
 				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their legitimate children and descendants;
 				- (3) The widow or widower;
