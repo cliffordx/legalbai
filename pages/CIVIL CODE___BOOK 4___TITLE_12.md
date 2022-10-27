@@ -27,7 +27,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1967.**
 	  collapsed:: true
 		- An extrajudicial deposit is either voluntary or necessary. (1762)
-- 🔴 CHAPTER 2 - VOLUNTARY DEPOSIT]]
+- 🔴 CHAPTER 2 - VOLUNTARY DEPOSIT
   heading:: true
 	- ## SECTION 1 - General Provisions
 		- **ARTICLE 1968.**
