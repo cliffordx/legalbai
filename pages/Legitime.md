@@ -1,6 +1,7 @@
 title:: Legitime
 
 - # Learning Objectives:
+  background-color:: yellow
 	- What is legitime
 	- What is compulsory heirs
 	- # *legitime*; meaning
@@ -8,6 +9,7 @@ title:: Legitime
 		- **Black's Law Dictionary:** ***Legitime*** (18c). The part of testator's property that his or her children (and occasionally other heirs) are legally entitled to regardless of the will's terms; esp., the part of a decedent's estate reserved, by law, individually to a forced heir. The legitime cannot be denied the children without legal cause.In Roman law, the amount of the legitime was one-fourth of the claimant's share on intestacy. — Also termed legal portion; legitimate portion; legitima portio; forced partition. See *forced heir.*(Scots law) [^886]
 			- [^886] _{Garner, Bryan A., and Henry Campbell Black, eds. *Black’s Law Dictionary*. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p.1084.}
 - # Art. 886
+  background-color:: blue
   collapsed:: true
 	- > {{embed ((634fba6d-78b7-4ce7-a959-dce0556783d5))}}
 	- # Concept of Legitime
@@ -75,6 +77,8 @@ title:: Legitime
 	- # Right of Completion of Legitime
 		- Compulsory heirs are never compelled to accept the legitime — they may accept or reject — for no one can compel another to receive a gift or an economic advantage. They are called compulsory, only because the testator cannot disregard them.^{(Gala v. Ellice Agro-Industrial Corp., 418 SCRA 431 [2003]).}
 - # Art. 887
+  background-color:: purple
+  collapsed:: true
 	- > {{embed ((634fba6d-b427-495e-a84a-98c6daab592b))}}
 	- {{embed ((6357bf07-4204-4d58-a767-9dc6d7950092))}}
 	- {{embed ((635756d0-02d4-43fe-84d7-2668de85b297))}}
@@ -87,4 +91,3 @@ title:: Legitime
 		- Succession, as a general rule, goes down the descending line. The only time when succession goes up the ascending line is when there are no children or descendants.
 		- **1. Descending line:** This is the line of priority. Supposing a person has children and all of them predeceased him. Succession will go up the ascending line only upon the inapplicability of the right of representation inasmuch as the legitime of the descendant is subject to the right of representation. Each time a legitimate child or a descendant inherits, he gets half of the estate, known as the strict legitime.
 		- **2. Ascending line:** Since the ascending line is not the preferred line, the right of representation does not apply to the ascending line. In cases where succession goes up, the rule is “the nearer excludes the farther”. As in the case of a legitimate child or descendant, each time an ascendant inherits, he always inherits one half of the estate considering that ascendants are considered as mere substitutes, in case there are no descendants.
--

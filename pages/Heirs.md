@@ -35,7 +35,7 @@
 			- Natural children, *who have not been voluntarily recognized or acknowledged* should be regarded as LEGITIMATED in case their parents will have a subsequent valid marriage. This is particularly true if said children had enjoyed the continuous possession of the status of acknowledged natural children by direct acts of the parents or the members of the family. Estoppel should prevent the family from questioning the status. Besides, technicality should give way. The said children will therefore be allowed to inherit.
 			- > *NOTE:* There is no more distinction between the natural and spurious children under the Civil Code. (See Art. 165, Family Code).
 		- ### Secondary Compulsory Heirs
-			- The secondary compulsory heirs are those mentioned in [No. 2 in Art. 887](((635a9ef6-b491-493d-983d-b9255566e327))). They inherit only in the absence of No. 1 in Art. 887. The father or the mother of illegitimate children is also a secondary compulsory heir but only as provided for in [Art. 903](((634fba6c-299a-40f2-93e6-2c1226a1ef4a))).
+			- The secondary compulsory heirs are those mentioned in [No. 2 in Art. 887](((635a9ef6-b491-493d-983d-b9255566e327))). They inherit only in the absence of [No. 1 in Art. 887](((635a9ef6-8910-424a-a0e3-13d0da39bd3e))). The father or the mother of illegitimate children is also a secondary compulsory heir but only as provided for in [Art. 903](((634fba6c-299a-40f2-93e6-2c1226a1ef4a))).
 	- ## TABLE OF COMPULSORY HEIRS
 		- ![Screen Shot 2022-10-25 at 8.04.05 PM.png](../assets/Screen_Shot_2022-10-25_at_8.04.05_PM_1666699470912_0.png)
 - **Compulsory heirs are those enumerated in Art. 887 of the Civil Code.**
