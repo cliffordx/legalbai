@@ -5,7 +5,7 @@ alt-title:: Book III - Different Modes of Acquiring Ownership
 - # [Donation]([[CIVIL CODE/BOOK 3/TITLE_3]])
 - # [Succession]([[CIVIL CODE/BOOK 3/TITLE_4]])
 - # [Prescription]([[CIVIL CODE/BOOK 3/TITLE_5]])
-- # 🔴 Different Modes of Acquiring Ownership]]
+- # 🔴 Different Modes of Acquiring Ownership
   id:: 62f13783-931f-4914-8a99-d5b9f2c7cb4c
 	- ## Preliminary Provision
 	- **ARTICLE 712.**
