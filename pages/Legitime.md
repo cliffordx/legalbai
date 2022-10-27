@@ -52,10 +52,9 @@ title:: Legitime
 				- Illegitimate children can now establish their filiation in the same way and on the same evidence as legitimate children.
 					- {{embed ((634fbac2-8000-45ca-bd06-e5829cc5fb9f))}}
 					- {{embed ((634fbac2-2bc3-4def-9ade-3b59ef5b2d99))}}
-					- *Read:* ((6356d5d8-09b0-4921-95f6-bf08801f4b90))
+					- *Read:* _{VAN DORN v. ROMILLO, JR.139 SCRA 139}
 			-
 	- # Three Systems Affecting The Legitime
-	  collapsed:: true
 		- (a) System of the LEGITIME (PARTIAL RESERVATION)— here, a part is for the legitime, a part is for the free portion.
 		- (b) System of TOTAL RESERVATION — here, everything goes to the compulsory heirs, as long as there is at least one. Only when there is none is there freedom to dispose.
 		- (c) System of TOTAL FREEDOM OF DISPOSITION — in this system, there is no legitime. Everything is free. (See4 Castan 478).
