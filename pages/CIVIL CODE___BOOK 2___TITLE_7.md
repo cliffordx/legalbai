@@ -336,7 +336,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 687.**
 		  collapsed:: true
 			- Any proprietor intending to make any excavation contemplated in the three preceding articles shall notify all owners of adjacent lands.
-- 🔴 CHAPTER 3 - Voluntary Easements
+- ## 🔴 CHAPTER 3 - Voluntary Easements
   collapsed:: true
 	- **ARTICLE 688.**
 	  collapsed:: true
