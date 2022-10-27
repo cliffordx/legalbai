@@ -6,8 +6,7 @@ tags:: #codal/property/ownership
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-- 🔴 CHAPTER 1- Ownership in General]]
-  heading:: true
+- 🔴 CHAPTER 1- Ownership in General
   collapsed:: true
 	- **ARTICLE 427.**
 	  collapsed:: true

@@ -16,8 +16,7 @@ sys-category:: [[36]]
 		- All things which are or may be the [object of appropriation](((62cc5a6d-a91b-4884-843e-456a29fdf848))) are considered either:
 			- (1) Immovable or real property; or
 			- (2) Movable or personal property. (333)
-- 🔴 CHAPTER 1- Immovable Property]]
-  heading:: true
+- ## 🔴 CHAPTER 1- Immovable Property
   id:: ead48f81-2f1d-4464-baac-e5d3dd6205da
   collapsed:: true
 	- **ARTICLE 415.**
@@ -36,8 +35,7 @@ sys-category:: [[36]]
 			- (9) Docks and structures which, though floating, are intended by their nature and object to remain at a fixed place on a river, lake, or coast;
 			- (10) Contracts for public works, and servitudes and other real rights over immovable property. (334a)
 		- *See:* [[Classification of Lands]]
-- 🔴 CHAPTER 2 - Movable Property]]
-  heading:: true
+- ## 🔴 CHAPTER 2 - Movable Property
   id:: 758c441f-559d-4aea-aef2-ab385cb42364
   collapsed:: true
 	- **ARTICLE 416.**
@@ -55,8 +53,7 @@ sys-category:: [[36]]
 	- **ARTICLE 418.**
 	  collapsed:: true
 		- Movable property is either consumable or nonconsumable. To the first class belong those movables which cannot be used in a manner appropriate to their nature without their being consumed; to the second class belong all the others. (337)
-- 🔴 CHAPTER 3 - Property in Relation to the Person to Whom It Belongs]]
-  heading:: true
+- ## 🔴 CHAPTER 3 - Property in Relation to the Person to Whom It Belongs
   collapsed:: true
 	- **ARTICLE 419.**
 	  collapsed:: true
@@ -82,9 +79,7 @@ sys-category:: [[36]]
 	- **ARTICLE 425.**
 	  collapsed:: true
 		- Property of private ownership, besides the patrimonial property of the State, provinces, cities, and municipalities, consists of all property belonging to private persons, either individually or collectively. (345a)
-- 🔴 Provisions Common to the Three Preceding Chapters]]
-  heading:: true
-  collapsed:: true
+- ## 🔴 Provisions Common to the Three Preceding Chapters
 	- **ARTICLE 426.**
 	  collapsed:: true
 		- Whenever by provision of the law, or an individual declaration, the expression “immovable things or property,” or “movable things or property,” is used, it shall be deemed to include, respectively, the things enumerated in [Chapter 1](((ead48f81-2f1d-4464-baac-e5d3dd6205da))) and in [Chapter 2](((758c441f-559d-4aea-aef2-ab385cb42364))).
