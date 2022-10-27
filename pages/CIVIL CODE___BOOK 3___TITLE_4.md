@@ -949,9 +949,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- [Paras](((6357df6e-767b-4222-8de2-cf61670b5f75)))
 	- ## SECTION 5 - [[Legitime]]
 	  collapsed:: true
-		- [Jurado](((6356d91e-053a-4ae4-8f2e-26e11b50b033)))
-		- [Mison](((6356d695-7e19-4891-b34c-da020b8b167a)))
-		- [Paras](((6356d937-61ca-4c04-aded-7170e380b77a)))
 		- **ARTICLE 886.**
 		  id:: 634fba6d-78b7-4ce7-a959-dce0556783d5
 		  collapsed:: true
