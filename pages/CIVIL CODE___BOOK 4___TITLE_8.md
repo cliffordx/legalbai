@@ -187,7 +187,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1688.**
 		  collapsed:: true
 			- When the lessor of a house, or part thereof, used as a dwelling for a family, or when the lessor of a store, or industrial establishment, also leases the furniture, the lease of the latter shall be deemed to be for the duration of the lease of the premises. (1582)
-- 🔴 CHAPTER 3 - WORK AND LABOR]]
+- 🔴 CHAPTER 3 - WORK AND LABOR
   heading:: true
 	- ## SECTION 1 - Household Service (n)
 	  collapsed:: true
@@ -362,7 +362,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- Common carriers, from the nature of their business and for reasons of public policy, are bound to observe extraordinary diligence in the vigilance over the goods and for the safety of the passengers transported by them, according to all the circumstances of each case.
 				- Such extraordinary diligence in the vigilance over the goods is further expressed in articles [1734](((5fe71abe-5b29-4409-9f8f-e5bf435d15d5))), [1735](((6811a026-b34b-4eb1-948a-174e521d8313))), and 1745, Nos. [5](((631d71fe-01c4-45ee-b407-0322d49b868c))), [6](((631d71fe-1e17-43eb-8e40-6e95a5ee3ddd))), and [7](((631d71fe-9a98-42fe-900b-357b9083a7c0))), while the extraordinary diligence for the safety of the passengers is further set forth in articles [1755](((1a2fc100-9b9d-4c4f-8387-cda2225eebbf))) and [1756](((4e6ac37f-7443-4af5-a414-7331b8f045fd))).
 		- ### SUBSECTION 2 - Vigilance Over Goods
-			- **ARTICLE 1734.** 
+			- **ARTICLE 1734.**
 			  id:: 5fe71abe-5b29-4409-9f8f-e5bf435d15d5
 				- Common carriers are responsible for the loss, destruction, or deterioration of the goods, unless the same is due to any of the following causes only:
 					- (1) Flood, storm, earthquake, lightning, or other natural disaster or calamity;
@@ -370,7 +370,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- (3) Act or omission of the shipper or owner of the goods;
 					- (4) The character of the goods or defects in the packing or in the containers;
 					- (5) Order or act of competent public authority.
-			- **ARTICLE 1735.** 
+			- **ARTICLE 1735.**
 			  id:: 6811a026-b34b-4eb1-948a-174e521d8313
 				- In all cases other than those mentioned in Nos. 1, 2, 3, 4, and 5 of the preceding article, if the goods are lost, destroyed or deteriorated, common carriers are presumed to have been at fault or to have acted negligently, unless they prove that they observed extraordinary diligence as required in [article 1733](((b373a407-5ca0-437e-84fe-0e32097d1edb))).
 			- **ARTICLE 1736.**
@@ -432,7 +432,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The provisions of articles [1733](((b373a407-5ca0-437e-84fe-0e32097d1edb))) to [1753](((631d71fe-ad1b-498f-bcce-27085054cf3b))) shall apply to the passenger’s baggage which is not in his personal custody or in that of his employee.
 				- As to other baggage, the rules in articles [1998](((40a2311b-0cf2-4663-9cb4-c069516f97c0))) and [2000](((631d71f9-739b-4644-bbd2-3f887501e809))) to [2003](((631d71f9-3820-48ff-af94-8807dca9a247))) concerning the responsibility of hotel-keepers shall be applicable.
 		- ### SUBSECTION 3 - Safety of Passengers
-			- **ARTICLE 1755.** 
+			- **ARTICLE 1755.**
 			  id:: 1a2fc100-9b9d-4c4f-8387-cda2225eebbf
 				- A common carrier is bound to carry the passengers safely as far as human care and foresight can provide, using the utmost diligence of very cautious persons, with a due regard for all the circumstances.
 			- **ARTICLE 1756.**

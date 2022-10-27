@@ -301,7 +301,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The creditors of the partnership shall be preferred to those of each partner as regards the partnership property.
 			- Without prejudice to this right, the private creditors of each partner may ask the attachment and public sale of the share of the latter in the partnership assets. (n)
-- # 🔴 CHAPTER 3 - DISSOLUTION AND WINDING UP]]
+- # 🔴 CHAPTER 3 - DISSOLUTION AND WINDING UP
   collapsed:: true
 	- **ARTICLE 1828.**
 	  collapsed:: true
@@ -463,7 +463,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1842.**
 	  collapsed:: true
 		- The right to an account of his interest shall accrue to any partner, or his legal representative as against the winding up partners or the surviving partners or the person or partnership continuing the business, at the date of dissolution, in the absence of any agreement to the contrary. (n)
-- # 🔴 CHAPTER 4 - LIMITED PARTNERSHIP]]
+- # 🔴 CHAPTER 4 - LIMITED PARTNERSHIP
   collapsed:: true
 	- **ARTICLE 1843.**
 	  collapsed:: true

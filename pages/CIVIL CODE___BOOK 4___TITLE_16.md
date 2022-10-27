@@ -254,7 +254,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2139.**
 	  collapsed:: true
 		- The last paragraph of article 2085, and articles 2089 to 2091 are applicable to this contract. (1886a)
-- 🔴 CHAPTER 5 - CHATTEL MORTGAGE]]
+- 🔴 CHAPTER 5 - CHATTEL MORTGAGE
   heading:: true
   collapsed:: true
   id:: 62b32e88-bdc4-40a8-a2e9-5fc1bd0a5044

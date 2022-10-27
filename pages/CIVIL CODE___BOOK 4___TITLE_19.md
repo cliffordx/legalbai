@@ -182,7 +182,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2269.**
 	  collapsed:: true
 		- The principles upon which the preceding transitional provisions are based shall, by analogy, be applied to cases not specifically regulated by them. (Rule 13a)
-- 🔴 REPEALING CLAUSE]]
+- 🔴 REPEALING CLAUSE
   heading:: true
   collapsed:: true
 	- **ARTICLE 2270.**
