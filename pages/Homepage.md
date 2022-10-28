@@ -1,5 +1,5 @@
 title:: Homepage
-public:: true
+
 tags:: paksiteer, paksitive, paksionate
 
 - # Welcome to Legal Bai

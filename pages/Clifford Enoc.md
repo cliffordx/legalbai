@@ -1,4 +1,4 @@
-public:: true
+
 
 - Licensed Real Estate Broker
 - Law Student (JD -3)
