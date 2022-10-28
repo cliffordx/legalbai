@@ -5,7 +5,7 @@
 - Father
 - [Paksiteer]([[paksiteer]])
 - Life-long learner
-- Chess aficionado
+- [[Chess]] aficionado
 - A 'wannabe' computer geek
 - A hopeless astronomer-to-be
 - ... to be added soon. Stay golden!
