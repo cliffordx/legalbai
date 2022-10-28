@@ -3,4 +3,4 @@
 - I used this tool this year (sometime June 2022) while using [[Obsidian]] and it stick to me since then.
 - In fact, it became my daily journal app — from writing my TODO's, scheduled classes, habits and even tracking my health.
 - It's really good.
--
+- As one of the Youtuber/Doctor would say "What a time to be alive."
