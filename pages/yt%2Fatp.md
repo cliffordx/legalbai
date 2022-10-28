@@ -39,7 +39,8 @@
 				- {{youtube-timestamp 1522}} exception
 				- {{youtube-timestamp 1543}} subsequent slide
 				- {{youtube-timestamp 1646}} not conclusive proof
-		- {{youtube-timestamp 1768}} Heirs of Tranquilino Labiste v. Heirs of Jose Labiste naa nay tagline nag dahil sa affidavit
+		- {{youtube-timestamp 1768}} Heirs of Tranquilino Labiste v. Heirs of Jose Labiste
+			- naa nay tagline nag dahil sa affidavit
 			- {{youtube-timestamp 1809}} principle
 			- {{youtube-timestamp 1888}} **Facts**
 				- {{youtube-timestamp 1905}} Banilad Friar lands
@@ -67,7 +68,7 @@
 				- {{youtube-timestamp 3106}} subsequent slide
 				- {{youtube-timestamp 3131}} rule
 				- {{youtube-timestamp 3172}} validity of the MA
-		- {{youtube-timestamp 3279}} ((634fba63-929f-4b24-8449-8f1e231bf9ec))
+		- {{youtube-timestamp 3279}} Case: O’Laco v. Co Cho Chit
 			- {{youtube-timestamp 3294}} Half-sister's case
 			- {{youtube-timestamp 3312}} Principle
 			- {{youtube-timestamp 3347}} subsequent slide
