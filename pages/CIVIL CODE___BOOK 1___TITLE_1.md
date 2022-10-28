@@ -63,11 +63,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   heading:: true
   collapsed:: true
 	- **ARTICLE 44.**
-	- The following are juridical persons:
+	 - The following are juridical persons:
 	  collapsed:: true
-		- (1) The State and its political subdivisions;
-		- (2) Other corporations, institutions and entities for public interest or purpose, created by law; their personality begins as soon as they have been constituted according to law;
-		  (3) Corporations, partnerships and associations for private interest or purpose to which the law grants a juridical personality, separate and distinct from that of each shareholder, partner or member. (35a)
+		  - (1) The State and its political subdivisions;
+		  - (2) Other corporations, institutions and entities for public interest or purpose, created by law; their personality begins as soon as they have been constituted according to law;
+		  - (3) Corporations, partnerships and associations for private interest or purpose to which the law grants a juridical personality, separate and distinct from that of each shareholder, partner or member. (35a)
 	- **ARTICLE 45.**
 	  collapsed:: true
 		- Juridical persons mentioned in Nos. 1 and 2 of the preceding article are governed by the laws creating or recognizing them.
