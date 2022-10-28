@@ -1,3 +1,3 @@
 - What is Graph in Logseq?
 	- Logseq stores inter-connected information in infinite graphs. This means that you can traverse a research volume or dataset or CRM in Logseq by browsing these interconnected graphs.
-	- Graphs in logseq is akin to **vaults** in Obsidian or in general, **folders** in your computer.
+	- Graphs in [[logseq]] is akin to **vaults** in [[Obsidian]] or in general, **folders** in your computer.

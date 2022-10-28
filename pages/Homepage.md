@@ -17,7 +17,7 @@ tags:: paksiteer, paksitive, paksionate
 				- Others are from law review pdfs floating around but its already there.
 				- > NOTE: If you find a gibberish code something like this `((635a41f7-2049-491e-8838-b8d5119d291f)),` it means that the link reference is to some other annotated document, *i.e.,* PDF file, that no longer appear from this site because it was deleted but I'm sure it appear somewhere, *i.e.,* on my local machine (my laptop/phone).
 	- Since I am doing hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I studied and learned from my simple understanding so far, here in Github.
-	- My previous plan was to have it in one place at my website (CliffordX.com) but I wanted it here since I just have to `commit` the pages that I have written on my PKM app (logseq, FTW!) from my laptop and it shall be published with updates and shown here [instantly](publishing).
+	- My previous plan was to have it in one place at my website (CliffordX.com) but I wanted it here since I just have to `commit` the pages that I have written on my PKM app ([[logseq]], FTW!) from my laptop and it shall be published with updates and shown here [instantly]([[publishing]]).
 	- **It makes my workflow much easier.**
 	- I do have handwritten outlines, notes on a 4"x6" [index card]([[Index_Cards]]) which I already plan to write simultaneously or concurrently with my typewritten notes here. I plan to upload also those handwritten notes if it so required. (But I'm busy, [here's my lazy alibi]([[26 Oct 2022]]))
 	- For those who want to engage in effective note-taking strategies, here is my list of recommended (e)Books to read in alphabetical order on the subject of note-taking:
