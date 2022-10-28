@@ -1,2 +1,3 @@
 - Website: https://logseq.com
-- Logseq, as well as other PKM/Tools for Thought apps are basically if you reduce them is simply a note-taking app. You write your ideas in
+- Logseq, as well as other PKM/Tools for Thought apps are basically if you reduce them is simply a note-taking app. You write your ideas digitally on to your smart phone or computer. Logseq, from their website, says "a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden."
+- I used this tool this year (sometime June of 2022)
