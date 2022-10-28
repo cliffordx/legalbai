@@ -1,4 +1,4 @@
-- ![paksiteer-clifford-enoc.png](../assets/paksiteer-clifford-enoc_1666949696061_0.png)
+- ![paksiteer-clifford-enoc.png](../assets/paksiteer-clifford-enoc_1666949696061_0.png){:height 226, :width 204}
 - #### **[[Clifford Enoc]]**
 	- ***Licensed Real Estate Broker***
 	- Cebu, Philippines
