@@ -91,7 +91,7 @@ tags:: flashcards
 - #Q Tax administration excludes tax imposition.
   * [ ] True
   * [ ] False #card
-- #Q The state is not estopped from collecting taxes by the mistakes or errors of its agents. 
+- #Q The state is not estopped from collecting taxes by the mistakes or errors of its agents.
   * [ ] True
   * [ ] False #card
 - #Q The due process clause applies to taxation because it threatens the liberty of a person.
@@ -170,7 +170,7 @@ tags:: flashcards
   * [ ] True
   * [ ] False #card
 - #Q The Due Process requirement is an inherent limitation to the power to tax because the money of the taxpayer is considered his property and therefore, covered by this constitutional protection.
-- * [ ] True
+  * [ ] True
   * [ ] False #card
 - #Q Licenses are imposed by the government pursuant to the exercise of police power.
   * [ ] True
@@ -288,7 +288,7 @@ tags:: flashcards
   * [ ] False #card
 - #Q Which of the following is not a characteristic of a tax?
   * [ ] a. Generally payable in money
-  * [ ] b. Generally based on a contract 
+  * [ ] b. Generally based on a contract
   * [ ] c. Forced contribution
   * [ ] d. Proportionate to the capability of the taxpayer to pay #card
 - #Q All revenues and assets of non-stock, non-profit private educational institutions used actually, directly and exclusively for educational purposes shall be exempt from taxes and duties provided that the source of the revenues is from activities that are related to their primary purpose.
