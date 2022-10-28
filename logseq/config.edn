@@ -202,7 +202,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  :favorites ("CONSTI_1987_Annotated" "codal/Family Code of the Philippines" "CIVIL CODE" "ROC_Annotated")
- :journal/page-title-format "EEEE, do MMMM yyyy"
+ :journal/page-title-format "EEEE, MMM do, yyyy"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
