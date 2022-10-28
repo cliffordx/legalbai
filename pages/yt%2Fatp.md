@@ -3,6 +3,7 @@
 		- {{youtube-timestamp 16}} Government of the Philippine Islands v. Abadilla, G.R. No. L-21334, 10 December 1924
 			- {{youtube-timestamp 75}} principle
 			- {{youtube-timestamp 89}} **Facts**
+			  collapsed:: true
 				- {{youtube-timestamp 105}} made a last will
 				- {{youtube-timestamp 114}} died
 				- {{youtube-timestamp 120}} left widow no descendants
@@ -12,6 +13,7 @@
 					- {{youtube-timestamp 334}} intervention
 			- {{youtube-timestamp 412}} **Issue**
 			- {{youtube-timestamp 416}} **^^Ruling^^**
+			  collapsed:: true
 				- {{youtube-timestamp 463}} trustee the ayuntamiento of the town
 				- {{youtube-timestamp 617}} subsequent slide
 					- that the intention of the testator was...
@@ -51,7 +53,7 @@
 			- {{youtube-timestamp 2180}} **Issue** Was there express trust
 			- {{youtube-timestamp 2217}} **Ruling** Yes.
 				- {{youtube-timestamp 2285}} prescription not set in. migawas sa bar #bar/atp
-		- {{youtube-timestamp 2422}} ((634fba63-f60f-4cd0-bf83-1a96e621e301))
+		- {{youtube-timestamp 2422}} De Leon v. Molo-Peckson
 			- {{youtube-timestamp 2475}} Principle
 			- {{youtube-timestamp 2504}} **Facts**
 				- {{youtube-timestamp 2519}} 4 girls
