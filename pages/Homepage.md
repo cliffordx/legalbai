@@ -4,7 +4,7 @@ tags:: paksiteer, paksitive, paksionate
 
 - # Welcome to Legal Bai
 	- This is [my]([[Clifford Enoc]]) repository of law notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I am on my third year in law school. `updated: Oct 26, 2022: 13:06:00`
-	- Law school is tough, but "I am tougher." — The Paksiteer
+	- Law school is tough, but "I am tougher." — The [Paksiteer]([[Clifford Enoc]])
 	- id:: 635a41f7-2049-491e-8838-b8d5119d291f
 - ## How to navigate this site?
 	- You can collapse or uncollapse a heading to either show or hide subgroup or underneath the title. Next to this is a title `What can you expect from my Github page` there's a `.` on the left but DO NOT click yet, as that will open into separate page. After you  hover, you will see a drop/side arrow, depending if the page is hidden or already shown. Do try it!
