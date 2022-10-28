@@ -96,4 +96,4 @@ link-ref:: [Paras](((631d53e4-9da2-4390-949e-7f7ce5d69a17))) [Albano](((631d57ad
 	  collapsed:: true
 		- ((630f5ff3-e4e8-4396-8efc-71332aaf07a0))
 		  collapsed:: true
-			- **[18:42]** So when a person is presumed to be dead or that he is no longer be found, the lapse of 10 years is the basis for opening up the law on succession. If by reason that he or she disappeared when he or she is more than 75 years old, the period of 5 years, which is the reckoning year sufficient to open up his or her succession.
+			- **[18:42]** So when a person is presumed to be dead or that he is no longer be found, the lapse of 10 years is the basis for opening up the law on succession. If by reason that he or she disappeared when he or she is more than 75 years old, the period of 5 years, which is the reckoning year, is sufficient to open up his or her succession.
