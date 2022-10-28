@@ -21,7 +21,7 @@
 			- {{youtube-timestamp 708}} no tagline nas CAF /verbal agreement
 			- {{youtube-timestamp 725}} Principle
 			- {{youtube-timestamp 780}} apil sa bar, express/implied #bar/atp
-			- {{youtube-timestamp 857}} Facts
+			- {{youtube-timestamp 857}} **Facts**
 				- away sa fam
 				- leni-digong
 				- {{youtube-timestamp 898}} mother filed action to spouses
@@ -29,11 +29,12 @@
 					- {{youtube-timestamp 940}} deed of donation
 				- second action
 					- {{youtube-timestamp 970}} building
-			- {{youtube-timestamp 1041}} alleged
-			- {{youtube-timestamp 1067}} Glo's claim
-			- {{youtube-timestamp 1161}} spouses defense
+				- {{youtube-timestamp 1041}} alleged
+				- {{youtube-timestamp 1067}} Glo's claim
+				- {{youtube-timestamp 1161}} spouses defense
 			- {{youtube-timestamp 1294}} **Issue**
 			- {{youtube-timestamp 1307}} **Ruling**
+			  collapsed:: true
 				- {{youtube-timestamp 1330}} parol evidence
 				- {{youtube-timestamp 1395}} subsequent slide
 				- {{youtube-timestamp 1431}} subsequent slide
@@ -45,6 +46,7 @@
 			- naa nay tagline nag dahil sa affidavit
 			- {{youtube-timestamp 1809}} principle
 			- {{youtube-timestamp 1888}} **Facts**
+			  collapsed:: true
 				- {{youtube-timestamp 1905}} Banilad Friar lands
 				- {{youtube-timestamp 1999}} affidavit
 				- {{youtube-timestamp 2073}} World war
@@ -56,6 +58,7 @@
 		- {{youtube-timestamp 2422}} De Leon v. Molo-Peckson
 			- {{youtube-timestamp 2475}} Principle
 			- {{youtube-timestamp 2504}} **Facts**
+			  collapsed:: true
 				- {{youtube-timestamp 2519}} 4 girls
 				- {{youtube-timestamp 2565}} verbal wish
 				- {{youtube-timestamp 2596}} emeliana, pilar mutual agreement
@@ -63,8 +66,9 @@
 				- {{youtube-timestamp 2773}} wife, donation inter vivos
 				- {{youtube-timestamp 2815}} verbal wish
 				- {{youtube-timestamp 2882}} mutual agreement
-			- {{youtube-timestamp 2914}} Issue
-			- {{youtube-timestamp 2922}} Ruling. Yes
+			- {{youtube-timestamp 2914}} **Issue**
+			- {{youtube-timestamp 2922}} **Ruling.** Yes
+			  collapsed:: true
 				- The MA create a trust in favor of Resurrecion and Justa.
 				- {{youtube-timestamp 3033}} declaration of trust
 				- {{youtube-timestamp 3106}} subsequent slide
@@ -74,10 +78,12 @@
 			- {{youtube-timestamp 3294}} Half-sister's case
 			- {{youtube-timestamp 3312}} Principle
 			- {{youtube-timestamp 3347}} subsequent slide
-			- {{youtube-timestamp 3381}} Facts
+			- {{youtube-timestamp 3381}} **Facts**
+			  collapsed:: true
 				- {{youtube-timestamp 3410}} because of property
 			- {{youtube-timestamp 3480}} **Issue**
 			- {{youtube-timestamp 3485}} **Ruling.** Yes.
+			  collapsed:: true
 				- {{youtube-timestamp 3579}} resulting trust.
 				- {{youtube-timestamp 3646}} third.
 				- {{youtube-timestamp 3694}} fourth.
