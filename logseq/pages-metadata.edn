@@ -856,7 +856,7 @@
   :block/updated-at 1666877843665}
  {:block/name "graph",
   :block/created-at 1666774372935,
-  :block/updated-at 1666774529962}
+  :block/updated-at 1666945254059}
  {:block/name "habeas corpus",
   :block/created-at 1666720761560,
   :block/updated-at 1666720761560}
@@ -865,7 +865,7 @@
   :block/updated-at 1666885833432}
  {:block/name "homepage",
   :block/created-at 1666721194868,
-  :block/updated-at 1666923707405}
+  :block/updated-at 1666945225740}
  {:block/name "impeachment",
   :block/created-at 1666878433891,
   :block/updated-at 1666878433891}
@@ -929,6 +929,9 @@
  {:block/name "link-ref",
   :block/created-at 1666857311042,
   :block/updated-at 1666857311042}
+ {:block/name "logseq",
+  :block/created-at 1666945225739,
+  :block/updated-at 1666945712534}
  {:block/name "mandamus",
   :block/created-at 1666720761558,
   :block/updated-at 1666720761558}
@@ -1082,6 +1085,9 @@
  {:block/name "object",
   :block/created-at 1666857329348,
   :block/updated-at 1666857329348}
+ {:block/name "obsidian",
+  :block/created-at 1666945254056,
+  :block/updated-at 1666945254056}
  {:block/name "opinion",
   :block/created-at 1666720760885,
   :block/updated-at 1666720760885}
@@ -1140,6 +1146,9 @@
  {:block/name "probate",
   :block/created-at 1666857317898,
   :block/updated-at 1666857317898}
+ {:block/name "publishing",
+  :block/created-at 1666945207738,
+  :block/updated-at 1666945207738}
  {:block/name "q",
   :block/created-at 1666770188781,
   :block/updated-at 1666771830625}
