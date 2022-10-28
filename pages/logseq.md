@@ -1,1 +1,2 @@
-- Website: https://logse
+- Website: https://logseq.com
+- Logseq, as well as other PKM/Tools for Thought
