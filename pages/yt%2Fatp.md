@@ -87,7 +87,8 @@
 				- {{youtube-timestamp 3579}} resulting trust.
 				- {{youtube-timestamp 3646}} third.
 				- {{youtube-timestamp 3694}} fourth.
-			- {{youtube-timestamp 3992}} Assignment
+			- {{youtube-timestamp 3992}} ^^Assignment^^
+			  collapsed:: true
 				- {{youtube-timestamp 4025}} Make a Trust Agreement.
 				- 1 page, typewritten.
 				- check the elements.
