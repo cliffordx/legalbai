@@ -3,7 +3,7 @@
 - Licensed Real Estate Broker
 - Law Student (JD -3)
 - Father
-- Paksiteer
+- [Paksiteer]([[paksiteer]])
 - Life-long learner
 - Chess aficionado
 - A 'wannabe' computer geek

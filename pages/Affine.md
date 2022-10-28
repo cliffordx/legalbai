@@ -1,1 +1,1 @@
-- Affine.ai is not Affine.pro, I still have to find out.
+- Affine.ai is not Affine.pro, I still have to find out. — The [Paksiteer]([[Clifford Enoc]])
