@@ -1,6 +1,6 @@
 title:: trusts
 
-- Part 2- 1hr and 11 mins.- #yt/atp {{video https://youtu.be/yzsvXHbfN6E}}
+- Part 2- 1hr and 11 mins. {{video https://youtu.be/yzsvXHbfN6E}}
 	- //MENU #yt/atp
 		- {{youtube-timestamp 21}} Morales v. CA
 		  collapsed:: true
