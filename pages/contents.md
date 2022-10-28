@@ -6,8 +6,8 @@
 - [[Homepage]]
 - [[CONSTI_1987_Annotated]]
 - [[codal/Family Code of the Philippines]]
-- [[CIVIL CODE]]
-- [[ROC_Annotated]]
+- [Civil Code of the Philippines]([[CIVIL CODE]])
+- [Rules of Court]([[ROC_Annotated]])
 - [[Index_Cards]]
 - [***Disclaimer***](((635b3d4a-3926-469b-8dd5-980f6f7c1721)))
 - #+BEGIN_NOTE
