@@ -2,7 +2,7 @@ title:: CIVIL CODE/BOOK 4/TITLE_5
 alt-title:: Civil Code of the Philippines BOOK IV - TITLE V —  **TRUSTS**
 type:: codal
 law-subject:: civil
-tags:: #codal/trusts
+tags:: #trusts
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
