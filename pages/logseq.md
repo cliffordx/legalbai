@@ -1,2 +1,2 @@
 - Website: https://logseq.com
-- Logseq, as well as other PKM/Tools for Thought
+- Logseq, as well as other PKM/Tools for Thought apps are basically if you reduce them is simply a note-taking app. You write your ideas in
