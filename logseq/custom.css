@@ -1,5 +1,3 @@
-@import './base.css';
-
 .dark-theme,
 html[data-theme='dark'] {
     --background-color-h: 0;
