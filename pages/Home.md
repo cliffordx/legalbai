@@ -3,7 +3,8 @@
 - # **Journals** (past 7 days)
 	- {{query (between -7d today)}}
 	  query-table:: true
-	- #+BEGIN_QUERY
+	- query-table:: true
+	  #+BEGIN_QUERY
 	  {
 	  :query [:find (pull ?block [*])
 	  :in $ ?startdate ?enddate
