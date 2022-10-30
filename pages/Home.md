@@ -11,7 +11,7 @@ icon:: 
 	           :where
 	           [?p :block/journal? true]
 	           [?p :block/journal-day ?d]]
-	   :inputs [:7d-after]
+	   :inputs [:7d-before]
 	  }
 	  #+END_QUERY
 - ---
