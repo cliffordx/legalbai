@@ -12,7 +12,7 @@ icon:: 
 	           [?p :block/name]
 	           [?p :block/journal? true]
 	           [?p :block/journal-day ?d]]
-	   :inputs [:7d-before]
+	   :inputs [:7d-after]
 	  }
 	  #+END_QUERY
 - ---
