@@ -36,7 +36,7 @@ tags:: paksiteer, paksitive, paksionate
 	- #### Affiliate Links
 	  id:: 6358df01-20ef-4b83-9569-7742d7622398
 		- Some outside links to websites are affiliate links, *i.e.,* Amazon, which are sponsored/or affiliated which means that if you buy something from them, unless it is sponsored for a fee, then I earn a 'tiny' commission fee. It pays to know that I disclose this stuff because it is required nowadays.
-- ## Support or Contact
+- ## 🤙 Support or Contact
   id:: 635bc75b-4c3b-4b8f-9d92-f58f0d227fd2
 	- You may reach me at @cliffordx on these Social Media:
 	  id:: de1311b9-7141-4a55-950c-2ffe17d350c0
