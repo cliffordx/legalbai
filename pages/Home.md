@@ -3,6 +3,22 @@
 - # **Journals** (past 7 days)
 	- {{query (between -7d today)}}
 	  query-table:: true
+	- #+BEGIN_QUERY
+	  {
+	  :query [:find (pull ?block [*])
+	  :in $ ?startdate ?enddate
+	  :where
+	  [?block :block/content ?blockcontent]
+	  [?block :block/page ?page]
+	  [?page :block/name ?pagename]
+	  [?page :block/journal? true]
+	  [?page :block/journal-day ?journaldate]
+	  [(>= ?journaldate ?startdate)]
+	  [(<= ?journaldate ?enddate)]
+	  ]
+	  :inputs [:7d-before :today]
+	  }
+	  #+END_QUERY
 - ---
 - {{embed ((635bc75b-7730-4bdb-8246-0d43c3432cd3))}}
 - ---
