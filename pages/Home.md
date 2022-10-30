@@ -5,7 +5,7 @@ icon:: 
 - query-table:: true
   query-properties:: [:page :created-at]
   #+BEGIN_QUERY
-  {:title " 📚 ⑦ 一 Past 7 days"
+  {:title " 📚 ⑦  Da一 Past 7 days"
   :query [:find (pull ?page [*])
   :in $ ?startdate ?enddate
   :where
