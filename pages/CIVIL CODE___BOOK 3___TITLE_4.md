@@ -771,6 +771,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [Jurado](((63566822-b5b5-4ef4-926a-82866df62dc0)))
 		- **ARTICLE 859.**
 		  collapsed:: true
+		  id:: 635bc742-8abc-432a-aa77-7b85395411b3
 			- The testator may designate one or more persons to substitute the heir or heirs instituted in case such heir or heirs should die before him, or should not wish, or should be incapacitated to accept the inheritance.
 			- A simple substitution, without a statement of the cases to which it refers, shall comprise the three mentioned in the preceding paragraph, unless the testator has otherwise provided. (774)
 			- ***Commentaries:***
