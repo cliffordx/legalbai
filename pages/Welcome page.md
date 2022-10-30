@@ -1,4 +1,4 @@
-title:: Homepage
+title:: Welcome page
 
 tags:: paksiteer, paksitive, paksionate
 

@@ -3,7 +3,7 @@
 	- ***Licensed Real Estate Broker***
 	- Cebu, Philippines
 	- [Youtube Channel](https://www.youtube.com/cliffordenoc)
-- [[Homepage]]
+- [[Welcome page]]
 - [1987 Constitution]([[CONSTI_1987_Annotated]])
 - [[codal/Family Code of the Philippines]]
 - [Civil Code of the Philippines]([[CIVIL CODE]])
