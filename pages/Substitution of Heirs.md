@@ -1,5 +1,5 @@
 - What are the requisites of valid substitution? #card
-	- The will must be EXTRINSICALLY VALID. (Hence, the
-	  testator must be capacitated, the formalities must be ob-
+	- #Mnemonic
+	- The will must be EXTRINSICALLY VALID. (Hence, the testator must be capacitated, the formalities must be ob-
 - ### Example:
 	- {{embed ((635e04d9-6db2-46ab-b267-57f291e240b9))}}
