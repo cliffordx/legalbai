@@ -631,7 +631,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Institution of heir is an act by virtue of which a testator designates in his will the person or persons who are to succeed him in his property and transmissible rights and obligations. (n)
 			- #### Commentaries
 				- **[18 September 2022 23:49]** ^^Institution of an heir is a process whereby the testator, designates another person or persons who are to receive a fractional part of his or her estate, he is called an heir^^ <mark class='pink'>whereas if a person is supposed to receive a specific property comprising the estate, he or she is called legatee or devisee.</mark>
-			- A child
+			- A c
 			  collapsed:: true
 				- {{embed ((631d71ee-4f3f-4017-8387-e39c63cfdec4))}}
 				- {{embed ((62c2d9e7-6962-4f17-937b-6ffdda9e3328))}}
