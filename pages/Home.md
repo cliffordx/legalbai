@@ -1,1 +1,1 @@
-- {{query }}
+- {{query (and "Simple IoT"(between -2y today))}}
