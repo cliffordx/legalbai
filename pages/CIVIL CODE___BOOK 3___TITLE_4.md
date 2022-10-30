@@ -636,7 +636,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- {{embed ((631d71ee-4f3f-4017-8387-e39c63cfdec4))}}
 				- {{embed ((62c2d9e7-6962-4f17-937b-6ffdda9e3328))}}
 			- {{embed ((6326e2d2-ec57-47d7-93ab-d6ef19401011))}}
-			- ((63273ff8-d7f9-4098-b7d6-e18443d18ef1)):
+			- See: ((635e0910-c6b9-47af-ae8a-555c8d93295d))
 			  collapsed:: true
 				- (a) The will must be EXTRINSICALLY VALID. (Hence, the testator must be capacitated, the formalities must be observed, there must be no vitiated consent, the will must have been duly probated, the will must have been the personal act of the testator.)
 				- (b) The institution must be valid INTRINSICALLY. (The legitime must not be impaired, the heir must be certain or ascertainable; there should be no preterition).
