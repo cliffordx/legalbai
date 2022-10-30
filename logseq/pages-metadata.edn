@@ -169,6 +169,9 @@
  {:block/name "6357bf07-4204-4d58-a767-9dc6d7950092",
   :block/created-at 1666883879713,
   :block/updated-at 1666883879713}
+ {:block/name "635bc742-8abc-432a-aa77-7b85395411b3",
+  :block/created-at 1667106086413,
+  :block/updated-at 1667106086413}
  {:block/name "635bc75b-10e9-4e0d-b8c1-b0b98d8ba016",
   :block/created-at 1667098549481,
   :block/updated-at 1667098549481}
@@ -178,6 +181,9 @@
  {:block/name "635bc75b-7730-4bdb-8246-0d43c3432cd3",
   :block/created-at 1667098638727,
   :block/updated-at 1667098638727}
+ {:block/name "635e04d9-6db2-46ab-b267-57f291e240b9",
+  :block/created-at 1667106582301,
+  :block/updated-at 1667106582301}
  {:block/name "7e18747d-ffdf-45fc-9f9c-2b0572d37280",
   :block/created-at 1666878435715,
   :block/updated-at 1666878435715}
@@ -393,7 +399,7 @@
   :block/updated-at 1666874632506}
  {:block/name "civil code/book 3/title_4",
   :block/created-at 1666857316022,
-  :block/updated-at 1666884158012}
+  :block/updated-at 1667106721660}
  {:block/name "civil code/book 3/title_5",
   :block/created-at 1666857316026,
   :block/updated-at 1666874707387}
@@ -1365,6 +1371,12 @@
  {:block/name "stopped",
   :block/created-at 1666931442647,
   :block/updated-at 1666931442647}
+ {:block/name "substitution of heirs",
+  :block/created-at 1667106561443,
+  :block/updated-at 1667106582302}
+ {:block/name "succession",
+  :block/created-at 1667106009247,
+  :block/updated-at 1667106009247}
  {:block/name "sunday, 25th september 2022",
   :block/created-at 1666878430757,
   :block/updated-at 1666878430757}
@@ -1376,7 +1388,7 @@
   :block/updated-at 1666959158460}
  {:block/name "sunday, oct 30th, 2022",
   :block/created-at 1667068211807,
-  :block/updated-at 1667105272189}
+  :block/updated-at 1667106530720}
  {:block/name "supreme court",
   :block/created-at 1666720758987,
   :block/updated-at 1666720758987}
