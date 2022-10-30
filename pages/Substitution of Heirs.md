@@ -1,4 +1,5 @@
 - What are the requisites of valid substitution? #card
+  id:: 635e0910-c6b9-47af-ae8a-555c8d93295d
 	- #Mnemonic
 	- The will must be EXTRINSICALLY VALID.
 	  collapsed:: true
