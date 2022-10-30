@@ -9,10 +9,9 @@ icon:: 
 	   :query [:find (pull ?p [*])
 	           :in $ ?d
 	           :where
-	           [?p :block/name]
 	           [?p :block/journal? true]
 	           [?p :block/journal-day ?d]]
-	   :inputs [:7d]
+	   :inputs [:7d-after]
 	  }
 	  #+END_QUERY
 - ---
