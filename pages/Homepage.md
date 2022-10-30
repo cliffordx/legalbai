@@ -7,6 +7,7 @@ tags:: paksiteer, paksitive, paksionate
 	- This is [my]([[Clifford Enoc]]) repository of law notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I am on my third year in law school. `updated: Oct 26, 2022: 13:06:00`
 	- Law school is tough, but "I am tougher." — The [Paksiteer]([[Clifford Enoc]])
 - ## How to navigate this site?
+  id:: 635bc75b-7730-4bdb-8246-0d43c3432cd3
 	- You can collapse or uncollapse a heading to either show or hide subgroup or underneath the title. Next to this is a title `What can you expect from my Github page` there's a `.` on the left but DO NOT click yet, as that will open into separate page. After you  hover, you will see a drop/side arrow, depending if the page is hidden or already shown. Do try it!
 	- Next, there's a left side menu bar and right side menu bar. Go over them and let me know if you find something interesting. ;)
 - ### What can you expect from my Github page?
@@ -36,6 +37,7 @@ tags:: paksiteer, paksitive, paksionate
 	  id:: 6358df01-20ef-4b83-9569-7742d7622398
 		- Some outside links to websites are affiliate links, *i.e.,* Amazon, which are sponsored/or affiliated which means that if you buy something from them, unless it is sponsored for a fee, then I earn a 'tiny' commission fee. It pays to know that I disclose this stuff because it is required nowadays.
 - ## Support or Contact
+  id:: 635bc75b-4c3b-4b8f-9d92-f58f0d227fd2
 	- You may reach me at @cliffordx on these Social Media:
 	  id:: de1311b9-7141-4a55-950c-2ffe17d350c0
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)
