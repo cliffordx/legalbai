@@ -3,8 +3,18 @@ icon:: 
 - {{embed ((635bc75b-10e9-4e0d-b8c1-b0b98d8ba016))}}
 	- *[Read more...]([[Welcome page]])*
 - #  📚 **Journals** (past 7 days)
-	- {{query (between -7d today)}}
-	  query-table:: true
+	- query-table:: true
+	  #+BEGIN_QUERY
+	  {:title " 📚 ⑦ 一 Past 7 days"
+	   :query [:find (pull ?p [*])
+	           :in $ ?d
+	           :where
+	           [?p :block/name]
+	           [?p :block/journal? true]
+	           [?p :block/journal-day ?d]]
+	   :inputs [:7d-before]
+	  }
+	  #+END_QUERY
 - ---
 - {{embed ((635bc75b-7730-4bdb-8246-0d43c3432cd3))}}
 - ---
