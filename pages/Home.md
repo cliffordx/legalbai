@@ -1,1 +1,4 @@
-- {{query (and "Simple IoT"(between -2y today))}}
+-
+- # Journal
+- {{query (between -7d today)}}
+  query-table:: true
