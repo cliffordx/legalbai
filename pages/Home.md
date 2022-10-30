@@ -5,7 +5,7 @@ icon:: 
 - query-table:: true
   #+BEGIN_QUERY
   {:title " 📚 ⑦ 一 Past 7 days"
-  :query [:find (pull ?p [*])
+  :query [:find (pull ?page [*])
   :in $ ?startdate ?enddate
   :where
   [?block :block/content ?blockcontent]
