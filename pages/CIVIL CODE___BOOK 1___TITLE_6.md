@@ -57,7 +57,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- Express acceptance is not necessary for the validity of these donations. (1330)
 	- **ARTICLE 130.**
-	  collapsed:: true
 	  id:: 635bc738-f19d-4080-b7ca-ce446d4db085
 		- The future spouses may give each other in their marriage settlements as much as one-fifth of their present property, and with respect to their future property, only in the event of death, to the extent laid down by the provisions of this Code referring to testamentary succession. (1331a)
 	- **ARTICLE 131.**
