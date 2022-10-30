@@ -770,13 +770,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [Mison Arts 858-859](((635667e5-723f-4c43-87fc-9c34f1047d8a)))
 				- [Jurado](((63566822-b5b5-4ef4-926a-82866df62dc0)))
 		- **ARTICLE 859.**
-		  collapsed:: true
 		  id:: 635bc742-8abc-432a-aa77-7b85395411b3
 			- The testator may designate one or more persons to substitute the heir or heirs instituted in case such heir or heirs should die before him, or should not wish, or should be incapacitated to accept the inheritance.
 			- A simple substitution, without a statement of the cases to which it refers, shall comprise the three mentioned in the preceding paragraph, unless the testator has otherwise provided. (774)
 			- ***Commentaries:***
-			  collapsed:: true
-				- [Jurado Arts. 859-862](((6356685a-07d6-4060-baa8-89f8be0855f1)))
+				- Simple or Common Substitution.
 		- **ARTICLE 860.**
 		  collapsed:: true
 			- Two or more persons may be substituted for one; and one person for two or more heirs. (778)
