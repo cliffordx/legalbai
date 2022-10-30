@@ -19,6 +19,8 @@ icon:: 
   [(>= ?journaldate ?startdate)]
   [(<= ?journaldate ?enddate)]
   ]
+  :result-transform (fn [result]
+                    (sort-by (fn [d]) result))
   :inputs [:7d-before :today]
   :breadcrumb-show? true
   }
