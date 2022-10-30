@@ -12,6 +12,7 @@ tags:: paksiteer, paksitive, paksionate
 	- Next, there's a left side menu bar and right side menu bar. Go over them and let me know if you find something interesting. ;)
 - ### What can you expect from my Github page?
   collapsed:: true
+  id:: 635bc75b-257f-4fc4-b4f3-8dece2332ef7
 	- A ton. For starters, I have #[[flashcards]] collated and collected from exams and quizzes.
 	- Also, I have the fundamental codals uploaded here, either annotated or commented by [me]([[Clifford Enoc]]).
 		- But don't expect too much. Some are not meant to be shared.
