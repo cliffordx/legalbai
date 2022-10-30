@@ -752,7 +752,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- A voluntary heir who dies before the testator transmits nothing to his heirs.
 			- A compulsory heir who dies before the testator, a person incapacitated to succeed, and one who renounces the inheritance, shall transmit no right to his own heirs except in cases expressly provided for in this Code. (766a)
 			- #### Commentaries
-	- ## SECTION 3 - Substitution of Heirs
+	- ## SECTION 3 - [[Substitution of Heirs]]
 	  id:: 6337096d-4cfb-4150-834c-aa73eaad29cf
 	  collapsed:: true
 		- **ARTICLE 857.**
