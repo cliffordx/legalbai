@@ -3,6 +3,7 @@ icon:: 
 - {{embed ((635bc75b-10e9-4e0d-b8c1-b0b98d8ba016))}}
 	- *[Read more...]([[Welcome page]])*
 - query-table:: true
+  query-properties:: [:page :created-at]
   #+BEGIN_QUERY
   {:title " 📚 ⑦ 一 Past 7 days"
   :query [:find (pull ?page [*])
