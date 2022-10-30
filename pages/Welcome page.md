@@ -2,7 +2,7 @@ title:: Welcome page
 
 tags:: paksiteer, paksitive, paksionate
 
-- # Welcome to Legal Bai
+- # 🙏 Welcome to Legal Bai
   id:: 635bc75b-10e9-4e0d-b8c1-b0b98d8ba016
 	- This is [my]([[Clifford Enoc]]) repository of law notes, codal annotations and/or commentaries in my study of law, here in the Philippines. At the time of writing this welcome/index page [28 July 2022], I am on my third year in law school. `updated: Oct 26, 2022: 13:06:00`
 	- Law school is tough, but "I am tougher." — The [Paksiteer]([[Clifford Enoc]])
