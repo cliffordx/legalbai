@@ -4,7 +4,7 @@ icon:: 
 	- *[Read more...]([[Welcome page]])*
 - query-table:: true
   query-properties:: [:page :created-at]
-  query-sort-by:: page
+  query-sort-by:: created-at
   query-sort-desc:: true
   #+BEGIN_QUERY
   {:title " 📚 ⑦  Journals 一 Past 7 days"
