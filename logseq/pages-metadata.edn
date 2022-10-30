@@ -190,9 +190,6 @@
  {:block/name "7e18747d-ffdf-45fc-9f9c-2b0572d37280",
   :block/created-at 1666878435715,
   :block/updated-at 1666878435715}
- {:block/name "[[succession",
-  :block/created-at 1667108300009,
-  :block/updated-at 1667108300009}
  {:block/name "a",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -1397,7 +1394,7 @@
   :block/updated-at 1666959158460}
  {:block/name "sunday, oct 30th, 2022",
   :block/created-at 1667068211807,
-  :block/updated-at 1667108734531}
+  :block/updated-at 1667115492533}
  {:block/name "supreme court",
   :block/created-at 1666720758987,
   :block/updated-at 1666720758987}
