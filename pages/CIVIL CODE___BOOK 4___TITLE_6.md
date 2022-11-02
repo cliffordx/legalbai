@@ -139,12 +139,10 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The expenses for the execution and registration of the sale shall be borne by the vendor, unless there is a stipulation to the contrary. (1455a)
 	- **ARTICLE 1488.**
-	  collapsed:: true
 		- The expropriation of property for public use is governed by special laws. (1456)
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
 	- ## SECTION 1 - General Provisions
-	  collapsed:: true
 		- **ARTICLE 1495.**
 		  id:: 6300757d-b104-49d4-ae30-ce3dde4614de
 		  collapsed:: true
