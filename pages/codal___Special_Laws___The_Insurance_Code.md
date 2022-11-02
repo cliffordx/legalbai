@@ -1,6 +1,5 @@
 title:: codal/Special_Laws/The_Insurance_Code
 icon:: 
-codal:: ![P.D. No. 612 as amended by R.A. NO. 10607](../assets/86567-2013-Amendments_to_P.D._No._612_as_Amended_The20210818-12-14qwzkj.pdf)
 
 - #admon-warning This CODAL should be ~~not be~~ categorized under [Special Laws]([[List of Special Laws in the Philippines]]) but under [General Laws]([[List of General laws in the Philippines]]). Update: 29/09/2022: It is indeed under Special Law. See: [Art. 2011](((631d71f9-a463-46a4-9b4f-81c64f91d858))), Civil Code.
 - ***August 15, 2013***  
