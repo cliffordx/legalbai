@@ -94,7 +94,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The pledgee is responsible for the acts of his agents or employees with respect to the thing pledged. (n)
 	- **ARTICLE 2101.**
 	  collapsed:: true
-		- The pledgor has the same responsibility as a bailor in commodatum in the case under article 1951. (n)
+		- The pledgor has the same responsibility as a bailor in commodatum in the case under [article 1951](((bab375cf-93e1-40fd-a193-fc3b5187e276))). (n)
 	- **ARTICLE 2102.**
 	  collapsed:: true
 		- If the pledge earns or produces fruits, income, dividends, or interests, the creditor shall compensate what he receives with those which are owing him; but if none are owing him, or insofar as the amount may exceed that which is due, he shall apply it to the principal.
