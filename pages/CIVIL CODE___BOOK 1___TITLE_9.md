@@ -13,6 +13,7 @@ status:: inactive, superseded
 	- [^1]: Art. 254. Titles III, IV, V, VI, VIII, IX, XI, and XV of Book 1 of Republic Act No. 386, otherwise known as the Civil Code of the Philippines, as amended, and Articles 17, 18, 19, 27, 28, 29, 30, 31, 39, 40, 41, and 42 of Presidential Decree No. 603, otherwise known as the Child and Youth Welfare Code, as amended, and all laws, decrees, executive orders, proclamations, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed.
 - **ARTICLE 290.**
   collapsed:: true
+  id:: 635bc739-c11b-4a1f-ae21-cef0d5fa8d8e
 	- > Note: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 194]], Family Code of the Philippines.
 	- Support is everything that is indispensable for sustenance, dwelling, clothing and medical attendance, according to the social position of the family.
 	- Support also includes the education of the person entitled to be supported until he completes his education or training for some profession, trade or vocation, even beyond the age of majority. (142a)
