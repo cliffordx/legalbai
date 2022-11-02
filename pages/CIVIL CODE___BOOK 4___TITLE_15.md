@@ -149,7 +149,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- If one, at the request of another, becomes a guarantor for the debt of a third person who is not present, the guarantor who satisfies the debt may sue either the person so requesting or the debtor for reimbursement. (n)
 	- ### SECTION 3 - Effects of Guaranty as Between Co-Guarantors
-	  collapsed:: true
 		- **ARTICLE 2073.**
 		  collapsed:: true
 			- When there are two or more guarantors of the same debtor and for the same debt, the one among them who has paid may demand of each of the others the share which is proportionally owing from him.
@@ -164,7 +163,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - 🔴 CHAPTER 3 - EXTINGUISHMENT OF GUARANTY
   heading:: true
   id:: 631d71fa-8cb4-4853-8a9e-b5873665b0c3
-  collapsed:: true
 	- **ARTICLE 2076.**
 	  collapsed:: true
 		- The obligation of the guarantor is extinguished at the same time as that of the debtor, and for the same causes as all other obligations. (1847)
@@ -188,7 +186,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The guarantor may set up against the creditor all the defenses which pertain to the principal debtor and are inherent in the debt; but not those that are purely personal to the debtor. (1853)
 - 🔴 CHAPTER 4 - LEGAL AND JUDICIAL BONDS
   heading:: true
-  collapsed:: true
 	- **ARTICLE 2082.**
 	  collapsed:: true
 		- The bondsman who is to be offered in virtue of a provision of law or of a judicial order shall have the qualifications prescribed in special laws. (1854a)
