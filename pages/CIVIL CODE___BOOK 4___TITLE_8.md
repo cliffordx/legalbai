@@ -9,6 +9,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - 🔴 CHAPTER 1- GENERAL PROVISIONS
   heading:: true
 	- **ARTICLE 1642.**
+	  collapsed:: true
 		- The contract of lease may be of things, or of work and service. (1542)
 	- **ARTICLE 1643.**
 		- In the lease of things, one of the parties binds himself to give to another the enjoyment or use of a thing for a price certain, and for a period which may be definite or indefinite.  ^d2ef6f

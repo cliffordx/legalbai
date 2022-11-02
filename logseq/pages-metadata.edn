@@ -53,9 +53,6 @@
  {:block/name "09 - title ix* - support#article 294|294",
   :block/created-at 1666857310412,
   :block/updated-at 1666857310412}
- {:block/name "10 - title x - funerals#article 309|article 309",
-  :block/created-at 1666857328120,
-  :block/updated-at 1666857328120}
  {:block/name "17",
   :block/created-at 1666878431920,
   :block/updated-at 1666878431920}
@@ -267,6 +264,9 @@
  {:block/name "angkel",
   :block/created-at 1666940172205,
   :block/updated-at 1666940172205}
+ {:block/name "article 546",
+  :block/created-at 1667395519537,
+  :block/updated-at 1667395519537}
  {:block/name "article 7 civil code",
   :block/created-at 1666857309976,
   :block/updated-at 1666857309976}
@@ -464,13 +464,13 @@
   :block/updated-at 1667395056772}
  {:block/name "civil code/book 4/title_16",
   :block/created-at 1666857321550,
-  :block/updated-at 1666857321550}
+  :block/updated-at 1667395624521}
  {:block/name "civil code/book 4/title_17",
   :block/created-at 1666857321531,
-  :block/updated-at 1666857321531}
+  :block/updated-at 1667395535290}
  {:block/name "civil code/book 4/title_18",
   :block/created-at 1666857321554,
-  :block/updated-at 1666859922437}
+  :block/updated-at 1667395978285}
  {:block/name "civil code/book 4/title_19",
   :block/created-at 1666857317993,
   :block/updated-at 1667394342405}
@@ -494,7 +494,7 @@
   :block/updated-at 1666857321537}
  {:block/name "civil code/book 4/title_8",
   :block/created-at 1666857321538,
-  :block/updated-at 1667394542160}
+  :block/updated-at 1667396133713}
  {:block/name "civil code/book 4/title_9",
   :block/created-at 1666857321544,
   :block/updated-at 1666857321544}
@@ -584,7 +584,7 @@
   :block/updated-at 1666853378119}
  {:block/name "codal/family code of the philippines/title 1",
   :block/created-at 1666857311627,
-  :block/updated-at 1666857311627}
+  :block/updated-at 1667395907099}
  {:block/name "codal/family code of the philippines/title 10",
   :block/created-at 1666857311183,
   :block/updated-at 1666857311183}
@@ -1602,19 +1602,12 @@
  {:block/name "🔴 chapter 1 - the family as an institution",
   :block/created-at 1666878429975,
   :block/updated-at 1666878429975}
- {:block/name "🔴 chapter 1. requisites of marriage",
-  :block/created-at 1666878427272,
-  :block/updated-at 1666878427272}
  {:block/name "🔴 chapter 2 -  the family home",
   :block/created-at 1666878429981,
   :block/updated-at 1666878429981}
  {:block/name "🔴 chapter 2 - donations by reason of marriage",
   :block/created-at 1666857312442,
   :block/updated-at 1666857312442}
- {:block/name
-  "🔴 chapter 2 - marriages exempted from license requirement",
-  :block/created-at 1666878427300,
-  :block/updated-at 1666878427300}
  {:block/name "🔴 chapter 2 - proof of filiation",
   :block/created-at 1666878430433,
   :block/updated-at 1666878430433}
@@ -1638,9 +1631,6 @@
  {:block/name "🔴 chapter 3 - system of absolute community",
   :block/created-at 1666878429362,
   :block/updated-at 1666878429362}
- {:block/name "🔴 chapter 3 - void and voidable marriages",
-  :block/created-at 1666878427306,
-  :block/updated-at 1666878427306}
  {:block/name "🔴 chapter 4 - conjugal partnership of gains",
   :block/created-at 1666857312449,
   :block/updated-at 1666857312449}
