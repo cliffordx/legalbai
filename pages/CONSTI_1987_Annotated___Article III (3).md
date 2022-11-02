@@ -78,9 +78,7 @@ status:: active
   id:: 6300757c-2319-44d5-91d2-3e174d5d2dfe
 	- No [ex post facto law]([[Ex Post Facto Laws]]) or [bill of attainder]([[Bill of attainder]]) shall be enacted.
 - [[Comments]]
-  collapsed:: true
 	- [[Saturday, 27th August 2022]]
-	  collapsed:: true
 		- ((6300757c-0985-4ac2-879b-b4d4b5244293))
 			- Equal protection of the law is a guarantee against hostile discrimination and oppression of inequality for persons of like circumstances falling within the same class treated alike, whether in terms of privileged conferred and liabilities enforced. #17
 			-
