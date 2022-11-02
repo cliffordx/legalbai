@@ -121,4 +121,4 @@ status:: active
 			- ((62eb7bb5-3d2a-40b8-a652-cd7a614576a5))
 			- What it look into, however, is the question of whether such exercise has been made in grave abuse of discretion.
 			  id:: 62eb352b-df25-41ad-8d4f-258778caeeb6
-			  background-color:: #978626
+			  background-color:: gray
