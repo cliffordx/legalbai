@@ -150,9 +150,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (1) When a separation of property was agreed upon in the marriage settlements; or
 			- (2) When there has been a judicial separation of property under [article 191](((baad8e66-7b95-4327-95b9-264a2a5db339))). (1458a)
 	- **ARTICLE 1491.**
-	  collapsed:: true
 		- The following persons cannot acquire by purchase, even at a public or judicial auction, either in person or through the mediation of another:
-		  collapsed:: true
 			- (1) The guardian, the property of the person or persons who may be under his guardianship;
 			- (2) Agents, the property whose administration or sale may have been intrusted to them, unless the consent of the principal has been given;
 			- (3) Executors and administrators, the property of the estate under administration;
@@ -160,9 +158,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (5) Justices, judges, prosecuting attorneys, clerks of superior and inferior courts, and other officers and employees connected with the administration of justice, the property and rights in litigation or levied upon an execution before the court within whose jurisdiction or territory they exercise their respective functions; this prohibition includes the act of acquiring by assignment and shall apply to lawyers, with respect to the property and rights which may be the object of any litigation in which they may take part by virtue of their profession;
 			- (6) Any others specially disqualified by law. (1459a)
 	- **ARTICLE 1492.**
-	  collapsed:: true
 		- The prohibitions in the two preceding articles are applicable to sales in [[legal redemption]], compromises and renunciations. (n)
-		- [^1]: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 194]], Family Code of the Philippines.
+			- [^1]: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 194]], Family Code of the Philippines.
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
 	- ## SECTION 1 - General Provisions
