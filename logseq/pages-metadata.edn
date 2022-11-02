@@ -10,9 +10,6 @@
  {:block/name "#red",
   :block/created-at 1666857310278,
   :block/updated-at 1666857310278}
- {:block/name "#section 17|section 17",
-  :block/created-at 1666878431912,
-  :block/updated-at 1666878431912}
  {:block/name "$blue",
   :block/created-at 1666857317873,
   :block/updated-at 1666857317873}
@@ -342,7 +339,7 @@
   :block/updated-at 1666857760751}
  {:block/name "civil code/book 1",
   :block/created-at 1666853378118,
-  :block/updated-at 1667392048222}
+  :block/updated-at 1667392117103}
  {:block/name "civil code/book 1/prelim_title",
   :block/created-at 1666857310005,
   :block/updated-at 1666857310005}
@@ -426,7 +423,7 @@
   :block/updated-at 1666857313521}
  {:block/name "civil code/book 3",
   :block/created-at 1666857316027,
-  :block/updated-at 1666874597468}
+  :block/updated-at 1667392210888}
  {:block/name "civil code/book 3/title_1",
   :block/created-at 1666857316017,
   :block/updated-at 1666857316017}
@@ -802,7 +799,7 @@
   :block/updated-at 1666857312450}
  {:block/name "consti_1987_annotated",
   :block/created-at 1666873119021,
-  :block/updated-at 1666873119021}
+  :block/updated-at 1667392387521}
  {:block/name "consti_1987_annotated/article i (1)",
   :block/created-at 1666878431538,
   :block/updated-at 1666878431538}
@@ -811,7 +808,7 @@
   :block/updated-at 1666878431634}
  {:block/name "consti_1987_annotated/article iii (3)",
   :block/created-at 1666878431929,
-  :block/updated-at 1666878431929}
+  :block/updated-at 1667392497003}
  {:block/name "consti_1987_annotated/article iv (4)",
   :block/created-at 1666878432284,
   :block/updated-at 1666878432284}
