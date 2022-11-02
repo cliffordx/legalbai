@@ -144,7 +144,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In ejectment cases where an appeal is taken, the remedy granted in article 539, second paragraph, shall also apply, if the higher court is satisfied that the lessee’s appeal is frivolous or dilatory, or that the lessor’s appeal is prima facie meritorious. The period of ten days referred to in said article shall be counted from the time the appeal is perfected. (n)
 		- **ARTICLE 1675.**
 		  collapsed:: true
-			- Except in cases stated in [article 1673](logseq://graph/OBSIDIAN?block-id=e81ee7ce-c4c9-4d72-84a0-1adb4027f559), the lessee shall have a right to make use of the periods established in articles 1682 and 1687. (1570)
+			- Except in cases stated in [article 1673](((e81ee7ce-c4c9-4d72-84a0-1adb4027f559))), the lessee shall have a right to make use of the periods established in articles 1682 and 1687. (1570)
 		- **ARTICLE 1676.**
 		  collapsed:: true
 			- The purchaser of a piece of land which is under a lease that is not recorded in the Registry of Property may terminate the lease, save when there is a stipulation to the contrary in the contract of sale, or when the purchaser knows of the existence of the lease.
