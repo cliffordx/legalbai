@@ -4,7 +4,6 @@ tags:: #repealed
 status:: repealed
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-
 	- Superseded by: [TITLE III - RIGHTS AND OBLIGATIONS BETWEEN HUSBAND AND WIFE]([[codal/Family Code of the Philippines/Title 3]]) (Family Code of the Philippines)
 	- {{embed ((630f4e85-3674-4960-bfd6-dfd332a67c40))}}
 	- **ARTICLE 109.**
@@ -24,7 +23,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The husband is the administrator of the conjugal property, unless there is a stipulation in the marriage settlements conferring the administration upon the wife.
 		- She may also administer the conjugal partnership in other cases specified in this Code. (n)
 	- **ARTICLE 113.**
-	  collapsed:: true
 		- The husband must be joined in all suits by or against the wife, except:
 		  collapsed:: true
 			- (1) When they are judicially separated;
