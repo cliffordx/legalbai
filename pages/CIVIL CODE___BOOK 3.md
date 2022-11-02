@@ -2,7 +2,7 @@ title:: CIVIL CODE/BOOK 3
 alt-title:: Book III - Different Modes of Acquiring Ownership
 
 - # [Occupation]([[CIVIL CODE/BOOK 3/TITLE_1]])
-# [Donation]([[CIVIL CODE/BOOK 3/TITLE_3]])
+- # [Intellectual Creation]([[CIVIL CODE/BOOK 3/TITLE_2]])
 - # [Donation]([[CIVIL CODE/BOOK 3/TITLE_3]])
 - # [Succession]([[CIVIL CODE/BOOK 3/TITLE_4]])
 - # [Prescription]([[CIVIL CODE/BOOK 3/TITLE_5]])
