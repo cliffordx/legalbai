@@ -617,7 +617,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The form of sale of large cattle shall be governed by special laws. (n)
 - # 🔴 CHAPTER 7 - EXTINGUISHMENT OF SALE
   heading:: true
-  collapsed:: true
 	- **ARTICLE 1600.**
 	  collapsed:: true
 		- Sales are extinguished by the same causes as all other obligations, by those stated in the preceding articles of this Title, and by conventional or legal redemption. (1506)
