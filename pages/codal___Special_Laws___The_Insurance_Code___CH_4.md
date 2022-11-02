@@ -1,0 +1,291 @@
+title:: codal/Special_Laws/The_Insurance_Code/CH_4
+
+# CHAPTER IV  Sales Agencies and Technical Services
+- ## TITLE 1  Insurance Agents and Insurance Brokers
+  id:: 15388cfe-10f5-4dfd-a331-51acc24e2d49
+	- **SECTION 307.**
+	  id:: a0265bbe-3713-4a18-89a0-fcd426cc74ec
+		- No insurance company doing business in the Philippines, nor any agent thereof, shall pay any commission or other compensation to any person for services in obtaining insurance, unless such person shall have first procured from the Commissioner a license to act as an insurance agent of such company or as an insurance broker as hereinafter provided.
+		- No person shall act as an insurance agent or as an insurance broker in the solicitation or procurement of applications for insurance, or receive for services in obtaining insurance, any commission or other compensation from any insurance company doing business in the Philippines, or any agent thereof, without first procuring a license so to act from the Commissioner, which must be renewed every three (3) years thereafter.
+		  id:: 631d7243-e6ae-447b-abfc-fdcd171846ff
+		- Such license shall be issued by the Commissioner only upon the written application of the person desiring it, such application if for a license to act as insurance agent, being approved or endorsed by the company such person desires to represent, and shall be upon a form prescribed by the Commissioner giving such information as he may require, and upon payment of the corresponding fee hereinafter prescribed.
+		- The Commissioner shall satisfy himself as to the competence and trustworthiness of the applicant and shall have the right to refuse to issue or renew and to suspend or revoke any such license in his discretion.
+		- The license shall expire after the thirty-first day of December of the third year following the date of issuance unless it is renewed.
+		- Licenses may be renewed in the case of the company represented by such agents, and in the case of insurance brokers, upon the application of the said brokers, themselves.
+	- **SECTION 308.**
+	  collapsed:: true
+		- The provisions of [Sections 307](((a0265bbe-3713-4a18-89a0-fcd426cc74ec))) and [309](((7b286ddb-3b6b-4eb7-a203-e8f4f38708cf))) shall apply to an employee who shall be engaged to sell insurance products by an insurance company.
+	- **SECTION 309.**
+	  id:: 7b286ddb-3b6b-4eb7-a203-e8f4f38708cf
+	  collapsed:: true
+		- Any person who for compensation solicits or obtains insurance on behalf of any insurance company or transmits for a person other than himself an application for a policy or contract of insurance to or from such company or offers or assumes to act in the negotiating of such insurance shall be an insurance agent within the intent of this section and shall thereby become liable to all the duties, requirements, liabilities and penalties to which an insurance agent is subject.
+		- An insurance agent is an independent contractor and not an employee of the company represented. 'Insurance agent' includes an agency leader, agency manager, or their equivalent.
+		- Since the insurance industry is imbued with public interest, the insurance companies upon approval of the Commissioner may exercise wide latitude in supervising the activities of their insurance agents to ensure the protection of the insuring public.
+	- **SECTION 310.**
+	  collapsed:: true
+		- Any person who for any compensation, commission or other thing of value acts or aids in any manner in soliciting, negotiating or procuring the making of any insurance contract or in placing risk or taking out insurance, on behalf of an insured other than himself, shall be an insurance broker within the intent of this Code, and shall thereby become liable to all the duties, requirements, liabilities and penalties to which an insurance broker is subject.
+	- **SECTION 311.**
+	  collapsed:: true
+		- Every applicant for an insurance broker's license shall file with the application and shall thereafter maintain in force while so licensed, a bond in favor of the people of the Republic of the Philippines executed by a company authorized to become surety upon official recognizances, stipulations, bonds and undertakings.
+		- The bond shall be in such amount as may be fixed by the Commissioner, but in no case less than Five hundred thousand pesos (P500,000.00), and shall be conditioned upon full accounting and due payment to the person entitled thereto of funds coming into the broker's possession through insurance transactions under license.
+		- The bond shall remain in force until released by the Commissioner, or until cancelled by the surety.
+		- Without prejudice to any liability previously incurred thereunder, the surety may cancel the bond on thirty (30) days advance written notice to both the broker and the Commissioner.
+		- Upon approval of the application, the applicant must also file two (2) errors and omissions (professional liability or professional indemnity) policies issued separately by two (2) insurance companies authorized to do business in the Philippines, satisfactory to the Commissioner to indemnify the applicant against any claim or claims for breach of duty as insurance broker which may be made against him by reason of any negligent act, error or omission, whenever or wherever committed or alleged to have been committed, on the part of the applicant or any person who has been, is now, or may hereafter during the subsistence of the policies be employed by the said applicant in his capacity as insurance broker: **Provided,** *That* the filing of any claim or claims under one of such policies shall preclude the filing of the said claim or claims under the other policy.
+		- The said policies shall be in such amounts as may be prescribed by the Commissioner, depending upon the size or amount of the broking business of the applicant, but in no case shall the amount of each of such policies be less than Five hundred thousand pesos (P500,000.00).
+	- **SECTION 312.**
+	  collapsed:: true
+		- The Commissioner shall, in order to determine the competence of every applicant to have the kind of license applied for, require such applicant to submit to a written examination and to pass the same to the satisfaction of the Commissioner.
+		- The Commissioner may delegate or authorize the administration of the examination to an independent organization, subject to such conditions that the Commissioner may provide.
+	- **SECTION 313.**
+	  collapsed:: true
+		- An applicant for the written examination mentioned in the preceding section must be of good moral character and must not have been convicted of any crime involving moral turpitude.
+		- He must satisfactorily show to the Commissioner that he has been trained in the kind of insurance contemplated in the license applied for.
+		- Such examination may be waived if it is shown to the satisfaction of the Commissioner that the applicant has undergone extensive education and/or training in insurance.
+	- **SECTION 314.**
+	  collapsed:: true
+		- An application for the issuance or renewal of a license to act as an insurance agent or insurance broker may be refused, or such license, if already issued or renewed, shall be suspended or revoked if the Commissioner finds that the applicant for, or holder of, such license:
+		  collapsed:: true
+			- (a) Has willfully violated any provision of this Code; or
+			- (b) Has intentionally made a material misstatement in the application to qualify for such license; or
+			- (c) Has obtained or attempted to obtain a license by fraud or misrepresentation; or  
+			  (d) Has been guilty of fraudulent or dishonest practices; or
+			- (e) Has misappropriated or converted to his own use or illegally withheld moneys required to be held in a fiduciary capacity; or
+			- (f) Has not demonstrated trustworthiness and competence to transact business as an insurance agent or insurance broker in such manner as to safeguard the public; or
+			- (g) Has materially misrepresented the terms and conditions of policies or contracts of insurance which he seeks to sell or has sold; or
+			- (h) Has failed to pass the written examination prescribed, if not otherwise exempt from taking the same.
+			- In addition to the foregoing causes, no license to act as insurance agent or insurance broker shall be renewed if the holder thereof has not been actively engaged as such agent or broker in accordance with such rules as the Commissioner may prescribe.
+	- **SECTION 315.**
+	  collapsed:: true
+		- The premium, or any portion thereof, which an insurance agent or insurance broker collects from an insured and which is to be paid to an insurance company because of the assumption of liability through the issuance of policies or contracts of insurance, shall be held by the agent or broker in a fiduciary capacity and shall not be misappropriated or converted to his own use or illegally withheld by the agent or broker.
+		- Any insurance company which delivers to an insurance agent or insurance broker a policy or contract of insurance shall be deemed to have authorized such agent or broker to receive on its behalf payment of any premium which is due on such policy or contract of insurance at the time of its issuance or delivery or which becomes due thereon.
+		- In order to ensure faithful performance by the insurance agent or insurance broker of these fiduciary responsibilities, the Insurance Commissioner shall prescribe the minimum terms and conditions on such matters in the standard agency or brokers agreement between the agents and/or the broker with the insurance companies.
+	- **SECTION 316.**
+	  collapsed:: true
+		- Any provision of existing laws to the contrary notwithstanding, no person shall, within the Philippines, sell or offer for sale a variable contract or do or perform any act or thing in the sale, negotiation, making or consummating of any variable contract other than for himself unless such person shall have a valid and current license from the Commissioner authorizing such person to act as a variable contract agent.
+		- No such license shall be issued unless and until the Commissioner is satisfied, after examination that such person is by training, knowledge, ability and character qualified to act as such agent.
+		- Any such license may be withdrawn and cancelled by the Commissioner after notice and hearing, if he shall find that the holder thereof does not then have the qualifications required for the issuance of such license.
+	- **SECTION 317.**
+	  collapsed:: true
+		- It shall be unlawful for any person, company or corporation in the Philippines to act as general agent of any insurance company unless he is empowered by a written power of attorney duly executed by such insurance company, and registered with the Commissioner to receive notices, summons and legal processes for and in behalf of the insurance company concerned in connection with actions or other legal proceedings against said insurance company.
+		- It shall be the duty of said general agent to notify the Commissioner of his post office address in the Philippines, or any change thereof.
+		- Notices, summons, or processes of any kind sent by registered mail to the last registered address of such general agent of the company concerned or to the Commissioner shall be sufficient service and deemed as if served on the insurance company itself.
+	- **SECTION 318.**
+	  collapsed:: true
+		- Except as otherwise provided by law or treaty, it shall be unlawful for any person, partnership, association or corporation in the Philippines, for himself or itself, or for some other person, partnership, association or corporation, either to procure, receive or forward applications of insurance in, or to issue or to deliver or accept policies or contracts of insurance of or for, any insurance company or companies not authorized to transact business in the Philippines, covering risks, life or non-life, situated in the Philippines; and any such person, partnership, association or corporation violating the provisions of this section shall be deemed guilty of a penal offense, and upon conviction thereof, shall for each such offense be punished by a fine of Two hundred fifty thousand pesos (P250,000.00), or imprisonment of six (6) months, or both, at the discretion of the court: **Provided,** *That* the provisions of this section shall not apply to reinsurance.
+## TITLE 2 Reinsurance Brokers
+collapsed:: true
+	- **SECTION 319.**
+		- Except as provided in the next succeeding title, no person shall act as reinsurance broker in the Philippines unless he is authorized as such by the Commissioner.
+		- A reinsurance broker is one who, for compensation, not being a duly authorized agent, employee or officer of an insurer in which any reinsurance is effected, acts or aids in any manner in negotiating contracts of reinsurance, or placing risks of effecting reinsurance, for any insurance company authorized to do business in the Philippines.
+	- **SECTION 320.**
+		- Upon application and payment of the corresponding fee hereinafter prescribed, and the filing of two (2) errors and omissions (professional liability or professional indemnity) policies hereinafter described, a person may, if found qualified, be issued a license to act as reinsurance broker by the Commissioner.
+		- No such license shall be valid after December 31 of the third year following its issuance unless it is renewed.
+		- The errors and omissions (professional liability or professional indemnity) policies mentioned above shall indemnify the applicant against any claim or claims for breach of duty as reinsurance broker which may be made against him by reason of any negligent act, error or omission, whenever or wherever committed or alleged to have been committed, on the part of the applicant or any person who has been, is now, or may hereafter during the subsistence of the policies be employed by the said applicant in his capacity as reinsurance broker: **Provided,** *That* the filing of any claim or claims under one of such policies shall preclude the filing of the said claim or claims under the other policy.
+		- The said policies shall be issued separately by two (2) insurance companies authorized to do business in the Philippines and shall be in such amounts as may be prescribed by the Insurance Commissioner, depending upon the size or amount of the broking business of the applicant, but in no case shall the amount of each of such policies be less than Five hundred thousand pesos (P500,000.00).
+	- **SECTION 321.**
+		- The Commissioner may recall, suspend or revoke the license granted to a reinsurance broker for violation of any existing law, rule and regulation, or any provision of this Code after due notice and hearing.
+## TITLE 3 Resident Agents
+	- **SECTION 322.**
+		- No person shall act as resident agent, as hereinafter defined, unless he is registered as such with the Commissioner.
+	- **SECTION 323.**
+		- The term resident agent, as used in this title, is one duly appointed by a foreign insurer or broker not authorized to do business in the Philippines to receive in its behalf notices, summons and legal processes in connection with actions or other legal proceedings against such foreign insurer or broker.
+	- **SECTION 324.**
+		- The application for a certificate of registration as resident agent filed with the Commissioner must be accompanied with a copy of the power of attorney, duly notarized and authenticated by the Philippine Consul in the place where such foreign insurer or broker is domiciled, empowering the applicant to act as resident agent and to receive notices, summons and legal processes for and in behalf of such foreign insurer or broker in connection with any action or legal proceeding against such foreign insurer or broker.
+	- **SECTION 325.**
+		- It shall be the duty of such resident agent to notify immediately the Commissioner of any change of his office address.
+	- **SECTION 326.**
+		- A certificate of registration issued to a resident agent shall expire on the thirty-first day of December of the third year following its issuance unless it is renewed.
+		- The Commissioner may, after due notice and hearing, recall or cancel the certificate of registration issued to a resident agent for violation of any existing law, rule or regulation, or any provision of this Code.
+- ## TITLE 4  Non-Life Company Underwriter
+	- S**ECTION 327.**
+		- No person shall act, and no company shall employ any person, as non-life company underwriter, whose duty and responsibility it shall be to select, evaluate and accept risks for, and to determine the terms and conditions, including those pertaining to amounts of retentions, under which such risks are to be accepted by the company, unless such underwriter is registered as such with the Commissioner.
+	- **SECTION 328.**
+		- Every non-life insurance company doing business in the Philippines must maintain at all times a register of risks accepted and a claims register for each line of risks engaged in by such non-life insurance company with such entries therein as are now or as may hereafter be required by the Commissioner, and it shall be the responsibility of the underwriter on the particular line of risk involved to see to it that the said registers are well maintained and kept, and that all entries therein are properly and correctly recorded.
+		- Such registers shall be open to inspection and examination of duly authorized representatives of the Commissioner at all times during business hours.
+	- **SECTION 329.**
+		- No person shall be registered with the Commissioner, unless such person shall be at least twenty-one (21) years of age on the date of such registration; a resident of the Philippines; of good moral character and with no conviction of any crime involving moral turpitude; has had at the time such registration is made at least two (2) years of underwriting work in the particular line of risk involved; and has passed such qualifying written examination that the Commissioner shall conduct at such time and in such place as he may decide to hold for applicants desiring to act as underwriters.
+		- Such examination shall not be required of any person who has served as non-life company underwriter for a period of at least five (5) years, if the Commissioner is satisfied of the applicant's competence as shown by the results of his underwriting work in the non-life insurance company or companies that employed him in that capacity.
+		- The minimum underwriting experience herein required may be reduced or waived if it is shown to the satisfaction of the Commissioner that the non-life company underwriter has undergone extensive education and/or training in insurance.
+	- **SECTION 330.**
+		- Any applicant who misrepresents or omits any material fact in his application for registration as a non-life company underwriter, or commits any dishonest act in taking or in connection with the qualifying written examination for underwriters, shall be barred from being registered as such non-life company underwriter and, if already registered, his registration shall be cancelled and the certificate of registration issued in his favor shall be recalled immediately by the Commissioner.
+		- In the event that the certificate of authority of a non-life insurance company to transact business is suspended or revoked due to business failure arising largely from the imprudent and injudicious acceptance of risks by the underwriter concerned, the registration of such underwriter shall likewise be cancelled and his certificate of registration shall be recalled by the Commissioner, and no similar certificate shall thereafter be issued in his favor.
+	- **SECTION 331.**
+		- No certificate of registration issued to an underwriter shall be valid after December 31 of the third year following its issuance unless it is renewed.
+		- The Commissioner may, after due notice and hearing, also suspend or cancel such certificate for violation of existing laws, rules and regulations or of any provisions of this Code.
+## TITLE 5 Adjusters
+	- **SECTION 332.**
+		- No person, partnership, association, or corporation shall act as an adjuster, as hereinafter defined, unless authorized so to act by virtue of a license issued or renewed by the Commissioner pursuant to the provisions of this Code: **Provided,** *That* in the case of a natural person, he must be a Filipino citizen and in the case of a partnership, association or corporation, at least sixty percent (60%) of its capital must be owned by citizens of the Philippines.
+	- **SECTION 333.**
+		- An adjuster may be an independent adjuster or a public adjuster.
+		- The term independent adjuster means any person, partnership, association or corporation which, for money, commission or any other thing of value, acts for or on behalf of an insurer in the adjusting of claims arising under insurance contracts or policies issued by such insurer.
+		- The term public adjuster means any person, partnership, association or corporation which, for money, commission or any other thing of value, acts on behalf of an insured in negotiating for, or effecting, the settlement of a claim or claims of the said insured arising under insurance contracts or policies, or which advertises for or solicits employment as an adjuster of such claims.
+	- **SECTION 334.**
+		- For every line of insurance claim adjustment, adjusters shall be licensed either as independent adjusters or as public adjusters.
+		- No adjuster shall act on behalf of an insurer unless said adjuster is licensed as an independent adjuster; and no adjuster shall act on behalf of an insured unless said adjuster is licensed as a public adjuster: **Provided, however,** *That* when a firm or person has been licensed as a public adjuster, he shall not be granted another license as independent adjuster and vice versa.
+		- No license, however, shall be required of any company adjuster who is a salaried employee of an insurance company for the adjustment of claims filed under policies issued by such insurance company.
+	- **SECTION 335.**
+		- Such license or any renewal thereof may be issued by the Commissioner upon written application filed by the person interested on the form or forms prescribed by the Commissioner, which shall contain such information as he may require, and upon payment of the corresponding fee hereinafter prescribed.
+	- **SECTION 336.**
+		- The Commissioner shall conduct, at such times, and in such places as he may decide to hold, written examinations to determine the competence and ability of applicants desiring to act as adjuster of insurance claims.
+	- **SECTION 337.**
+		- No adjuster's license issued hereunder shall be valid after December 31 of the third year following the issuance of such license unless it is renewed.
+	- **SECTION 338.**
+		- Nothing contained in this title shall apply to any duly licensed attorney-at-law who acts or aids in adjusting insurance claims as an incident to the practice of his profession and who does not advertise himself as an adjuster.
+	- **SECTION 339.**
+		- The Commissioner may suspend or revoke any adjuster's license if, after giving notice and hearing to the adjuster concerned, the Commissioner finds that the said adjuster:
+			- (a) Has violated any provision of this Code and of the circulars, rulings and instructions of the Commissioner or has violated any law in the course of his dealings as an adjuster; or
+			- (b) Has made a material misstatement in the application for such license; or
+			- (c) Has been guilty of fraudulent or dishonest practices; or
+			- (d) Has demonstrated his incompetence or untrustworthiness to act as adjuster; or  
+			  (e) Has made patently unjust valuation of loss; or
+			- (f) Has failed to make a report of the adjustment he proposed within sixty (60) days from the date of the filing of the claim by the insured with the insurer, unless prevented so to do by reasons beyond his control; or
+			- (g) Has refused to allow an examination into his affairs or method of doing business as hereinafter provided.
+	- **SECTION 340.**
+		- Every adjuster shall submit to the Commissioner a quarterly report of all losses which are the subject of adjustment effected by him during each month in the form prescribed by the Commissioner.
+		- The report shall be filed within one (1) month after the end of each quarter.
+	- **SECTION 341.**
+		- Every adjuster shall keep his or its books, records, reports, accounts, and vouchers in such manner that the Commissioner or his duly authorized representatives may readily verify the quarterly reports of the said adjuster and ascertain whether the said adjuster has complied with the provisions of law or regulations obligatory upon him or whether the method of doing business of the said adjuster has been fair, just and honest.
+	- **SECTION 342.**
+		- The Commissioner shall, at least once a year and whenever he considers the public interest so demands, cause an examination to be made into the affairs and method of doing business of every adjuster.
+	- **SECTION 343.**
+		- Any violation of any provision of this title shall be punished by a fine of not less than Ten thousand pesos (P10,000.00), or by imprisonment at the discretion of the court: Provided, That, in case of a partnership, association or corporation, the said penalty shall be imposed upon the partner, president, manager, managing director, director or person in charge of its business or responsible for the violation.
+## TITLE 6 Actuaries
+	- **SECTION 344.**
+		- No life insurance company shall be licensed to do business in the Philippines nor shall any life insurance company doing business in the Philippines be allowed to continue doing such business unless they shall engage the services of an actuary duly accredited with the Commissioner who shall, during his tenure of office, be directly responsible for the direction and supervision of all actuarial work connected with or that may be involved in the business of the insurance company.
+		- The Commissioner may also require non-life insurance companies to engage the services of an accredited actuary, in accordance with the rules and regulations that the Commissioner will formulate.
+	- **SECTION 345.**
+		- Any person may be officially accredited by the Commissioner to act as an actuary in any life insurance company or in any mutual benefit association authorized to do business in the Philippines upon application therefor and the payment of the corresponding fee hereinafter prescribed: Provided, That:
+			- (a) He is a fellow of good standing of the Actuarial Society of the Philippines at the time of his appointment and remains in such good standing during the tenure of his engagement; or
+			- (b) In the case of one who is not a fellow of the Actuarial Society of the Philippines, he meets all the requirements of the said Society for accreditation as a fellow of the Society, and has been given permission by the pertinent government authorities in the Philippines to render services in the Philippines, in the event that he is not a citizen of the Philippines.
+			- The registration of the actuary shall be suspended or revoked by the Commissioner on the following grounds:
+				- (1) Failure to adequately perform required functions and duties under this Code;
+				- (2) Failure to disclose conflict of interest;
+				- (3) Failure to comply with the Code of Conduct of the Actuarial Society of the Philippines; or
+				- (4) Such other grounds that may be determined by the Commissioner.
+				- No actuary engaged by a life insurance company shall be at the same time a stockholder or a director of the board, chief executive officer or chief financial officer of the company or hold any position that the Commissioner may determine to have an inherent conflict of interest to the position of an actuary.
+				- No certificate of registration issued under this title shall be valid after December 31 of the third year following its issuance unless it is renewed.
+	- **SECTION 346.**
+		- The following documents, which are from time to time submitted to the Commissioner by a life insurance company authorized to do business in the Philippines, shall be duly certified by an accredited actuary employed by such company:
+			- (a) Policy reserves, claims or loss reserves and net due and deferred premiums.
+			- (b) Statements of bases and net premiums, loading for gross premiums, and on non-forfeiture values and reserves, when applying for approval of gross premiums, reserves and non-forfeiture values.
+			- (c) Policies of insurance under any plan submitted to the Commissioner as required by law.
+			- (d) Annual statements and valuation reports submitted to the Commissioner as required by law.
+			- (e) Financial projection showing the probable income and outgo and reserve requirements, enumerating the actuarial assumptions and bases of projections.
+			- (f) Valuation of annuity funds or retirement plans.
+			- The Commissioner may also require non-life insurance companies to submit, from time to time, similar documents which shall be duly certified by an accredited actuary employed by such company.
+			- Any life insurance company authorized to do business in the Philippines may employ any person who is not officially accredited under either of the qualifications for any kind of actuarial work: **Provided,** *That* he shall not, at any time, have the authority to certify to the correctness of the foregoing documents.
+	- **SECTION 347.**
+		- No accredited actuary shall serve more than one client or employer at the same time. However, one already in the employ of an insurance company may be allowed by the Commissioner to serve a mutual benefit association or any other insurance company, provided the following conditions are first complied with:
+			- (a) That the request to engage his services by the other employer is in writing;
+			- (b) That his present employer acquiesced to it in writing; and
+			- (c) That he furnishes the Commissioner with copies of said request and acquiescence.
+			- No external auditor shall be engaged by supervised persons or entities unless it has been issued an accreditation certificate by the Commissioner.
+			- The accreditation certificate shall be valid until December 31 of the third year from issuance unless it is revoked or suspended.
+			- The Commissioner shall issue rules and regulations to govern the accreditation of the external auditor and the revocation or suspension of the accreditation.
+- ## TITLE 7  Rating Organization and Rate Making
+	- **SECTION 348.**
+		- Every organization which now exists or which may hereafter be formed for the purpose of making rates to be used by more than one insurance company authorized to do business in the Philippines shall be known as a rating organization.
+		- The term rate as used in this title shall generally mean the ratio of the premium to the amount insured and shall include, as the context may require, either the consideration to be paid or charged for insurance contracts, including surety bonds, or the elements and factors forming the basis for the determination or application of the same, or both.
+	- **SECTION 349.**
+		- Every rating organization which now exists or which may hereafter be formed shall be subject to the provisions of this title.
+	- **SECTION 350.**
+		- No rating organization hereafter formed shall commence rate-making operations until it shall have obtained a license from the Commissioner.
+		- Before obtaining such license, such rating organization shall file with the Commissioner a notice of its intention to commence rate- making operations, a copy of its constitution, articles of agreement or association, or of incorporation, and its bylaws, a list of insurance companies that have agreed to become members or subscribers, and such other information concerning such rating organization and its operations as may be required by the Commissioner.
+		- If the Commissioner finds that the organization has complied with the provisions of law and that it has a sufficient number of members or subscribers and is otherwise qualified to function as a rating organization, the Commissioner may issue a license to such rating organization authorizing it to make rates for the kinds of insurance or subdivisions thereof as may be specified in such license.
+		- No license issued to a rating organization shall be valid after December 31 of the third year following its issuance unless it is renewed.
+		- No rating organization which now exists and is not licensed pursuant to this section shall continue rate-making operations until it shall have obtained from the Commissioner a license which he may issue if satisfied that such organization is complying with the provisions of this title.
+		- Every rating organization shall notify the Commissioner promptly of every change in:
+			- (a) Its constitution, its articles of agreement or association or its certificate of incorporation, and its bylaws, rules and regulations governing the conduct of its business; and
+			- (b) Its list of members and subscribers.
+				- A member means an insurer who participates in or is entitled to participate in the management of a rating organization.
+				- A subscriber means an insurer which is furnished at its request with rates and rating manuals by a rating organization of which it is not a member.
+	- **SECTION 351.**
+		- Each rating organization shall furnish its rating service without discrimination to all of its members and subscribers, and shall, subject to reasonable rules and regulations, permit any insurance company doing business in the Philippines, not admitted to membership, to become a subscriber to its rating services for any kind of insurance or subdivisions thereof.
+		- Notice of proposed changes in such rules and regulations shall be given to subscribers.
+		- The reasonableness of any rule or regulation in its application to subscribers, or the refusal of any rating organization to admit an insurance company as a subscriber, shall, at the request of any subscriber or any such insurance company, be reviewed by the Commissioner at a hearing held upon at least ten (10) days' written notice to such rating organization and to such subscriber or insurance company.
+		- The Commissioner may, after such hearing, issue an appropriate order.
+	- **SECTION 352.**
+		- No rating organization or any other association shall refuse to do business with, or prohibit or prevent the payment of commissions to, any person licensed as an insurance broker pursuant to the provisions of [Title 1](((15388cfe-10f5-4dfd-a331-51acc24e2d49))) of this chapter.
+	- **SECTION 353.**
+		- Rating organizations shall be subject to examination by the Commissioner, as often as he may deem such examination expedient, pursuant to the provisions of this Code applicable to the examination of insurance companies.
+		- He shall cause such an examination of each rating organization to be made at least once in every five (5) years.
+	- **SECTION 354.**
+		- The Commissioner may suspend or revoke the license of any rating organization which fails to comply with his order within the time limited by such order, or any extension thereof which he may grant.
+		- The Commissioner may determine when a suspension of license shall become effective and it shall remain in effect for the period fixed by him, unless he modifies or rescinds such suspension.
+	- **SECTION 355.**
+		- Any rating organization may subscribe for or purchase actuarial, technical or other services, and such services shall be available to all members and subscribers without discrimination.
+	- **SECTION 356.**
+		- Any rating organization may provide for the examination of policies, daily reports, binders, renewal certificates, endorsements or other instruments of insurance, or the cancellation thereof, and may make reasonable rules governing their submission.
+		- Such rules shall contain a provision that in the event an insurance company does not within sixty (60) days furnish satisfactory evidence to the rating organization of the correction of any error or omission previously called to its attention by the rating organization, it shall be the duty of the rating organization to notify the Commissioner thereof.
+		- All information so submitted for examination shall be confidential.
+	- **SECTION 357.**
+		- Cooperation among rating organizations or among rating organizations and insurers in rate making or in other matters within the scope of this title is hereby authorized, provided the filings resulting from such cooperation are subject to all provisions of this title which are applicable to filings generally.
+		- The Commissioner may review such cooperative activities and practices and if he finds that any such activity or practice is unfair or unreasonable or otherwise inconsistent with the provisions of this title, he may issue a written order specifying in what respects such activity or practice is unfair or unreasonable or otherwise inconsistent with the provisions of this title, and requiring the discontinuance of such activity or practice.
+	- **SECTION 358.**
+	  id:: be7a181f-fb68-4aa9-bbaf-7ccdf81e8cc6
+		- Every rating organization and every insurance company which makes and files its own rates, shall make rates for all risks rated by such organization or insurance company in accordance with the following provisions:
+			- (a) Basic classification, manual, minimum, class, or schedule rates or rating plans, shall be made and adopted for all such risks.
+				- Any departure from such rates shall be in accordance with schedules, rating plans and rules filed with the Commissioner;
+			- (b) Rates shall be reasonable and adequate for the class of risks to which they apply;
+			- (c) No rate shall discriminate unfairly between risks involving essentially the same hazards and expense elements or between risks in the application of like charges and credits;
+			- (d) Consideration shall be given to the past and prospective loss experience, including the conflagration and catastrophe hazards, if any, to all factors reasonably attributable to the class of risks, to a reasonable profit, to commissions paid during the most recent annual period and to past and prospective other expenses.
+				- In case of fire insurance rates, consideration shall be given to the experience of the fire insurance business during a period of not less than five (5) years next preceding the year in which the review is made;
+			- (e) Risk may be grouped by classifications for the establishment of rates and minimum premiums.
+				- Classification rates may be modified to produce rates for individual risks in accordance with rating plans which establish standards for measuring variations in hazards or expense provisions, or both.
+				- Such standards may measure any difference among risks that can be demonstrated to have a probable effect upon losses or expenses.
+	- **SECTION 359.**
+		- No rating organization and no insurance company which makes and files its own rates shall make or promulgate any rate or schedule of rates which is to be applied to any fire risk on the condition that the whole amount of insurance on any risk or any specified part thereof shall be placed with the members of or subscribers to such rating organization or with such insurer.
+	- **SECTION 360.**
+		- Every insurance company doing business in the Philippines shall annually file with the rating organization of which it is a member or subscriber, or with such other agency as the Commissioner may designate, a statistical report showing a classification schedule of its premiums and losses on all kinds or types of insurance business to which [Section 358](((be7a181f-fb68-4aa9-bbaf-7ccdf81e8cc6))) is applicable, and such other information as the Commissioner may deem necessary or expedient for the administration of the provisions of this title.
+	- **SECTION 361.**
+		- Every non-life rating organization and every non-life insurance company doing business in the Philippines shall file with the Commissioner, except as to risks which by general custom of the business are not written according to manual rates or rating plans, every rate manual, schedule of rates, classification of risks, rating plan, and every other rating rule and every modification of any of the foregoing which it proposes to use.
+		- An insurance company may satisfy its obligation to make such filings for any kind or type of insurance by becoming a member of or subscriber to a rating organization which makes such filings for such kind or type of insurance, and by authorizing the Commissioner to accept such filings of the rating organization on behalf of such insurance company.
+	- **SECTION 362.**
+		- Every manual or schedule of rates and every rating plan filed as provided in the preceding section shall state or clearly indicate the character and extent of the coverage to which any such rate or any modification thereof will be applied.
+	- **SECTION 363.**
+		- The Commissioner shall review filings as soon as reasonably possible after they have been made in order to determine whether they meet the requirements of this title.
+		- When a filing is not accompanied by the information upon which the insurance company supports such filing, and the Commissioner does not have sufficient information to determine whether such filing meets the requirements of this title, he shall require such insurance company to furnish the information upon which it supports such filing.
+		- The information furnished in support of a filing may include:
+			- (a) The experience or judgment of the insurance company or rating organization making the filing;
+			- (b) Its interpretation of any statistical data it relies upon;
+			- (c) The experience of other insurance companies or rating organization; or
+			- (d) Any other relevant factors.
+	- **SECTION 364.**
+		- If the Commissioner finds that any rate filings theretofore filed with him do not comply with the provisions of this title or that they provide rates or rules which are inadequate, excessive, unfairly discriminatory or otherwise unreasonable, he may order the same withdrawn and at the expiration of sixty (60) days thereafter the same shall be deemed no longer on file.
+		- Before making any such finding and order, the Commissioner shall give notice, not less than ten (10) days in advance, and a hearing, to the rating organization, or to the insurer, which filed the same.
+		- Such order shall not affect any contract or policy made or issued prior to the expiration of such sixty (60)-day period.
+	- **SECTION 365.**
+		- No member or subscriber of a rating organization, and no insurance company doing business in the Philippines, or agent, employee or other representative of such company, and no insurance broker shall charge or demand a rate or receive a premium which deviates from the rates, rating plans, classifications, schedules, rules and standards, made and last filed by a rating organization or by or on behalf of the insurance company, or shall issue or make any policy or contract involving a violation of such rate filings.
+	- **SECTION 366.**
+		- Notwithstanding any other provisions of this title, upon the written application of the insurer, stating his reasons therefor, filed with and approved by the Commissioner, a rate in excess of that provided by a filing otherwise applicable may be used on any specific risk.
+	- **SECTION 367.**
+		- Whenever the Commissioner shall determine, after notice and a hearing, that the rates charged or filed on any class of risks are excessive, discriminatory, inadequate or unreasonable, he shall order that such rates be appropriately adjusted.
+		- For the purpose of applying the provisions of this section, the Commissioner may from time to time approve reasonable classifications of risks for any or all such classes, having due regard to the past and prospective loss experience, including conflagration or catastrophe hazards, if any, to all other relevant factors and to a reasonable profit.
+	- **SECTION 368.**
+		- Nothing contained in this title shall be construed as requiring any insurer to become a member of or subscriber to any rating organization.
+	- **SECTION 369.**
+		- Agreements may be made among insurance companies with respect to the equitable apportionment among them of insurance which may be afforded applicants who are in good faith entitled to but are unable to procure such insurance through ordinary methods and such insurance companies may agree among themselves on the use of reasonable rates and modifications for such insurance, such agreements and rate modifications to be subject to the approval of the Commissioner: **Provided, however,** *That* the provisions of this section shall not be deemed to apply to workmen's compensation insurance.
+	- **SECTION 370.**
+		- No insurance company doing business in the Philippines or any agent thereof, no insurance broker, and no employee or other representative of any such insurance company, agent, or broker, shall make, procure or negotiate any contract of insurance or agreement as to policy contract, other than is plainly expressed in the policy or other written contract issued or to be issued as evidence thereof, or shall directly or indirectly, by giving or sharing a commission or in any manner whatsoever, pay or allow or offer to pay or allow to the insured or to any employee of such insured, either as an inducement to the making of such insurance or after such insurance has been effected, any rebate from the premium which is specified in the policy, or any special favor or advantage in the dividends or other benefits to accrue thereon, or shall give or offer to give any valuable consideration or inducement of any kind, directly or indirectly, which is not specified in such policy or contract of insurance; nor shall any such company, or any agent thereof, as to any policy or contract of insurance issued, make any discrimination against any Filipino in the sense that he is given less advantageous rates, dividends or other policy conditions or privileges than are accorded to other nationals because of his race.
+	- **SECTION 371.**
+		- No insurance company doing business in the Philippines, and no officer, director, or agent thereof, and no insurance broker or any other person, partnership or corporation shall issue or circulate or cause or permit to be issued or circulated any literature, illustration, circular or statement of any sort misrepresenting the terms of any policy issued by any insurance company of the benefits or advantages promised thereby, or any misleading estimate of the dividends or share of surplus to be received thereon, or shall use any name or title of any policy or class of policies misrepresenting the true nature thereof; nor shall any such company or agent thereof, or any other person, partnership or corporation make any misleading representation or incomplete comparison of policies to any person insured in such company for the purpose of inducing or tending to induce such person to lapse, forfeit, or surrender his said insurance.
+	- **SECTION 372.**
+		- If the Commissioner, after notice and hearing, finds that any insurance company, rating organization, agent, broker or other person has violated any of the provisions of this title, it shall order the payment of a fine not to exceed Twenty-five thousand pesos (P25,000.00) for each such offense, and shall immediately suspend or revoke the license issued to such insurance company, rating organization, agent, or broker.
+		- The issuance, procurement or negotiation of a single policy or contract of insurance shall be deemed a separate offense.
+- ## TITLE 8  Provision Common to Agents, Brokers and Adjusters
+	- **SECTION 373.**
+		- A license issued to a partnership, association or corporation to act as an insurance agent, general agent, insurance broker, reinsurance broker, or adjuster shall authorize only the individual named in the license who shall qualify therefor as though an individual licensee.
+		- The Commissioner shall charge, and the licensee shall pay, a full additional license fee as to each respective individual so named in such license in excess of one.
+		- Licenses and certificates of registration issued under the provisions of this chapter may be renewed by the filing of notices of intention on forms to be prescribed by the Commissioner and payment of the fees therefor.
+	- **SECTION 374.**
+		- The Commissioner, in consultation with the duly accredited associations representing the insurance industry, shall adopt and promulgate a code of conduct to promote integrity, honesty and ethical business practices among insurance agents, distributors and other intermediaries.
+## TITLE 9 Bancassurance
+	- **SECTION 375.**
+		- The term bancassurance shall mean the presentation and sale to bank customers by an insurance company of its insurance products within the premises of the head office of such bank duly licensed by the Bangko Sentral ng Pilipinas or any of its branches under such rules and regulations which the Commissioner and the Bangko Sentral ng Pilipinas may promulgate.
+		- To engage in bancassurance arrangement, a bank is not required to have equity ownership of the insurance company.
+		- No insurance company shall enter into a bancassurance arrangement unless it possesses all the requirements as may be prescribed by the Commissioner and the *Bangko Sentral ng Pilipinas*.
+		- No insurance product under this section, whether life or non-life, shall be issued or delivered unless in the form previously approved by the Commissioner.
+	- **SECTION 376.**
+		- Personnel tasked to present and sell insurance products within the bank premises shall be duly licensed by the Commissioner and shall be subject to the rules and regulations of this Act.
+	- **SECTION 377.**
+		- The Commissioner and the Bangko Sentral ng Pilipinas shall promulgate rules and regulations to effectively supervise the business of bancassurance.

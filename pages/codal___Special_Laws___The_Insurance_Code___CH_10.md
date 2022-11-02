@@ -1,0 +1,104 @@
+title:: codal/Special_Laws/The_Insurance_Code/CH_10
+
+-
+# CHAPTER X  The Insurance Commissioner
+## TITLE l  Administrative and Adjudicatory Powers
+	- **SECTION 437.**
+		- The Insurance Commissioner shall be appointed by the President of the Republic of the Philippines for a term of six (6) years without reappointment and who shall serve as such until the successor shall have been appointed and qualified.
+		- If the Insurance Commissioner is removed before the expiration of his term of office, the reason for the removal must be published.
+		- The Insurance Commissioner shall have the duty to see that all laws relating to insurance, insurance companies and other insurance matters, mutual benefit associations, and trusts for charitable uses are faithfully executed and to perform the duties imposed upon him by this Code, and shall, notwithstanding any existing laws to the contrary, have sole and exclusive authority to regulate the issuance and sale of variable contracts as defined in Section 238 hereof and to provide for the licensing of persons selling such contracts, and to issue such reasonable rules and regulations governing the same.
+		- The Commissioner may issue such rulings, instructions, circulars, orders and decisions as may be deemed necessary to secure the enforcement of the provisions of this Code, to ensure the efficient regulation of the insurance industry in accordance with global best practices and to protect the insuring public.
+		- Except as otherwise specified, decisions made by the Commissioner shall be appealable to the Secretary of Finance.
+		- In addition to the foregoing, the Commissioner shall have the following powers and functions:
+			- (a) Formulate policies and recommendations on issues concerning the insurance industry, advise Congress and other government agencies on all aspects of the insurance industry and propose legislation and amendments thereto;
+			- (b) Approve, reject, suspend or revoke licenses or certificates of registration provided for by this Code;
+			- (c) Impose sanctions for the violation of laws and the rules, regulations and orders issued pursuant thereto;
+			- (d) Prepare, approve, amend or repeal rules, regulations and orders, and issue opinions and provide guidance on and supervise compliance with such rules, regulations and orders;
+			- (e) Enlist the aid and support of, and/or deputize any and all enforcement agencies of the government in the implementation of its powers and functions under this Code;
+			- (f) Issue cease and desist orders to prevent fraud or injury to the insuring public;
+			- (g) Punish for contempt of the Commissioner, both direct and indirect, in accordance with the pertinent provisions of and penalties prescribed by the Rules of Court;
+			- (h) Compel the officers of any registered insurance corporation or association to call meetings of stockholders or members thereof under its supervision;
+			- (i) Issue subpoena *duces tecum* and summon witnesses to appear in any proceeding of the Commission and, in appropriate cases, order the examination, search and seizure of all documents, papers, files and records, tax returns, and books of accounts of any entity or person under investigation as may be necessary for the proper disposition of the cases before it, subject to the provisions of existing laws;
+			- (j) Suspend or revoke, after proper notice and hearing, the license or certificate of authority of any entity or person under its regulation, upon any of the grounds provided by law;
+			- (k) Conduct an examination to determine compliance with laws and regulations if the circumstances so warrant as determined by appropriate rules and regulations;
+			- (l) Investigate not oftener than once a year from the last date of examination to determine whether an institution is conducting its business on a safe and sound basis: **Provided,** *That*, the deficiencies/irregularities found by or discovered by an audit shall be immediately addressed;
+			- (m) Inquire into the solvency and liquidity of the institutions under its supervision and enforce prompt corrective action;
+			- (n) To retain and utilize, in addition to its annual budget, all fees, charges and other income derived from the regulation of insurance companies and other supervised persons or entities;
+			- (o) To fix and assess fees, charges and penalties as the Commissioner may find reasonable in the exercise of regulation; and
+			- (p) Exercise such other powers as may be provided by law as well as those which may be implied from, or which are necessary or incidental to the express powers granted the Commission to achieve the objectives and purposes of this Code.
+		- The Commission shall indemnify the Commissioner, Deputy Commissioner, and other officials of the Commission, including personnel performing supervision and examination functions, for all costs and expenses reasonably incurred by such persons in connection with any civil or criminal actions, suits or proceedings to which they may be made a party to by the reason of the performance of their duties and functions, unless they are finally adjudged in such actions, suits or proceedings to be liable for negligence or misconduct.
+		- In the event of settlement or compromise, indemnification shall be provided only in connection with such matters covered by the settlement as to which the Commission is advised by external counsel that the persons to be indemnified did not commit any negligence or misconduct.
+		- The costs and expenses incurred in defending the aforementioned action, suit or proceeding may be paid by the Commission in advance of the final disposition of such action, suit or proceeding upon receipt of an undertaking by or on behalf of the Commissioner, Deputy Commissioner, officer or employee to repay the amount advanced should it ultimately be determined by the Commission that the person is not entitled to be indemnified.
+	- **SECTION 438.**
+		- In addition to the administrative sanctions provided elsewhere in this Code, the Insurance Commissioner is hereby authorized, at his discretion, to impose upon insurance companies, their directors and/or officers and/or agents, for any willful failure or refusal to comply with, or violation of any provision of this Code, or any order, instruction, regulation, or ruling of the Insurance Commissioner, or any commission or irregularities, and/or conducting business in an unsafe or unsound manner as may be determined by the Insurance Commissioner, the following:
+			- (a) Fines not less than Five thousand pesos (P5,000.00) and not more than Two hundred thousand pesos (P200,000.00); and
+			- (b) Suspension, or after due hearing, removal of directors and/or officers and/or agents.
+	- SE**CTION 439.**
+	  id:: 06eeb9fa-5b1e-4a95-bdae-ad9158a5c1f0
+		- The Commissioner shall have the power to adjudicate claims and complaints involving any loss, damage or liability for which an insurer may be answerable under any kind of policy or contract of insurance, or for which such insurer may be liable under a contract of suretyship, or for which a reinsurer may be sued under any contract of reinsurance it may have entered into; or for which a mutual benefit association may be held liable under the membership certificates it has issued to its members, where the amount of any such loss, damage or liability, excluding interest, cost and attorney's fees, being claimed or sued upon any kind of insurance, bond, reinsurance contract, or membership certificate does not exceed in any single claim Five million pesos (P5,000,000.00).
+		- The power of the Commissioner does not cover the relationship between the insurance company and its agents/brokers but is limited to adjudicating claims and complaints filed by the insured against the insurance company.
+		- The Commissioner may authorize any officer or group of officers under him to conduct investigation, inquiry and/or hearing and decide claims and he may issue rules governing the conduct of adjudication and resolution of cases.
+		- The Rules of Court shall have suppletory application.
+		- The party filing an action pursuant to the provisions of this section thereby submits his person to the jurisdiction of the Commissioner.
+		- The Commissioner shall acquire jurisdiction over the person of the impleaded party or parties in accordance with and pursuant to the provisions of the Rules of Court.
+		- The authority to adjudicate granted to the Commissioner under this section shall be concurrent with that of the civil courts, but the filing of a complaint with the Commissioner shall preclude the civil courts from taking cognizance of a suit involving the same subject matter.
+		- Any decision, order or ruling rendered by the Commissioner after a hearing shall have the force and effect of a judgment.
+		- Any party may appeal from a final order, ruling or decision of the Commissioner by filing with the Commissioner within thirty (30) days from receipt of copy of such order, ruling or decision a notice of appeal to the Court of Appeals in the manner provided for in the Rules of Court for appeals from the Regional Trial Court to the Court of Appeals.
+		- For the purpose of any proceeding under this section, the Commissioner, or any officer thereof designated by him is empowered to administer oaths and affirmation, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, documents, or contracts or other records which are relevant or material to the inquiry.
+		- A full and complete record shall be kept of all proceedings had before the Commissioner, or the officers thereof designated by him, and all testimony shall be taken down and transcribed by a stenographer appointed  by the Commissioner.
+		- In order to promote party autonomy in the resolution of cases, the Commissioner shall establish a system for resolving cases through the use of alternative dispute resolution.
+- ## TITLE 2  Fees and Other Sources of Funds
+	- **SECTION 440.**
+	  id:: cbaaa71c-f702-463c-aecb-c04c6f81b318
+		- (a) For the issuance or renewal of certificates of authority, licenses and certificates of registration, pursuant to pertinent provisions of this Code, the Commissioner shall collect and receive fees which shall be not less than the following:
+			- For each certificate of authority issued to an insurance company doing business in the Philippines, Two hundred pesos (P200.00).
+			- For each special certificate of authority issued to a servicing insurance company, One hundred pesos (P100.00).
+			- For each license issued to a general agent of an insurance company, Fifty pesos (P50.00).
+			- For each license issued to an insurance agent, Twenty-five pesos (P25.00).
+			- For each license issued to an agent of variable contract policy, Twenty-five pesos (P25.00).
+			- For each license issued to an insurance broker, One hundred pesos  (P100.00).
+			- For each license issued to a reinsurance broker, One hundred pesos (P100.00).
+			- For each license issued to an insurance adjuster, One hundred pesos (P100.00).
+			- For each certificate of registration issued to an actuary, Fifty pesos  (P50.00).
+			- For each certificate of registration issued to a resident agent, Fifty pesos (P50.00).
+			- For each license issued to a rating organization, One hundred pesos (P100.00).
+			- For each certificate of registration issued to a non-life company underwriter, Fifty pesos (P50.00).
+			- For each license issued to a mutual benefit association, Ten pesos (P10.00).
+			- For each certificate of registration issued to a trust for charitable uses, Ten pesos (P10.00).
+			- All certificates of authority and all other licenses, as well as all certificates of registration, issued to any person, partnership, association or corporation under the pertinent provisions of this Code for which no expiration date has been prescribed, shall expire on the last day of December of the third year from its issuance and shall be renewed upon application therefor and payment of the corresponding fee, if the licensee or holder of such license or certificate is continuing to comply with all the applicable provisions of existing laws, and of rules, instructions, orders and decisions of the Commissioner.
+		- (b) For the filing of the annual statement referred to in [Section 229](((631c95e6-ed49-4bcb-8402-f68bf0517879))), the Commissioner shall collect and receive from the insurance company so filing a fee of not less than Five hundred pesos (P500.00): **Provided,** *That* a fine of not less than One hundred pesos (P100.00) shall be imposed and collected by the Commissioner for each week of delay, or any fraction thereof, in the filing of the annual statement.
+			- For the filing of annual statement referred to in [Section 413](((c7e99a0a-2e5b-4855-9d55-88d424a7f905))), the Commissioner shall collect and receive from the mutual benefit association so filing a fee of not less than Ten pesos (P10.00): **Provided,** *That* a fine of not less than Ten pesos (P10.00) shall be imposed and collected by the Commissioner for each week of delay, or any fraction thereof, in the filing of the annual statement.
+		- (c) For the examination prescribed in [Section 253](((631c95e6-7390-433b-926c-9a2daab0b6b5))), the Commissioner shall collect and receive fees according to the amount of its total assets, in the case of a domestic company, or of its assets in the Philippines, in the case of a foreign company, not less than the amount as follows:
+			- (1) Two million pesos or more but less than Four million pesos, Four hundred pesos (P400.00);
+			- (2) Four million pesos or more but less than Six million pesos, Eight hundred pesos (P800.00);
+			- (3) Six million pesos or more but less than Eight million pesos, One thousand two hundred pesos (P1,200.00);
+			- (4) Eight million pesos or more but less than Ten million pesos, One thousand six hundred pesos (P1,600.00);
+			- (5) Ten million pesos or more, Two thousand pesos (P2,000.00);
+			- **Provided,** *That* if the said examination is made in places outside the Metropolitan Manila area, besides these fees, the Commissioner shall require of the company examined the payment of the actual and necessary travelling and subsistence expenses of the examiner or examiners concerned.
+			- For the examination prescribed in [Section 412](((39f052b3-429f-4d5b-9be8-42a05fb15961))), the Commissioner shall collect and receive a minimum fee of not less than One hundred pesos (P100.00) from the mutual benefit association examined: **Provided,** *That* if such association has total assets of more than One hundred thousand pesos (P100,000.00), an additional fee of not less than Ten pesos (P10.00) for every Fifty thousand pesos (P50,000.00) in excess thereof shall be imposed.
+		- (d) For the filing of an application to withdraw from the Philippines under [Title 18](((631c95e6-3830-442b-8d16-2758b2dfa9eb))), the Commissioner shall collect and receive from the foreign company so withdrawing a fee of not less than One thousand pesos (P1,000.00).
+		- (e) The Commissioner may fix and collect fees or charges for documents, transcripts, or other materials which may be furnished by him not in excess of reasonable cost.
+	- **SECTION 441.**
+		- The Commissioner, in accordance with the rules and regulations of the Department of Budget and Management and other relevant regulatory agencies, shall source the salary, allowances and other expenses from the retained amount of the fees, charges, penalties and other income from the regulation of insurance companies and other covered persons and entities, and from the Insurance Fund, which is created out of the proceeds of taxes on insurance premiums mentioned in [Section 255](((631c95e6-4fb5-4f93-95dc-e62682bf291a))) of the National Internal Revenue Code, as amended.
+- ## Miscellaneous Provisions
+	- **SECTION 442.**
+		- Any person, company or corporation subject to the supervision and control of the Commissioner who violates any provision of this Code, for which no penalty is provided, shall be deemed guilty of a penal offense, and upon conviction be punished by a fine not exceeding Two hundred thousand pesos (P200,000.00) or imprisonment of six (6) months, or both, at the discretion of the court.
+		- If the offense is committed by a company or corporation, the officers, directors, or other persons responsible for its operation, management, or administration, unless it can be proved that they have taken no part in the commission of the offense, shall likewise be guilty of a penal offense, and upon conviction be punished by a fine not exceeding Two hundred thousand pesos (P200,000.00) or imprisonment of six (6) months, or both, at the discretion of the court.
+	- **SECTION 443.**
+		- All criminal actions for the violation of any of the provisions of this Code shall prescribe after three (3) years from the discovery of such violation: **Provided,** *That* such actions shall in any event prescribe after ten (10) years from the commission of such violation.
+	- **SECTION 444.**
+		- Any person, partnership, association or corporation heretofore authorized, licensed or registered by the Commissioner shall be deemed to have been authorized, licensed or registered under the provisions of this Code and shall be governed by the provisions thereof: **Provided, however,** *That* where any such person, partnership, association or corporation is affected by the new requirements of this Code, said person, partnership, association or corporation shall, unless otherwise herein provided, be given a period of one (1) year from the effectivity of this Code within which to comply with the same.
+	- **SECTION 445.**
+		- **Transitory Provision.**
+		- Renewal of existing licenses, certificates of authority or accreditation which will expire on June 30, 2013 shall be valid until December 31, 2015.
+		- Thereafter, renewal shall be filed on the last day of December every third year following the date of expiry of the license, certificate of authority or accreditation.
+	- **SECTION 446.**
+		- **Repealing Clause.**
+		- Except as expressly provided by this Code, all laws, decrees, orders, rules and regulations or parts thereof, inconsistent with any provision of this Code shall be deemed repealed, amended or modified accordingly.
+	- **SECTION 447.**
+		- **Separability Clause.**
+		- If any provision of this Code or any part hereof be declared invalid or unconstitutional, the remainder of the law or other provisions not otherwise affected shall remain valid and subsisting.
+	- **SECTION 448.**
+		- This Code shall take effect fifteen (15) days following its publication in a newspaper of general circulation.
+	- Approved: August 15, 2013.
+		- Published in The Philippine Star on September 5, 2013.

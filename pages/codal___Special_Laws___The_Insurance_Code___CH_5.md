@@ -1,0 +1,42 @@
+title:: codal/Special_Laws/The_Insurance_Code/CH_5
+
+# CHAPTER V Security Fund
+	- **SECTION 378.**
+		- There is hereby created a fund to be known as the Security Fund which shall be used in the payment of allowed claims against an insurance company authorized to transact business in the Philippines remaining unpaid by reason of the insolvency of such company.
+		- The said Fund may also be used to reinsure the policy of the insolvent insurer in any solvent insurer authorized to do business in the Philippines as provided in [Section 256](((631c95e6-1a3a-4173-ad83-f57f87a99749))).
+		- The Fund may likewise be used to pay insured claims which otherwise would not be compensable under the provisions of the policy. No payment from the Security Fund shall, however, be made to any person who owns or controls ten percent (10%) or more of the voting shares of stock of the insolvent insurer and no payment on any one claim shall exceed Twenty thousand pesos (P20,000.00).
+	- **SECTION 379.**
+		- Such Fund shall consist of all payments made to the Fund by insurance companies authorized to do business in the Philippines.
+		- Payments made by life insurance companies shall be treated separately from those made by non-life insurance companies and the corresponding fund shall be called Life Account and Non-Life Account, respectively, and shall be held and administered as such by the Commissioner in accordance with the provisions of this title.
+		- The Life Account shall be utilized exclusively for disbursements that refer to life insurance companies, while the Non-Life Account shall be utilized exclusively for disbursements that refer to non-life insurance companies.
+	- **SECTION 380.**
+		- All insurance companies doing business in the Philippines shall contribute to the Security Fund, Life or Non-Life Account, as the case may be, the aggregate amount of Five million pesos (P5,000,000.00) for each Account.
+		- The contributions of the life insurance companies and of the non-life insurance companies shall be in direct proportion to the ratio between a particular life insurance company or a particular non-life insurance company's net worth and the aggregate net worth of all life insurance companies or all non-life insurance companies, as the case may be, as shown in their latest financial statements approved by the Commissioner.
+		- This proportion applied to the Five million pesos (P5,000,000.00) shall be the contribution of a particular company to the corresponding Account of the Security Fund.
+		- The amount of Five million pesos (P5,000,000.00) in each Account shall be in the form of a revolving trust fund.
+		- The respective contributions of the companies shall remain as admitted assets in their books and any disbursement therefrom shall be deducted proportionately from the contributions of each company which will be allowed as deductions for income tax purposes.
+		- Any earnings of the Fund shall be turned over to the contributing companies in proportion to their contributions.
+		- In the case of disbursements of funds from the Fund as provided in the foregoing paragraph, the life and non-life companies, as the case may be, shall replenish the amount disbursed in direct proportion to the individual company's net worth and the aggregate net worth of the life or non-life companies, as the case may be.
+		- However, in no case shall the Fund exceed the aggregate amount of Ten million pesos (P10,000,000.00), or Five million pesos (P5,000,000.00) for each Account.
+		- Should the Fund, Life or Non-Life Account, as the case may be, be inadequate for a disbursement as provided for, then the Life or Non-Life companies, as the case may be, shall contribute to the Fund their respective shares in the proportion previously mentioned.
+	- **SECTION 381.**
+		- The Commissioner may adopt, amend, and enforce all reasonable rules and regulations necessary for the proper administration of the Fund and of the Accounts.
+		- In the event any insurer shall fail to make any payment required by this title, or that any payment made is incorrect, he shall have full authority to examine all the books and records of the insurer for the purpose of ascertaining the facts and shall determine the correct amount to be paid and may proceed in any court of competent jurisdiction to recover for the benefit of the Fund or of the Account concerned any sum shown to be due upon such examination and determination.
+		- Any insurer which fails to make any payment to the Fund or to the Account concerned when due, shall thereby forfeit to said Fund or Account concerned a penalty of five percent (5%) of the amount determined to be due as provided by this title, plus one percent (1%) of such amount for each month of delay or fraction thereof, after the expiration of the first month of such delay, but the Commissioner, if satisfied that the delay was excusable, may remit all or any part of such penalty.
+		- The Commissioner, in his discretion, may suspend or revoke the certificate of authority to do business in the Philippines of any insurance company which shall fail to comply with this title or to pay any penalty imposed in accordance therewith.
+	- **SECTION 382.**
+		- The Accounts created by this title shall be separate and apart from each other and from any other fund.
+		- The Treasurer of the Philippines shall be the custodian of the Life Account and Non-Life Account of the Security Fund; and all disbursements from any Account shall be made by the Treasurer of the Philippines upon vouchers signed by the Commissioner or his deputy, as hereinafter provided.
+		- The moneys of said Account may be invested by the Commissioner only in bonds or other instruments of debt of the Government of the Philippines or its political subdivisions or instrumentalities.
+		- The Commissioner may sell any of the securities in which an Account is invested, if advisable, for its proper administration or in the best interest of such Account.
+	- **SECTION 383.**
+		- Payments from either the Life Insurance Account or Non-Life Account, as the case may be, shall be made by the Treasurer of the Philippines to the Commissioner, upon the authority of appropriate certificate filed with him by the Commissioner acting in such capacity.
+	- **SECTION 384.**
+		- The Commissioner may, in his discretion, designate or appoint a duly authorized representative or representatives to appear and defend before any court or other body or official having jurisdiction any or all actions or proceedings against principals or assureds on insurance policies or contracts issued to them where the insurer has become insolvent or unable to meet its insurance obligations.
+		- The Commissioner shall have, as of the date of insolvency of such insurer or as of the date of its inability to meet its insurance obligations, only the rights which such insurer would have had if it had not become insolvent or unable to meet its insurance obligations.
+		- For the purpose of this title, the Commissioner shall have power to employ such counsel, clerks and assistants as he may deem necessary.
+	- **SECTION 385.**
+		- The expense of administering an Account shall be paid out of the Account concerned.
+		- The Commissioner shall serve as administrator of the Fund and of the Accounts without additional compensation, but may be allowed and paid from the Account concerned expenses incurred in the performance of his duties in connection with said Account.
+		- The compensation of those persons employed by the Commissioner shall be deemed administration expense payable from the Account concerned.
+		- The Commissioner shall include in his annual report to the Secretary of Finance a statement of the expenses of administration of the Fund and of the Life Account and Non-Life Account for the preceding year.

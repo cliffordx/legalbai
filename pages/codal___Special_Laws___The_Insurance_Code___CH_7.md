@@ -1,0 +1,105 @@
+title:: codal/Special_Laws/The_Insurance_Code/CH_7
+
+-
+- # CHAPTER VII  Mutual Benefit Associations and Trusts for Charitable Uses
+- ## TITLE 1  Mutual Benefit Associations
+	- **SECTION 403.**
+		- Any society, association or corporation, without capital stock, formed or organized not for profit but mainly for the purpose of paying sick benefits to members, or of furnishing financial support to members while out of employment, or of paying to relatives of deceased members of fixed or any sum of money, irrespective of whether such aim or purpose is carried out by means of fixed dues or assessments collected regularly from the members, or of providing, by the issuance of certificates of insurance, payment of its members of accident or life insurance benefits out of such fixed and regular dues or assessments, but in no case shall include any society, association, or corporation with such mutual benefit features and which shall be carried out purely from voluntary contributions collected not regularly and/or no fixed amount from whomsoever may contribute, shall be known as a mutual benefit association within the intent of this Code.
+		- Any society, association, or corporation principally organized as a labor union shall be governed by the Labor Code notwithstanding any mutual benefit feature provisions in its charter as incident to its organization.
+		- In no case shall a mutual benefit association be organized and authorized to transact business as a charitable or benevolent organization, and whenever it has this feature as incident to its existence, the corresponding charter provision shall be revised to conform with the provision of this section.
+		- Mutual benefit association, already licensed to transact business as such on the date this Code becomes effective, having charitable or benevolent feature shall abandon such incidental purpose upon effectivity of this Code if they desire to continue operating as such mutual benefit associations.
+	- **SECTION 404.**
+		- A mutual benefit association, before it may transact as such, must first secure a license from the Commissioner.
+		- The application for such license shall be filed with the Commissioner together with certified true copies of the articles of incorporation or the constitution and bylaws of the association, and all amendments thereto, and such other documents or testimonies as the Commissioner may require.
+		- No license shall be granted to a mutual benefit association until the Commissioner shall have been satisfied by such examination as he may make and such evidence as he may require that the association is qualified under existing laws to operate and transact business as such.
+		- The Commissioner may refuse to issue a license to any mutual benefit association if, in his judgment, such refusal will best promote the interest of the members of such association and of the people of this country.
+		- Any license issued shall expire on the last day of December of the third year following its issuance and, upon proper application, may be renewed if the association is continuing to comply with existing laws, rules and regulations, orders, instructions, rulings and decisions of the Commissioner.
+		- Every association receiving any such license shall be subject to the supervision of the Commissioner: **Provided,** *That* no such license shall be granted to any such association if such association has no actuary.
+	- **SECTION 405.**
+		- No mutual benefit association shall be issued a license to operate as such unless it has constituted and established a Guaranty Fund by depositing with the Commissioner an initial minimum amount of Five million pesos (P5,000,000.00) in cash, or in government securities with a total value equal to such amount, to answer for any valid benefit claim of any of its members.
+		- All moneys received by the Commissioner for this purpose must be deposited by him in interest-bearing deposits with any bank or banks authorized to transact business in the Philippines for the account of the particular association constituting the Guaranty Fund.
+		- Any accrual to such fund, be it interest earned or dividend additions on moneys or securities so deposited, may, with the prior approval of the Commissioner, be withdrawn by the association if there is no pending benefit claim against it, including interest thereon or dividend additions thereto.
+		- The Commissioner, prior to or after licensing a mutual benefit association, may require such association to increase its Guaranty Fund from the initial minimum amount required to an amount equal to the capital investment required of an existing domestic insurance company under [Section 209](((631c568f-1a65-4568-8319-6e1abf6b7844))) of this Code.
+	- **SECTION 406.**
+		- Every mutual benefit association licensed to do business as such shall issue membership certificates to its members specifying the benefits to which such members are entitled.
+		-
+		- Such certificates, together with the articles of incorporation of the association or its constitution and bylaws, and all existing laws as may be pertinent shall constitute the agreement, as of the date of its issuance, between the association and the member.
+		- The membership certificate shall be in a form previously approved by the Commissioner.
+	- **SECTION 407.**
+		- A mutual benefit association may, by reinsurance agreement, cede in whole or in part any individual risk or risks under certificates of insurance issued by it, only to a life insurance company authorized to transact business or to a professional reinsurer authorized to accept life risks in the Philippines: **Provided,** *That* a copy of the draft of such reinsurance agreement shall be submitted to the Commissioner for his approval.
+		- The association may take credit for the reserves on such ceded risks to the extent reinsured.
+	- **SECTION 408.**
+		- The constitution or bylaws of a mutual benefit association must distinctly state the purpose for which dues and/or assessments are made and collected and the portion thereof which may be used for expenses.
+		- Death benefit and other relief funds shall be created and used exclusively for paying benefits due the members under their respective membership certificates.
+		- A general fund shall likewise be created and used for expenses of administration of the association.
+		- A mutual benefit association shall only maintain free and unassigned surplus of not more than twenty percent (20%) of its total liabilities as verified by the Commissioner.
+		- Any amount in excess shall be returned to the members by way of dividends, enhancing the equity value or providing benefits in kind and other relevant services.
+		- In addition, subject to the approval of the Commissioner, a mutual benefit association may allocate a portion for capacity building and research and development such as developing new products and services, upgrading and improving operating systems and equipment and continuing member education.
+	- **SECTION 409.**
+		- Every outstanding membership certificate must have an equity value equivalent to at least fifty percent (50%) of the total contributions collected thereon.
+		- The equity value only applies to basic life insurance product and excludes optional products.
+	- **SECTION 410.**
+		- Every mutual benefit association must accumulate and maintain, out of the periodic dues collected from its members, sufficient reserves for the payment of claims or obligations for which it shall hold funds in securities satisfactory to the Commissioner consisting of bonds of the Government of the Philippines, or any of its political subdivisions and instrumentalities, or in such other good securities as may be approved by the Commissioner.
+		- The reserve liability shall be established in accordance with actuarial procedures and shall be approved by the Commissioner.
+		- The articles of incorporation or the constitution and bylaws of a mutual benefit association must provide that if its reserve as to all or any class of certificates becomes impaired, its board of directors or trustees may require that there shall be paid by the members to the association the amount of the members' equitable proportion of such deficiency as ascertained by said board and that if the payment be not made it shall stand as an indebtedness against the membership certificates of the defaulting members and draw interest not to exceed five percent (5%) per annum compounded annually.
+	- **SECTION 411.**
+		- A mutual benefit association may invest such portion of its funds as shall not be required to meet pending claims and other obligations in any of the classes of investments or types of securities in which life insurance companies doing business in the Philippines may invest.
+		- It may also grant loans to members on the security of a pledge or chattel mortgage of personal properties of the borrowers, or in the absence thereof, on the security of the membership certificate of the borrowing members, in which event such loan shall become a first lien on the proceeds thereof.
+	- **SECTION 412.**
+	  id:: 39f052b3-429f-4d5b-9be8-42a05fb15961
+		- The Commissioner or any of his duly designated representatives, shall have the power of visitation, audit and examination into the affairs, financial condition, and methods of doing business of all mutual benefit associations, and he shall cause such examination to be made at least once every two (2) years or whenever it may be deemed proper and necessary.
+		- Free access to the books, records and documents of the association shall be accorded to the Commissioner, or to his representatives, in such manner that the Commissioner or his representatives may readily verify or determine the true affairs, financial condition, and method of doing business of such association.
+		- In the course of such examination, the Commissioner or his duly designated representatives shall have authority to administer oaths and take testimony or other evidence on any matter relating to the affairs of the association.
+		- All minutes of the proceedings of the board of directors or trustees of the association, and those of the regular or special meetings of the members, shall be taken, and a copy thereof, in English or in Pilipino, shall be submitted to the Commissioner's representatives or examiners in the course of such examination.
+		- A copy of the findings of such examination, together with the recommendations of the Commissioner, shall be furnished the association for its information and compliance, and the same shall be taken up immediately in the meetings of the board of directors or trustees and of the members of the association.
+	- **SECTION 413.**
+	  id:: c7e99a0a-2e5b-4855-9d55-88d424a7f905
+		- Every mutual benefit association shall, annually on or before the thirtieth day of April of each year, render to the Commissioner an annual statement in such form and detail as may be prescribed by the Commissioner, signed and sworn to by the president, secretary, treasurer, and actuary of the association, showing the exact condition of its affairs on the preceding thirty-first day of December.
+	- **SECTION 414.**
+		- No money, aid or benefit to be paid, provided or tendered by any mutual benefit association, shall be liable to attachment, garnishment, or other process, or be seized, taken, appropriated, or applied by any legal or equitable process to pay any debt or liability of a member or beneficiary, or any other person who may have a right thereunder, either before or after payment.
+	- **SECTION 415.**
+		- Any member of a mutual benefit association shall have the right at all times to change the beneficiary or beneficiaries or add another beneficiary or other beneficiaries in accordance with the rules and regulations of the association unless he has expressly waived this right in the membership certificate.
+		- Every association may, under such rules as it may adopt, limit the scope of beneficiaries and provide that no beneficiary shall have or obtain any vested interest in the proceeds of any certificate until the certificate has become due and payable under the terms of the membership certificate.
+	- **SECTION 416.**
+		- Any chapter affiliate independently licensed as a mutual benefit association may consolidate or merge with any other similar chapter affiliate or with the mother association.
+	- **SECTION 417.**
+		- Any mutual benefit association may be converted into and licensed as a mutual life insurance company by complying with the requirements of the pertinent provisions of this Code and submitting the specific plan for such conversion to the Commissioner for his approval.
+		- Such plan, as approved, shall then be submitted to the members either in the regular meeting or in a special meeting called for the purpose for their adoption.
+		- The affirmative vote of at least two-thirds (2/3) of all the members shall be necessary in order to consider such plan as adopted.
+		- No such conversion shall take effect unless and until approved by the Commissioner.
+	- **SECTION 418.**
+		- No mutual benefit association shall be dissolved without first notifying the Commissioner and furnishing him with a certified copy of the resolution authorizing the dissolution, duly adopted by the affirmative vote of two-thirds (2/3) of the members at a meeting called for that purpose, the financial statements as of the date of the resolution, and such other papers or documents as may be required by the Commissioner.
+		- No dissolution shall proceed until and unless approved by the Commissioner and all proceedings in connection therewith shall be witnessed and attested by his duly designated representative.
+		- No mutual benefit association shall be officially declared as dissolved until after the Commissioner so certifies that all outstanding claims against the association have been duly settled and liquidated.
+	- **SECTION 419.**
+		- The Commissioner shall, after notice and hearing, have the power either to suspend or revoke the license issued to a mutual benefit association if he finds that the association has:
+			- (a) Failed to comply with any provision of this Code;
+			- (b) Failed to comply with any other law or regulation obligatory upon it;
+			- (c) Failed to comply with any order, ruling, instruction, requirement or recommendation of the Commissioner;
+			- (d) Exceeded its power to the prejudice of its members;
+			- (e) Conducted its business fraudulently or hazardously;
+			- (f) Rendered its affairs and condition to one of insolvency; or
+			- (g) Failed to carry out its aims and purposes for which it was organized due to any cause.
+			- After receipt of the order from the Commissioner suspending or revoking the license, the association must immediately exert efforts to remove such cause or causes which brought about the order and, upon proper showing, may apply with the Commissioner for the lifting of the order and restoration or revival of the license so revoked or suspended.
+	- **SECTION 420.**
+		- For failure to remove such cause or causes which brought about the suspension or revocation of the license of a mutual benefit association, the Commissioner shall apply under this Code for an order from the proper court to liquidate such association.
+		- The provisions of Titles [14](((631c95e6-d16c-4146-9d5b-9a69852ba3ab))) and [15](((631c83ec-b343-445a-9abb-b320702ff8e0))), Chapter III, pertaining to the appointment of a conservator and proceedings upon insolvency of an insurance company shall, insofar as practicable, apply to mutual benefit associations.
+	- **SECTION 421.**
+		- To secure the enforcement of any provision under this title, the Commissioner may issue such rules, rulings, instructions, orders and circulars.
+	- **SECTION 422.**
+		- The violation of any provision of this title shall subject the person violating or the officer of the association responsible therefor to a fine of not less than Ten thousand pesos (P10,000.00), or imprisonment of not exceeding three (3) years, or both such fine and imprisonment, at the discretion of the court.
+	- **SECTION 423.**
+		- All provisions of this Code governing life insurance companies and such other provisions whenever practicable and necessary, shall be applicable to mutual benefit associations.
+- ## TITLE 2  Trusts for Charitable Uses
+	- **SECTION 424.**
+		- The term trust for charitable uses, within the intent of this Code, shall include, all the real or personal properties or funds, as well as those acquired with the fruits or income therefrom or in exchange or substitution thereof, given to or received by any person, corporation, association, foundation, or entity, except the National Government, its instrumentalities or political subdivisions, for charitable, benevolent, educational, pious, religious, or other uses for the benefit of the public at large or a particular portion thereof or for the benefit of an indefinite number of persons.
+	- **SECTION 425.**
+		- The term trustee shall include any individual, corporation, association, foundation, or entity, except the National Government, its instrumentalities or political subdivisions, in charge of, or acting for, or concerned with the administration of, the trust referred to in the section immediately preceding and with the proper application of trust property.
+	- **SECTION 426.**
+		- The term trust property shall include all real or personal properties or funds pertaining to the trust as well as those acquired with the fruits or income therefrom or in exchange or substitution thereof.
+	- **SECTION 427.**
+		- All trustees shall, before entering in the performance of the duties of their trust, obtain a certificate of registration from the Commissioner.
+		- The registration shall expire on December 31 of the third year following its issuance unless it is renewed.
+		- All provisions of this Code governing mutual benefit associations and such other provisions herein, whenever practicable and necessary, shall be applicable to trusts for charitable uses.
+	- **SECTION 428.**
+		- The treasurer of a charitable trust shall file a fidelity bond in the amount commensurate with the value of the trust property in his custody, as may be determined by the Commissioner.
