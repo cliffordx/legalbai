@@ -155,7 +155,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- If the latter has paid them, the usufructuary shall pay him the proper interest on the sums which may have been paid in that character; and, if the said sums have been advanced by the usufructuary, he shall recover the amount thereof at the termination of the usufruct. (505)
 	- **ARTICLE 598.**
 	  collapsed:: true
-		- If the usufruct be constituted on the whole of a patrimony, and if at the time of its constitution the owner has debts, the provisions of articles [758](((635bc740-f94f-4e14-96fc-962fadb16a67))) and [759] relating to donations shall be applied, both with respect to the maintenance of the usufruct and to the obligation of the usufructuary to pay such debts.
+		- If the usufruct be constituted on the whole of a patrimony, and if at the time of its constitution the owner has debts, the provisions of articles [758](((635bc740-f94f-4e14-96fc-962fadb16a67))) and [759](((635bc740-4c64-47d5-a8d6-02e1357c2eb5))) relating to donations shall be applied, both with respect to the maintenance of the usufruct and to the obligation of the usufructuary to pay such debts.
 		- The same rule shall be applied in case the owner is obliged, at the time the usufruct is constituted, to make periodical payments, even if there should be no known capital. (506)
 	- **ARTICLE 599.**
 	  collapsed:: true
