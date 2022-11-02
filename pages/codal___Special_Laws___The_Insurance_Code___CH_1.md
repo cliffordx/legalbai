@@ -323,7 +323,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 		- ((633d39a4-6194-43d4-9621-b063a5c2cdcf))
 			- **[19:29]** discussed atm.
 			  id:: 633d6a9a-4b68-434b-9abf-24b5f5bca1e4
-				- ![Screen Shot 2022-10-05 at 7.27.54 PM.png](../assets/Screen_Shot_2022-10-05_at_7.27.54_PM_1664969629275_0.png)
+				- ~~[Screen Shot 2022-10-05 at 7.27.54 PM.png]~~
 		- ((633d39a4-7dc8-4077-ace5-574e5bd11288))
 			- **[19:32]**  discussed
-			- ![Screen Shot 2022-10-05 at 7.33.14 PM.png](../assets/Screen_Shot_2022-10-05_at_7.33.14_PM_1664969609520_0.png)
+			- ~~[Screen Shot 2022-10-05 at 7.33.14 PM.png]~~
