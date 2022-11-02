@@ -404,7 +404,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1559.**
 				- The defendant vendee shall ask, within the time fixed in the Rules of Court for answering the complaint, that the vendor be made a co-defendant. (1482a)
 			- **ARTICLE 1560.**
-				- If the immovable sold should be encumbered with any non-apparent burden or [servitude](((62f1383f-309c-4a5f-bb8e-82781a8f7ba8))), not mentioned in the agreement, of such a nature that it must be presumed that the vendee would not have acquired it had he been aware thereof, he may ask for the rescission of the contract, unless he should prefer the appropriate indemnity.
+				- If the immovable sold should be encumbered with any non-apparent burden or servitude, not mentioned in the agreement, of such a nature that it must be presumed that the vendee would not have acquired it had he been aware thereof, he may ask for the rescission of the contract, unless he should prefer the appropriate indemnity.
 				- Neither right can be exercised if the non-apparent burden or servitude is recorded in the Registry of Property, unless there is an express warranty that the thing is free from all burdens and encumbrances.
 				- Within one year, to be computed from the execution of the deed, the vendee may bring the action for rescission, or sue for damages.
 				- One year having elapsed, he may only bring an action for damages within an equal period, to be counted from the date on which he discovered the burden or servitude. (1483a)
@@ -484,7 +484,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1587.**
 		- Unless otherwise agreed, where goods are delivered to the buyer, and he refuses to accept them, having the right so to do, he is not bound to return them to the seller, but it is sufficient if he notifies the seller that he refuses to accept them. If he voluntarily constitutes himself a depositary thereof, he shall be liable as such. (n)
 	- **ARTICLE 1588.**
-		- If there is no stipulation as specified in the first paragraph of [article 1523](((636277d8-32a2-46de-a2d6-98d8e771df10))), when the buyer’s refusal to accept the goods is without just cause, the title thereto passes to him from the moment they are placed at his disposal. (n)
+		- If there is no stipulation as specified in the first paragraph of article 1523, when the buyer’s refusal to accept the goods is without just cause, the title thereto passes to him from the moment they are placed at his disposal. (n)
 	- **ARTICLE 1589.**
 		- The vendee shall owe interest for the period between the delivery of the thing and the payment of the price, in the following three cases:
 			- (1) Should it have been so stipulated;
