@@ -7,7 +7,6 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - # 🔴 CHAPTER 1- NATURE AND FORM OF THE CONTRACT
-  collapsed:: true
 	- **ARTICLE 1458.**
 	  id:: 7b1b3e18-bc92-4d11-8f36-c1d86c985a71
 	  collapsed:: true
@@ -144,7 +143,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The expropriation of property for public use is governed by special laws. (1456)
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
-  collapsed:: true
 	- ## SECTION 1 - General Provisions
 	  collapsed:: true
 		- **ARTICLE 1495.**
