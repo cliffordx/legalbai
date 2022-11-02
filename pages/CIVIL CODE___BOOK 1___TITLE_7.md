@@ -147,6 +147,7 @@ collapsed:: true
 		- **ARTICLE 243.**
 		  id:: b70eb82d-04b8-4f38-a7ef-e629876e1277
 			- The family home extrajudicially formed shall be exempt from execution, forced sale or attachment, except:
+			  id:: 635bc739-eac3-4d86-93f6-4889e25b7be1
 				- (1) For nonpayment of taxes;
 				- (2) For debts incurred before the declaration was recorded in the Registry of Property;
 				- (3) For debts secured by mortgages on the premises before or after such record of the declaration;
