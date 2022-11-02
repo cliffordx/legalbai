@@ -38,7 +38,6 @@ status:: active
 	  card-next-schedule:: 2022-06-24T16:00:00.000Z
 	  card-last-reviewed:: 2022-06-24T09:48:45.559Z
 	  card-last-score:: 1
-	  collapsed:: true
 		- (1) Exercise original jurisdiction over cases affecting ambassadors, other public ministers and consuls, and over petitions for certiorari, prohibition, mandamus, quo warranto, and habeas corpus.
 		- (2) Review, revise, reverse, modify, or affirm on appeal or certiorari, as the law or the Rules of Court may provide, final judgments and orders of lower courts in:
 			- (a) All cases in which the constitutionality or validity of any treaty, international or executive agreement, law, presidential decree, proclamation, order, instruction, ordinance, or regulation is in question.
@@ -99,9 +98,7 @@ status:: active
   collapsed:: true
 	- The Supreme Court shall, within thirty days from the opening of each regular session of the Congress, submit to the President and the Congress an annual report on the operations and activities of the Judiciary.
 - [[Comments]]
-  collapsed:: true
 	- [[Thursday, 4th August 2022]]
-	  collapsed:: true
 		- ((62cc59f1-59a4-47d9-a664-992f8540ddb1))
 			- ((62eb3098-f5d0-4ce6-943f-25b85081dd49))
 			  id:: 62eb3087-7cf5-4afc-9cfc-f97ad84d2a9c
