@@ -318,9 +318,8 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 			- [Maramag]([[Heirs of Loreto Maramag v. Maramag]]) case
 	- [[Sunday, 2nd October 2022]]
 		- ((633709c5-e6cf-45de-9793-5a088246af74))
-			- **[20:20]** not allowed to insured for a game of chance [01:30] [Zoom lecture - Atty Bacz](((6339811f-11f7-44ab-949d-bb004b6bb8a9)))
+			- **[20:20]** not allowed to insured for a game of chance [01:30]
 	- [[Wednesday, 5th October 2022]]
-	  collapsed:: true
 		- ((633d39a4-6194-43d4-9621-b063a5c2cdcf))
 			- **[19:29]** discussed atm.
 			  id:: 633d6a9a-4b68-434b-9abf-24b5f5bca1e4
