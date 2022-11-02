@@ -614,7 +614,90 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1581.**
 			  collapsed:: true
 				- The form of sale of large cattle shall be governed by special laws. (n)
-- # 🔴 CHAPTER 5 - OBLIGATIONS OF THE VENDEE
+				- # 🔴 CHAPTER 5 - OBLIGATIONS OF THE VENDEE
+				  collapsed:: true
+					- **ARTICLE 1582.**
+					  collapsed:: true
+						- The vendee is bound to accept delivery and to pay the price of the thing sold at the time and place stipulated in the contract.
+						- If the time and place should not have been stipulated, the payment must be made at the time and place of the delivery of the thing sold. (1500a)
+					- **ARTICLE 1583.**
+					  collapsed:: true
+						- Unless otherwise agreed, the buyer of goods is not bound to accept delivery thereof by installments.
+						- Where there is a contract of sale of goods to be delivered by stated installments, which are to be separately paid for, and the seller makes defective deliveries in respect of one or more installments, or the buyer neglects or refuses without just cause to take delivery of or pay for one or more installments, it depends in each case on the terms of the contract and the circumstances of the case, whether the breach of contract is so material as to justify the injured party in refusing to proceed further and suing for damages for breach of the entire contract, or whether the breach is severable, giving rise to a claim for compensation but not to a right to treat the whole contract as broken. (n)
+					- **ARTICLE 1584.**
+					  collapsed:: true
+						- Where goods are delivered to the buyer, which he has not previously examined, he is not deemed to have accepted them unless and until he has had a reasonable opportunity of examining them for the purpose of ascertaining whether they are in conformity with the contract, if there is no stipulation to the contrary.
+						- Unless otherwise agreed, when the seller tenders delivery of goods to the buyer, he is bound, on request, to afford the buyer a reasonable opportunity of examining the goods for the purpose of ascertaining whether they are in conformity with the contract.
+						- Where goods are delivered to a carrier by the seller, in accordance with an order from or agreement with the buyer, upon the terms that the goods shall not be delivered by the carrier to the buyer until he has paid the price, whether such terms are indicated by marking the goods with the words “collect on delivery,” or otherwise, the buyer is not entitled to examine the goods before the payment of the price, in the absence of agreement or usage of trade permitting such examination. (n)
+					- **ARTICLE 1585.**
+					  collapsed:: true
+						- The buyer is deemed to have accepted the goods when he intimates to the seller that he has accepted them, or when the goods have been delivered to him, and he does any act in relation to them which is inconsistent with the ownership of the seller, or when, after the lapse of a reasonable time, he retains the goods without intimating to the seller that he has rejected them. (n)
+					- **ARTICLE 1586.**
+					  collapsed:: true
+						- In the absence of express or implied agreement of the parties, acceptance of the goods by the buyer shall not discharge the seller from liability in damages or other legal remedy for breach of any promise or warranty in the contract of sale. But, if, after acceptance of the goods, the buyer fails to give notice to the seller of the breach in any promise of warranty within a reasonable time after the buyer knows, or ought to know of such breach, the seller shall not be liable therefor. (n)
+					- **ARTICLE 1587.**
+					  collapsed:: true
+						- Unless otherwise agreed, where goods are delivered to the buyer, and he refuses to accept them, having the right so to do, he is not bound to return them to the seller, but it is sufficient if he notifies the seller that he refuses to accept them. If he voluntarily constitutes himself a depositary thereof, he shall be liable as such. (n)
+					- **ARTICLE 1588.**
+					  collapsed:: true
+						- If there is no stipulation as specified in the first paragraph of [article 1523](((636277d8-32a2-46de-a2d6-98d8e771df10))), when the buyer’s refusal to accept the goods is without just cause, the title thereto passes to him from the moment they are placed at his disposal. (n)
+					- **ARTICLE 1589.**
+					  collapsed:: true
+						- The vendee shall owe interest for the period between the delivery of the thing and the payment of the price, in the following three cases:
+						  collapsed:: true
+							- (1) Should it have been so stipulated;
+							- (2) Should the thing sold and delivered produce fruits or income;
+							- (3) Should he be in default, from the time of judicial or extrajudicial demand for the payment of the price. (1501a)
+					- **ARTICLE 1590.**
+					  collapsed:: true
+						- Should the vendee be disturbed in the possession or ownership of the thing acquired, or should he have reasonable grounds to fear such disturbance, by a vindicatory action or a foreclosure of mortgage, he may suspend the payment of the price until the vendor has caused the disturbance or danger to cease, unless the latter gives security for the return of the price in a proper case, or it has been stipulated that, notwithstanding any such contingency, the vendee shall be bound to make the payment. A mere act of trespass shall not authorize the suspension of the payment of the price. (1502a)
+					- **ARTICLE 1591.**
+					  collapsed:: true
+						- Should the vendor have reasonable grounds to fear the loss of immovable property sold and its price, he may immediately sue for the rescission of the sale.
+						- Should such ground not exist, the provisions of [article 1191](((62e7ca78-a7ad-4bac-9052-89837572036a))) shall be observed. (1503)
+					- **ARTICLE 1592.**
+					  collapsed:: true
+						- In the sale of immovable property, even though it may have been stipulated that upon failure to pay the price at the time agreed upon the rescission of the contract shall of right take place, the vendee may pay, even after the expiration of the period, as long as no demand for rescission of the contract has been made upon him either judicially or by a notarial act. After the demand, the court may not grant him a new term. (1504a)
+					- **ARTICLE 1593.**
+					  collapsed:: true
+						- With respect to movable property, the rescission of the sale shall of right take place in the interest of the vendor, if the vendee, upon the expiration of the period fixed for the delivery of the thing, should not have appeared to receive it, or, having appeared, he should not have tendered the price at the same time, unless a longer period has been stipulated for its payment. (1505)
+				- # 🔴 CHAPTER 6 - ACTIONS FOR BREACH OF CONTRACT OF SALE OF GOODS
+				  collapsed:: true
+					- **ARTICLE 1594.**
+						- Actions for breach of the contract of sale of goods shall be governed particularly by the provisions of this Chapter, and as to matters not specifically provided for herein, by other applicable provisions of this Title. (n)
+					- **ARTICLE 1595.**
+						- Where, under a contract of sale, the ownership of the goods has passed to the buyer, and he wrongfully neglects or refuses to pay for the goods according to the terms of the contract of sale, the seller may maintain an action against him for the price of the goods.
+						- Where, under a contract of sale, the price is payable on a certain day, irrespective of delivery or of transfer of title, and the buyer wrongfully neglects or refuses to pay such price, the seller may maintain an action for the price, although the ownership in the goods has not passed.
+						- But it shall be a defense to such an action that the seller at any time before the judgment in such action has manifested an inability to perform the contract of sale on his part or an intention not to perform it.
+						- Although the ownership in the goods has not passed, if they cannot readily be resold for a reasonable price, and if the provisions of article 1596, [fourth paragraph](((63627b37-2113-4b4e-9244-2a61f27aa76d))), are not applicable, the seller may offer to deliver the goods to the buyer, and, if the buyer refuses to receive them, may notify the buyer that the goods are thereafter held by the seller as bailee for the buyer.
+						- Thereafter the seller may treat the goods as the buyer’s and may maintain an action for the price. (n)
+					- **ARTICLE 1596.**
+					  id:: 2e27f467-6136-4a94-be96-4dbd09440962
+						- Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against him for damages for nonacceptance.
+						- The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events, from the buyer’s breach of contract.
+						- Where there is an available market for the goods in question, the measure of damages is, in the absence of special circumstances showing proximate damage of a different amount, the difference between the contract price and the market or current price at the time or times when the goods ought to have been accepted, or, if no time was fixed for acceptance, then at the time of the refusal to accept.
+						- If, while labor or expense of material amount is necessary on the part of the seller to enable him to fulfill his obligations under the contract of sale, the buyer repudiates the contract or notifies the seller to proceed no further therewith, the buyer shall be liable to the seller for labor performed or expenses made before receiving notice of the buyer’s repudiation or countermand.
+						  id:: 63627b37-2113-4b4e-9244-2a61f27aa76d
+						- The profit the seller would have made if the contract or the sale had been fully performed shall be considered in awarding the damages. (n)
+						-
+					- **ARTICLE 1597.**
+						- Where the goods have not been delivered to the buyer, and the buyer has repudiated the contract of sale, or has manifested his inability to perform his obligations thereunder, or has committed a breach thereof, the seller may totally rescind the contract of sale by giving notice of his election so to do to the buyer. (n)
+					- **ARTICLE 1598.**
+						- Where the seller has broken a contract to deliver specific or ascertained goods, a court may, on the application of the buyer, direct that the contract shall be performed specifically, without giving the seller the option of retaining the goods on payment of damages.
+						- The judgment or decree may be unconditional, or upon such terms and conditions as to damages, payment of the price and otherwise, as the court may deem just. (n)
+					- **ARTICLE 1599.**
+						- Where there is a breach of warranty by the seller, the buyer may, at his election:
+							- (1) Accept or keep the goods and set up against the seller, the breach of warranty by way of recoupment in diminution or extinction of the price;
+							- (2) Accept or keep the goods and maintain an action against the seller for damages for the breach of warranty;
+							- (3) Refuse to accept the goods, and maintain an action against the seller for damages for the breach of warranty;
+							- (4) Rescind the contract of sale and refuse to receive the goods or if the goods have already been received, return them or offer to return them to the seller and recover the price or any part thereof which has been paid.
+								- When the buyer has claimed and been granted a remedy in anyone of these ways, no other remedy can thereafter be granted, without prejudice to the provisions of the [second paragraph of article 1191](((635f505e-e20c-48b4-a9d3-7f4c655c0a70))).
+								- Where the goods have been delivered to the buyer, he cannot rescind the sale if he knew of the breach of warranty when he accepted the goods without protest, or if he fails to notify the seller within a reasonable time of the election to rescind, or if he fails to return or to offer to return the goods to the seller in substantially as good condition as they were in at the time the ownership was transferred to the buyer.
+								- But if deterioration or injury of the goods is due to the breach or warranty, such deterioration or injury shall not prevent the buyer from returning or offering to return the goods to the seller and rescinding the sale.
+								- Where the buyer is entitled to rescind the sale and elects to do so, he shall cease to be liable for the price upon returning or offering to return the goods.
+								- If the price or any part thereof has already been paid, the seller shall be liable to repay so much thereof as has been paid, concurrently with the return of the goods, or immediately after an offer to return the goods in exchange for repayment of the price.
+								- Where the buyer is entitled to rescind the sale and elects to do so, if the seller refuses to accept an offer of the buyer to return the goods, the buyer shall thereafter be deemed to hold the goods as bailee for the seller, but subject to a lien to secure the payment of any portion of the price which has been paid, and with the remedies for the enforcement of such lien allowed to an unpaid seller by [article 1526](((636277d8-593c-4eaf-bf81-917149eead9b))).
+							- (5) In the case of breach of warranty of quality, such loss, in the absence of special circumstances showing proximate damage of a greater amount, is the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty. (n)
 - # 🔴 CHAPTER 7 - EXTINGUISHMENT OF SALE
   heading:: true
 	- **ARTICLE 1600.**
