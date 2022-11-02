@@ -10,4 +10,4 @@
 - #+BEGIN_NOTE
   _{This Github Page is a work in progress. Please bookmark so you can come back anytime and check out my latest post. Thank you!}
   #+END_NOTE
-- {{embed ((96f9c585-177e-4fe7-a253-797dc1dafe43))}}
+- ((96f9c585-177e-4fe7-a253-797dc1dafe43))
