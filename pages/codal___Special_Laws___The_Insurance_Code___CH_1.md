@@ -167,7 +167,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 	  id:: 631d7240-ca8e-46cb-a29c-e19dc107cefb
 		- The insurance proceeds shall be applied exclusively to the proper [[$red]]==interest== of the person in whose name or for whose benefit it is made [[#red]]==unless otherwise specified in the policy.==
 		- Commentaries:
-			- ((633d2e5b-fb01-432f-8018-411d3b596343))[^21]
+			- Pursuant thereto, it is obvious that the only persons entitled to claim the insurance proceeds are either the insured, if still alive; or the beneficiary, if the insured is already deceased, upon the maturation of the policy. 20 The exception to this rule is a situation where the insurance contract was intended to benefit third persons who are not parties to the same in the form of favorable stipulations or indemnity. In such a case, third parties may directly sue and claim from the insurer. [^21]
 				- [^21]: _{Coquila v. Fieldmen's Insurance Co., Inc., No. L-23276, November 29, 1968,26 SCRA 178, 181; Guingon v. Del Monte, No. L-22042, August 17, 1967, 20 SCRA 1043.}
 				- [^20]: _{Southern Luzon Employees' Ass. v. Golpeo, et al., 96 Phil. 83, 86 (1954), citing Del Val v. Del Val, 29 Phil. 534, 540-541 (1915).}
 	- **SECTION 54.**
