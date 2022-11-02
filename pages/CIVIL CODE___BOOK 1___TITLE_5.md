@@ -28,7 +28,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (6) If the suit concerns her paraphernal property;
 			- (7) When the action is upon the civil liability arising from a criminal offense;
 			- (8) If the litigation is incidental to the profession, occupation or business in which she is engaged;
-			- (9) In any civil action referred to in articles [25](((635bc737-3025-4e5f-a04b-db7575fa5613))) to [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 35|35]]; and
+			- (9) In any civil action referred to in articles [25](((635bc737-3025-4e5f-a04b-db7575fa5613))) to [35]; and
 			- (10) In an action upon a quasi-delict.
 		- In the cases mentioned in Nos. 7 to 10, the husband must be joined as a party defendant if the [third paragraph of article 163](((635f4487-0820-41af-8f78-6a26dee5f9cb))) is applicable. (n)
 	- **ARTICLE 114.**
