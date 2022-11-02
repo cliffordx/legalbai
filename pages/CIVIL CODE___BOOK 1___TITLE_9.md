@@ -72,7 +72,7 @@ status:: inactive, superseded
 	- The obligation to furnish support ceases upon the death of the obligor, even if he may be bound to give it in compliance with a final judgment. (150)
 - **ARTICLE 301.**
   collapsed:: true
-	- > Note: This is superseded by [[codal/Family Code of the Philippines/Title 8]] , Family Code of the Philippines.
+	- > Note: This is superseded by [[codal/Family Code of the Philippines/Title 8]], Family Code of the Philippines.
 	- The right to receive support cannot be renounced; nor can it be transmitted to a third person. Neither can it be compensated with what the recipient owes the obligor.
 	- However, support in arrears may be compensated and renounced, and the right to demand the same may be transmitted by onerous or gratuitous title. (151)
 	  id:: 635bc739-fe56-410b-88d9-d10d6b74c088
