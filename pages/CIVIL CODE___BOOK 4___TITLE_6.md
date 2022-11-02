@@ -857,5 +857,4 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (2) A person is insolvent within the meaning of this Title who either has ceased to pay his debts in the ordinary course of business or cannot pay his debts as they become due, whether insolvency proceedings have been commenced or not.
 			- (3) Goods are in a “deliverable state” within the meaning of this Title when they are in such a state that the buyer would, under the contract, be bound to take delivery of them. (n)
 	- **ARTICLE 1637.**
-	  collapsed:: true
 		- The provisions of this Title are subject to the rules laid down by the Mortgage Law and the Land Registration Law with regard to [[immovable property]]. (1537a)
