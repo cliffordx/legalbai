@@ -144,11 +144,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - # 🔴 CHAPTER 2 - CAPACITY TO BUY OR SELL
 	- **ARTICLE 1489.**
 		- All persons who are authorized in this Code to obligate themselves, may enter into a contract of sale, saving the modifications contained in the following articles.
-		- Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [article 290](((635bc739-c11b-4a1f-ae21-cef0d5fa8d8e))). (1457a)
+		- Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [article 290](((635bc739-c11b-4a1f-ae21-cef0d5fa8d8e))).[^1] (1457a)
 	- **ARTICLE 1490.**
 		- The husband and the wife cannot sell property to each other, except:
 			- (1) When a separation of property was agreed upon in the marriage settlements; or
-			- (2) When there has been a judicial separation of property under [article 191](((baad8e66-7b95-4327-95b9-264a2a5db339))).[^1] (1458a)
+			- (2) When there has been a judicial separation of property under [article 191](((baad8e66-7b95-4327-95b9-264a2a5db339))). (1458a)
 	- **ARTICLE 1491.**
 		- The following persons cannot acquire by purchase, even at a public or judicial auction, either in person or through the mediation of another:
 			- (1) The guardian, the property of the person or persons who may be under his guardianship;
