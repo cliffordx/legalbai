@@ -81,12 +81,14 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The charges shall be divided on the same basis by the two possessors.
 		- The owner of the thing may, should he so desire, give the possessor in good faith the right to finish the cultivation and gathering of the growing fruits, as an indemnity for his part of the expenses of cultivation and the net proceeds; the possessor in good faith who for any reason whatever should refuse to accept this concession, shall lose the right to be indemnified in any other manner. (452a)
 	- **ARTICLE 546.**
+	  id:: 635bc73a-fd21-4081-98a6-55e9530398cb
 		- Necessary expenses shall be refunded to every possessor; but only the possessor in good faith may retain the thing until he has been reimbursed therefor.
 		  id:: 62e7ad82-92fd-4272-90e0-31eded101f63
 		- Useful expenses shall be refunded only to the possessor in good faith with the same right of retention, the person who has defeated him in the possession having the option of refunding the amount of the expenses or of paying the increase in value which the thing may have acquired by reason thereof. (453a)
 	- **ARTICLE 547.**
 		- If the useful improvements can be removed without damage to the principal thing, the possessor in good faith may remove them, unless the person who recovers the possession exercises the option under paragraph 2 of the preceding article. (n)
 	- **ARTICLE 548.**
+	  id:: 635bc73a-fc36-45ce-9ad2-387c2095f4c5
 		- Expenses for pure luxury or mere pleasure shall not be refunded to the possessor in good faith; but he may remove the ornaments with which he has embellished the principal thing if it suffers no injury thereby, and if his successor in the possession does not prefer to refund the amount expended. (454)
 	- **ARTICLE 549.**
 		- The possessor in bad faith shall reimburse the fruits received and those which the legitimate possessor could have received, and shall have a right only to the expenses mentioned in [paragraph 1 of article 546](((62e7ad82-92fd-4272-90e0-31eded101f63))) and in [article 443](((ef49f59d-a4e8-4706-91f6-ae24145ad749))).
