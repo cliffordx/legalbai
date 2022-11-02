@@ -159,7 +159,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (6) Any others specially disqualified by law. (1459a)
 	- **ARTICLE 1492.**
 		- The prohibitions in the two preceding articles are applicable to sales in [[legal redemption]], compromises and renunciations. (n)
-			- [^1]: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 194]], Family Code of the Philippines.
+			- [^1]: This is superseded by [Article 194](((cf08893c-3a8c-4d28-ad56-757a94308e45))), Family Code of the Philippines.
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
 	- ## SECTION 1 - General Provisions
