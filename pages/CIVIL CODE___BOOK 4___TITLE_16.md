@@ -168,7 +168,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- He may demand the sale of only as many of the things as are necessary for the payment of the debt. (n)
 	- **ARTICLE 2120.**
 	  collapsed:: true
-		- If a third party secures an obligation by pledging his own movable property under the provisions of ((79b8da0a-777a-45b4-b76a-fc9347aceff8)) he shall have the same rights as a guarantor under [articles 2066 to 2070](((635bc74c-f531-4c95-b7f6-4ad8ebd5b9fd))), and articles 2077 to 2081. He is not prejudiced by any waiver of defense by the principal obligor. (n)
+		- If a third party secures an obligation by pledging his own movable property under the provisions of ((79b8da0a-777a-45b4-b76a-fc9347aceff8)) he shall have the same rights as a guarantor under [articles 2066 to 2070](((635bc74c-f531-4c95-b7f6-4ad8ebd5b9fd))), and articles [2077 to 2081](((631d71fa-8cb4-4853-8a9e-b5873665b0c3))). He is not prejudiced by any waiver of defense by the principal obligor. (n)
 	- **ARTICLE 2121.**
 	  collapsed:: true
 		- Pledges created by operation of law, such as those referred to in articles 546, 1731, and 1994, are governed by the foregoing articles on the possession, care and sale of the thing as well as on the termination of the pledge.
