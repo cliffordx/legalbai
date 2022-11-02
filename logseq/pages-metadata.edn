@@ -190,12 +190,12 @@
  {:block/name "635e04d9-6db2-46ab-b267-57f291e240b9",
   :block/created-at 1667187845844,
   :block/updated-at 1667187845844}
+ {:block/name "63610783-e8fa-47af-80d8-bd1ce0f6bcc4",
+  :block/created-at 1667375621135,
+  :block/updated-at 1667375621135}
  {:block/name "7e18747d-ffdf-45fc-9f9c-2b0572d37280",
   :block/created-at 1666878435715,
   :block/updated-at 1666878435715}
- {:block/name "96f9c585-177e-4fe7-a253-797dc1dafe43",
-  :block/created-at 1667303300973,
-  :block/updated-at 1667303300973}
  {:block/name "a",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -726,7 +726,7 @@
   :block/updated-at 1667374254755}
  {:block/name "codal/special_laws/the_insurance_code/ch_1",
   :block/created-at 1667374118971,
-  :block/updated-at 1667375236461}
+  :block/updated-at 1667375345775}
  {:block/name "codal/special_laws/the_insurance_code/ch_10",
   :block/created-at 1667374119475,
   :block/updated-at 1667374119475}
@@ -848,7 +848,7 @@
   :block/updated-at 1667374472445}
  {:block/name "contents",
   :block/created-at 1659873766464,
-  :block/updated-at 1667374556917}
+  :block/updated-at 1667375607502}
  {:block/name "contingency",
   :block/created-at 1666857331238,
   :block/updated-at 1666857331238}
@@ -1055,7 +1055,7 @@
   :block/updated-at 1666857317832}
  {:block/name "monday, oct 31st, 2022",
   :block/created-at 1667187845388,
-  :block/updated-at 1667303262879}
+  :block/updated-at 1667375621136}
  {:block/name "multiplicity of suits",
   :block/created-at 1666857322078,
   :block/updated-at 1666857322078}
