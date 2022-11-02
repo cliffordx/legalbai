@@ -108,6 +108,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The benefit of division against the co-guarantors ceases in the same cases and for the same reasons as the benefit of excussion against the principal debtor. (1837)
 	- ### SECTION 2 - Effects of Guaranty Between the Debtor and the Guarantor
 	  collapsed:: true
+	  id:: 635bc74c-f531-4c95-b7f6-4ad8ebd5b9fd
 		- **ARTICLE 2066.**
 		  collapsed:: true
 		  id:: 62f13785-965d-4bda-b516-c9ee8269f279
