@@ -144,7 +144,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In ejectment cases where an appeal is taken, the remedy granted in article 539, second paragraph, shall also apply, if the higher court is satisfied that the lessee’s appeal is frivolous or dilatory, or that the lessor’s appeal is prima facie meritorious. The period of ten days referred to in said article shall be counted from the time the appeal is perfected. (n)
 		- **ARTICLE 1675.**
 		  collapsed:: true
-			- Except in cases stated in [article 1673](((e81ee7ce-c4c9-4d72-84a0-1adb4027f559))), the lessee shall have a right to make use of the periods established in articles [1682](((636271ed-9ce7-42f6-a2ff-4aec5796fb6e))) and 1687. (1570)
+			- Except in cases stated in [article 1673](((e81ee7ce-c4c9-4d72-84a0-1adb4027f559))), the lessee shall have a right to make use of the periods established in articles [1682](((636271ed-9ce7-42f6-a2ff-4aec5796fb6e))) and [1687](((636271ed-d0e7-47cb-97ca-d00f5363ba0a))). (1570)
 		- **ARTICLE 1676.**
 		  collapsed:: true
 			- The purchaser of a piece of land which is under a lease that is not recorded in the Registry of Property may terminate the lease, save when there is a stipulation to the contrary in the contract of sale, or when the purchaser knows of the existence of the lease.
@@ -194,7 +194,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the rent is weekly, the courts may likewise determine a longer period after the lessee has been in possession for over six months.
 			- In case of daily rent, the courts may also fix a longer period after the lessee has stayed in the place for over one month. (1581a)
 		- **ARTICLE 1688.**
-		  collapsed:: true
 			- When the lessor of a house, or part thereof, used as a dwelling for a family, or when the lessor of a store, or industrial establishment, also leases the furniture, the lease of the latter shall be deemed to be for the duration of the lease of the premises. (1582)
 - 🔴 CHAPTER 3 - WORK AND LABOR
   heading:: true
