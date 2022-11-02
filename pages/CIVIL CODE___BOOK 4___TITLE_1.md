@@ -610,7 +610,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1287.**
 		  collapsed:: true
 			- Compensation shall not be proper when one of the debts arises from a depositum or from the obligations of a depositary or of a bailee in commodatum.
-			- Neither can compensation be set up against a creditor who has a claim for support due by gratuitous title, without prejudice to the provisions of paragraph 2 of article 301. (1200a)
+			- Neither can compensation be set up against a creditor who has a claim for support due by gratuitous title, without prejudice to the provisions of [paragraph 2 of article 301](((635bc739-fe56-410b-88d9-d10d6b74c088))). (1200a)
 		- **ARTICLE 1288.**
 		  collapsed:: true
 			- Neither shall there be compensation if one of the debts consists in civil liability arising from a penal offense. (n)
