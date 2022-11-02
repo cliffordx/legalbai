@@ -144,7 +144,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In ejectment cases where an appeal is taken, the remedy granted in article 539, second paragraph, shall also apply, if the higher court is satisfied that the lessee’s appeal is frivolous or dilatory, or that the lessor’s appeal is prima facie meritorious. The period of ten days referred to in said article shall be counted from the time the appeal is perfected. (n)
 		- **ARTICLE 1675.**
 		  collapsed:: true
-			- Except in cases stated in [article 1673](((e81ee7ce-c4c9-4d72-84a0-1adb4027f559))), the lessee shall have a right to make use of the periods established in articles 1682 and 1687. (1570)
+			- Except in cases stated in [article 1673](((e81ee7ce-c4c9-4d72-84a0-1adb4027f559))), the lessee shall have a right to make use of the periods established in articles [1682](((636271ed-9ce7-42f6-a2ff-4aec5796fb6e))) and 1687. (1570)
 		- **ARTICLE 1676.**
 		  collapsed:: true
 			- The purchaser of a piece of land which is under a lease that is not recorded in the Registry of Property may terminate the lease, save when there is a stipulation to the contrary in the contract of sale, or when the purchaser knows of the existence of the lease.
@@ -162,7 +162,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- If nothing has been stipulated concerning the place and the time for the payment of the lease, the provisions of article 1251 shall be observed as regards the place; and with respect to the time, the custom of the place shall be followed. (1574)
 	- ## SECTION 3 - Special Provisions for Leases of Rural Lands
-	  collapsed:: true
 		- **ARTICLE 1680.**
 		  collapsed:: true
 			- The lessee shall have no right to a reduction of the rent on account of the sterility of the land leased, or by reason of the loss of fruits due to ordinary fortuitous events; but he shall have such right in case of the loss of more than one-half of the fruits through extraordinary and unforeseen fortuitous events, save always when there is a specific stipulation to the contrary.
@@ -172,6 +171,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Neither does the lessee have any right to a reduction of the rent if the fruits are lost after they have been separated from their stalk, root or trunk. (1576)
 		- **ARTICLE 1682.**
 		  collapsed:: true
+		  id:: 636271ed-9ce7-42f6-a2ff-4aec5796fb6e
 			- The lease of a piece of rural land, when its duration has not been fixed, is understood to have been for all the time necessary for the gathering of the fruits which the whole estate leased may yield in one year, or which it may yield once, although two or more years may have to elapse for the purpose. (1577a)
 		- **ARTICLE 1683.**
 		  collapsed:: true
@@ -183,13 +183,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The tenant on shares cannot be ejected except in cases specified by law. (n)
 	- ## SECTION 4 - Special Provisions for the Lease of Urban Lands
-	  collapsed:: true
 		- **ARTICLE 1686.**
 		  collapsed:: true
 			- In default of a special stipulation, the custom of the place shall be observed with regard to the kind of repairs on urban property for which the lessor shall be liable.
 			- In case of doubt it is understood that the repairs are chargeable against him. (1580a)
 		- **ARTICLE 1687.**
-		  collapsed:: true
 			- If the period for the lease has not been fixed, it is understood to be from year to year, if the rent agreed upon is annual; from month to month, if it is monthly; from week to week, if the rent is weekly; and from day to day, if the rent is to be paid daily.
 			- However, even though a monthly rent is paid, and no period for the lease has been set, the courts may fix a longer term for the lease after the lessee has occupied the premises for over one year.
 			- If the rent is weekly, the courts may likewise determine a longer period after the lessee has been in possession for over six months.
