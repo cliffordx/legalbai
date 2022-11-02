@@ -128,6 +128,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When through an accident or other cause a person is injured or becomes seriously ill, and he is treated or helped while he is not in a condition to give consent to a contract, he shall be liable to pay for the services of the physician or other person aiding him, unless the service has been rendered out of pure generosity.
 		- **ARTICLE 2168.**
 		  collapsed:: true
+		  id:: 635bc74e-5221-47c9-845b-a34ed7ef8bd9
 			- When during a fire, flood, storm, or other calamity, property is saved from destruction by another person without the knowledge of the owner, the latter is bound to pay the former just compensation.
 		- **ARTICLE 2169.**
 		  collapsed:: true
