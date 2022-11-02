@@ -41,7 +41,7 @@ status:: active
 - **SECTION 12.**
 	- (1) Any person under investigation for the commission of an offense shall have the right to be informed of his right to remain silent and to have competent and independent counsel preferably of his own choice. If the person cannot afford the services of counsel, he must be provided with one. These rights cannot be waived except in writing and in the presence of counsel.
 	- (2) No torture, force, violence, threat, intimidation, or any other means which vitiate the free will shall be used against him. Secret detention places, solitary, incommunicado, or other similar forms of detention are prohibited.
-	- (3) Any confession or admission obtained in violation of this or [[#SECTION 17|Section 17]] hereof shall be inadmissible in evidence against him.
+	- (3) Any confession or admission obtained in violation of this or [Section 17](((635bc759-de6d-4d86-b05c-5e4c7c0e2bd5))) hereof shall be inadmissible in evidence against him.
 	- (4) The law shall provide for penal and civil sanctions for violations of this section as well as compensation to and rehabilitation of victims of torture or similar practices, and their families.
 - **SECTION 13.**
 	- All persons, except those charged with offenses punishable by *reclusion perpetua* when evidence of guilt is strong, shall, before conviction, be bailable by sufficient sureties, or be released on recognizance as may be provided by law. The [[right to bail]] shall not be impaired even when the privilege of the writ of habeas corpus is suspended. Excessive bail shall not be required.
