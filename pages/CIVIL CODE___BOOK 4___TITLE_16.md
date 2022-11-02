@@ -258,7 +258,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The contracting parties may stipulate that the interest upon the debt be compensated with the fruits of the property which is the object of the antichresis, provided that if the value of the fruits should exceed the amount of interest allowed by the laws against usury, the excess shall be applied to the principal. (1885a)
 	- **ARTICLE 2139.**
 	  collapsed:: true
-		- The last paragraph of article 2085, and articles 2089 to 2091 are applicable to this contract. (1886a)
+		- The last paragraph of [article 2085](((79b8da0a-777a-45b4-b76a-fc9347aceff8))), and articles 2089 to 2091 are applicable to this contract. (1886a)
 - 🔴 CHAPTER 5 - CHATTEL MORTGAGE
   heading:: true
   collapsed:: true
