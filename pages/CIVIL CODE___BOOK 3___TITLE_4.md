@@ -1004,6 +1004,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The remaining third shall be at the free disposal of the testator. (n)
 		- **ARTICLE 895.**
 		  collapsed:: true
+		  id:: 635f4489-d48f-4bd1-a10e-b20b786ea2c4
 			- The legitime of each of the acknowledged natural children and each of the natural children by legal fiction shall consist of one-half of the legitime of each of the legitimate children or descendants.
 			- The legitime of an illegitimate child who is neither an acknowledged natural, nor a natural child by legal fiction, shall be equal in every case to four-fifths of the legitime of an acknowledged natural child.
 			- The legitime of the illegitimate children shall be taken from the portion of the estate at the free disposal of the testator, provided that in no case shall the total legitime of such illegitimate children exceed that free portion, and that the legitime of the surviving spouse must first be fully satisfied. (840a)
@@ -1409,7 +1410,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The grandchildren and other descendants shall inherit by right of representation, and if any one of them should have died, leaving several heirs, the portion pertaining to him shall be divided among the latter in equal portions. (933)
 			- **ARTICLE 983.**
 			  collapsed:: true
-				- If illegitimate children survive with legitimate children, the shares of the former shall be in the proportions prescribed by article 895. (n)
+				- If illegitimate children survive with legitimate children, the shares of the former shall be in the proportions prescribed by [article 895](((635f4489-d48f-4bd1-a10e-b20b786ea2c4))). (n)
 			- **ARTICLE 984.**
 			  id:: 6337096d-cafe-4ee6-9ca0-9e55e45e2899
 			  collapsed:: true
