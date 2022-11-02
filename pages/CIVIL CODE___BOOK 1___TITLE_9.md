@@ -14,7 +14,7 @@ status:: inactive, superseded
 - **ARTICLE 290.**
   collapsed:: true
   id:: 635bc739-c11b-4a1f-ae21-cef0d5fa8d8e
-	- > Note: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 194]], Family Code of the Philippines.
+	- > Note: This is superseded by [Article 194](((cf08893c-3a8c-4d28-ad56-757a94308e45))), Family Code of the Philippines.
 	- Support is everything that is indispensable for sustenance, dwelling, clothing and medical attendance, according to the social position of the family.
 	- Support also includes the education of the person entitled to be supported until he completes his education or training for some profession, trade or vocation, even beyond the age of majority. (142a)
 - **ARTICLE 291.**
