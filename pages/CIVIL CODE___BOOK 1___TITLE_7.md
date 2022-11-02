@@ -182,7 +182,7 @@ collapsed:: true
 		- **ARTICLE 251.**
 		  collapsed:: true
 			- In case of insolvency of the person creating the family home, the claims specified in [article 243](((b70eb82d-04b8-4f38-a7ef-e629876e1277))) may be satisfied notwithstanding the insolvency proceedings.
-			- If the assignee has reasonable grounds to believe that the actual value of the family home exceeds the amount fixed in article 231, he may take action under the provisions of articles [247](((5a9ca5c6-a833-402b-b3f9-ba1e3550d055))), [248](((d5165bbb-96bb-4277-b334-9610a1f28099))) and [249](((c3be558d-70c8-4849-b684-65804634949e))).
+			- If the assignee has reasonable grounds to believe that the actual value of the family home exceeds the amount fixed in [article 231](((4c574b83-efae-4837-a7f9-aa3be97d2e31))), he may take action under the provisions of articles [247](((5a9ca5c6-a833-402b-b3f9-ba1e3550d055))), [248](((d5165bbb-96bb-4277-b334-9610a1f28099))) and [249](((c3be558d-70c8-4849-b684-65804634949e))).
 ## CHAPTER 3 - The Family Council (n)
 collapsed:: true
 	- **ARTICLE 252.**
