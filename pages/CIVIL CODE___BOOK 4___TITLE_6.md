@@ -798,6 +798,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The right of legal pre-emption or redemption shall not be exercised except within thirty days from the notice in writing by the prospective vendor, or by the vendor, as the case may be. The [[deed of sale]] shall not be recorded in the Registry of Property, unless accompanied by an affidavit of the vendor that he has given written notice thereof to all possible redemptioners.
 			- The right of redemption of co-owners excludes that of adjoining owners. (1524a)
 - # 🔴 CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHE INCORPOREAL RIGHTS
+  collapsed:: true
 	- **ARTICLE 1624.**
 	  id:: cf720ebf-c4f1-4bcd-aecd-a8e6cfee3454
 		- An assignment of credits and other incorporeal rights shall be perfected in accordance with the provisions of [article 1475](((63370973-f334-42c1-99f2-a8f5e50632f1))). (n)
@@ -844,3 +845,17 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (1) To a co-heir or co-owner of the right assigned;
 			- (2) To a creditor in payment of his credit;
 			- (3) To the possessor of a tenement or piece of land which is subject to the right in litigation assigned. (1536)
+- # 🔴 CHAPTER 9 - GENERAL PROVISIONS
+	- **ARTICLE 1636.**
+		- In the preceding articles in this Title governing the sale of goods, unless the context or subject matter otherwise requires:
+			- (1) “Document of title to goods” includes any bill of lading, dock warrant, “quedan,” or warehouse receipt or order for the delivery of goods, or any other document used in the ordinary course of business in the sale or transfer of goods, as proof of the possession or control of the goods, or authorizing or purporting to authorize the possessor of the document to transfer or receive, either by indorsement or by delivery, goods represented by such document.
+				- “Goods” includes all chattels personal but not things in action or money of legal tender in the Philippines. The term includes growing fruits or crops.
+				- “Order” relating to documents of title means an order by indorsement on the documents.
+				- “Quality of goods” includes their state or condition.
+				- “Specific goods” means goods identified and agreed upon at the time a contract of sale is made.
+				- An antecedent or pre-existing claim, whether for money or not, constitutes “value” where goods or documents of title are taken either in satisfaction thereof or as security therefor.
+			- (2) A person is insolvent within the meaning of this Title who either has ceased to pay his debts in the ordinary course of business or cannot pay his debts as they become due, whether insolvency proceedings have been commenced or not.
+			- (3) Goods are in a “deliverable state” within the meaning of this Title when they are in such a state that the buyer would, under the contract, be bound to take delivery of them. (n)
+	- **ARTICLE 1637.**
+	  collapsed:: true
+		- The provisions of this Title are subject to the rules laid down by the Mortgage Law and the Land Registration Law with regard to [[immovable property]]. (1537a)
