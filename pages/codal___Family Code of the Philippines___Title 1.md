@@ -144,15 +144,17 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), 36, 37 and 38. (17a)
 		- Where a marriage between a Filipino citizen and a foreigner is validly celebrated and a divorce is thereafter validly obtained abroad by the alien spouse capacitating him or her to remarry, the Filipino spouse shall have capacity to remarry under Philippine law. (As amended by Executive Order 227)
 - # 🔴 Chapter 2 - Marriages Exempted from License Requirement
-  collapsed:: true
 	- **ARTICLE 27.**
 	  collapsed:: true
+	  id:: 635bc77a-2534-4fe7-9495-a922c09e100d
 		- In case either or both of the contracting parties are at the point of death, the marriage may be solemnized without necessity of a marriage license and shall remain valid even if the ailing party subsequently survives. (72a)
 	- **ARTICLE 28.**
 	  collapsed:: true
+	  id:: 635bc77a-0d37-4858-bc2f-35810de4f012
 		- If the residence of either party is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar, the marriage may be solemnized without necessity of a marriage license. (72a)
 	- **ARTICLE 29.**
 	  collapsed:: true
+	  id:: 635bc77a-cd29-4a18-8325-74938af3f312
 		- In the cases provided for in the two preceding articles, the solemnizing officer shall state in an affidavit executed before the local civil registrar or any other person legally authorized to administer oaths that the marriage was performed in _articulo mortis_ or that the residence of either party, specifying the barrio or barangay, is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar and that the officer took the necessary steps to ascertain the ages and relationship of the contracting parties and the absence of legal impediment to the marriage. (72a)
 	- **ARTICLE 30.**
 	  collapsed:: true
@@ -171,7 +173,7 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least five years and without any legal impediment to marry each other.
 		- The contracting parties shall state the foregoing facts in an affidavit before any person authorized by law to administer oaths.
 		- The solemnizing officer shall also state under oath that he ascertained the qualifications of the contracting parties are found no legal impediment to the marriage. (76a)
-- [[🔴 Chapter 3 - Void and Voidable Marriages
+- # 🔴 Chapter 3 - Void and Voidable Marriages
   collapsed:: true
 	- **ARTICLE 35.**
 	  collapsed:: true
