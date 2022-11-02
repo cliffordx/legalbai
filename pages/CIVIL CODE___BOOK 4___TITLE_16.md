@@ -45,6 +45,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Any stipulation to the contrary is null and void. (1859a)
 	- **ARTICLE 2089.**
 	  collapsed:: true
+	  id:: 635bc74d-4936-4f44-aa0f-66d73e66b07e
 		- A pledge or mortgage is indivisible, even though the debt may be divided among the successors in interest of the debtor or of the creditor.
 		- Therefore, the debtor’s heir who has paid a part of the debt cannot ask for the proportionate extinguishment of the pledge or mortgage as long as the debt is not completely satisfied.
 		- Neither can the creditor’s heir who received his share of the debt return the pledge or cancel the mortgage, to the prejudice of the other heirs who have not been paid.
@@ -52,9 +53,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The debtor, in this case, shall have a right to the extinguishment of the pledge or mortgage as the portion of the debt for which each thing is specially answerable is satisfied. (1860)
 	- **ARTICLE 2090.**
 	  collapsed:: true
+	  id:: 635bc74d-21a6-4481-b19f-044cb1542561
 		- The indivisibility of a pledge or mortgage is not affected by the fact that the debtors are not solidarily liable. (n)
 	- **ARTICLE 2091.**
 	  collapsed:: true
+	  id:: 635bc74d-52e8-4455-9f97-255eec0db0cc
 		- The contract of pledge or mortgage may secure all kinds of obligations, be they pure or subject to a suspensive or resolutory condition. (1861)
 	- **ARTICLE 2092.**
 	  collapsed:: true
@@ -258,7 +261,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The contracting parties may stipulate that the interest upon the debt be compensated with the fruits of the property which is the object of the antichresis, provided that if the value of the fruits should exceed the amount of interest allowed by the laws against usury, the excess shall be applied to the principal. (1885a)
 	- **ARTICLE 2139.**
 	  collapsed:: true
-		- The last paragraph of [article 2085](((79b8da0a-777a-45b4-b76a-fc9347aceff8))), and articles 2089 to 2091 are applicable to this contract. (1886a)
+		- The last paragraph of [article 2085](((79b8da0a-777a-45b4-b76a-fc9347aceff8))), and articles [2089](((635bc74d-4936-4f44-aa0f-66d73e66b07e))) to [2091](((635bc74d-52e8-4455-9f97-255eec0db0cc))) are applicable to this contract. (1886a)
 - 🔴 CHAPTER 5 - CHATTEL MORTGAGE
   heading:: true
   collapsed:: true
