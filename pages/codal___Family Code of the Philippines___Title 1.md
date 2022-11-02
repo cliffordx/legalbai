@@ -158,6 +158,7 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- In the cases provided for in the two preceding articles, the solemnizing officer shall state in an affidavit executed before the local civil registrar or any other person legally authorized to administer oaths that the marriage was performed in _articulo mortis_ or that the residence of either party, specifying the barrio or barangay, is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar and that the officer took the necessary steps to ascertain the ages and relationship of the contracting parties and the absence of legal impediment to the marriage. (72a)
 	- **ARTICLE 30.**
 	  collapsed:: true
+	  id:: 635bc77a-bb93-481f-88dd-434204ff9422
 		- The original of the affidavit required in the last preceding article, together with the legible copy of the marriage contract, shall be sent by the person solemnizing the marriage to the local civil registrar of the municipality where it was performed within the period of thirty days after the performance of the marriage. (75a)
 	- **ARTICLE 31.**
 	  collapsed:: true
