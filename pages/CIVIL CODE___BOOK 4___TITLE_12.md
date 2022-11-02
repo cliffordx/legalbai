@@ -188,13 +188,14 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 631d71f9-739b-4644-bbd2-3f887501e809
 			- The responsibility referred to in the two preceding articles shall include the loss of, or injury to the personal property of the guests caused by the servants or employees of the keepers of hotels or inns as well as by strangers; but not that which may proceed from any *force majeure*. The fact that travellers are constrained to rely on the vigilance of the keeper of the hotel or inn shall be considered in determining the degree of care required of him. (1784a)
 		- **ARTICLE 2001.**
+		  id:: 635bc749-f24a-488f-8171-44beead66116
 			- The act of a thief or robber, who has entered the hotel is not deemed *force majeure*, unless it is done with the use of arms or through an irresistible force. (n)
 		- **ARTICLE 2002.**
 		  collapsed:: true
 			- The hotel-keeper is not liable for compensation if the loss is due to the acts of the guest, his family, servants or visitors, or if the loss arises from the character of the things brought into the hotel. (n)
 		- **ARTICLE 2003.**
 		  id:: 631d71f9-3820-48ff-af94-8807dca9a247
-			- The hotel-keeper cannot free himself from responsibility by posting notices to the effect that he is not liable for the articles brought by the guest. Any stipulation between the hotel-keeper and the guest whereby the responsibility of the former as set forth in articles [1998](((635bc749-5331-4637-a247-30647880f512))) to 2001 is suppressed or diminished shall be void. (n)
+			- The hotel-keeper cannot free himself from responsibility by posting notices to the effect that he is not liable for the articles brought by the guest. Any stipulation between the hotel-keeper and the guest whereby the responsibility of the former as set forth in articles [1998](((635bc749-5331-4637-a247-30647880f512))) to [2001](((635bc749-f24a-488f-8171-44beead66116))) is suppressed or diminished shall be void. (n)
 		- **ARTICLE 2004.**
 		  collapsed:: true
 			- The hotel-keeper has a right to retain the things brought into the hotel by the guest, as a security for credits on account of lodging, and supplies usually furnished to hotel guests. (n)
