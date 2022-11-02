@@ -326,4 +326,5 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 				- ~~[Screen Shot 2022-10-05 at 7.27.54 PM.png]~~
 		- ((633d39a4-7dc8-4077-ace5-574e5bd11288))
 			- **[19:32]**  discussed
-			- ~~[Screen Shot 2022-10-05 at 7.33.14 PM.png]~~
+			- ~~[Screen Shot 2022-10-05 at 7.33.14 PM.png]~~[^1]
+			- [^1]: [[Welcome page]]
