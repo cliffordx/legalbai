@@ -462,7 +462,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 						- The text on a coin.
 						- Words written in the front of a book as a dedication.
 	- ## SECTION 3 - Conditions and Warranties
-	  collapsed:: true
 		- **ARTICLE 1545.**
 		  collapsed:: true
 			- Where the obligation of either party to a contract of sale is subject to any condition which is not performed, such party may refuse to proceed with the contract or he may waive performance of the condition.
