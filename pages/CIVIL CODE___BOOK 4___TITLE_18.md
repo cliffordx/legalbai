@@ -116,7 +116,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (6) Illegal search;
 				- (7) Libel, slander or any other form of defamation;
 				- (8) Malicious prosecution;
-				- (9) Acts mentioned in [article 309]();
+				- (9) Acts mentioned in [article 309](((635bc737-fcc9-4a2e-b98f-ebd6acac152d)));
 				  id:: 62f9cfd1-d081-43db-8589-a107c0d9d88d
 				- (10) Acts and actions referred to in articles [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 21|21]], [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 26|26]], [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 27|27]], [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 28|28]], [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 29|29]], [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 30|30]], [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 32|32]], [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 34|34]], and [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 35|35]].
 				- The parents of the female seduced, abducted, raped, or abused, referred to in [No. 3](((62f9cfc2-0de4-4efe-b8c1-2abba83a25a6))) of this article, may also recover moral damages.
