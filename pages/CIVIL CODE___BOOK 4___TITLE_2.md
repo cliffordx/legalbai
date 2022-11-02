@@ -236,7 +236,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (2) The cession, repudiation or renunciation of hereditary rights or of those of the conjugal partnership of gains;
 			- (3) The power to administer property, or any other power which has for its object an act appearing or which should appear in a public document, or should prejudice a third person;
 			- (4) The cession of actions or rights proceeding from an act appearing in a public document.
-		- All other contracts where the amount involved exceeds five hundred pesos must appear in writing, even a private one. But sales of goods, chattels or things in action are governed by articles  1403, No. 2, and 1405. (1280a)
+		- All other contracts where the amount involved exceeds **five hundred pesos** must appear in writing, even a private one. But sales of goods, chattels or things in action are governed by articles  1403, No. 2, and 1405. (1280a)
 - ## 🔴 CHAPTER 4 - Reformation of Instruments
   collapsed:: true
 	- **ARTICLE 1359.**
