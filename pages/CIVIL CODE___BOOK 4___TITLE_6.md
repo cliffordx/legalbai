@@ -615,6 +615,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1581.**
 			  collapsed:: true
 				- The form of sale of large cattle shall be governed by special laws. (n)
+- # 🔴 CHAPTER 5 - OBLIGATIONS OF THE VENDEE
 - # 🔴 CHAPTER 7 - EXTINGUISHMENT OF SALE
   heading:: true
 	- **ARTICLE 1600.**
