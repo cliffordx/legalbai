@@ -373,7 +373,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 63007580-14c3-4bbb-8a30-3cdce7e2c1d6
 	  collapsed:: true
 		- ### SUBSECTION 1- General Provisions
-		  collapsed:: true
 			- **ARTICLE 1732.**
 			  collapsed:: true
 				- Common carriers are persons, corporations, firms or associations engaged in the business of carrying or transporting passengers or goods or both, by land, water, or air, for compensation, offering their services to the public.
@@ -383,14 +382,12 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- Common carriers, from the nature of their business and for reasons of public policy, are bound to observe extraordinary diligence in the vigilance over the goods and for the safety of the passengers transported by them, according to all the circumstances of each case.
 				- Such extraordinary diligence in the vigilance over the goods is further expressed in articles [1734](((5fe71abe-5b29-4409-9f8f-e5bf435d15d5))), [1735](((6811a026-b34b-4eb1-948a-174e521d8313))), and 1745, Nos. [5](((631d71fe-01c4-45ee-b407-0322d49b868c))), [6](((631d71fe-1e17-43eb-8e40-6e95a5ee3ddd))), and [7](((631d71fe-9a98-42fe-900b-357b9083a7c0))), while the extraordinary diligence for the safety of the passengers is further set forth in articles [1755](((1a2fc100-9b9d-4c4f-8387-cda2225eebbf))) and [1756](((4e6ac37f-7443-4af5-a414-7331b8f045fd))).
 		- ### SUBSECTION 2 - Vigilance Over Goods
-		  collapsed:: true
 			- **ARTICLE 1734.**
 			  id:: 5fe71abe-5b29-4409-9f8f-e5bf435d15d5
-			  collapsed:: true
 				- Common carriers are responsible for the loss, destruction, or deterioration of the goods, unless the same is due to any of the following causes only:
-				  collapsed:: true
 					- (1) Flood, storm, earthquake, lightning, or other natural disaster or calamity;
 					- (2) Act of the public enemy in war, whether international or civil;
+					  id:: 635bc758-9673-4e2a-9253-5bd8cbe870f8
 					- (3) Act or omission of the shipper or owner of the goods;
 					- (4) The character of the goods or defects in the packing or in the containers;
 					- (5) Order or act of competent public authority.
@@ -413,7 +410,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			  collapsed:: true
 				- In order that the common carrier may be exempted from responsibility, the natural disaster must have been the proximate and only cause of the loss.
 				- However, the common carrier must exercise due diligence to prevent or minimize loss before, during and after the occurrence of flood, storm or other natural disaster in order that the common carrier may be exempted from liability for the loss, destruction, or deterioration of the goods.
-				- The same duty is incumbent upon the common carrier in case of an act of the public enemy referred to in article 1734, No. 2.
+				- The same duty is incumbent upon the common carrier in case of an act of the public enemy referred to in article [1734, No. 2](((635bc758-9673-4e2a-9253-5bd8cbe870f8))).
 			- **ARTICLE 1740.**
 			  collapsed:: true
 				- If the common carrier negligently incurs in delay in transporting the goods, a natural disaster shall not free such carrier from responsibility.
@@ -511,7 +508,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			  collapsed:: true
 				- A common carrier is responsible for injuries suffered by a passenger on account of the wilful acts or negligence of other passengers or of strangers, if the common carrier’s employees through the exercise of the diligence of a good father of a family could have prevented or stopped the act or omission.
 		- ### SUBSECTION 4 - Common Provisions
-		  collapsed:: true
 			- **ARTICLE 1764.**
 			  collapsed:: true
 				- Damages in cases comprised in this Section shall be awarded in accordance with Title XVIII of this Book, concerning Damages. Article 2206 shall also apply to the death of a passenger caused by the breach of contract by a common carrier.
