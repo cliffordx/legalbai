@@ -363,7 +363,7 @@
   :block/updated-at 1666924092604}
  {:block/name "civil code/book 1/title_15",
   :block/created-at 1666857311196,
-  :block/updated-at 1666857311196}
+  :block/updated-at 1667393156536}
  {:block/name "civil code/book 1/title_16",
   :block/created-at 1666857311265,
   :block/updated-at 1666857311265}
@@ -384,7 +384,7 @@
   :block/updated-at 1666874097355}
  {:block/name "civil code/book 1/title_7",
   :block/created-at 1666857312935,
-  :block/updated-at 1666857948051}
+  :block/updated-at 1667393270192}
  {:block/name "civil code/book 1/title_8",
   :block/created-at 1666857313151,
   :block/updated-at 1666857313151}
@@ -811,7 +811,7 @@
   :block/updated-at 1667392497003}
  {:block/name "consti_1987_annotated/article iv (4)",
   :block/created-at 1666878432284,
-  :block/updated-at 1666878432284}
+  :block/updated-at 1667392690572}
  {:block/name "consti_1987_annotated/article ix (9)",
   :block/created-at 1666878432496,
   :block/updated-at 1666878432496}
@@ -823,7 +823,7 @@
   :block/updated-at 1666878432924}
  {:block/name "consti_1987_annotated/article vii (7)",
   :block/created-at 1666878433275,
-  :block/updated-at 1666878433275}
+  :block/updated-at 1667392775305}
  {:block/name "consti_1987_annotated/article viii (8)",
   :block/created-at 1666878433594,
   :block/updated-at 1666878433594}

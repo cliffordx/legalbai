@@ -101,6 +101,7 @@ status:: active
 		- Parental authority is suspended upon conviction of the parent or the person exercising the same of a crime which carries with it the penalty of civil interdiction.
 		- The authority is automatically reinstated upon service of the penalty or upon pardon or amnesty of the offender. (330a)
 	- **ARTICLE 231.**
+	  id:: 635bc785-f1f8-4899-85d0-3176198a8079
 		- The court in an action filed for the purpose in a related case may also suspend parental authority if the parent or the person exercising the same:
 			- (1) Treats the child with excessive harshness or cruelty;
 			- (2) Gives the child corrupting orders, counsel or example;

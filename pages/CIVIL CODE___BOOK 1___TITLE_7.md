@@ -161,7 +161,7 @@ collapsed:: true
 			- Upon the death of the person who has extrajudicially constituted the family home, the property shall not be liable for his debts other than those mentioned in [article 243](((b70eb82d-04b8-4f38-a7ef-e629876e1277))). However, he may provide in his will that the family home shall be subject to payment of debts not specified in article 243.
 		- **ARTICLE 246.**
 		  collapsed:: true
-			- No declaration for the extrajudicial establishment of the family home shall be recorded in the Registry of Property if the estimated actual value of the building and the land exceeds the amount stated in article 231.
+			- No declaration for the extrajudicial establishment of the family home shall be recorded in the Registry of Property if the estimated actual value of the building and the land exceeds the amount stated in [article 231](((635bc785-f1f8-4899-85d0-3176198a8079))).
 		- **ARTICLE 247.**
 		  id:: 5a9ca5c6-a833-402b-b3f9-ba1e3550d055
 		  collapsed:: true
