@@ -433,9 +433,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			  id:: 8442d552-5f3f-47b5-9ce4-9082e4c184ed
 				- In the cases of articles [1561](((f607dbfd-7cc8-4679-b572-5a7338b87c86))), [1562](((dedb23d8-419d-412c-a48e-f6448bc1112c))), [1564](((55d7e2ec-a2bb-45ad-ad7d-f9cfc2a87a6f))), [1565](((4a04796c-4ebc-4c5d-bcac-737c778d97bd))) and [1566](((1badb80c-aad0-4d59-9647-1fd1ae478d5e))), the vendee may elect between withdrawing from the contract and demanding a proportionate reduction of the price, with damages in either case. (1486a)
 			- **ARTICLE 1568.**
+			  collapsed:: true
 				- If the thing sold should be lost in consequence of the hidden faults, and the vendor was aware of them, he shall bear the loss, and shall be obliged to return the price and refund the expenses of the contract, with damages.
 				- If he was not aware of them, he shall only return the price and interest thereon, and reimburse the expenses of the contract which the vendee might have paid. (1487a)
 			- **ARTICLE 1569.**
+			  collapsed:: true
 				- If the thing sold had any hidden fault at the time of the sale, and should thereafter be lost by a fortuitous event or through the fault of the vendee, the latter may demand of the vendor the price which he paid, less the value which the thing had when it was lost.
 				- If the vendor acted in bad faith, he shall pay damages to the vendee. (1488a)
 			- **ARTICLE 1570.**
@@ -443,6 +445,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1571.**
 				- Actions arising from the provisions of the preceding ten articles shall be barred after six months, from the delivery of the thing sold. (1490)
 			- **ARTICLE 1572.**
+			  collapsed:: true
 				- If two or more animals are sold together, whether for a lump sum or for a separate price for each of them, the redhibitory defect of one shall only give rise to its redhibition, and not that of the others; unless it should appear that the vendee would not have purchased the sound animal or animals without the defective one.
 				- The latter case shall be presumed when a team, yoke pair, or set is bought, even if a separate price has been fixed for each one of the animals composing the same. (1491)
 			- **ARTICLE 1573.**
@@ -467,6 +470,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 1581.**
 				- The form of sale of large cattle shall be governed by special laws. (n)
 - # 🔴 CHAPTER 5 - OBLIGATIONS OF THE VENDEE
+  collapsed:: true
 	- **ARTICLE 1582.**
 		- The vendee is bound to accept delivery and to pay the price of the thing sold at the time and place stipulated in the contract.
 		- If the time and place should not have been stipulated, the payment must be made at the time and place of the delivery of the thing sold. (1500a)
@@ -503,6 +507,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1594.**
 		- Actions for breach of the contract of sale of goods shall be governed particularly by the provisions of this Chapter, and as to matters not specifically provided for herein, by other applicable provisions of this Title. (n)
 	- **ARTICLE 1595.**
+	  collapsed:: true
 		- Where, under a contract of sale, the ownership of the goods has passed to the buyer, and he wrongfully neglects or refuses to pay for the goods according to the terms of the contract of sale, the seller may maintain an action against him for the price of the goods.
 		- Where, under a contract of sale, the price is payable on a certain day, irrespective of delivery or of transfer of title, and the buyer wrongfully neglects or refuses to pay such price, the seller may maintain an action for the price, although the ownership in the goods has not passed.
 		- But it shall be a defense to such an action that the seller at any time before the judgment in such action has manifested an inability to perform the contract of sale on his part or an intention not to perform it.
@@ -510,6 +515,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Thereafter the seller may treat the goods as the buyer’s and may maintain an action for the price. (n)
 	- **ARTICLE 1596.**
 	  id:: 2e27f467-6136-4a94-be96-4dbd09440962
+	  collapsed:: true
 		- Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against him for damages for nonacceptance.
 		- The measure of damages is the estimated loss directly and naturally resulting in the ordinary course of events, from the buyer’s breach of contract.
 		- Where there is an available market for the goods in question, the measure of damages is, in the absence of special circumstances showing proximate damage of a different amount, the difference between the contract price and the market or current price at the time or times when the goods ought to have been accepted, or, if no time was fixed for acceptance, then at the time of the refusal to accept.
@@ -523,6 +529,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Where the seller has broken a contract to deliver specific or ascertained goods, a court may, on the application of the buyer, direct that the contract shall be performed specifically, without giving the seller the option of retaining the goods on payment of damages.
 		- The judgment or decree may be unconditional, or upon such terms and conditions as to damages, payment of the price and otherwise, as the court may deem just. (n)
 	- **ARTICLE 1599.**
+	  collapsed:: true
 		- Where there is a breach of warranty by the seller, the buyer may, at his election:
 			- (1) Accept or keep the goods and set up against the seller, the breach of warranty by way of recoupment in diminution or extinction of the price;
 			- (2) Accept or keep the goods and maintain an action against the seller for damages for the breach of warranty;
@@ -540,6 +547,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1600.**
 		- Sales are extinguished by the same causes as all other obligations, by those stated in the preceding articles of this Title, and by conventional or legal redemption. (1506)
 	- ## **SECTION 1** - Conventional Redemption
+	  collapsed:: true
 		- **ARTICLE 1601.**
 		  id:: ad1c5d2b-2f2c-400c-8afb-2f6bdecaef73
 			- Conventional redemption shall take place when the vendor reserves the right to repurchase the thing sold, with the obligation to comply with the provisions of article 1616 and other stipulations which may have been agreed upon. (1507)
@@ -598,6 +606,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1618.**
 			- The vendor who recovers the thing sold shall receive it free from all charges or mortgages constituted by the vendee, but he shall respect the leases which the latter may have executed in good faith, and in accordance with the custom of the place where the land is situated. (1520)
 	- ## **SECTION 2** - Legal Redemption
+	  collapsed:: true
 		- **ARTICLE 1619.**
 			- Legal redemption is the right to be subrogated, upon the same terms and conditions stipulated in the contract, in the place of one who acquires a thing by purchase or dation in payment, or by any other transaction whereby ownership is transmitted by onerous title. (1521a)
 		- **ARTICLE 1620.**
@@ -617,15 +626,18 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - # 🔴 CHAPTER 8 - ASSIGNMENT OF CREDITS AND OTHE INCORPOREAL RIGHTS
 	- **ARTICLE 1624.**
 	  id:: cf720ebf-c4f1-4bcd-aecd-a8e6cfee3454
+	  collapsed:: true
 		- An assignment of credits and other incorporeal rights shall be perfected in accordance with the provisions of [article 1475](((63370973-f334-42c1-99f2-a8f5e50632f1))). (n)
 	- **ARTICLE 1625.**
 	  id:: 73dc6c53-6572-48b4-9894-d6b68b845d3c
+	  collapsed:: true
 		- An assignment of a credit, right or action shall produce no effect as against third persons, unless it appears in a public instrument, or the instrument is recorded in the Registry of Property in case the assignment involves real property. (1526)
 	- **ARTICLE 1626.**
 		- The debtor who, before having knowledge of the assignment, pays his creditor shall be released from the obligation. (1527)
 	- **ARTICLE 1627.**
 		- The assignment of a credit includes all the accessory rights, such as a guaranty, mortgage, pledge or preference. (1528)
 	- **ARTICLE 1628.**
+	  collapsed:: true
 		- The vendor in good faith shall be responsible for the existence and legality of the credit at the time of the sale, unless it should have been sold as doubtful; but not for the solvency of the debtor, unless it has been so expressly stipulated or unless the insolvency was prior to the sale and of common knowledge.
 		- Even in these cases he shall only be liable for the price received and for the expenses specified in [No. 1 of article 1616](((63370973-5324-4ef1-9a89-b47c73f927c2))).
 		- The vendor in bad faith shall always be answerable for the payment of all expenses, and for damages. (1529)
@@ -639,6 +651,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1632.**
 		- Should the vendor have profited by some of the fruits or received anything from the inheritance sold, he shall pay the vendee thereof, if the contrary has not been stipulated. (1533)
 	- **ARTICLE 1633.**
+	  collapsed:: true
 		- The vendee shall, on his part, reimburse the vendor for all that the latter may have paid for the debts of and charges on the estate and satisfy the credits he may have against the same, unless there is an agreement to the contrary. (1534)
 	- **ARTICLE 1634.**
 		- When a credit or other incorporeal right in litigation is sold, the debtor shall have a right to extinguish it by reimbursing the assignee for the price the latter paid therefor, the judicial costs incurred by him, and the interest on the price from the day on which the same was paid.
@@ -661,4 +674,5 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (2) A person is insolvent within the meaning of this Title who either has ceased to pay his debts in the ordinary course of business or cannot pay his debts as they become due, whether insolvency proceedings have been commenced or not.
 			- (3) Goods are in a “deliverable state” within the meaning of this Title when they are in such a state that the buyer would, under the contract, be bound to take delivery of them. (n)
 	- **ARTICLE 1637.**
+	  collapsed:: true
 		- The provisions of this Title are subject to the rules laid down by the Mortgage Law and the Land Registration Law with regard to [[immovable property]]. (1537a)
