@@ -71,7 +71,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- Upon the filing of the record on appeal for approval and if no objection is filed by the appellee within five (5) days from receipt of a copy thereof, the trial court may approve it as presented or upon its own motion or at the instance of the appellee, may direct its amendment by the inclusion of any omitted matters which are deemed essential to the determination of the issue of law or fact involved in the appeal.
 	- If the trial court orders the amendment of the record, the appellant, within the time limited in the order, or such extension thereof as may be granted, or if no time is fixed by the order within ten (10) days from receipt thereof, shall redraft the record by including therein, in their proper chronological sequence, such additional matters as the court may have directed him to incorporate, and shall thereupon submit the redrafted record for approval, upon notice to the appellee, in like manner as the original draft. (7a)
 - **SECTION 8.** Joint record on appeal.
-	- Where both parties are appellants, they may file a joint record on appeal within the time fixed by [Section 3](((b7a5ce98-2a9c-4d50-a97b-fde9f87d17f8) of this Rule, or that fixed by the court. (8a)
+	- Where both parties are appellants, they may file a joint record on appeal within the time fixed by [Section 3](((b7a5ce98-2a9c-4d50-a97b-fde9f87d17f8))) of this Rule, or that fixed by the court. (8a)
 - **SECTION 9**. Perfection of appeal; effect thereof.
   id:: d2bab0df-9b5b-480b-a55f-fe6528dc0f23
 	- A party's appeal by notice of appeal is deemed perfected as to him upon the filing of the notice of appeal in due time.
@@ -84,7 +84,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- > #NOTE/codal/civpro/R41/9
 		- 100%
 	- In appeals by record on appeal, the court loses jurisdiction only over the subject matter thereof upon the approval of the records on appeal filed in due time and the expiration of the time to appeal of the other parties.
-	- In either case, prior to the transmittal of the original record or the record on appeal, **the court may issue orders for the protection and preservation of the rights of the parties** which do not involve any matter litigated by the appeal, approve compromises, permit appeals of indigent litigants, order execution pending appeal in accordance with [Section 2](((62bbdbd6-6b85-4061-a680-f89285f19f50) of Rule 39, and allow withdrawal of the appeal. (9a)
+	- In either case, prior to the transmittal of the original record or the record on appeal, **the court may issue orders for the protection and preservation of the rights of the parties** which do not involve any matter litigated by the appeal, approve compromises, permit appeals of indigent litigants, order execution pending appeal in accordance with [Section 2](((62bbdbd6-6b85-4061-a680-f89285f19f50))) of Rule 39, and allow withdrawal of the appeal. (9a)
 		- > #NOTE/codal/civpro/R41/9
 		- [[Residual jurisdiction]]. Dismissal of an Appeal
 - **SECTION 10.** Duty of clerk of court of the lower court upon perfection of appeal.
