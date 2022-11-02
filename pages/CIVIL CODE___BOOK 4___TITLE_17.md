@@ -141,7 +141,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The rights and obligations of the finder of lost personal property shall be governed by articles [719](((635bc73e-abbc-48ed-8bef-1544665aacdf))) and [720](((635bc73e-69f7-417a-91fd-fb3b82f44311))).
 		- **ARTICLE 2172.**
 		  collapsed:: true
-			- The right of every possessor in good faith to reimbursement for necessary and useful expenses is governed by article 546.
+			- The right of every possessor in good faith to reimbursement for necessary and useful expenses is governed by [article 546](((635bc73a-fd21-4081-98a6-55e9530398cb))).
 		- **ARTICLE 2173.**
 		  collapsed:: true
 			- When a third person, without the knowledge of the debtor, pays the debt, the rights of the former are governed by articles [1236](((e4672540-3dcf-4f7c-9c3c-784b5f3212e8))) and [1237](((06c5c1ca-d6b6-473f-9140-7c6fcde53c6f))).
