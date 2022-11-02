@@ -202,6 +202,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Whenever in an obligation a period is designated, it is presumed to have been established for the benefit of both the creditor and the debtor, unless from the tenor of the same or other circumstances it should appear that the period has been established in favor of one or of the other. (1127)
 		- **ARTICLE 1197.**
 		  collapsed:: true
+		  id:: 635bc746-e1f8-4c23-90db-9430a0c2e760
 			- If the obligation does not fix a period, but from its nature and the circumstances it can be inferred that a period was intended, the courts may fix the duration thereof.
 			- The courts shall also fix the duration of the period when it depends upon the will of the debtor.
 			- In every case, the courts shall determine such period as may under the circumstances have been probably contemplated by the parties.
