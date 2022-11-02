@@ -178,6 +178,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 62e7ca78-a7ad-4bac-9052-89837572036a
 			- The power to rescind obligations is implied in reciprocal ones, in case one of the obligors should not comply with what is incumbent upon him.
 			- The injured party may choose between the fulfillment and the rescission of the obligation, with the payment of damages in either case. He may also seek rescission, even after he has chosen fulfillment, if the latter should become impossible.
+			  id:: 636280c9-ea8d-48f2-b59e-867a194d6706
 			- The court shall decree the rescission claimed, unless there be just cause authorizing the fixing of a period.
 			- This is understood to be without prejudice to the rights of third persons who have acquired the thing, in accordance with articles [1385](((62e7ca7d-307e-4a5f-8abd-2ea2275a642e))) and [1388](((62e7ca7d-d91d-469f-8dcd-7ef8e3e3b161))) and the Mortgage Law. (1124)
 		- **ARTICLE 1192.**
