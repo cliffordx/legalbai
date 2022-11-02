@@ -30,7 +30,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   collapsed:: true
 	- He who by chance discovers hidden treasure in another’s property shall have the right granted him in article 438 of this Code. (614)
 - **ARTICLE 719.**
-  collapsed:: true
+  id:: 635bc73e-abbc-48ed-8bef-1544665aacdf
 	- Whoever finds a movable, which is not treasure, must return it to its previous possessor.
 	- If the latter is unknown, the finder shall immediately deposit it with the mayor of the city or municipality where the finding has taken place.
 	- The finding shall be publicly announced by the mayor for two consecutive weeks in the way he deems best.
