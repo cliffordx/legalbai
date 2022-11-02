@@ -43,9 +43,6 @@
  {:block/name "08 - title viii - support#article 195",
   :block/created-at 1666857313373,
   :block/updated-at 1666857313373}
- {:block/name "08 - title viii - support#article 205",
-  :block/created-at 1666857313377,
-  :block/updated-at 1666857313377}
  {:block/name
   "08 - title viii* - paternity and filiation#article 287|article 287",
   :block/created-at 1666857310872,
@@ -347,7 +344,7 @@
   :block/updated-at 1666857310005}
  {:block/name "civil code/book 1/title_1",
   :block/created-at 1666853378113,
-  :block/updated-at 1666857865173}
+  :block/updated-at 1667394628439}
  {:block/name "civil code/book 1/title_10",
   :block/created-at 1666857310419,
   :block/updated-at 1666857310419}
@@ -386,13 +383,13 @@
   :block/updated-at 1666874097355}
  {:block/name "civil code/book 1/title_7",
   :block/created-at 1666857312935,
-  :block/updated-at 1667394045403}
+  :block/updated-at 1667394694076}
  {:block/name "civil code/book 1/title_8",
   :block/created-at 1666857313151,
   :block/updated-at 1666857313151}
  {:block/name "civil code/book 1/title_9",
   :block/created-at 1666857313388,
-  :block/updated-at 1666857313388}
+  :block/updated-at 1667394877602}
  {:block/name "civil code/book 2",
   :block/created-at 1666857313522,
   :block/updated-at 1666857313522}
@@ -446,7 +443,7 @@
   :block/updated-at 1666857317994}
  {:block/name "civil code/book 4/title_1",
   :block/created-at 1666857321525,
-  :block/updated-at 1667394165456}
+  :block/updated-at 1667394821387}
  {:block/name "civil code/book 4/title_10",
   :block/created-at 1666857321545,
   :block/updated-at 1666857321545}
@@ -455,7 +452,7 @@
   :block/updated-at 1666857321547}
  {:block/name "civil code/book 4/title_12",
   :block/created-at 1666857321547,
-  :block/updated-at 1667394287281}
+  :block/updated-at 1667394969114}
  {:block/name "civil code/book 4/title_13",
   :block/created-at 1666857321533,
   :block/updated-at 1666857321533}
@@ -464,7 +461,7 @@
   :block/updated-at 1666857325783}
  {:block/name "civil code/book 4/title_15",
   :block/created-at 1666857321548,
-  :block/updated-at 1667380636428}
+  :block/updated-at 1667395056772}
  {:block/name "civil code/book 4/title_16",
   :block/created-at 1666857321550,
   :block/updated-at 1666857321550}
@@ -497,7 +494,7 @@
   :block/updated-at 1666857321537}
  {:block/name "civil code/book 4/title_8",
   :block/created-at 1666857321538,
-  :block/updated-at 1666857321538}
+  :block/updated-at 1667394542160}
  {:block/name "civil code/book 4/title_9",
   :block/created-at 1666857321544,
   :block/updated-at 1666857321544}

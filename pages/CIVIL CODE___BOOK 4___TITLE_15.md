@@ -26,7 +26,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2050.**
 	  collapsed:: true
 	  id:: 62f13785-0ef4-44e8-9cb8-2cd4397ad9a3
-		- If a guaranty is entered into without the knowledge or consent, or against the will of the principal debtor, the provisions of articles [1236](((e4672540-3dcf-4f7c-9c3c-784b5f3212e8))) and 1237 shall apply. (n)
+		- If a guaranty is entered into without the knowledge or consent, or against the will of the principal debtor, the provisions of articles [1236](((e4672540-3dcf-4f7c-9c3c-784b5f3212e8))) and [1237](((06c5c1ca-d6b6-473f-9140-7c6fcde53c6f))) shall apply. (n)
 			- COMMENTARY:
 			- if the contract is entered into
 				- principal debtor but:
