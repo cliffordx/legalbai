@@ -142,34 +142,32 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The expropriation of property for public use is governed by special laws. (1456)
 - # 🔴 CHAPTER 2 - CAPACITY TO BUY OR SELL
-- ARTICLE 1489.
-	- All persons who are authorized in this Code to obligate themselves, may enter into a contract of sale, saving the modifications contained in the following articles.
+	- ARTICLE 1489.
+		- All persons who are authorized in this Code to obligate themselves, may enter into a contract of sale, saving the modifications contained in the following articles.
+		- Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [[09 - TITLE IX* - SUPPORT#ARTICLE 290|article 290]].[^1] (1457a)
+	- ARTICLE 1490.
+		- The husband and the wife cannot sell property to each other, except:
+		  (1) When a separation of property was agreed upon in the marriage settlements; or 
+		  
+		  (2) When there has been a judicial separation of property under [[07 - TITLE VII - ADOPTION#ARTICLE 191|article 191]]. (1458a)
+	- ARTICLE 1491. 
+	  The following persons cannot acquire by purchase, even at a public or judicial auction, either in person or through the mediation of another:
 	  
-	  Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [[09 - TITLE IX* - SUPPORT#ARTICLE 290|article 290]].[^1] (1457a)
-- ARTICLE 1490. 
-  The husband and the wife cannot sell property to each other, except:
-  
-  (1) When a separation of property was agreed upon in the marriage settlements; or 
-  
-  (2) When there has been a judicial separation of property under [[07 - TITLE VII - ADOPTION#ARTICLE 191|article 191]]. (1458a)
-- ARTICLE 1491. 
-  The following persons cannot acquire by purchase, even at a public or judicial auction, either in person or through the mediation of another:
-  
-  (1) The guardian, the property of the person or persons who may be under his guardianship;
-  
-  (2) Agents, the property whose administration or sale may have been intrusted to them, unless the consent of the principal has been given;
-  
-  (3) Executors and administrators, the property of the estate under administration;
-  
-  (4) Public officers and employees, the property of the State or of any subdivision thereof, or of any government-owned or controlled corporation, or institution, the administration of which has been intrusted to them; this provision shall apply to judges and government experts who, in any manner whatsoever, take part in the sale;
-  
-  (5) Justices, judges, prosecuting attorneys, clerks of superior and inferior courts, and other officers and employees connected with the administration of justice, the property and rights in litigation or levied upon an execution before the court within whose jurisdiction or territory they exercise their respective functions; this prohibition includes the act of acquiring by assignment and shall apply to lawyers, with respect to the property and rights which may be the object of any litigation in which they may take part by virtue of their profession;
-  
-  (6) Any others specially disqualified by law. (1459a)
-- ARTICLE 1492. 
-  The prohibitions in the two preceding articles are applicable to sales in [[legal redemption]], compromises and renunciations. (n)
-  
-  [^1]: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 194]], Family Code of the Philippines.
+	  (1) The guardian, the property of the person or persons who may be under his guardianship;
+	  
+	  (2) Agents, the property whose administration or sale may have been intrusted to them, unless the consent of the principal has been given;
+	  
+	  (3) Executors and administrators, the property of the estate under administration;
+	  
+	  (4) Public officers and employees, the property of the State or of any subdivision thereof, or of any government-owned or controlled corporation, or institution, the administration of which has been intrusted to them; this provision shall apply to judges and government experts who, in any manner whatsoever, take part in the sale;
+	  
+	  (5) Justices, judges, prosecuting attorneys, clerks of superior and inferior courts, and other officers and employees connected with the administration of justice, the property and rights in litigation or levied upon an execution before the court within whose jurisdiction or territory they exercise their respective functions; this prohibition includes the act of acquiring by assignment and shall apply to lawyers, with respect to the property and rights which may be the object of any litigation in which they may take part by virtue of their profession;
+	  
+	  (6) Any others specially disqualified by law. (1459a)
+	- ARTICLE 1492. 
+	  The prohibitions in the two preceding articles are applicable to sales in [[legal redemption]], compromises and renunciations. (n)
+	  
+	  [^1]: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 194]], Family Code of the Philippines.
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
 	- ## SECTION 1 - General Provisions
