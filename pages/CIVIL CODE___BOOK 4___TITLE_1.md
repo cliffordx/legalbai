@@ -123,7 +123,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Every obligation which contains a resolutory condition shall also be demandable, without prejudice to the effects of the happening of the event. (1113)
 		- **ARTICLE 1180.**
 		  collapsed:: true
-			- When the debtor binds himself to pay when his means permit him to do so, the obligation shall be deemed to be one with a period, subject to the provisions of article 1197. (n)
+			- When the debtor binds himself to pay when his means permit him to do so, the obligation shall be deemed to be one with a period, subject to the provisions of [article 1197](((635bc746-e1f8-4c23-90db-9430a0c2e760))). (n)
 		- **ARTICLE 1181.**
 		  id:: 6302fb31-e2be-40dd-9b7f-58a1b4eedcfe
 			- In conditional obligations, the acquisition of rights, as well as the extinguishment or loss of those already acquired, shall depend upon the happening of the event which constitutes the condition. (1114)
