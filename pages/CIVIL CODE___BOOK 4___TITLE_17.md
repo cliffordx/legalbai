@@ -138,7 +138,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When by accident or other fortuitous event, movables separately pertaining to two or more persons are commingled or confused, the rules on co-ownership shall be applicable.
 		- **ARTICLE 2171.**
 		  collapsed:: true
-			- The rights and obligations of the finder of lost personal property shall be governed by articles [719](((635bc73e-abbc-48ed-8bef-1544665aacdf))) and 720.
+			- The rights and obligations of the finder of lost personal property shall be governed by articles [719](((635bc73e-abbc-48ed-8bef-1544665aacdf))) and [720](((635bc73e-69f7-417a-91fd-fb3b82f44311))).
 		- **ARTICLE 2172.**
 		  collapsed:: true
 			- The right of every possessor in good faith to reimbursement for necessary and useful expenses is governed by article 546.
