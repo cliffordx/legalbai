@@ -177,7 +177,6 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- The contracting parties shall state the foregoing facts in an affidavit before any person authorized by law to administer oaths.
 		- The solemnizing officer shall also state under oath that he ascertained the qualifications of the contracting parties are found no legal impediment to the marriage. (76a)
 - # 🔴 Chapter 3 - Void and Voidable Marriages
-  collapsed:: true
 	- **ARTICLE 35.**
 	  collapsed:: true
 	  id:: 634fbac1-10d8-4f72-b424-7f07d9901fc7

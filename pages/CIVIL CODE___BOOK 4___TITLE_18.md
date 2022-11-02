@@ -118,7 +118,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (8) Malicious prosecution;
 				- (9) Acts mentioned in [article 309](((635bc737-fcc9-4a2e-b98f-ebd6acac152d)));
 				  id:: 62f9cfd1-d081-43db-8589-a107c0d9d88d
-				- (10) Acts and actions referred to in articles [21](((635bc77a-febd-4f3b-af7a-4a548ad63fab))), [26](((635bc77a-37d0-4296-b881-71e070b55dbf))), [27](((635bc77a-2534-4fe7-9495-a922c09e100d))), [28](((635bc77a-0d37-4858-bc2f-35810de4f012))), [29](((635bc77a-cd29-4a18-8325-74938af3f312))), [30](((635bc77a-bb93-481f-88dd-434204ff9422))), [32](((635bc77a-e254-4d88-b45d-582624bf6516))), [34](((635bc77a-ce5f-4847-8ef5-5dc0c6c1dbc8))), and [35].
+				- (10) Acts and actions referred to in articles [21](((635bc77a-febd-4f3b-af7a-4a548ad63fab))), [26](((635bc77a-37d0-4296-b881-71e070b55dbf))), [27](((635bc77a-2534-4fe7-9495-a922c09e100d))), [28](((635bc77a-0d37-4858-bc2f-35810de4f012))), [29](((635bc77a-cd29-4a18-8325-74938af3f312))), [30](((635bc77a-bb93-481f-88dd-434204ff9422))), [32](((635bc77a-e254-4d88-b45d-582624bf6516))), [34](((635bc77a-ce5f-4847-8ef5-5dc0c6c1dbc8))), and [35](((634fbac1-10d8-4f72-b424-7f07d9901fc7))).
 				- The parents of the female seduced, abducted, raped, or abused, referred to in [No. 3](((62f9cfc2-0de4-4efe-b8c1-2abba83a25a6))) of this article, may also recover moral damages.
 				- The spouse, descendants, ascendants, and brothers and sisters may bring the action mentioned in [No. 9](((62f9cfd1-d081-43db-8589-a107c0d9d88d))) of this article, in the order named.
 		- **ARTICLE 2220.**
