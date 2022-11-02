@@ -8,7 +8,6 @@ status:: active
 # TITLE VIII - SUPPORT
 - **ARTICLE 194.**
   id:: cf08893c-3a8c-4d28-ad56-757a94308e45
-  collapsed:: true
 	- Support comprises everything indispensable for sustenance, dwelling, clothing, medical attendance, education and transportation, in keeping with the financial capacity of the family.
 	- The education of the person entitled to be supported referred to in the preceding paragraph shall include his schooling or training for some profession, trade or vocation, even beyond the age of majority.
 	- Transportation shall include expenses in going to and from school, or to and from place of work. (290a)
@@ -54,7 +53,6 @@ status:: active
   collapsed:: true
 	- Support in the cases referred to in the preceding article shall be reduced or increased proportionately, according to the reduction or increase of the necessities of the recipient and the resources or means of the person obliged to furnish the same. (297a)
 - **ARTICLE 203.**
-  collapsed:: true
   id:: 631d723e-a060-4904-812e-b304b08280c8
 	- The obligation to give support shall be demandable from the time the person who has a right to receive the same needs it for maintenance, but it shall not be paid except from the date of judicial or extra-judicial demand.
 	- Support pendente lite may be claimed in accordance with the Rules of Court.
@@ -80,8 +78,6 @@ status:: active
 	- In case of contractual support or that given by will, the excess in amount beyond that required for legal support shall be subject to levy on attachment or execution.
 	- Furthermore, contractual support shall be subject to adjustment whenever modification is necessary due to changes of circumstances manifestly beyond the contemplation of the parties. (n)
 - [[Comments]]
-  collapsed:: true
 	- [[Sunday, 25th September 2022]]
-	  collapsed:: true
 		- ((631d723e-7a6f-4f78-8584-7f5a7ec29f9f))
 			- ((632fb7bf-6638-471b-a8b8-62818e0f591b))
