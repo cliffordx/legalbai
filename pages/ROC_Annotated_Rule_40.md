@@ -31,13 +31,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The appeal is taken by filing a notice of appeal with the court that rendered the judgment or final order appealed from.
 		- The notice of appeal shall indicate the parties to the appeal, the judgment or final order or part thereof appealed from, and state the material dates showing the timeliness of the appeal.
 		- A record on appeal shall be required only in special proceedings and in other cases of multiple or separate appeals.
-		- The form and contents of the record on appeal shall be as provided in [Section 6](((932b32d5-18eb-4bdc-9aba-981cc3f5b1c3), Rule 41.
+		- The form and contents of the record on appeal shall be as provided in [Section 6](((932b32d5-18eb-4bdc-9aba-981cc3f5b1c3))), Rule 41.
 		- Copies of the notice of appeal, and the record on appeal where required, shall be served on the adverse party. (n)
 		- #NOTE/codal/civpro/R40/3
 		- ((62c98986-f158-44c8-b884-382a51a8ffad))  contents of the notice of appeal are the same as those required in the Regional Trial Court.
 	- **SECTION 4.** Perfection of appeal; effect thereof .
 	  collapsed:: true
-		- The perfection of the appeal and the effect thereof shall be governed by the provisions of [Section 9](((d2bab0df-9b5b-480b-a55f-fe6528dc0f23), Rule 41. (n)
+		- The perfection of the appeal and the effect thereof shall be governed by the provisions of [Section 9](((d2bab0df-9b5b-480b-a55f-fe6528dc0f23))), Rule 41. (n)
 	- **SECTION 5.** Appellate court docket and other lawful fees.
 	  collapsed:: true
 		- Within the period for taking an appeal, the appellant shall pay to the clerk of the court which rendered the judgment or final order appealed from the full amount of the appellate court docket and other lawful fees.
