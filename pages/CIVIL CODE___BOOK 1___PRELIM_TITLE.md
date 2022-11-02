@@ -185,6 +185,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The civil action herein recognized shall be independent of any criminal proceedings, and a preponderance of evidence shall suffice to support such action.
 	- **ARTICLE 35.**
 	  collapsed:: true
+	  id:: 635bc737-7455-48b0-b1d7-fcdaadc2658b
 		- When a person, claiming to be injured by a criminal offense, charges another with the same, for which no independent civil action is granted in this Code or any special law, but the justice of the peace finds no reasonable grounds to believe that a crime has been committed, or the prosecuting attorney refuses or fails to institute criminal proceedings, the complainant may bring a civil action for damages against the alleged offender.
 		- Such civil action may be supported by a preponderance of evidence. Upon the defendant’s motion, the court may require the plaintiff to file a bond to indemnify the defendant in case the complaint should be found to be malicious.
 		- If during the pendency of the civil action, an information should be presented by the prosecuting attorney, the civil action shall be suspended until the termination of the criminal proceedings.
