@@ -146,7 +146,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- All persons who are authorized in this Code to obligate themselves, may enter into a contract of sale, saving the modifications contained in the following articles.
 		- Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [article 290](((635bc739-c11b-4a1f-ae21-cef0d5fa8d8e))).[^1] (1457a)
 	- **ARTICLE 1490.**
-	  collapsed:: true
 		- The husband and the wife cannot sell property to each other, except:
 		  collapsed:: true
 			- (1) When a separation of property was agreed upon in the marriage settlements; or
