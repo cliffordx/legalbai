@@ -356,6 +356,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 						- The text on a coin.
 						- Words written in the front of a book as a dedication.
 	- ## SECTION 3 - Conditions and Warranties
+	  collapsed:: true
 		- **ARTICLE 1545.**
 			- Where the obligation of either party to a contract of sale is subject to any condition which is not performed, such party may refuse to proceed with the contract or he may waive performance of the condition.
 			- If the other party has promised that the condition should happen or be performed, such first mentioned party may also treat the nonperformance of the condition as a breach of warranty.
@@ -369,6 +370,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) An implied warranty that the thing shall be free from any hidden faults or defects, or any charge or encumbrance not declared or known to the buyer.
 			- This article shall not, however, be held to render liable a sheriff, auctioneer, mortgagee, pledgee, or other person professing to sell by virtue of authority in fact or law, for the sale of a thing in which a third person has a legal or equitable interest. (n)
 		- ### SUBSECTION 1 - Warranty in Case of Eviction
+		  collapsed:: true
 			- **ARTICLE 1548.**
 				- Eviction shall take place whenever by a final judgment based on a right prior to the sale or an act imputable to the vendor, the vendee is deprived of the whole or of a part of the thing purchased.
 				- The vendor shall answer for the eviction even though nothing has been said in the contract on the subject.
