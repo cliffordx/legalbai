@@ -232,7 +232,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1358.**
 	  collapsed:: true
 		- The following must appear in a public document:
-			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over immovable property; sales of real property or of an interest therein are governed by articles [1403, No. 2], and 1405;
+			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over immovable property; sales of real property or of an interest therein are governed by articles [1403, No. 2](((8d494334-0a4c-4800-a3e5-6879921647bc))), and [1405](((635bc751-192b-4801-8b28-002413054f9d)));
 			- (2) The cession, repudiation or renunciation of hereditary rights or of those of the conjugal partnership of gains;
 			- (3) The power to administer property, or any other power which has for its object an act appearing or which should appear in a public document, or should prejudice a third person;
 			- (4) The cession of actions or rights proceeding from an act appearing in a public document.
@@ -437,7 +437,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- Unauthorized contracts are governed by ((9952ac75-a0c7-4ad5-8229-9496e664e3a2)) and the principles of agency in Title X of this Book.
 	- **ARTICLE 1405.**
-	  collapsed:: true
+	  id:: 635bc751-192b-4801-8b28-002413054f9d
 		- Contracts infringing the Statute of Frauds, referred to in [No. 2 of article 1403](logseq://graph/OBSIDIAN?block-id=8d494334-0a4c-4800-a3e5-6879921647bc), are ratified by the failure to object to the presentation of oral evidence to prove the same, or by the acceptance of benefits under them.
 	- **ARTICLE 1406.**
 	  collapsed:: true
