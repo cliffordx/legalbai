@@ -78,6 +78,7 @@ status:: inactive, superseded
 	- However, support in arrears may be compensated and renounced, and the right to demand the same may be transmitted by onerous or gratuitous title. (151)
 - **ARTICLE 302.**
   collapsed:: true
+  id:: 635bc739-bea4-49b0-881c-64f4ef69f5d8
 	- Neither the right to receive legal support nor any money or property obtained as such support or any pension or gratuity from the government is subject to attachment or execution. (n)
 - **ARTICLE 303.**
   collapsed:: true

@@ -155,7 +155,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2261.**
 	  collapsed:: true
 	  id:: 635bc750-5ea2-4f03-aeee-8cf55fdc88a9
-		- The exemption prescribed in article 302 shall also be applicable to any support, pension or gratuity already existing or granted before this Code becomes effective. (n)
+		- The exemption prescribed in [article 302](((635bc739-bea4-49b0-881c-64f4ef69f5d8))) shall also be applicable to any support, pension or gratuity already existing or granted before this Code becomes effective. (n)
 	- **ARTICLE 2262.**
 	  collapsed:: true
 		- Guardians of the property of minors, appointed by the courts before this Code goes into effect, shall continue to act as such, notwithstanding the provisions of article 320. (n)
