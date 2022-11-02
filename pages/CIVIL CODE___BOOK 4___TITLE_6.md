@@ -540,9 +540,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The vendor shall be responsible for warranty against the hidden defects which the thing sold may have, should they render it unfit for the use for which it is intended, or should they diminish its fitness for such use to such an extent that, had the vendee been aware thereof, he would not have acquired it or would have given a lower price for it; but said vendor shall not be answerable for patent defects or those which may be visible, or for those which are not visible if the vendee is an expert who, by reason of his trade or profession, should have known them. (1484a)
 			- **ARTICLE 1562.**
 			  id:: dedb23d8-419d-412c-a48e-f6448bc1112c
-			  collapsed:: true
 				- In a sale of goods, there is an implied warranty or condition as to the quality or fitness of the goods, as follows:
-				  collapsed:: true
 					- (1) Where the buyer, expressly or by implication, makes known to the seller the particular purpose for which the goods are acquired, and it appears that the buyer relies on the seller’s skill or judgment (whether he be the grower or manufacturer or not), there is an implied warranty that the goods shall be reasonably fit for such purpose;
 					- (2) Where the goods are brought by description from a seller who deals in goods of that description (whether he be the grower or manufacturer or not), there is an implied warranty that the goods shall be of merchantable quality. (n)
 			- **ARTICLE 1563.**
@@ -550,7 +548,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- In the case of contract of sale of a specified article under its patent or other trade name, there is no warranty as to its fitness for any particular purpose, unless there is a stipulation to the contrary. (n)
 			- **ARTICLE 1564.**
 			  id:: 55d7e2ec-a2bb-45ad-ad7d-f9cfc2a87a6f
-			  collapsed:: true
 				- An implied warranty or condition as to the quality or fitness for a particular purpose may be annexed by the usage of trade. (n)
 			- **ARTICLE 1565.**
 			  id:: 4a04796c-4ebc-4c5d-bcac-737c778d97bd
