@@ -146,9 +146,7 @@ collapsed:: true
 			- The recording in the Registry of Property of the declaration referred to in the two preceding articles is the operative act which creates the family home.
 		- **ARTICLE 243.**
 		  id:: b70eb82d-04b8-4f38-a7ef-e629876e1277
-		  collapsed:: true
 			- The family home extrajudicially formed shall be exempt from execution, forced sale or attachment, except:
-			  collapsed:: true
 				- (1) For nonpayment of taxes;
 				- (2) For debts incurred before the declaration was recorded in the Registry of Property;
 				- (3) For debts secured by mortgages on the premises before or after such record of the declaration;
@@ -157,7 +155,6 @@ collapsed:: true
 		  collapsed:: true
 			- The provisions of articles [226 to 228](((efe28a8d-01c3-4bd3-a05b-f38eaecad6c7))) and [235](((50eba367-25ca-4b77-8a65-6f8a0c71e60d))) to [238](((eacfbbe3-9a51-449b-9b6f-ddd8c8e86b60))) are likewise applicable to family homes extrajudicially established.
 		- **ARTICLE 245.**
-		  collapsed:: true
 			- Upon the death of the person who has extrajudicially constituted the family home, the property shall not be liable for his debts other than those mentioned in [article 243](((b70eb82d-04b8-4f38-a7ef-e629876e1277))). However, he may provide in his will that the family home shall be subject to payment of debts not specified in article 243.
 		- **ARTICLE 246.**
 		  collapsed:: true
