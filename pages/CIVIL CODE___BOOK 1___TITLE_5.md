@@ -23,7 +23,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The husband is the administrator of the conjugal property, unless there is a stipulation in the marriage settlements conferring the administration upon the wife.
 		- She may also administer the conjugal partnership in other cases specified in this Code. (n)
 	- **ARTICLE 113.**
-	  collapsed:: true
 		- The husband must be joined in all suits by or against the wife, except:
 		  collapsed:: true
 			- (1) When they are judicially separated;
@@ -38,7 +37,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (10) In an action upon a quasi-delict.
 		- In the cases mentioned in Nos. 7 to 10, the husband must be joined as a party defendant if the third paragraph of article 163 is applicable. (n)
 	- **ARTICLE 114.**
-	  collapsed:: true
 		- The wife cannot, without the husband’s consent, acquire any property by gratuitous title, except from her ascendants, descendants, parents-in-law, and collateral relatives within the fourth degree. (n)
 	- **ARTICLE 115.**
 	  collapsed:: true
