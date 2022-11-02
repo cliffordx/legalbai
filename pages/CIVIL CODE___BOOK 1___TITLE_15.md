@@ -54,4 +54,4 @@ collapsed:: true
 		- The concession shall be recorded in the Civil Register. (323a)
 	- **ARTICLE 406.**
 	  collapsed:: true
-		- The provisions of article 399 are applicable to an orphan who has been emancipated according to [article 404](((98e472ad-c039-4b84-9751-283f6b43f1cd))). The court will give the necessary approval with respect to the contracts mentioned in [article 399](((6d6dbcd7-2c36-4ccb-b4a1-7f522fc4c184))). In litigations, a guardian *ad litem* for the minor shall be appointed by the court. (324a)
+		- The provisions of [article 399](((6d6dbcd7-2c36-4ccb-b4a1-7f522fc4c184))) are applicable to an orphan who has been emancipated according to [article 404](((98e472ad-c039-4b84-9751-283f6b43f1cd))). The court will give the necessary approval with respect to the contracts mentioned in [article 399](((6d6dbcd7-2c36-4ccb-b4a1-7f522fc4c184))). In litigations, a guardian *ad litem* for the minor shall be appointed by the court. (324a)
