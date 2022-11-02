@@ -210,6 +210,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The payment of debts contracted by the husband or the wife before the marriage shall not be charged to the conjugal partnership.
 			- Neither shall the fines and pecuniary indemnities imposed upon them be charged to the partnership.
 			- However, the payment of debts contracted by the husband or the wife before the marriage, and that of fines and indemnities imposed upon them, may be enforced against the partnership assets after the responsibilities enumerated in [article 161](((01aae607-6597-4cda-a028-45d98a7eb8ad))) have been covered, if the spouse who is bound should have no exclusive property or if it should be insufficient; but at the time of the liquidation of the partnership such spouse shall be charged for what has been paid for the purposes above-mentioned. (1410)
+			  id:: 635f4487-0820-41af-8f78-6a26dee5f9cb
 		- **ARTICLE 164.**
 		  collapsed:: true
 			- Whatever may be lost during the marriage in any kind of gambling, betting or game, whether permitted or prohibited by law, shall be borne by the loser, and shall not be charged to the conjugal partnership. (1411a)
