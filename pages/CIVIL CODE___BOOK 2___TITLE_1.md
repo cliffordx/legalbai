@@ -23,7 +23,7 @@ sys-category:: [[36]]
 	  id:: 260d7798-fc45-48b3-8969-73e168d2f5e7
 	  collapsed:: true
 		- The following are [[immovable property]] :
-			- (1) [Land](((62e79dfa-1233-4718-a10d-4c67ec1d5242))), [[buildings]], roads and [constructions of all kinds](((62cc5a88-8444-499d-a5cf-4fefdb149309))) [adhered to the soil](((62cc5a89-2198-4562-9d96-a848147217a3)));
+			- (1) [Land], [[buildings]], roads and constructions of all kinds adhered to the soil;
 			- (2) Trees, plants, and growing fruits, while they are attached to the land or form an integral part of an immovable;
 			- (3) Everything attached to an immovable in a fixed manner, in such a way that it cannot be separated therefrom without breaking the material or deterioration of the object;
 			  id:: ab2d4c7f-c1a7-448f-9731-1d65b952b120
