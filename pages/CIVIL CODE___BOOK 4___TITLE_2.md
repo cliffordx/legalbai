@@ -232,7 +232,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1358.**
 	  collapsed:: true
 		- The following must appear in a public document:
-			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over immovable property; sales of real property or of an interest therein are governed by articles 1403, No. 2, and 1405;
+			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over immovable property; sales of real property or of an interest therein are governed by articles [1403, No. 2], and 1405;
 			- (2) The cession, repudiation or renunciation of hereditary rights or of those of the conjugal partnership of gains;
 			- (3) The power to administer property, or any other power which has for its object an act appearing or which should appear in a public document, or should prejudice a third person;
 			- (4) The cession of actions or rights proceeding from an act appearing in a public document.
@@ -419,12 +419,10 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1403.**
 	  collapsed:: true
 		- The following contracts are unenforceable, unless they are ratified:
-		  collapsed:: true
 			- (1) Those entered into in the name of another person by one who has been given no authority or legal representation, or who has acted beyond his powers;
 			  id:: a89bccfe-4648-4084-84da-4fc192115383
 			- (2) Those that do not comply with the [[Statute of Frauds]] as set forth in this number.
 			  id:: 8d494334-0a4c-4800-a3e5-6879921647bc
-			  collapsed:: true
 				- In the following cases an agreement hereafter made shall be unenforceable by action, unless the same, or some note or memorandum, thereof, be in writing, and subscribed by the party charged, or by his agent; evidence, therefore, of the agreement cannot be received without the writing, or a secondary evidence of its contents:
 				  collapsed:: true
 					- (a) An agreement that by its terms is not to be performed within a year from the making thereof;
