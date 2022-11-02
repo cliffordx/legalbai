@@ -154,6 +154,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The depositor shall reimburse the depositary for any loss arising from the character of the thing deposited, unless at the time of the constitution of the deposit the former was not aware of, or was not expected to know the dangerous character of the thing, or unless he notified the depositary of the same, or the latter was aware of it without advice from the depositor. (n)
 		- **ARTICLE 1994.**
 		  collapsed:: true
+		  id:: 635bc749-1258-4226-96e0-3dc5599af11a
 			- The depositary may retain the thing in pledge until the full payment of what may be due him by reason of the deposit. (1780)
 		- **ARTICLE 1995.**
 		  collapsed:: true
