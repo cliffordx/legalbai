@@ -188,6 +188,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In default of a special stipulation, the custom of the place shall be observed with regard to the kind of repairs on urban property for which the lessor shall be liable.
 			- In case of doubt it is understood that the repairs are chargeable against him. (1580a)
 		- **ARTICLE 1687.**
+		  id:: 636271ed-d0e7-47cb-97ca-d00f5363ba0a
 			- If the period for the lease has not been fixed, it is understood to be from year to year, if the rent agreed upon is annual; from month to month, if it is monthly; from week to week, if the rent is weekly; and from day to day, if the rent is to be paid daily.
 			- However, even though a monthly rent is paid, and no period for the lease has been set, the courts may fix a longer term for the lease after the lessee has occupied the premises for over one year.
 			- If the rent is weekly, the courts may likewise determine a longer period after the lessee has been in possession for over six months.
