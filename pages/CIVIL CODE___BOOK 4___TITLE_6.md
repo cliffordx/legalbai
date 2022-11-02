@@ -338,6 +338,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In articles 1525 to 1535 the term “seller” includes an agent of the seller to whom the bill of lading has been indorsed, or a consignor or agent who has himself paid, or is directly responsible for the price, or any other person who is in the position of a seller. (n)
 		- **ARTICLE 1526.**
 		  collapsed:: true
+		  id:: 6362aa60-e941-4e01-a6fc-b4ac818c1d39
 			- Subject to the provisions of this Title, notwithstanding that the ownership in the goods may have passed to the buyer, the unpaid seller of goods, as such, has:
 			  collapsed:: true
 				- (1) A lien on the goods or right to retain them for the price while he is in possession of them;
