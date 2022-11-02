@@ -3,7 +3,7 @@ alt-title:: Book I - PERSONS
 
 - [Civil Personality]([[CIVIL CODE/BOOK 1/TITLE_1]])
 	- [Use of Surnames]([[CIVIL CODE/BOOK 1/TITLE_13]])
-	- [Funerals]([[CIVIL CODE/BOOK 1/TITLE_10]])
+	- [Civil Register]([[CIVIL CODE/BOOK 1/TITLE_16]])
 - [Citizenship and Domicile]([[CIVIL CODE/BOOK 1/TITLE_2]])
 - [Absence]([[CIVIL CODE/BOOK 1/TITLE_14]])
 - [Funerals]([[CIVIL CODE/BOOK 1/TITLE_10]])
