@@ -104,7 +104,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- However, if the landowner acted in bad faith, the owner of the materials may remove them in any event, with a right to be indemnified for damages. (360a)
 		- **ARTICLE 448.**
 		  id:: 634fba6a-04eb-40c4-a1a1-576f8cc2e8ec
-			- The owner of the land on which anything has been built, sown or planted in good faith, shall have the right to appropriate as his own the works, sowing or planting, after payment of the indemnity provided for in articles [546](((635bc73a-fd21-4081-98a6-55e9530398cb))) and 548, or to oblige the one who built or planted to pay the price of the land, and the one who sowed, the proper rent.
+			- The owner of the land on which anything has been built, sown or planted in good faith, shall have the right to appropriate as his own the works, sowing or planting, after payment of the indemnity provided for in articles [546](((635bc73a-fd21-4081-98a6-55e9530398cb))) and [548](((635bc73a-fc36-45ce-9ad2-387c2095f4c5))), or to oblige the one who built or planted to pay the price of the land, and the one who sowed, the proper rent.
 			- However, the builder or planter cannot be obliged to buy the land if its value is considerably more than that of the building or trees.
 			- In such case, he shall pay reasonable rent, if the owner of the land does not choose to appropriate the building or trees after proper indemnity.
 			- The parties shall agree upon the terms of the lease and in case of disagreement, the court shall fix the terms thereof. (361a)
