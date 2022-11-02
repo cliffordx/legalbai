@@ -62,6 +62,16 @@
  {:block/name "17",
   :block/created-at 1666878431920,
   :block/updated-at 1666878431920}
+ {:block/name "25] to [[🗂 obs_persons_family",
+  :block/created-at 1667393887351,
+  :block/updated-at 1667393887351}
+ {:block/name "25] to [[🗂 obs_persons_family/🗒 codal",
+  :block/created-at 1667393887352,
+  :block/updated-at 1667393887352}
+ {:block/name
+  "25] to [[🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 35|35",
+  :block/created-at 1667393887350,
+  :block/updated-at 1667393887350}
  {:block/name "26 oct 2022",
   :block/created-at 1666760141922,
   :block/updated-at 1667139704172}
@@ -370,13 +380,13 @@
   :block/updated-at 1666857913760}
  {:block/name "civil code/book 1/title_5",
   :block/created-at 1666857312021,
-  :block/updated-at 1667393853257}
+  :block/updated-at 1667393913123}
  {:block/name "civil code/book 1/title_6",
   :block/created-at 1666857312487,
   :block/updated-at 1666874097355}
  {:block/name "civil code/book 1/title_7",
   :block/created-at 1666857312935,
-  :block/updated-at 1667393270192}
+  :block/updated-at 1667394045403}
  {:block/name "civil code/book 1/title_8",
   :block/created-at 1666857313151,
   :block/updated-at 1666857313151}
@@ -427,7 +437,7 @@
   :block/updated-at 1666874632506}
  {:block/name "civil code/book 3/title_4",
   :block/created-at 1666857316022,
-  :block/updated-at 1667107363560}
+  :block/updated-at 1667394110769}
  {:block/name "civil code/book 3/title_5",
   :block/created-at 1666857316026,
   :block/updated-at 1666874707387}
@@ -436,7 +446,7 @@
   :block/updated-at 1666857317994}
  {:block/name "civil code/book 4/title_1",
   :block/created-at 1666857321525,
-  :block/updated-at 1666857321525}
+  :block/updated-at 1667394165456}
  {:block/name "civil code/book 4/title_10",
   :block/created-at 1666857321545,
   :block/updated-at 1666857321545}
@@ -445,7 +455,7 @@
   :block/updated-at 1666857321547}
  {:block/name "civil code/book 4/title_12",
   :block/created-at 1666857321547,
-  :block/updated-at 1666857321547}
+  :block/updated-at 1667394287281}
  {:block/name "civil code/book 4/title_13",
   :block/created-at 1666857321533,
   :block/updated-at 1666857321533}
@@ -466,10 +476,10 @@
   :block/updated-at 1666859922437}
  {:block/name "civil code/book 4/title_19",
   :block/created-at 1666857317993,
-  :block/updated-at 1666857317993}
+  :block/updated-at 1667394342405}
  {:block/name "civil code/book 4/title_2",
   :block/created-at 1666857321524,
-  :block/updated-at 1666874788190}
+  :block/updated-at 1667394471977}
  {:block/name "civil code/book 4/title_3",
   :block/created-at 1666857321529,
   :block/updated-at 1666857321529}
@@ -1677,6 +1687,18 @@
   "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25",
   :block/created-at 1666857312014,
   :block/updated-at 1666857312014}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25] to [[🗂 obs_persons_family",
+  :block/created-at 1667393884650,
+  :block/updated-at 1667393884650}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25] to [[🗂 obs_persons_family/🗒 codal",
+  :block/created-at 1667393884651,
+  :block/updated-at 1667393884651}
+ {:block/name
+  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25] to [[🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 35|35",
+  :block/created-at 1667393884647,
+  :block/updated-at 1667393884647}
  {:block/name
   "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 26|26",
   :block/created-at 1666857328128,
