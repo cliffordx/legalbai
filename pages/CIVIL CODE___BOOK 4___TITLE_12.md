@@ -180,8 +180,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- ## Responsibility of Hotel-Keepers
 		- **ARTICLE 1998.**
 		  id:: 40a2311b-0cf2-4663-9cb4-c069516f97c0
-		  collapsed:: true
 			- The deposit of effects made by travellers in hotels or inns shall also be regarded as necessary. The keepers of hotels or inns shall be responsible for them as depositaries, provided that notice was given to them, or to their employees, of the effects brought by the guests and that, on the part of the latter, they take the precautions which said hotel-keepers or their substitutes advised relative to the care and vigilance of their effects. (1783)
+			  id:: 635bc749-5331-4637-a247-30647880f512
 		- **ARTICLE 1999.**
 		  collapsed:: true
 			- The hotel-keeper is liable for the vehicles, animals and articles which have been introduced or placed in the annexes of the hotel. (n)
@@ -190,14 +190,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The responsibility referred to in the two preceding articles shall include the loss of, or injury to the personal property of the guests caused by the servants or employees of the keepers of hotels or inns as well as by strangers; but not that which may proceed from any *force majeure*. The fact that travellers are constrained to rely on the vigilance of the keeper of the hotel or inn shall be considered in determining the degree of care required of him. (1784a)
 		- **ARTICLE 2001.**
-		  collapsed:: true
 			- The act of a thief or robber, who has entered the hotel is not deemed *force majeure*, unless it is done with the use of arms or through an irresistible force. (n)
 		- **ARTICLE 2002.**
 		  collapsed:: true
 			- The hotel-keeper is not liable for compensation if the loss is due to the acts of the guest, his family, servants or visitors, or if the loss arises from the character of the things brought into the hotel. (n)
 		- **ARTICLE 2003.**
 		  id:: 631d71f9-3820-48ff-af94-8807dca9a247
-			- The hotel-keeper cannot free himself from responsibility by posting notices to the effect that he is not liable for the articles brought by the guest. Any stipulation between the hotel-keeper and the guest whereby the responsibility of the former as set forth in articles 1998 to 2001 is suppressed or diminished shall be void. (n)
+			- The hotel-keeper cannot free himself from responsibility by posting notices to the effect that he is not liable for the articles brought by the guest. Any stipulation between the hotel-keeper and the guest whereby the responsibility of the former as set forth in articles [1998](((635bc749-5331-4637-a247-30647880f512))) to 2001 is suppressed or diminished shall be void. (n)
 		- **ARTICLE 2004.**
 		  collapsed:: true
 			- The hotel-keeper has a right to retain the things brought into the hotel by the guest, as a security for credits on account of lodging, and supplies usually furnished to hotel guests. (n)
