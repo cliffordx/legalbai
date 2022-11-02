@@ -8,6 +8,7 @@ status:: active
 # TITLE VI - PATERNITY AND FILIATION
 - # [[🔴 CHAPTER 1 - LEGITIMATE CHILDREN]]
 	- **ARTICLE 163.**
+	  id:: 635bc782-0570-4770-b143-a125597eadbb
 		- The filiation of children may be by nature or by adoption.
 		- Natural filiation may be legitimate or illegitimate. (n)
 	- **ARTICLE 164.**
