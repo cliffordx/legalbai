@@ -164,7 +164,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - 🔴 CHAPTER 3 - NECESSARY DEPOSIT
   heading:: true
   id:: 62b5c743-8f47-4977-8838-73d245e74d49
-  collapsed:: true
 	- **ARTICLE 1996.**
 	  id:: 8618242c-d3a4-4490-9e95-09f5931f54ab
 	  collapsed:: true
@@ -179,7 +178,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The deposit referred to in [No. 1](logseq://graph/OBSIDIAN?block-id=62b5c750-9a94-452c-badf-a4ea316f4c71) of the preceding article shall be governed by the provisions of the law establishing it, and in case of its deficiency, by the rules on voluntary deposit.
 		- The deposit mentioned in [No. 2](logseq://graph/OBSIDIAN?block-id=62b5c752-245c-4ebc-995b-3117a2114af6) of the preceding article shall be regulated by the provisions concerning voluntary deposit and by article 2168. (1782)
 	- ## Responsibility of Hotel-Keepers
-	  collapsed:: true
 		- **ARTICLE 1998.**
 		  id:: 40a2311b-0cf2-4663-9cb4-c069516f97c0
 		  collapsed:: true
@@ -199,7 +197,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The hotel-keeper is not liable for compensation if the loss is due to the acts of the guest, his family, servants or visitors, or if the loss arises from the character of the things brought into the hotel. (n)
 		- **ARTICLE 2003.**
 		  id:: 631d71f9-3820-48ff-af94-8807dca9a247
-		  collapsed:: true
 			- The hotel-keeper cannot free himself from responsibility by posting notices to the effect that he is not liable for the articles brought by the guest. Any stipulation between the hotel-keeper and the guest whereby the responsibility of the former as set forth in articles 1998 to 2001 is suppressed or diminished shall be void. (n)
 		- **ARTICLE 2004.**
 		  collapsed:: true
