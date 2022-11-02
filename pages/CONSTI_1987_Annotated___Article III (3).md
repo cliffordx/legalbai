@@ -82,10 +82,9 @@ status:: active
 		- ((6300757c-0985-4ac2-879b-b4d4b5244293))
 			- Equal protection of the law is a guarantee against hostile discrimination and oppression of inequality for persons of like circumstances falling within the same class treated alike, whether in terms of privileged conferred and liabilities enforced. #17
 			-
-			- ![image.png](../assets/image_1661659309259_0.png){:height 707, :width 547}
+			- ~~[image.png](../assets/image_1661659309259_0.png){:height 707, :width 547}~~
 			-
 	- [[Sunday, 4th September 2022]]
-	  collapsed:: true
 		- ((6300757c-52a3-445c-89f0-872c464bb8db))
 			- ((631482da-771d-4154-aa05-f02994b54894))
 				- These three requisites provide a convenient division for the discussion of the subject. Under present law, to raise the defense of double or second jeopardy, three requisites must be shown:
@@ -93,6 +92,5 @@ status:: active
 				- (2) the first jeopardy must have **terminated**;
 				- (3) the second jeopardy **must be for the same offense** as that in the first.
 	- [[Thursday, 22nd September 2022]]
-	  collapsed:: true
 		- ((632c4932-567a-4239-a574-faaa57f9396a))
 			- Community Development Tax then shorten to Community Tax (Cedula)
