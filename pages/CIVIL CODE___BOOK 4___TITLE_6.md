@@ -148,7 +148,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1490.**
 		- The husband and the wife cannot sell property to each other, except:
 			- (1) When a separation of property was agreed upon in the marriage settlements; or
-			- (2) When there has been a judicial separation of property under [[07 - TITLE VII - ADOPTION#ARTICLE 191|article 191]]. (1458a)
+			- (2) When there has been a judicial separation of property under [[07 - TITLE VII - ADOPTION#ARTICLE 191|article 191]. (1458a)
 	- **ARTICLE 1491.**
 	  collapsed:: true
 		- The following persons cannot acquire by purchase, even at a public or judicial auction, either in person or through the mediation of another:
