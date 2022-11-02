@@ -366,7 +366,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (3) In case of civil interdiction of the husband.
 		- The courts may also confer the administration to the wife, with such limitations as they may deem advisable, if the husband should become a fugitive from justice or be in hiding as a defendant in a criminal case, or if, being absolutely unable to administer, he should have failed to provide for administration. (1441a)
 	- **ARTICLE 197.**
-	  collapsed:: true
+	  id:: 635f4486-7d6f-431c-b804-101f75b62d74
 		- The wife to whom the administration of all the property of the marriage is transferred shall have, with respect to said property, the same powers and responsibility which the husband has when he is the administrator, but always subject to the provisions of the last paragraph of the preceding article. (1442a)
 - # 🔴 CHAPTER 6 - System of Absolute Community (n)
   collapsed:: true
