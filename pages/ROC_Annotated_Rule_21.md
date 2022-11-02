@@ -32,7 +32,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- In either case, the subpoena may be quashed on the ground that the witness fees and kilometrage allowed by these Rules were not tendered when the subpoena was served. (4a, R23)
 - **SECTION 5.** Subpoena for depositions.
   id:: 01e336a3-3b6c-4906-8494-c64e62935490
-	- Proof of service of a notice to take a deposition, as provided in Sections [15](((54cd8a54-4be2-49d1-b2fd-2131c680bbb2) and [25](((e6e473d1-de40-47d8-a79d-da6de9578629) of Rule 23, shall constitute sufficient authorization for the issuance of subpoenas for the persons named in said notice by the clerk of the court of the place in which the deposition is to be taken.
+	- Proof of service of a notice to take a deposition, as provided in Sections [15](((54cd8a54-4be2-49d1-b2fd-2131c680bbb2))) and [25](((e6e473d1-de40-47d8-a79d-da6de9578629))) of Rule 23, shall constitute sufficient authorization for the issuance of subpoenas for the persons named in said notice by the clerk of the court of the place in which the deposition is to be taken.
 	- The clerk shall not, however, issue a subpoena *duces tecum* to any such person without an order of the court. (5a, R23)
 - **SECTION 6.** Service.
 	- Service of a subpoena shall be made in the same manner as personal or substituted service of summons.
@@ -49,4 +49,4 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- Failure by any person without adequate cause to obey a subpoena served upon him <ins>or her</ins> shall be deemed a contempt of the court from which the subpoena is issued.
 	- If the subpoena was not issued by a court, the disobedience thereto shall be punished in accordance with the applicable law or Rule. (12a, R23)
 - **SECTION 10**. Exceptions.
-	- The provisions of [Sections 9](((52b40029-f889-42da-b637-f22083a30e6a) of this Rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her</ins> residence to the place where he <ins>or she</ins> is to testify by the ordinary course of travel, or to a detention prisoner if no permission of the court in which his case is pending was obtained. (9a, R23)
+	- The provisions of [Sections 9](((52b40029-f889-42da-b637-f22083a30e6a))) of this Rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her</ins> residence to the place where he <ins>or she</ins> is to testify by the ordinary course of travel, or to a detention prisoner if no permission of the court in which his case is pending was obtained. (9a, R23)
