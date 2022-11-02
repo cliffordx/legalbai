@@ -34,15 +34,9 @@
   "06 - title vi* - property relations between husband and wife#article 195|article 195",
   :block/created-at 1666857311918,
   :block/updated-at 1666857311918}
- {:block/name "07 - title vii - adoption#article 191|article 191",
-  :block/created-at 1667396873044,
-  :block/updated-at 1667396873044}
  {:block/name "07 - title vii* - the family#article 219|article 291",
   :block/created-at 1666857328113,
   :block/updated-at 1666857328113}
- {:block/name "08 - title viii - support#article 194",
-  :block/created-at 1666857313372,
-  :block/updated-at 1666857313372}
  {:block/name "08 - title viii - support#article 195",
   :block/created-at 1666857313373,
   :block/updated-at 1666857313373}
@@ -392,7 +386,7 @@
   :block/updated-at 1666857313151}
  {:block/name "civil code/book 1/title_9",
   :block/created-at 1666857313388,
-  :block/updated-at 1667394877602}
+  :block/updated-at 1667397149318}
  {:block/name "civil code/book 2",
   :block/created-at 1666857313522,
   :block/updated-at 1666857313522}
@@ -491,7 +485,7 @@
   :block/updated-at 1666874829422}
  {:block/name "civil code/book 4/title_6",
   :block/created-at 1666857321539,
-  :block/updated-at 1667396845700}
+  :block/updated-at 1667397246847}
  {:block/name "civil code/book 4/title_7",
   :block/created-at 1666857321537,
   :block/updated-at 1666857321537}
