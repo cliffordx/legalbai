@@ -390,7 +390,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Whoever pays for another may demand from the debtor what he has paid, except that if he paid without the knowledge or against the will of the debtor, he can recover only insofar as the payment has been beneficial to the debtor. (1158a) ^89d15c
 		- **ARTICLE 1237.**
 		  id:: 06c5c1ca-d6b6-473f-9140-7c6fcde53c6f
-		  collapsed:: true
 			- Whoever pays on behalf of the debtor without the knowledge or against the will of the latter, cannot compel the creditor to subrogate him in his rights, such as those arising from a mortgage, guaranty, or penalty. (1159a)
 		- **ARTICLE 1238.**
 		  collapsed:: true
