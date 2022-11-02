@@ -232,7 +232,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1358.**
 	  collapsed:: true
 		- The following must appear in a public document:
-		  collapsed:: true
 			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over immovable property; sales of real property or of an interest therein are governed by articles 1403, No. 2, and 1405;
 			- (2) The cession, repudiation or renunciation of hereditary rights or of those of the conjugal partnership of gains;
 			- (3) The power to administer property, or any other power which has for its object an act appearing or which should appear in a public document, or should prejudice a third person;
