@@ -107,6 +107,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Reversion may be validly established in favor of only the donor for any case and circumstances, but not in favor of other persons unless they are all living at the time of the donation.
 		- Any reversion stipulated by the donor in favor of a third person in violation of what is provided in the preceding paragraph shall be void, but shall not nullify the donation. (641a)
 	- **ARTICLE 758.**
+	  id:: 635bc740-f94f-4e14-96fc-962fadb16a67
 		- When the donation imposes upon the donee the obligation to pay the debts of the donor, if the clause does not contain any declaration to the contrary, the former is understood to be liable to pay only the debts which appear to have been previously contracted.
 		- In no case shall the donee be responsible for the debts exceeding the value of the property donated, unless a contrary intention clearly appears. (642a)
 	- **ARTICLE 759.**
