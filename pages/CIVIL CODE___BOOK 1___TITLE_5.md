@@ -23,7 +23,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (1) When they are judicially separated;
 			- (2) If they have in fact been separated for at least one year;
 			- (3) When there is a separation of property agreed upon in the marriage settlements;
-			- (4) If the administration of all the property in the marriage has been transferred to her, in accordance with articles [[06 - TITLE VI* - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE#ARTICLE 196|196]] and [[06 - TITLE VI* - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE#ARTICLE 197|197]];
+			- (4) If the administration of all the property in the marriage has been transferred to her, in accordance with articles [196](((635f4486-0d8a-4fb8-b369-2f1459909750))) and [[06 - TITLE VI* - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE#ARTICLE 197|197]];
 			- (5) When the litigation is between the husband and wife;
 			- (6) If the suit concerns her paraphernal property;
 			- (7) When the action is upon the civil liability arising from a criminal offense;

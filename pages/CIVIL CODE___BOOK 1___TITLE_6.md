@@ -359,8 +359,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In the cases referred to in this article, all the property brought in shall be deemed to be newly contributed, even though all or some may be the same which existed before the liquidation effected by reason of the separation. (1439a)
 	- **ARTICLE 196.**
 	  collapsed:: true
+	  id:: 635f4486-0d8a-4fb8-b369-2f1459909750
 		- With the conjugal partnership subsisting, the administration of all classes of property in the marriage may be transferred by the courts to the wife:
-		  collapsed:: true
 			- (1) When she becomes the guardian of her husband;
 			- (2) When she asks for the declaration of his absence;
 			- (3) In case of civil interdiction of the husband.
