@@ -12,13 +12,13 @@ tags:: paksiteer, paksitive, paksionate
 	- Next, there's a left side menu bar and right side menu bar. Go over them and let me know if you find something interesting. ;)
 - ### What can you expect from my Github page?
   id:: 635bc75b-257f-4fc4-b4f3-8dece2332ef7
-  collapsed:: true
 	- A ton. For starters, I have #[[flashcards]] collated and collected from exams and quizzes.
 	- Also, I have the fundamental codals uploaded here, either annotated or commented by [me]([[Clifford Enoc]]).
 		- But don't expect too much. Some are not meant to be shared.
 			- Reason: Some are from authors of a law book.
 				- Others are from law review pdfs floating around but it's already there,  no need to have it here.
-				- > NOTE: If you find a gibberish code something like this `((635a41f7-2049-491e-8838-b8d5119d291f)),` it means that the link reference is to some other annotated document, *i.e.,* PDF file, that no longer appear from this site because it was deleted but I'm sure it appear somewhere, *i.e.,* on my local machine (my laptop/phone).
+				- id:: 635f4491-7ba1-42f4-92ca-0759d89e45f9
+				  > NOTE: If you find a gibberish code something like this `((635a41f7-2049-491e-8838-b8d5119d291f)),` it means that the link reference is to some other annotated document, *i.e.,* PDF file, that no longer appear from this site because it was deleted but I'm sure it appear somewhere, *i.e.,* on my local machine (my laptop/phone).
 	- Since I am doing hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I studied and learned from my simple understanding so far, here in Github.
 	- My previous plan was to have it in one place at my website (CliffordX.com) but I wanted it here since I just have to `commit` the pages that I have written on my PKM app ([[logseq]], FTW!) from my laptop and it shall be published with updates and shown here [instantly]([[publishing]]).
 	- **It makes my workflow much easier.**
