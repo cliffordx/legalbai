@@ -19,8 +19,8 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 	- **SECTION 7.**
 	  id:: 631d7240-92d5-4749-8781-d62aca893056
 		- [[#blue]]==Anyone== [[$red]]==except a public enemy== [[#green]]==may be insured==.
-			- Minors - ((6336e845-09bd-4fac-bb3e-bb6f624a7e93))
-			- ((6336e861-00ff-4ad6-afc9-6da7e1503505)).
+			- Minors -  R.A. 6809 (Age of majority is18 years)
+			- Married women – R.A. 6809
 	- **SECTION 8.**
 	  id:: 631d7240-0d33-439a-acbb-d894cb6fa224
 		- Unless the policy otherwise provides, where a [mortgagor](((62cc5a4f-a248-454c-9372-f369fd314248))) of property effects insurance in his own name providing that the loss shall be payable to the mortgagee, or assigns a policy of insurance to a mortgagee, the insurance is deemed to be upon the interest of the mortgagor, who does not cease to be a party to the original contract, and any act of his, prior to the loss, which would otherwise avoid the insurance, will have the same effect, although the property is in the hands of the mortgagee, but any act which, under the contract of insurance, is to be performed by the mortgagor, may be performed by the mortgagee therein named, with the same effect as if it had been performed by the mortgagor.
