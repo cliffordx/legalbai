@@ -24,7 +24,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Consumable goods cannot be the subject matter of a contract of lease, except when they are merely to be exhibited or when they are accessory to an industrial establishment. (1545a)
 - 🔴 CHAPTER 2 - LEASE OF RURAL AND URBAN LANDS
   heading:: true
-  collapsed:: true
 	- ## SECTION 1 - General Provisions
 	  collapsed:: true
 		- **ARTICLE 1646.**
