@@ -39,4 +39,5 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- The finder and the owner shall be obliged, as the case may be, to reimburse the expenses. (615a)
 - **ARTICLE 720.**
   collapsed:: true
+  id:: 635bc73e-69f7-417a-91fd-fb3b82f44311
 	- If the owner should appear in time, he shall be obliged to pay, as a reward to the finder, one-tenth of the sum or of the price of the thing found. (616a)
