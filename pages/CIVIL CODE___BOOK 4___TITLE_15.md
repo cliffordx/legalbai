@@ -42,6 +42,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- It may also be constituted, not only in favor of the principal debtor, but also in favor of the other guarantor, with the latter’s consent, or without his knowledge, or even over his objection. (1823)
 	- **ARTICLE 2052.**
 	  collapsed:: true
+	  id:: 635bc74c-4193-490c-bbcb-bbcfebcc0122
 		- A guaranty cannot exist without a valid obligation.
 		- Nevertheless, a guaranty may be constituted to guarantee the performance of a voidable or an unenforceable contract.
 		- It may also guarantee a natural obligation. (1824a)

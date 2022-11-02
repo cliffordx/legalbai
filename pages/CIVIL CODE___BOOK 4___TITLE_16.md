@@ -32,7 +32,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Third persons who are not parties to the principal obligation may secure the latter by pledging or mortgaging their own property. (1857)
 	- **ARTICLE 2086.**
 	  collapsed:: true
-		- The provisions of article 2052 are applicable to a pledge or mortgage. (n)
+		- The provisions of [article 2052](((635bc74c-4193-490c-bbcb-bbcfebcc0122))) are applicable to a pledge or mortgage. (n)
 	- **ARTICLE 2087.**
 	  collapsed:: true
 	  id:: 62b32e88-45c3-43cd-ae1e-766dfa2e0774
