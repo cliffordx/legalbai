@@ -201,7 +201,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 			- (e) Physical changes in the property insured which result in the property becoming uninsurable;
 			- [[#blue]]==(f) Discovery of other insurance coverage that makes the total insurance in excess of the value of the property insured; or==
 			- (g) A determination by the Commissioner that the continuation of the policy would violate or would place the insurer in violation of this Code.
-		- case and topic: ((632c033b-40af-4e1e-b098-42dd5e491df6))
+		- case and topic: Aleatory Insurance;
 	- **SECTION 65.**
 		- All notices of cancellation mentioned in the preceding section shall be in **writing, mailed or delivered** to the named insured at the address shown in the policy, or to his broker provided the broker is authorized in writing by the policy owner to receive the notice of cancellation on his behalf, and shall state:
 			- (a) Which of the grounds set forth in [Section 64](((631c0ae7-f7b9-43e0-bf32-e3934be31f54))) is relied upon; and
