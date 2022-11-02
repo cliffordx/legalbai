@@ -118,7 +118,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (8) Malicious prosecution;
 				- (9) Acts mentioned in [article 309](((635bc737-fcc9-4a2e-b98f-ebd6acac152d)));
 				  id:: 62f9cfd1-d081-43db-8589-a107c0d9d88d
-				- (10) Acts and actions referred to in articles [[🗂 OBS_PERSONS_FAMILY/🗒 CODAL/0 - PRELIMINARY TITLE#ARTICLE 21|21], [26], [27], [[28], [29], [30], [32], [34], and [35].
+				- (10) Acts and actions referred to in articles [21], [26], [27], [[28], [29], [30], [32], [34], and [35].
 				- The parents of the female seduced, abducted, raped, or abused, referred to in [No. 3](((62f9cfc2-0de4-4efe-b8c1-2abba83a25a6))) of this article, may also recover moral damages.
 				- The spouse, descendants, ascendants, and brothers and sisters may bring the action mentioned in [No. 9](((62f9cfd1-d081-43db-8589-a107c0d9d88d))) of this article, in the order named.
 		- **ARTICLE 2220.**
