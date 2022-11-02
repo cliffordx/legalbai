@@ -438,7 +438,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Unauthorized contracts are governed by ((9952ac75-a0c7-4ad5-8229-9496e664e3a2)) and the principles of agency in Title X of this Book.
 	- **ARTICLE 1405.**
 	  id:: 635bc751-192b-4801-8b28-002413054f9d
-		- Contracts infringing the Statute of Frauds, referred to in [No. 2 of article 1403](logseq://graph/OBSIDIAN?block-id=8d494334-0a4c-4800-a3e5-6879921647bc), are ratified by the failure to object to the presentation of oral evidence to prove the same, or by the acceptance of benefits under them.
+		- Contracts infringing the Statute of Frauds, referred to in [No. 2 of article 1403](((8d494334-0a4c-4800-a3e5-6879921647bc))), are ratified by the failure to object to the presentation of oral evidence to prove the same, or by the acceptance of benefits under them.
 	- **ARTICLE 1406.**
 	  collapsed:: true
 		- When a contract is enforceable under the Statute of Frauds, and a public document is necessary for its registration in the Registry of Deeds, the parties may avail themselves of the right under ((5e8a0135-6299-44b2-8c83-8798eef3cde2))
