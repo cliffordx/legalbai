@@ -111,6 +111,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- When the donation imposes upon the donee the obligation to pay the debts of the donor, if the clause does not contain any declaration to the contrary, the former is understood to be liable to pay only the debts which appear to have been previously contracted.
 		- In no case shall the donee be responsible for the debts exceeding the value of the property donated, unless a contrary intention clearly appears. (642a)
 	- **ARTICLE 759.**
+	  id:: 635bc740-4c64-47d5-a8d6-02e1357c2eb5
 		- There being no stipulation regarding the payment of debts, the donee shall be responsible therefor only when the donation has been made in fraud of creditors.
 		- The donation is always presumed to be in fraud of creditors, when at the time thereof the donor did not reserve sufficient property to pay his debts prior to the donation. (643)
 - # 🔴 CHAPTER 4 - Revocation and Reduction of Donations
