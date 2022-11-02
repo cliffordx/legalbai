@@ -254,6 +254,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- But once the substitution has been made, the obligor is liable for the loss of the substitute on account of his delay, negligence or fraud. (n)
 	- ### SECTION 4 - Joint and Solidary Obligations
 	  collapsed:: true
+	  id:: 635bc746-0ce3-4371-9c01-8c2fd58362c6
 		- **ARTICLE 1207.**
 		  collapsed:: true
 			- The concurrence of two or more creditors or of two or more debtors in one and the same obligation does not imply that each one of the former has a right to demand, or that each one of the latter is bound to render, entire compliance with the prestation.

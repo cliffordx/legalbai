@@ -15,7 +15,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 62f13785-5d3b-4494-8abf-fd3ec4f96f7d
 	  collapsed:: true
 		- By guaranty a person, called the guarantor, binds himself to the creditor to fulfill the obligation of the principal debtor in case the latter should fail to do so.
-		- If a person binds himself solidarily with the principal debtor, the provisions of Section 4, Chapter 3, Title I of this Book shall be observed. In such case the contract is called a [[suretyship]]. (1822a)
+		- If a person binds himself solidarily with the principal debtor, the provisions of [Section 4](((635bc746-0ce3-4371-9c01-8c2fd58362c6))), Chapter 3, Title I of this Book shall be observed. In such case the contract is called a [[suretyship]]. (1822a)
 	- **ARTICLE 2048.**
 	  id:: 62f13785-35f7-4228-9245-b41a5fb13f8a
 	  collapsed:: true
