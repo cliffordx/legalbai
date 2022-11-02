@@ -368,6 +368,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the work is subject to the approval of a third person, his decision shall be final, except in case of fraud or manifest error. (1598a)
 		- **ARTICLE 1731.**
 		  collapsed:: true
+		  id:: 635bc758-91a0-4d38-93ce-83e40ea48acd
 			- He who has executed work upon a movable has a right to retain it by way of pledge until he is paid. (1600)
 	- ## SECTION 4 - Common Carriers (n)
 	  id:: 63007580-14c3-4bbb-8a30-3cdce7e2c1d6
