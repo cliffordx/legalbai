@@ -13,6 +13,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- A contract of sale may be [absolute]([[absolute sale]]) or [conditional]([[conditional sale]]). (1445a)
 	- **ARTICLE 1459.**
 	  id:: fac68c87-d235-4116-bb47-5046254eff9c
+	  collapsed:: true
 		- The thing must be licit and the vendor must have a right to transfer the ownership thereof at the time it is delivered. (n)
 			- **ARTICLE 1460.**
 			  id:: 83631fea-81b2-4b0f-9e7e-1f7de0a3dd9d
@@ -43,6 +44,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- If the consideration of the contract consists partly in money, and partly in another thing, the transaction shall be characterized by the manifest intention of the parties.
 		- If such intention does not clearly appear, it shall be considered a barter if the value of the thing given as a part of the consideration exceeds the amount of the money or its equivalent; otherwise, it is a sale. (1446a)
 	- **ARTICLE 1469.**
+	  collapsed:: true
 		- In order that the price may be considered certain, it shall be sufficient that it be so with reference to another thing certain, or that the determination thereof be left to the judgment of a special person or persons.
 		- Should such person or persons be unable or unwilling to fix it, the contract shall be inefficacious, unless the parties subsequently agree upon the price.
 		- If the third person or persons acted in bad faith or by mistake, the courts may fix the price.
@@ -125,6 +127,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The prohibitions in the two preceding articles are applicable to sales in [[legal redemption]], compromises and renunciations. (n)
 			- [^1]: This is superseded by [Article 194](((cf08893c-3a8c-4d28-ad56-757a94308e45))), Family Code of the Philippines.
 - # 🔴 CHAPTER 3 - EFFECTS OF THE CONTRACT WHEN THE THING SOLD HAS BEEN LOST
+  collapsed:: true
 	- **ARTICLE 1493.**
 		- If at the time the contract of sale is perfected, the thing which is the object of the contract has been entirely lost, the contract shall be without any effect.
 		- But if the thing should have been lost in part only, the vendee may choose between withdrawing from the contract and demanding the remaining part, paying its price in proportion to the total sum agreed upon. (1460a)
@@ -135,6 +138,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
 	- ## SECTION 1 - General Provisions
+	  collapsed:: true
 		- **ARTICLE 1495.**
 		  id:: 6300757d-b104-49d4-ae30-ce3dde4614de
 			- The vendor is bound to transfer the ownership of and deliver, as well as warrant the thing which is the object of the sale. (1461a)
@@ -163,6 +167,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- What is a reasonable time is a question of fact. (n)
 		- **ARTICLE 1503.**
 		  id:: 08293f83-d873-4191-a544-750ee32ef9c4
+		  collapsed:: true
 			- Where there is a contract of sale of specific goods, the seller may, by the terms of the contract, reserve the right of possession or ownership in the goods until certain conditions have been fulfilled.
 			- The right of possession or ownership may be thus reserved notwithstanding the delivery of the goods to the buyer or to a carrier or other bailee for the purpose of transmission to the buyer.
 			- Where goods are shipped, and by the bill of lading the goods are deliverable to the seller or his agent, or to the order of the seller or of his agent, the seller thereby reserves the ownership in the goods.
@@ -196,6 +201,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If indorsed to a specified person, it may be again negotiated by the indorsement of such person in blank, to bearer or to another specified person.
 			- Subsequent negotiations may be made in like manner. (n)
 		- **ARTICLE 1510.**
+		  collapsed:: true
 			- If a document of title which contains an undertaking by a carrier, warehouseman or other bailee to deliver the goods to bearer, to a specified person or order of a specified person or which contains words of like import, has placed upon it the words “not negotiable,” “non-negotiable” or the like, such document may nevertheless be negotiated by the holder and is a negotiable document of title within the meaning of this Title.
 			- But nothing in this Title contained shall be construed as limiting or defining the effect upon the obligations of the carrier, warehouseman, or other bailee issuing a document of title or placing thereon the words “not negotiable,” “non-negotiable,” or the like. (n)
 		- **ARTICLE 1511.**
@@ -210,6 +216,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (1) Such title to the goods as the person negotiating the document to him had or had ability to convey to a purchaser in good faith for value and also such title to the goods as the person to whose order the goods were to be delivered by the terms of the document had or had ability to convey to a purchaser in good faith for value; and
 				- (2) The direct obligation of the bailee issuing the document to hold possession of the goods for him according to the terms of the document as fully as if such bailee had contracted directly with him. (n)
 		- **ARTICLE 1514.**
+		  collapsed:: true
 			- A person to whom a document of title has been transferred, but not negotiated, acquires thereby, as against the transferor, the title to the goods, subject to the terms of any agreement with the transferor.
 			- If the document is non-negotiable, such person also acquires the right to notify the bailee who issued the document of the transfer thereof, and thereby to acquire the direct obligation of such bailee to hold possession of the goods for him according to the terms of the document.
 			- Prior to the notification to such bailee by the transferor or transferee of a non-negotiable document of title, the title of the transferee to the goods and the right to acquire the obligation of such bailee may be defeated by the levy of an attachment of execution upon the goods by a creditor of the transferor, or by a notification to such bailee by the transferor or a subsequent purchaser from the transferor of a subsequent sale of the goods by the transferor. (n)
@@ -225,6 +232,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1517.**
 			- The indorsement of a document of title shall not make the indorser liable for any failure on the part of the bailee who issued the document or previous indorsers thereof to fulfill their respective obligations. (n)
 		- **ARTICLE 1518.**
+		  collapsed:: true
 			- The validity of the negotiation of a negotiable document of title is not impaired by the fact that the negotiation was a breach of duty on the part of the person making the negotiation, or by the fact that the owner of the document was deprived of the possession of the same by loss, theft, fraud, accident, mistake, duress, or conversion, if the person to whom the document was negotiated or a person to whom the document was subsequently negotiated paid value therefor in good faith without notice of the breach of duty, or loss, theft, fraud, accident, mistake, duress or conversion. (n)
 		- **ARTICLE 1519.**
 			- If goods are delivered to a bailee by the owner or by a person whose act in conveying the title to them to a purchaser in good faith for value would bind the owner and a negotiable document of title is issued for them they cannot thereafter, while in possession of such bailee, be attached by garnishment or otherwise or be levied under an execution unless the document be first surrendered to the bailee or its negotiation enjoined.
@@ -247,6 +255,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In the preceding two paragraphs, if the subject matter is indivisible, the buyer may reject the whole of the goods.
 			- The provisions of this article are subject to any usage of trade, special agreement, or course of dealing between the parties. (n)
 		- **ARTICLE 1523.**
+		  collapsed:: true
 			- Where, in pursuance of a contract of sale, the seller is authorized or required to send the goods to the buyer, delivery of the goods to a carrier, whether named by the buyer or not, for the purpose of transmission to the buyer is deemed to be a delivery of the goods to the buyer, except in the cases provided for in [article 1503](((08293f83-d873-4191-a544-750ee32ef9c4))), first, second and third paragraphs, or unless a contrary intent appears.
 			- Unless otherwise authorized by the buyer, the seller must make such contract with the carrier on behalf of the buyer as may be reasonable, having regard to the nature of the goods and the other circumstances of the case.
 			- If the seller omit so to do, and the goods are lost or damaged in course of transit, the buyer may decline to treat the delivery to the carrier as a delivery to himself, or may hold the seller responsible in damages.
@@ -275,6 +284,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1528.**
 			- Where an unpaid seller has made part delivery of the goods, he may exercise his right of lien on the remainder, unless such part delivery has been made under such circumstances as to show an intent to waive the lien or right of retention. (n)
 		- **ARTICLE 1529.**
+		  collapsed:: true
 			- The unpaid seller of goods loses his lien thereon:
 				- (1) When he delivers the goods to a carrier or other bailee for the purpose of transmission to the buyer without reserving the ownership in the goods or the right to the possession thereof;
 				- (2) When the buyer or his agent lawfully obtains possession of the goods;
@@ -293,6 +303,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the goods are delivered to a ship, freight train, truck, or airplane chartered by the buyer, it is a question depending on the circumstances of the particular case, whether they are in the possession of the carrier as such or as agent of the buyer.
 			- If part delivery of the goods has been made to the buyer, or his agent in that behalf, the remainder of the goods may be stopped *in transitu*, unless such part delivery has been under such circumstances as to show an agreement with the buyer to give up possession of the whole of the goods. (n)
 		- **ARTICLE 1532.**
+		  collapsed:: true
 			- The unpaid seller may exercise his right of stoppage in transitu either by obtaining actual possession of the goods or by giving notice of his claim to the carrier or other bailee in whose possession the goods are.
 			- Such notice may be given either to the person in actual possession of the goods or to his principal.
 			- In the latter case the notice, to be effectual, must be given at such time and under such circumstances that the principal, by the exercise of reasonable diligence, may prevent a delivery to the buyer.
@@ -300,6 +311,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The expenses of such delivery must be borne by the seller.
 			- If, however, a negotiable document of title representing the goods has been issued by the carrier or other bailee, he shall not be obliged to deliver or justified in delivering the goods to the seller unless such document is first surrendered for cancellation. (n)
 		- **ARTICLE 1533.**
+		  collapsed:: true
 			- Where the goods are of perishable nature, or where the seller expressly reserves the right of resale in case the buyer should make default, or where the buyer has been in default in the payment of the price for an unreasonable time, an unpaid seller having a right of lien or having stopped the goods *in transitu* may resell the goods.
 			- He shall not thereafter be liable to the original buyer upon the contract of sale or for any profit made by such resale, but may recover from the buyer damages for any loss occasioned by the breach of the contract of sale.
 			- Where a resale is made, as authorized in this article, the buyer acquires a good title as against the original buyer.
@@ -309,6 +321,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The seller is bound to exercise reasonable care and judgment in making a resale, and subject to this requirement may make a resale either by public or private sale.
 			- He cannot, however, directly or indirectly buy the goods. (n)
 		- **ARTICLE 1534.**
+		  collapsed:: true
 			- An unpaid seller having the right of lien or having stopped the goods *in transitu*, may rescind the transfer of title and resume the ownership in the goods, where he expressly reserved the right to do so in case the buyer should make default, or where the buyer has been in default in the payment of the price for an unreasonable time.
 			- The seller shall not thereafter be liable to the buyer upon the contract of sale, but may recover from the buyer damages for any loss occasioned by the breach of the contract.
 			- The transfer of title shall not be held to have been rescinded by an unpaid seller until he has manifested by notice to the buyer or by some other overt act an intention to rescind.
@@ -325,6 +338,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In case of loss, deterioration or improvement of the thing before its delivery, the rules in [article 1189](((de0b0637-d341-4339-8d9d-fced7724fb07))) shall be observed, the vendor being considered the debtor. (n)
 		- **ARTICLE 1539.**
 		  id:: cdbe13ff-b669-4a22-94f4-272c5ba30cee
+		  collapsed:: true
 			- The obligation to deliver the thing sold includes that of placing in the control of the vendee all that is mentioned in the contract, in conformity with the following rules:
 				- If the sale of real estate should be made with a statement of its area, at the rate of a certain price for a unit of measure or number, the vendor shall be obliged to deliver to the vendee, if the latter should demand it, all that may have been stated in the contract; but, should this be not possible, the vendee may choose between a proportional reduction of the price and the rescission of the contract, provided that, in the latter case, the lack in the area be not less than one-tenth of that stated.
 				- The same shall be done, even when the area is the same, if any part of the immovable is not of the quality specified in the contract.
@@ -342,6 +356,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1543.**
 			- The actions arising from articles [1539](((cdbe13ff-b669-4a22-94f4-272c5ba30cee))) and [1542](((2a606213-eb93-4685-b5bc-7cd50af34d31))) shall prescribe in six months, counted from the day of delivery. (1472a)
 		- **ARTICLE 1544.**
+		  collapsed:: true
 		  id:: 631d71fd-0199-405e-b0e8-1a8d7973a814
 			- If the same thing should have been sold to different vendees, the ownership shall be transferred to the person who may have first taken possession thereof in good faith, if it should be movable property.
 			- Should it be immovable property, the ownership shall belong to the person acquiring it who in good faith first recorded it in the Registry of Property.
