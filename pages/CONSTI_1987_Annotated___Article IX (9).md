@@ -120,9 +120,7 @@ collapsed:: true
 	  collapsed:: true
 		- Funds certified by the Commission as necessary to defray the expenses for holding regular and special elections, plebiscites, initiatives, referenda, and recalls, shall be provided in the regular or special appropriations and, once approved, shall be released automatically upon certification by the Chairman of the Commission.
 ## D. Commission on Audit
-collapsed:: true
 	- **SECTION 1.**
-	  collapsed:: true
 		- (1) There shall be a Commission on Audit composed of a Chairman and two Commissioners, who shall be natural-born citizens of the Philippines and, at the time of their appointment, at least thirty-five years of age, certified public accountants with not less than ten years of auditing experience, or members of the Philippine Bar who have been engaged in the practice of law for at least ten years, and must not have been candidates for any elective position in the elections immediately preceding their appointment.
 			- At no time shall all Members of the Commission belong to the same profession.
 		- (2) The Chairman and the Commissioners shall be appointed by the President with the consent of the Commission on Appointments for a term of seven years without reappointment. Of those first appointed, the Chairman shall hold office for seven years, one Commissioner for five years, and the other Commissioner for three years, without reappointment.
