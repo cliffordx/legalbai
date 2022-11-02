@@ -59,7 +59,6 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 	- **SECTION 18.**
 		- No contract or policy of insurance on property shall be enforceable except for the benefit of some person having an insurable interest in the property insured.
 	- **SECTION 19.**
-	  collapsed:: true
 		- An interest in property insured must exist when the insurance takes effect, and when the loss occurs, but need not exist in the meantime; and interest in the life or health of a person insured must exist when the insurance takes effect, but need not exist thereafter or when the loss occurs.
 	- **SECTION 20.**
 	  collapsed:: true
