@@ -201,7 +201,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 			- (e) Physical changes in the property insured which result in the property becoming uninsurable;
 			- [[#blue]]==(f) Discovery of other insurance coverage that makes the total insurance in excess of the value of the property insured; or==
 			- (g) A determination by the Commissioner that the continuation of the policy would violate or would place the insurer in violation of this Code.
-		- case and topic: Malayan Insurance vs Arnaldo & Pinca; Aleatory Insurance
+		- case and topic: Malayan Insurance vs Arnaldo & Pinca; **Aleatory Insurance**
 	- **SECTION 65.**
 		- All notices of cancellation mentioned in the preceding section shall be in **writing, mailed or delivered** to the named insured at the address shown in the policy, or to his broker provided the broker is authorized in writing by the policy owner to receive the notice of cancellation on his behalf, and shall state:
 			- (a) Which of the grounds set forth in [Section 64](((631c0ae7-f7b9-43e0-bf32-e3934be31f54))) is relied upon; and
@@ -212,7 +212,6 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 		- Any policy written for a term of less than one (1) year shall be considered as if written for a term of one (1) year.
 		- Any policy written for a term longer than one (1) year or any policy with no fixed expiration date shall be considered as if written for successive policy periods or terms of one (1) year.
 - ## TITLE 7 Warranties
-  collapsed:: true
 	- **SECTION 67.**
 	  collapsed:: true
 		- A warranty is either expressed or implied.
@@ -314,7 +313,6 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 	- **SECTION 100.**
 		- The original insured has no interest in a contract of reinsurance.
 - [[Comments]]
-  collapsed:: true
 	- [[Wednesday, 28th September 2022]]
 	  collapsed:: true
 		- ((631d7240-7c3d-4211-85ee-c6a064d3c471))
