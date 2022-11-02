@@ -540,6 +540,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The vendor shall be responsible for warranty against the hidden defects which the thing sold may have, should they render it unfit for the use for which it is intended, or should they diminish its fitness for such use to such an extent that, had the vendee been aware thereof, he would not have acquired it or would have given a lower price for it; but said vendor shall not be answerable for patent defects or those which may be visible, or for those which are not visible if the vendee is an expert who, by reason of his trade or profession, should have known them. (1484a)
 			- **ARTICLE 1562.**
 			  id:: dedb23d8-419d-412c-a48e-f6448bc1112c
+			  collapsed:: true
 				- In a sale of goods, there is an implied warranty or condition as to the quality or fitness of the goods, as follows:
 					- (1) Where the buyer, expressly or by implication, makes known to the seller the particular purpose for which the goods are acquired, and it appears that the buyer relies on the seller’s skill or judgment (whether he be the grower or manufacturer or not), there is an implied warranty that the goods shall be reasonably fit for such purpose;
 					- (2) Where the goods are brought by description from a seller who deals in goods of that description (whether he be the grower or manufacturer or not), there is an implied warranty that the goods shall be of merchantable quality. (n)
@@ -560,7 +561,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- This provision shall not apply if the contrary has been stipulated, and the vendor was not aware of the hidden faults or defects in the thing sold. (1485)
 			- **ARTICLE 1567.**
 			  id:: 8442d552-5f3f-47b5-9ce4-9082e4c184ed
-			  collapsed:: true
 				- In the cases of articles [1561](((f607dbfd-7cc8-4679-b572-5a7338b87c86))), [1562](((dedb23d8-419d-412c-a48e-f6448bc1112c))), [1564](((55d7e2ec-a2bb-45ad-ad7d-f9cfc2a87a6f))), [1565](((4a04796c-4ebc-4c5d-bcac-737c778d97bd))) and [1566](((1badb80c-aad0-4d59-9647-1fd1ae478d5e))), the vendee may elect between withdrawing from the contract and demanding a proportionate reduction of the price, with damages in either case. (1486a)
 			- **ARTICLE 1568.**
 			  collapsed:: true
