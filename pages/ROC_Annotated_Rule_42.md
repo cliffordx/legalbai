@@ -55,7 +55,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   id:: 8f99dfd4-9a3e-4da5-9643-0cc371c397e3
 	- (a) Upon the timely **filing of a petition for review and the payment of the corresponding docket** and other **lawful fees**, the appeal is deemed perfected as to the petitioner.
 		- The Regional Trial Court loses jurisdiction over the case upon the perfection of the appeals filed in due time and the expiration of the time to appeal of the other parties.
-	- However, before the Court of Appeals gives due course to the petition, the Regional Trial Court may issue **orders for the protection and preservation of the rights of the parties** which do not involve any matter litigated by the appeal, approve compromises, permit appeals of indigent litigants, order execution pending appeal in accordance with [Section 2](logseq://graph/OBSIDIAN?block-id=62bbdbd6-6b85-4061-a680-f89285f19f50) of Rule 39, and allow withdrawal of the appeal. (9a, R41)
+	- However, before the Court of Appeals gives due course to the petition, the Regional Trial Court may issue **orders for the protection and preservation of the rights of the parties** which do not involve any matter litigated by the appeal, approve compromises, permit appeals of indigent litigants, order execution pending appeal in accordance with [Section 2](((62bbdbd6-6b85-4061-a680-f89285f19f50) of Rule 39, and allow withdrawal of the appeal. (9a, R41)
 		- [[Residual jurisdiction]]
 	- (b) Except in civil cases decided under the Rule on Summary Procedure, the appeal shall stay the judgment or final order unless the Court of Appeals, the law, or these Rules shall provide otherwise. (n)
 - **SECTION 9**. Submission for decision.

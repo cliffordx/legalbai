@@ -44,7 +44,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- (a) state the full names of the parties to the case, without impleading the court or agencies either as petitioners or respondents;
 		- (b) contain a concise statement of the facts and issues involved and the grounds relied upon for the review;
 		- (c) be accompanied by a clearly legible duplicate original or a certified true copy of the award, judgment, final order or resolution appealed from, together with certified true copies of such material portions of the record referred to therein and other supporting papers; and
-		- (d) contain a sworn certification against forum shopping as provided in the last paragraph of [Section 2](logseq://graph/OBSIDIAN?block-id=c7f63adc-a291-404c-90c1-37b7d96a1e7c), Rule 42.
+		- (d) contain a sworn certification against forum shopping as provided in the last paragraph of [Section 2](((c7f63adc-a291-404c-90c1-37b7d96a1e7c), Rule 42.
 		- The petition shall state the specific material dates showing that it was filed within the period fixed herein. (2a)
 - **SECTION 7.** Effect of failure to comply with requirements.
   collapsed:: true

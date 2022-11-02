@@ -71,7 +71,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When the work is of such a nature that the portion which the lessee and his family need for their dwelling becomes uninhabitable, he may rescind the contract if the main purpose of the lease is to provide a dwelling place for the lessee. (1558a)
 		- **ARTICLE 1663.**
 			- The lessee is obliged to bring to the knowledge of the proprietor, within the shortest possible time, every usurpation or untoward act which any third person may have committed or may be openly preparing to carry out upon the thing leased.
-			- He is also obliged to advise the owner, with the same urgency, of the need of all repairs included in [No. 2](logseq://graph/OBSIDIAN?block-id=62b5cf8b-d2b4-43d4-a40b-ca84df423b10) of article 1654.
+			- He is also obliged to advise the owner, with the same urgency, of the need of all repairs included in [No. 2](((62b5cf8b-d2b4-43d4-a40b-ca84df423b10) of article 1654.
 			- In both cases the lessee shall be liable for the damages which, through his negligence, may be suffered by the proprietor.
 			- If the lessor fails to make urgent repairs, the lessee, in order to avoid an imminent danger, may order the repairs at the lessor’s cost. (1559a)
 		- **ARTICLE 1664.**
@@ -99,7 +99,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (1) When the period agreed upon, or that which is fixed for the duration of leases under articles 1682 and 1687, has expired;
 				- (2) Lack of payment of the price stipulated;
 				- (3) Violation of any of the conditions agreed upon in the contract;
-				- (4) When the lessee devotes the thing leased to any use or service not stipulated which causes the deterioration thereof; or if he does not observe the requirement in [No. 2](logseq://graph/OBSIDIAN?block-id=62b5cfc1-6e61-48c9-992e-f88bb39bb915) of article 1657, as regards the use thereof.
+				- (4) When the lessee devotes the thing leased to any use or service not stipulated which causes the deterioration thereof; or if he does not observe the requirement in [No. 2](((62b5cfc1-6e61-48c9-992e-f88bb39bb915) of article 1657, as regards the use thereof.
 			- The ejectment of tenants of agricultural lands is governed by special laws. (1569a)
 		- **ARTICLE 1674.**
 			- In ejectment cases where an appeal is taken, the remedy granted in article 539, second paragraph, shall also apply, if the higher court is satisfied that the lessee’s appeal is frivolous or dilatory, or that the lessor’s appeal is prima facie meritorious. The period of ten days referred to in said article shall be counted from the time the appeal is perfected. (n)

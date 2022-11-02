@@ -95,7 +95,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Responsibility arising from negligence in the performance of every kind of obligation is also demandable, but such liability may be regulated by the courts, according to the circumstances. (1103)
 	- **ARTICLE 1173.**
 	  collapsed:: true
-		- The fault or negligence of the obligor consists in the omission of that diligence which is required by the nature of the obligation and corresponds with the circumstances of the persons, of the time and of the place. When negligence shows bad faith, the provisions of [articles 1171](logseq://graph/OBSIDIAN?block-id=2fddddea-6d00-48d1-9607-3f8701f95534) and 2201, paragraph 2, shall apply.
+		- The fault or negligence of the obligor consists in the omission of that diligence which is required by the nature of the obligation and corresponds with the circumstances of the persons, of the time and of the place. When negligence shows bad faith, the provisions of [articles 1171](((2fddddea-6d00-48d1-9607-3f8701f95534) and 2201, paragraph 2, shall apply.
 		- If the law or contract does not state the diligence which is to be observed in the performance, that which is expected of a good father of a family shall be required. (1104a)
 	- **ARTICLE 1174.**
 	  id:: d741e29e-cd2e-4df3-9930-d288bdd00d25
@@ -172,7 +172,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When the conditions have for their purpose the extinguishment of an obligation to give, the parties, upon the fulfillment of said conditions, shall return to each other what they have received.
 			  id:: 6302fb31-1751-4ee7-b1e0-e49989033ac5
 			- In case of the loss, deterioration or improvement of the thing, the provisions which, with respect to the debtor, are laid down in the preceding article shall be applied to the party who is bound to return.
-			- As for obligations to do and not to do, the provisions of the [second paragraph of article 1187](logseq://graph/OBSIDIAN?block-id=62b87f38-4242-4b6f-8778-4780eb01ba8d) shall be observed as regards the effect of the extinguishment of the obligation. (1123)
+			- As for obligations to do and not to do, the provisions of the [second paragraph of article 1187](((62b87f38-4242-4b6f-8778-4780eb01ba8d) shall be observed as regards the effect of the extinguishment of the obligation. (1123)
 		- **ARTICLE 1191.**
 		  collapsed:: true
 		  id:: 62e7ca78-a7ad-4bac-9052-89837572036a

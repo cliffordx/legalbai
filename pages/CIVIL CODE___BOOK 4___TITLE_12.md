@@ -176,8 +176,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			  id:: 62b5c752-245c-4ebc-995b-3117a2114af6
 	- **ARTICLE 1997.**
 	  collapsed:: true
-		- The deposit referred to in [No. 1](logseq://graph/OBSIDIAN?block-id=62b5c750-9a94-452c-badf-a4ea316f4c71) of the preceding article shall be governed by the provisions of the law establishing it, and in case of its deficiency, by the rules on voluntary deposit.
-		- The deposit mentioned in [No. 2](logseq://graph/OBSIDIAN?block-id=62b5c752-245c-4ebc-995b-3117a2114af6) of the preceding article shall be regulated by the provisions concerning voluntary deposit and by [article 2168](((635bc74e-5221-47c9-845b-a34ed7ef8bd9))). (1782)
+		- The deposit referred to in [No. 1](((62b5c750-9a94-452c-badf-a4ea316f4c71) of the preceding article shall be governed by the provisions of the law establishing it, and in case of its deficiency, by the rules on voluntary deposit.
+		- The deposit mentioned in [No. 2](((62b5c752-245c-4ebc-995b-3117a2114af6) of the preceding article shall be regulated by the provisions concerning voluntary deposit and by [article 2168](((635bc74e-5221-47c9-845b-a34ed7ef8bd9))). (1782)
 	- ## Responsibility of Hotel-Keepers
 		- **ARTICLE 1998.**
 		  id:: 40a2311b-0cf2-4663-9cb4-c069516f97c0
