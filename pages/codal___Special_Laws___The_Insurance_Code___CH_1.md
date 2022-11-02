@@ -27,7 +27,6 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 	- **SECTION 9.**
 		- If an insurer assents to the transfer of an insurance from a mortgagor to a mortgagee, and, at the time of his assent, imposes further obligations on the assignee, making a new contract with him, the acts of the mortgagor cannot affect the rights of said assignee.
 - ## TITLE 3 Insurable Interest
-  collapsed:: true
 	- **SECTION 10.**
 		- Every person has an insurable interest in the life and health:
 			- (a) Of himself, of his spouse and of his children;
