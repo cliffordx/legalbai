@@ -154,6 +154,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The voluntary recognition of a natural child shall take place according to this Code, even if the child was born before the effectivity of this body of laws. (n)
 	- **ARTICLE 2261.**
 	  collapsed:: true
+	  id:: 635bc750-5ea2-4f03-aeee-8cf55fdc88a9
 		- The exemption prescribed in article 302 shall also be applicable to any support, pension or gratuity already existing or granted before this Code becomes effective. (n)
 	- **ARTICLE 2262.**
 	  collapsed:: true
