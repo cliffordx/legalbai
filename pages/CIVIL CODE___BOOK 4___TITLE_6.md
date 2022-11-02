@@ -161,17 +161,14 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The prohibitions in the two preceding articles are applicable to sales in [[legal redemption]], compromises and renunciations. (n)
 			- [^1]: This is superseded by [Article 194](((cf08893c-3a8c-4d28-ad56-757a94308e45))), Family Code of the Philippines.
-# CHAPTER 3 - EFFECTS OF THE CONTRACT WHEN THE THING SOLD HAS BEEN LOST
-- ARTICLE 1493.
-  If at the time the contract of sale is perfected, the thing which is the object of the contract has been entirely lost, the contract shall be without any effect.
-  
-  But if the thing should have been lost in part only, the vendee may choose between withdrawing from the contract and demanding the remaining part, paying its price in proportion to the total sum agreed upon. (1460a)
-- ARTICLE 1494.
-  Where the parties purport a sale of specific goods, and the goods without the knowledge of the seller have perished in part or have wholly or in a material part so deteriorated in quality as to be substantially changed in character, the buyer may at his option treat the sale:
-  
-  (1) As avoided; or
-  
-  (2) As valid in all of the existing goods or in so much thereof as have not deteriorated, and as binding the buyer to pay the agreed price for the goods in which the ownership will pass, if the sale was divisible. (n)
+- # 🔴 CHAPTER 3 - EFFECTS OF THE CONTRACT WHEN THE THING SOLD HAS BEEN LOST
+	- **ARTICLE 1493.**
+		- If at the time the contract of sale is perfected, the thing which is the object of the contract has been entirely lost, the contract shall be without any effect.
+		- But if the thing should have been lost in part only, the vendee may choose between withdrawing from the contract and demanding the remaining part, paying its price in proportion to the total sum agreed upon. (1460a)
+	- **ARTICLE 1494.**
+		- Where the parties purport a sale of specific goods, and the goods without the knowledge of the seller have perished in part or have wholly or in a material part so deteriorated in quality as to be substantially changed in character, the buyer may at his option treat the sale:
+			- (1) As avoided; or
+			- (2) As valid in all of the existing goods or in so much thereof as have not deteriorated, and as binding the buyer to pay the agreed price for the goods in which the ownership will pass, if the sale was divisible. (n)
 - # 🔴 CHAPTER 4 - OBLIGATIONS OF THE VENDOR
   id:: 6300757d-f263-4037-bc09-20cf695f75ef
 	- ## SECTION 1 - General Provisions
