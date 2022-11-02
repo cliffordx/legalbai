@@ -41,7 +41,6 @@ status:: active
   collapsed:: true
 	- The salaries of Senators and Members of the House of Representatives shall be determined by law. No increase in said compensation shall take effect until after the expiration of the full term of all the Members of the Senate and the House of Representatives approving such increase.
 - **SECTION 11.**
-  collapsed:: true
 	- A Senator or Member of the House of Representatives shall, in all offenses punishable by not more than six years imprisonment, be privileged from arrest while the Congress is in session. No Member shall be questioned nor be held liable in any other place for any speech or debate in the Congress or in any committee thereof.
 - **SECTION 12.**
   collapsed:: true

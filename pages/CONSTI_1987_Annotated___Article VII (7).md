@@ -7,7 +7,6 @@ status:: active
 
 - # Article VII - EXECUTIVE DEPARTMENT
 - **SECTION 1.**
-  collapsed:: true
 	- The [executive power](((62cc5a68-3b85-4521-9a76-1973f13df0be))) shall be vested in the President of the Philippines.
 - **SECTION 2.**
   collapsed:: true
