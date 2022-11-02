@@ -34,6 +34,9 @@
   "06 - title vi* - property relations between husband and wife#article 195|article 195",
   :block/created-at 1666857311918,
   :block/updated-at 1666857311918}
+ {:block/name "07 - title vii - adoption#article 191|article 191",
+  :block/created-at 1667396873044,
+  :block/updated-at 1667396873044}
  {:block/name "07 - title vii* - the family#article 219|article 291",
   :block/created-at 1666857328113,
   :block/updated-at 1666857328113}
@@ -488,7 +491,7 @@
   :block/updated-at 1666874829422}
  {:block/name "civil code/book 4/title_6",
   :block/created-at 1666857321539,
-  :block/updated-at 1666857321539}
+  :block/updated-at 1667396845700}
  {:block/name "civil code/book 4/title_7",
   :block/created-at 1666857321537,
   :block/updated-at 1666857321537}
@@ -1031,6 +1034,9 @@
  {:block/name "ledesma v. court of appeals",
   :block/created-at 1666878433586,
   :block/updated-at 1666878433586}
+ {:block/name "legal redemption",
+  :block/created-at 1667396873044,
+  :block/updated-at 1667396873044}
  {:block/name "legitime",
   :block/created-at 1666857317930,
   :block/updated-at 1666885508205}

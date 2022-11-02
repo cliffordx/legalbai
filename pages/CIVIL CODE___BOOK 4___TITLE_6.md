@@ -147,7 +147,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [article 290](((635bc739-c11b-4a1f-ae21-cef0d5fa8d8e))).[^1] (1457a)
 	- **ARTICLE 1490.**
 		- The husband and the wife cannot sell property to each other, except:
-		  collapsed:: true
 			- (1) When a separation of property was agreed upon in the marriage settlements; or
 			- (2) When there has been a judicial separation of property under [[07 - TITLE VII - ADOPTION#ARTICLE 191|article 191]]. (1458a)
 	- **ARTICLE 1491.**
