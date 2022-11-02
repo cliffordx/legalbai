@@ -114,7 +114,7 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- The license shall be valid in any part of the Philippines for a period of one hundred twenty days from the date of issue, and shall be deemed automatically canceled at the expiration of the said period if the contracting parties have not made use of it.
 		- The expiry date shall be stamped in bold characters on the face of every license issued. (65a)
 	- **ARTICLE 21.**
-	  collapsed:: true
+	  id:: 635bc77a-febd-4f3b-af7a-4a548ad63fab
 		- When either or both of the contracting parties are citizens of a foreign country, it shall be necessary for them before a marriage license can be obtained, to submit a certificate of legal capacity to contract marriage, issued by their respective diplomatic or consular officials.
 		- Stateless persons or refugees from other countries shall, in lieu of the certificate of legal capacity herein required, submit an affidavit stating the circumstances showing such capacity to contract marriage. (66a)
 	- **ARTICLE 22.**
@@ -140,6 +140,7 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- He shall record in said book the names of the applicants, the date on which the marriage license was issued, and such other data as may be necessary. (n)
 	- **ARTICLE 26.**
 	  collapsed:: true
+	  id:: 635bc77a-37d0-4296-b881-71e070b55dbf
 		- All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), 36, 37 and 38. (17a)
 		- Where a marriage between a Filipino citizen and a foreigner is validly celebrated and a divorce is thereafter validly obtained abroad by the alien spouse capacitating him or her to remarry, the Filipino spouse shall have capacity to remarry under Philippine law. (As amended by Executive Order 227)
 - [[🔴 Chapter 2 - Marriages Exempted from License Requirement]]
