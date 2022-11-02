@@ -142,10 +142,10 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The expropriation of property for public use is governed by special laws. (1456)
 - # 🔴 CHAPTER 2 - CAPACITY TO BUY OR SELL
-- ARTICLE 1489. 
-  All persons who are authorized in this Code to obligate themselves, may enter into a contract of sale, saving the modifications contained in the following articles.
-  
-  Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [[09 - TITLE IX* - SUPPORT#ARTICLE 290|article 290]].[^1] (1457a)
+- ARTICLE 1489.
+	- All persons who are authorized in this Code to obligate themselves, may enter into a contract of sale, saving the modifications contained in the following articles.
+	  
+	  Where necessaries are sold and delivered to a minor or other person without capacity to act, he must pay a reasonable price therefor. Necessaries are those referred to in [[09 - TITLE IX* - SUPPORT#ARTICLE 290|article 290]].[^1] (1457a)
 - ARTICLE 1490. 
   The husband and the wife cannot sell property to each other, except:
   
