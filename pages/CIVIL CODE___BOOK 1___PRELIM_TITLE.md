@@ -120,6 +120,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In all contractual, property or other relations, when one of the parties is at a disadvantage on account of his moral dependence, ignorance, indigence, mental weakness, tender age or other handicap, the courts must be vigilant for his protection.
 	- **ARTICLE 25.**
 	  collapsed:: true
+	  id:: 635bc737-3025-4e5f-a04b-db7575fa5613
 		- Thoughtless extravagance in expenses for pleasure or display during a period of acute public want or emergency may be stopped by order of the courts at the instance of any government or private charitable institution.
 	- **ARTICLE 26.**
 	  collapsed:: true

@@ -34,14 +34,6 @@
   "06 - title vi* - property relations between husband and wife#article 195|article 195",
   :block/created-at 1666857311918,
   :block/updated-at 1666857311918}
- {:block/name
-  "06 - title vi* - property relations between husband and wife#article 196|196",
-  :block/created-at 1666857312012,
-  :block/updated-at 1666857312012}
- {:block/name
-  "06 - title vi* - property relations between husband and wife#article 197|197",
-  :block/created-at 1666857312011,
-  :block/updated-at 1666857312011}
  {:block/name "07 - title vii* - the family#article 219|article 291",
   :block/created-at 1666857328113,
   :block/updated-at 1666857328113}
@@ -378,7 +370,7 @@
   :block/updated-at 1666857913760}
  {:block/name "civil code/book 1/title_5",
   :block/created-at 1666857312021,
-  :block/updated-at 1666857924374}
+  :block/updated-at 1667393853257}
  {:block/name "civil code/book 1/title_6",
   :block/created-at 1666857312487,
   :block/updated-at 1666874097355}
@@ -399,7 +391,7 @@
   :block/updated-at 1666874278992}
  {:block/name "civil code/book 2/title_2",
   :block/created-at 1666857313513,
-  :block/updated-at 1666874294729}
+  :block/updated-at 1667393350545}
  {:block/name "civil code/book 2/title_3",
   :block/created-at 1666857313513,
   :block/updated-at 1666857313513}
@@ -411,7 +403,7 @@
   :block/updated-at 1666874398872}
  {:block/name "civil code/book 2/title_6",
   :block/created-at 1666857313515,
-  :block/updated-at 1666874438574}
+  :block/updated-at 1667393426404}
  {:block/name "civil code/book 2/title_7",
   :block/created-at 1666857313517,
   :block/updated-at 1666874479755}
