@@ -81,7 +81,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- An accepted unilateral promise to buy or to sell a determinate thing for a price certain is binding upon the promisor if the promise is supported by a consideration distinct from the price. (1451a)
 	- **ARTICLE 1480.**
 		- Any injury to or benefit from the thing sold, after the contract has been perfected, from the moment of the perfection of the contract to the time of delivery, shall be governed by articles [1163](((62e95bce-7da1-4109-8af6-11a6af7da4d3))) to [1165](((6a69d90e-b22c-4d90-a3be-55c051db8b7a))), and [1262](((6302fb31-4f4c-4ec4-900a-bedb6842c634))).
-		- This rule shall apply to the sale of [fungible things](((62f13844-c62c-406d-bbde-88afae3e6662))), made independently and for a single price, or without consideration of their weight, number, or measure.
+		- This rule shall apply to the sale of fungible things, made independently and for a single price, or without consideration of their weight, number, or measure.
 		- Should fungible things be sold for a price fixed according to weight, number, or measure, the risk shall not be imputed to the vendee until they have been weighed, counted, or measured and delivered, unless the latter has incurred in delay. (1452a)
 	- **ARTICLE 1481.**
 		- In the contract of sale of goods by description or by sample, the contract may be rescinded if the bulk of the goods delivered do not correspond with the description or the sample, and if the contract be by sample as well as description, it is not sufficient that the bulk of goods correspond with the sample if they do not also correspond with the description.

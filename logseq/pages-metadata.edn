@@ -431,7 +431,7 @@
   :block/updated-at 1666857313522}
  {:block/name "civil code/book 2/title_1",
   :block/created-at 1666857313505,
-  :block/updated-at 1666874278992}
+  :block/updated-at 1667410649212}
  {:block/name "civil code/book 2/title_2",
   :block/created-at 1666857313513,
   :block/updated-at 1667393350545}
@@ -524,7 +524,7 @@
   :block/updated-at 1666874829422}
  {:block/name "civil code/book 4/title_6",
   :block/created-at 1666857321539,
-  :block/updated-at 1667399092546}
+  :block/updated-at 1667411068763}
  {:block/name "civil code/book 4/title_7",
   :block/created-at 1666857321537,
   :block/updated-at 1666857321537}
@@ -1013,6 +1013,9 @@
  {:block/name "homepage",
   :block/created-at 1666721194868,
   :block/updated-at 1666948585146}
+ {:block/name "immovable property",
+  :block/created-at 1667410529208,
+  :block/updated-at 1667410529208}
  {:block/name "impeachment",
   :block/created-at 1666878433891,
   :block/updated-at 1666878433891}
@@ -1563,6 +1566,9 @@
  {:block/name "thursday, jun 23rd, 2022",
   :block/created-at 1666959205295,
   :block/updated-at 1666959205295}
+ {:block/name "thursday, nov 3rd, 2022",
+  :block/created-at 1667410528038,
+  :block/updated-at 1667410528038}
  {:block/name "thursday, oct 27th, 2022",
   :block/created-at 1666959158407,
   :block/updated-at 1666959158407}
