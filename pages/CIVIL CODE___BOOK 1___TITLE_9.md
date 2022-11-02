@@ -73,8 +73,7 @@ status:: inactive, superseded
 - **ARTICLE 301.**
   collapsed:: true
 	- > Note: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 205]], Family Code of the Philippines.
-	  
-	  The right to receive support cannot be renounced; nor can it be transmitted to a third person. Neither can it be compensated with what the recipient owes the obligor.
+	- The right to receive support cannot be renounced; nor can it be transmitted to a third person. Neither can it be compensated with what the recipient owes the obligor.
 	- However, support in arrears may be compensated and renounced, and the right to demand the same may be transmitted by onerous or gratuitous title. (151)
 - **ARTICLE 302.**
   collapsed:: true
