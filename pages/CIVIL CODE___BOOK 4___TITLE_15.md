@@ -27,10 +27,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 	  id:: 62f13785-0ef4-44e8-9cb8-2cd4397ad9a3
 		- If a guaranty is entered into without the knowledge or consent, or against the will of the principal debtor, the provisions of articles 1236 and 1237 shall apply. (n)
-		  collapsed:: true
 			- COMMENTARY:
 			- if the contract is entered into
-			  collapsed:: true
 				- principal debtor but:
 				  collapsed:: true
 					- without knowledge and consent, or
