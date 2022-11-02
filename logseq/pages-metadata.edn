@@ -19,6 +19,45 @@
  {:block/name "$red",
   :block/created-at 1666857317862,
   :block/updated-at 1666857317862}
+ {:block/name
+  "((52b40029-f889-42da-b637-f22083a30e6a) of this rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her<",
+  :block/created-at 1667399362928,
+  :block/updated-at 1667399362928}
+ {:block/name
+  "((52b40029-f889-42da-b637-f22083a30e6a) of this rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her</ins> residence to the place where he <ins>or she<",
+  :block/created-at 1667399362930,
+  :block/updated-at 1667399362930}
+ {:block/name
+  "((52b40029-f889-42da-b637-f22083a30e6a) of this rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her</ins> residence to the place where he <ins>or she</ins> is to testify by the ordinary course of travel, or to a detention prisoner if no permission of the court in which his case is pending was obtained. (9a, r23",
+  :block/created-at 1667399362927,
+  :block/updated-at 1667399362927}
+ {:block/name
+  "((62b5c752-245c-4ebc-995b-3117a2114af6) of the preceding article shall be regulated by the provisions concerning voluntary deposit and by [article 2168](((635bc74e-5221-47c9-845b-a34ed7ef8bd9))). (1782",
+  :block/created-at 1667399366429,
+  :block/updated-at 1667399366429}
+ {:block/name
+  "((62b87f38-4242-4b6f-8778-4780eb01ba8d) shall be observed as regards the effect of the extinguishment of the obligation. (1123",
+  :block/created-at 1667399365049,
+  :block/updated-at 1667399365049}
+ {:block/name
+  "((62bbdbd6-6b85-4061-a680-f89285f19f50) of rule 39, and allow withdrawal of the appeal. (9a",
+  :block/created-at 1667399363208,
+  :block/updated-at 1667399363208}
+ {:block/name
+  "((62bbdbd6-6b85-4061-a680-f89285f19f50) of rule 39, and allow withdrawal of the appeal. (9a, r41",
+  :block/created-at 1667399362661,
+  :block/updated-at 1667399362661}
+ {:block/name
+  "((62c12fd7-08d2-4479-8476-bd3d6ebe46e6) of rule 23, and the answers may be used for the same purposes provided in [section 4](((62c12fd7-cfc7-4ab0-9f95-bc7320169ba8) of the same rule. (5a",
+  :block/created-at 1667399366220,
+  :block/updated-at 1667399366220}
+ {:block/name
+  "((b7a5ce98-2a9c-4d50-a97b-fde9f87d17f8) of this rule, or that fixed by the court. (8a",
+  :block/created-at 1667399363193,
+  :block/updated-at 1667399363193}
+ {:block/name "((d2bab0df-9b5b-480b-a55f-fe6528dc0f23), rule 41. (n",
+  :block/created-at 1667399362337,
+  :block/updated-at 1667399362337}
  {:block/name "01e336a3-3b6c-4906-8494-c64e62935490",
   :block/created-at 1666720759360,
   :block/updated-at 1666720759360}
