@@ -54,6 +54,7 @@ status:: active
 - **SECTION 16.**
 	- All persons shall have the right to a speedy disposition of their cases before all judicial, quasi-judicial, or administrative bodies.
 - **SECTION 17.**
+  id:: 635bc759-de6d-4d86-b05c-5e4c7c0e2bd5
 	- No person shall be compelled to be a witness against himself.
 - **SECTION 18.**
 	- (1) No person shall be detained solely by reason of his political beliefs and aspirations.
