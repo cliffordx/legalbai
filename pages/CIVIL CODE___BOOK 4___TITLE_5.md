@@ -22,7 +22,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The principles of the general law of trusts, insofar as they are not in conflict with this Code, the Code of Commerce, the Rules of Court and special laws are hereby adopted.
 - # 🔴 CHAPTER 2 - Express Trusts
-  collapsed:: true
 	- **ARTICLE 1443.**
 	  collapsed:: true
 		- No express trusts concerning an immovable or any interest therein may be proved by parol evidence.
