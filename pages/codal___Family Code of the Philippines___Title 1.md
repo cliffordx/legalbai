@@ -165,12 +165,14 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- A marriage in *articulo mortis* between passengers or crew members may also be solemnized by a ship captain or by an airplane pilot not only while the ship is at sea or the plane is in flight, but also during stopovers at ports of call. (74a)
 	- **ARTICLE 32.**
 	  collapsed:: true
+	  id:: 635bc77a-e254-4d88-b45d-582624bf6516
 		- A military commander of a unit, who is a commissioned officer, shall likewise have authority to solemnize marriages in *articulo mortis* between persons within the zone of military operation, whether members of the armed forces or civilians. (74a)
 	- **ARTICLE 33.**
 	  collapsed:: true
 		- Marriages among Muslims or among members of the ethnic cultural communities may be performed validly without the necessity of marriage license, provided they are solemnized in accordance with their customs, rites or practices. (78a)
 	- **ARTICLE 34.**
 	  collapsed:: true
+	  id:: 635bc77a-ce5f-4847-8ef5-5dc0c6c1dbc8
 		- No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least five years and without any legal impediment to marry each other.
 		- The contracting parties shall state the foregoing facts in an affidavit before any person authorized by law to administer oaths.
 		- The solemnizing officer shall also state under oath that he ascertained the qualifications of the contracting parties are found no legal impediment to the marriage. (76a)
