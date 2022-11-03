@@ -19,45 +19,6 @@
  {:block/name "$red",
   :block/created-at 1666857317862,
   :block/updated-at 1666857317862}
- {:block/name
-  "((52b40029-f889-42da-b637-f22083a30e6a) of this rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her<",
-  :block/created-at 1667399362928,
-  :block/updated-at 1667399362928}
- {:block/name
-  "((52b40029-f889-42da-b637-f22083a30e6a) of this rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her</ins> residence to the place where he <ins>or she<",
-  :block/created-at 1667399362930,
-  :block/updated-at 1667399362930}
- {:block/name
-  "((52b40029-f889-42da-b637-f22083a30e6a) of this rule shall not apply to a witness who resides more than one hundred (100) kilometers from his <ins>or her</ins> residence to the place where he <ins>or she</ins> is to testify by the ordinary course of travel, or to a detention prisoner if no permission of the court in which his case is pending was obtained. (9a, r23",
-  :block/created-at 1667399362927,
-  :block/updated-at 1667399362927}
- {:block/name
-  "((62b5c752-245c-4ebc-995b-3117a2114af6) of the preceding article shall be regulated by the provisions concerning voluntary deposit and by [article 2168](((635bc74e-5221-47c9-845b-a34ed7ef8bd9))). (1782",
-  :block/created-at 1667399366429,
-  :block/updated-at 1667399366429}
- {:block/name
-  "((62b87f38-4242-4b6f-8778-4780eb01ba8d) shall be observed as regards the effect of the extinguishment of the obligation. (1123",
-  :block/created-at 1667399365049,
-  :block/updated-at 1667399365049}
- {:block/name
-  "((62bbdbd6-6b85-4061-a680-f89285f19f50) of rule 39, and allow withdrawal of the appeal. (9a",
-  :block/created-at 1667399363208,
-  :block/updated-at 1667399363208}
- {:block/name
-  "((62bbdbd6-6b85-4061-a680-f89285f19f50) of rule 39, and allow withdrawal of the appeal. (9a, r41",
-  :block/created-at 1667399362661,
-  :block/updated-at 1667399362661}
- {:block/name
-  "((62c12fd7-08d2-4479-8476-bd3d6ebe46e6) of rule 23, and the answers may be used for the same purposes provided in [section 4](((62c12fd7-cfc7-4ab0-9f95-bc7320169ba8) of the same rule. (5a",
-  :block/created-at 1667399366220,
-  :block/updated-at 1667399366220}
- {:block/name
-  "((b7a5ce98-2a9c-4d50-a97b-fde9f87d17f8) of this rule, or that fixed by the court. (8a",
-  :block/created-at 1667399363193,
-  :block/updated-at 1667399363193}
- {:block/name "((d2bab0df-9b5b-480b-a55f-fe6528dc0f23), rule 41. (n",
-  :block/created-at 1667399362337,
-  :block/updated-at 1667399362337}
  {:block/name "01e336a3-3b6c-4906-8494-c64e62935490",
   :block/created-at 1666720759360,
   :block/updated-at 1666720759360}
@@ -98,10 +59,6 @@
  {:block/name "25] to [[🗂 obs_persons_family/🗒 codal",
   :block/created-at 1667393887352,
   :block/updated-at 1667393887352}
- {:block/name
-  "25] to [[🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 35|35",
-  :block/created-at 1667393887350,
-  :block/updated-at 1667393887350}
  {:block/name "26 oct 2022",
   :block/created-at 1666760141922,
   :block/updated-at 1667139704172}
@@ -416,7 +373,7 @@
   :block/updated-at 1667393913123}
  {:block/name "civil code/book 1/title_6",
   :block/created-at 1666857312487,
-  :block/updated-at 1666874097355}
+  :block/updated-at 1667454876740}
  {:block/name "civil code/book 1/title_7",
   :block/created-at 1666857312935,
   :block/updated-at 1667394694076}
@@ -431,10 +388,10 @@
   :block/updated-at 1666857313522}
  {:block/name "civil code/book 2/title_1",
   :block/created-at 1666857313505,
-  :block/updated-at 1667410649212}
+  :block/updated-at 1667454921971}
  {:block/name "civil code/book 2/title_2",
   :block/created-at 1666857313513,
-  :block/updated-at 1667393350545}
+  :block/updated-at 1667454908863}
  {:block/name "civil code/book 2/title_3",
   :block/created-at 1666857313513,
   :block/updated-at 1666857313513}
@@ -446,7 +403,7 @@
   :block/updated-at 1666874398872}
  {:block/name "civil code/book 2/title_6",
   :block/created-at 1666857313515,
-  :block/updated-at 1667393426404}
+  :block/updated-at 1667454879689}
  {:block/name "civil code/book 2/title_7",
   :block/created-at 1666857313517,
   :block/updated-at 1666874479755}
@@ -455,7 +412,7 @@
   :block/updated-at 1666857313519}
  {:block/name "civil code/book 2/title_9",
   :block/created-at 1666857313521,
-  :block/updated-at 1666857313521}
+  :block/updated-at 1667454878740}
  {:block/name "civil code/book 3",
   :block/created-at 1666857316027,
   :block/updated-at 1667392210888}
@@ -470,25 +427,25 @@
   :block/updated-at 1666874632506}
  {:block/name "civil code/book 3/title_4",
   :block/created-at 1666857316022,
-  :block/updated-at 1667394110769}
+  :block/updated-at 1667454870588}
  {:block/name "civil code/book 3/title_5",
   :block/created-at 1666857316026,
-  :block/updated-at 1666874707387}
+  :block/updated-at 1667454889220}
  {:block/name "civil code/book 4",
   :block/created-at 1666857317994,
   :block/updated-at 1666857317994}
  {:block/name "civil code/book 4/title_1",
   :block/created-at 1666857321525,
-  :block/updated-at 1667394821387}
+  :block/updated-at 1667454744185}
  {:block/name "civil code/book 4/title_10",
   :block/created-at 1666857321545,
-  :block/updated-at 1666857321545}
+  :block/updated-at 1667454850336}
  {:block/name "civil code/book 4/title_11",
   :block/created-at 1666857321547,
-  :block/updated-at 1666857321547}
+  :block/updated-at 1667454853918}
  {:block/name "civil code/book 4/title_12",
   :block/created-at 1666857321547,
-  :block/updated-at 1667394969114}
+  :block/updated-at 1667454848351}
  {:block/name "civil code/book 4/title_13",
   :block/created-at 1666857321533,
   :block/updated-at 1666857321533}
@@ -509,22 +466,22 @@
   :block/updated-at 1667395978285}
  {:block/name "civil code/book 4/title_19",
   :block/created-at 1666857317993,
-  :block/updated-at 1667394342405}
+  :block/updated-at 1667454873524}
  {:block/name "civil code/book 4/title_2",
   :block/created-at 1666857321524,
-  :block/updated-at 1667394471977}
+  :block/updated-at 1667454887847}
  {:block/name "civil code/book 4/title_3",
   :block/created-at 1666857321529,
   :block/updated-at 1666857321529}
  {:block/name "civil code/book 4/title_4",
   :block/created-at 1666857321535,
-  :block/updated-at 1666857321535}
+  :block/updated-at 1667454869307}
  {:block/name "civil code/book 4/title_5",
   :block/created-at 1666857321541,
   :block/updated-at 1666874829422}
  {:block/name "civil code/book 4/title_6",
   :block/created-at 1666857321539,
-  :block/updated-at 1667411126725}
+  :block/updated-at 1667454884894}
  {:block/name "civil code/book 4/title_7",
   :block/created-at 1666857321537,
   :block/updated-at 1666857321537}
@@ -533,7 +490,7 @@
   :block/updated-at 1667396133713}
  {:block/name "civil code/book 4/title_9",
   :block/created-at 1666857321544,
-  :block/updated-at 1666857321544}
+  :block/updated-at 1667454867354}
  {:block/name "civil interdiction",
   :block/created-at 1666857310268,
   :block/updated-at 1666857310268}
@@ -1512,6 +1469,9 @@
  {:block/name "stopped",
   :block/created-at 1666931442647,
   :block/updated-at 1666931442647}
+ {:block/name "subrogation",
+  :block/created-at 1667454709628,
+  :block/updated-at 1667454709628}
  {:block/name "substitution of heirs",
   :block/created-at 1667187845848,
   :block/updated-at 1667187845848}
@@ -1727,10 +1687,6 @@
   "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25] to [[🗂 obs_persons_family/🗒 codal",
   :block/created-at 1667393884651,
   :block/updated-at 1667393884651}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25] to [[🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 35|35",
-  :block/created-at 1667393884647,
-  :block/updated-at 1667393884647}
  {:block/name
   "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 26|26",
   :block/created-at 1666857328128,
