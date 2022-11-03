@@ -33,5 +33,4 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   collapsed:: true
 	- When a testate or intestate heir voluntarily pays a debt of the decedent exceeding the value of the property which he received by will or by the law of intestacy from the estate of the deceased, the payment is valid and cannot be rescinded by the payer.
 - **ARTICLE 1430.**
-  collapsed:: true
 	- When a will is declared void because it has not been executed in accordance with the formalities required by law, but one of the intestate heirs, after the settlement of the debts of the deceased, pays a legacy in compliance with a clause in the defective will, the payment is effective and irrevocable.

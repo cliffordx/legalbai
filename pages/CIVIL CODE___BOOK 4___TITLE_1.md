@@ -44,8 +44,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1162.**
 	  collapsed:: true
 		- Obligations derived from quasi-delicts shall be governed by the provisions of Chapter 2, Title XVII of this Book, and by special laws. (1093a)
-- # 🔴 CHAPTER 2 - Nature and Effect of Obligations]]
-  heading:: true
+- # 🔴 CHAPTER 2 - Nature and Effect of Obligations
 	- **ARTICLE 1163.**
 	  collapsed:: true
 	  id:: 62e95bce-7da1-4109-8af6-11a6af7da4d3
