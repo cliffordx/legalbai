@@ -7,6 +7,7 @@ status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - # 🔴 CHAPTER 1- NATURE AND FORM OF THE CONTRACT
+  collapsed:: true
 	- **ARTICLE 1458.**
 	  id:: 7b1b3e18-bc92-4d11-8f36-c1d86c985a71
 		- By the contract of sale one of the contracting parties obligates himself to transfer the [ownership]([[Ownership]]) of and to deliver a [determinate thing](((6305e3b8-f002-455d-b9a2-cda259b4bbdd))), and the other to pay therefor a price certain in money or its equivalent.
