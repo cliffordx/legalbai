@@ -113,8 +113,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1178.**
 	  collapsed:: true
 		- Subject to the laws, all rights acquired in virtue of an obligation are transmissible, if there has been no stipulation to the contrary. (1112)
-- # 🔴 CHAPTER 3 - Different Kinds of Obligations]]
-  heading:: true
+- # 🔴 CHAPTER 3 - Different Kinds of Obligations
 	- ### SECTION 1 - Pure and Conditional Obligations
 		- **ARTICLE 1179.**
 		  id:: 6302fb31-51ac-44cc-b3bd-79d01fa81430
@@ -355,8 +354,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The nullity of the penal clause does not carry with it that of the principal obligation.
 			- The nullity of the principal obligation carries with it that of the penal clause. (1155)
-- # 🔴 CHAPTER 4 - Extinguishment of Obligations]]
-  heading:: true
+- # 🔴 CHAPTER 4 - Extinguishment of Obligations
 	- ### General Provisions
 	  collapsed:: true
 		- **ARTICLE 1231.**
@@ -647,7 +645,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the new obligation is void, the original one shall subsist, unless the parties intended that the former relation should be extinguished in any event. (n)
 		- **ARTICLE 1298.**
 		  collapsed:: true
-			- The novation is void if the original obligation was void, except when annulment may be claimed only by the debtor, or when ratification validates acts which are voidable. (1208a)
+			- The [[novation] is void if the original obligation was void, except when annulment may be claimed only by the debtor, or when ratification validates acts which are voidable. (1208a)
 		- **ARTICLE 1299.**
 		  collapsed:: true
 			- If the original obligation was subject to a suspensive or resolutory condition, the new obligation shall be under the same condition, unless it is otherwise stipulated. (n)
