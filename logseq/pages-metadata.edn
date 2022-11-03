@@ -730,7 +730,7 @@
   :block/updated-at 1667374118459}
  {:block/name "codal/special_laws/the_insurance_code",
   :block/created-at 1667374118522,
-  :block/updated-at 1667374254755}
+  :block/updated-at 1667454979354}
  {:block/name "codal/special_laws/the_insurance_code/ch_1",
   :block/created-at 1667374118971,
   :block/updated-at 1667375345775}
@@ -739,7 +739,7 @@
   :block/updated-at 1667374119475}
  {:block/name "codal/special_laws/the_insurance_code/ch_2",
   :block/created-at 1667374119931,
-  :block/updated-at 1667374119931}
+  :block/updated-at 1667455001838}
  {:block/name "codal/special_laws/the_insurance_code/ch_3",
   :block/created-at 1667374121265,
   :block/updated-at 1667374121265}
@@ -859,6 +859,9 @@
  {:block/name "contingency",
   :block/created-at 1666857331238,
   :block/updated-at 1666857331238}
+ {:block/name "contract of insurance",
+  :block/created-at 1667454979353,
+  :block/updated-at 1667454979353}
  {:block/name "contract of loan",
   :block/created-at 1666857324179,
   :block/updated-at 1666857324179}
@@ -919,6 +922,9 @@
  {:block/name "flashcards",
   :block/created-at 1666770188834,
   :block/updated-at 1666771844116}
+ {:block/name "flow",
+  :block/created-at 1667455176326,
+  :block/updated-at 1667455423789}
  {:block/name "forms of contract",
   :block/created-at 1666857331241,
   :block/updated-at 1666857331241}
@@ -1057,6 +1063,9 @@
  {:block/name "midterm",
   :block/created-at 1666931442648,
   :block/updated-at 1666931442648}
+ {:block/name "mihaly csikszentmihalyi",
+  :block/created-at 1667455423788,
+  :block/updated-at 1667455441045}
  {:block/name "minority",
   :block/created-at 1666857310274,
   :block/updated-at 1666857310274}
@@ -1068,13 +1077,16 @@
   :block/updated-at 1666857317832}
  {:block/name "monday, oct 31st, 2022",
   :block/created-at 1667187845388,
-  :block/updated-at 1667375621136}
+  :block/updated-at 1667455896082}
  {:block/name "multiplicity of suits",
   :block/created-at 1666857322078,
   :block/updated-at 1666857322078}
  {:block/name "mutuum",
   :block/created-at 1666857324178,
   :block/updated-at 1666857324178}
+ {:block/name "name",
+  :block/created-at 1667455441045,
+  :block/updated-at 1667455441045}
  {:block/name "natural person",
   :block/created-at 1666857310264,
   :block/updated-at 1666857310264}
@@ -1528,7 +1540,7 @@
   :block/updated-at 1666959205295}
  {:block/name "thursday, nov 3rd, 2022",
   :block/created-at 1667410528038,
-  :block/updated-at 1667410528038}
+  :block/updated-at 1667455176328}
  {:block/name "thursday, oct 27th, 2022",
   :block/created-at 1666959158407,
   :block/updated-at 1666959158407}
@@ -1540,7 +1552,7 @@
   :block/updated-at 1666940202480}
  {:block/name "tuesday, nov 1st, 2022",
   :block/created-at 1667286121953,
-  :block/updated-at 1667293223240}
+  :block/updated-at 1667455520167}
  {:block/name "type",
   :block/created-at 1666720761575,
   :block/updated-at 1666720761575}
