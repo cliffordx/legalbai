@@ -233,7 +233,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_2
 		- The liability of the surety or sureties shall be joint and several with the obligor and shall be limited to the amount of the bond.
 		- It is determined strictly by the terms of the contract of [[suretyship]] in relation to the principal contract between the obligor and the obligee.
 	- **SECTION 179.**
-		- The surety is entitled to payment of the premium as soon as the contract of suretyship or bond is perfected and delivered to the obligor.
+		- The surety is entitled to payment of the premium as soon as the contract of [[suretyship]] or bond is perfected and delivered to the obligor.
 		- No contract of [[suretyship]] or bonding shall be valid and binding unless and until the premium therefor has been paid, except where the obligee has accepted the bond, in which case the bond becomes valid and enforceable irrespective of whether or not the premium has been paid by the obligor to the surety: **Provided**, *That* if the contract of [[suretyship]] or bond is not accepted by, or filed with the obligee, the surety shall collect only a reasonable amount, not exceeding fifty percent (50%) of the premium due thereon as service fee plus the cost of stamps or other taxes imposed for the issuance of the contract or bond: **Provided**, **however**, *That* if the nonacceptance of the bond be due to the fault or negligence of the surety, no such service fee, stamps or taxes shall be collected.
 		- In the case of a continuing bond, the obligor shall pay the subsequent annual premium as it falls due until the contract of [[suretyship]] is cancelled by the obligee or by the Commissioner or by a court of competent jurisdiction, as the case may be.
 	- **SECTION 180.**
