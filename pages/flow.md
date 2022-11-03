@@ -1,0 +1,2 @@
+- Mihaly Csikszentmihalyi in the 1970s described “flow,” the state in which being highly focused becomes effortless.
+	- That's why, when I used [[pomodoro]] before, it became a friction and a distraction.
