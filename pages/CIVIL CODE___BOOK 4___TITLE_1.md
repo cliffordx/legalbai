@@ -284,7 +284,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The debtor may pay any one of the solidary creditors; but if any demand, judicial or extrajudicial, has been made by one of them, payment should be made to him. (1142a)
 		- **ARTICLE 1215.**
 		  collapsed:: true
-			- Novation, compensation, confusion or remission of the debt, made by any of the solidary creditors or with any of the solidary debtors, shall extinguish the obligation, without prejudice to the provisions of ((c1fa8cec-cf7c-4ed9-9c2a-482ff5ce5f94))
+			- [[Novation]], compensation, confusion or remission of the debt, made by any of the solidary creditors or with any of the solidary debtors, shall extinguish the obligation, without prejudice to the provisions of ((c1fa8cec-cf7c-4ed9-9c2a-482ff5ce5f94))
 			- The creditor who may have executed any of these acts, as well as he who collects the debt, shall be liable to the others for the share in the obligation corresponding to them. (1143)
 		- **ARTICLE 1216.**
 		  collapsed:: true
@@ -629,7 +629,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In order that an obligation may be extinguished by another which substitute the same, it is imperative that it be so declared in unequivocal terms, or that the old and the new obligations be on every point incompatible with each other. (1204)
 		- **ARTICLE 1293.**
 		  collapsed:: true
-			- Novation which consists in substituting a new debtor in the place of the original one, may be made even without the knowledge or against the will of the latter, but not without the consent of the creditor.
+			- [[Novation]] which consists in substituting a new debtor in the place of the original one, may be made even without the knowledge or against the will of the latter, but not without the consent of the creditor.
 			- Payment by the new debtor gives him the rights mentioned in articles [1236](((e4672540-3dcf-4f7c-9c3c-784b5f3212e8))) and [1237](((06c5c1ca-d6b6-473f-9140-7c6fcde53c6f))). (1205a)
 		- **ARTICLE 1294.**
 		  collapsed:: true
@@ -639,13 +639,13 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The insolvency of the new debtor, who has been proposed by the original debtor and accepted by the creditor, shall not revive the action of the latter against the original obligor, except when said insolvency was already existing and of public knowledge, or known to the debtor, when he delegated his debt. (1206a)
 		- **ARTICLE 1296.**
 		  collapsed:: true
-			- When the principal obligation is extinguished in consequence of a novation, accessory obligations may subsist only insofar as they may benefit third persons who did not give their consent. (1207)
+			- When the principal obligation is extinguished in consequence of a [novation]([[Novation]]), accessory obligations may subsist only insofar as they may benefit third persons who did not give their consent. (1207)
 		- **ARTICLE 1297.**
 		  collapsed:: true
 			- If the new obligation is void, the original one shall subsist, unless the parties intended that the former relation should be extinguished in any event. (n)
 		- **ARTICLE 1298.**
 		  collapsed:: true
-			- The [novation]() is void if the original obligation was void, except when annulment may be claimed only by the debtor, or when ratification validates acts which are voidable. (1208a)
+			- The [novation]([[Novation]]) is void if the original obligation was void, except when annulment may be claimed only by the debtor, or when ratification validates acts which are voidable. (1208a)
 		- **ARTICLE 1299.**
 		  collapsed:: true
 			- If the original obligation was subject to a suspensive or resolutory condition, the new obligation shall be under the same condition, unless it is otherwise stipulated. (n)
@@ -658,7 +658,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Conventional subrogation of a third person requires the consent of the original parties and of the third person. (n)
 		- **ARTICLE 1302.**
 		  collapsed:: true
-			- It is presumed that there is legal subrogation:
+			- It is presumed that there is legal [[subrogation]] :
 				- (1) When a creditor pays another creditor who is preferred, even without the debtor’s knowledge;
 				- (2) When a third person, not interested in the obligation, pays with the express or tacit approval of the debtor;
 				- (3) When, even without the knowledge of the debtor, a person interested in the fulfillment of the obligation pays, without prejudice to the effects of confusion as to the latter’s share. (1210a)
