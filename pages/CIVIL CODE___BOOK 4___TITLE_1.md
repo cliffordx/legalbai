@@ -645,7 +645,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the new obligation is void, the original one shall subsist, unless the parties intended that the former relation should be extinguished in any event. (n)
 		- **ARTICLE 1298.**
 		  collapsed:: true
-			- The [[novation] is void if the original obligation was void, except when annulment may be claimed only by the debtor, or when ratification validates acts which are voidable. (1208a)
+			- The [novation]() is void if the original obligation was void, except when annulment may be claimed only by the debtor, or when ratification validates acts which are voidable. (1208a)
 		- **ARTICLE 1299.**
 		  collapsed:: true
 			- If the original obligation was subject to a suspensive or resolutory condition, the new obligation shall be under the same condition, unless it is otherwise stipulated. (n)
