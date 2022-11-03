@@ -651,11 +651,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the original obligation was subject to a suspensive or resolutory condition, the new obligation shall be under the same condition, unless it is otherwise stipulated. (n)
 		- **ARTICLE 1300.**
 		  collapsed:: true
-			- Subrogation of a third person in the rights of the creditor is either legal or conventional.
+			- [Subrogation]([[subrogation]]) of a third person in the rights of the creditor is either legal or conventional.
 			- The former is not presumed, except in cases expressly mentioned in this Code; the latter must be clearly established in order that it may take effect. (1209a)
 		- **ARTICLE 1301.**
 		  collapsed:: true
-			- Conventional subrogation of a third person requires the consent of the original parties and of the third person. (n)
+			- Conventional [[subrogation]] of a third person requires the consent of the original parties and of the third person. (n)
 		- **ARTICLE 1302.**
 		  collapsed:: true
 			- It is presumed that there is legal [[subrogation]] :
@@ -664,7 +664,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (3) When, even without the knowledge of the debtor, a person interested in the fulfillment of the obligation pays, without prejudice to the effects of confusion as to the latter’s share. (1210a)
 		- **ARTICLE 1303.**
 		  collapsed:: true
-			- Subrogation transfers to the person subrogated the credit with all the rights thereto appertaining, either against the debtor or against third persons, be they guarantors or possessors of mortgages, subject to stipulation in a conventional subrogation. (1212a)
+			- [Subrogation]([[subrogation]]) transfers to the person subrogated the credit with all the rights thereto appertaining, either against the debtor or against third persons, be they guarantors or possessors of mortgages, subject to stipulation in a conventional subrogation. (1212a)
 		- **ARTICLE 1304.**
 		  collapsed:: true
 			- A creditor, to whom partial payment has been made, may exercise his right for the remainder, and he shall be preferred to the person who has been subrogated in his place in virtue of the partial payment of the same credit. (1213)
