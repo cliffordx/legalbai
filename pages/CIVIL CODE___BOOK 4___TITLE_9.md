@@ -29,15 +29,15 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- A partnership must have a lawful object or purpose, and must be established for the common benefit or interest of the partners.
 		- When an unlawful partnership is dissolved by a judicial decree, the profits shall be confiscated in favor of the State, without prejudice to the provisions of the Penal Code governing the confiscation of the instruments and effects of a crime. (1666a)
 	- **ARTICLE 1771.**
-		- A partnership may be constituted in any form, except where immovable property or real rights are contributed thereto, in which case a public instrument shall be necessary. (1667a)
+		- A partnership may be constituted in any form, except where [[immovable property]] or real rights are contributed thereto, in which case a public instrument shall be necessary. (1667a)
 	- **ARTICLE 1772.**
 		- Every contract of partnership having a capital of three thousand pesos or more, in money or property, shall appear in a public instrument, which must be recorded in the Office of the Securities and Exchange Commission.
 		  id:: 63010050-f0a7-4d68-aea0-04ed11999e5f
 		- Failure to comply with the requirements of the preceding paragraph shall not affect the liability of the partnership and the members thereof to third persons. (n)
 	- **ARTICLE 1773.**
-		- A contract of partnership is void, whenever immovable property is contributed thereto, if an inventory of said property is not made, signed by the parties, and attached to the public instrument. (1668a)
+		- A contract of partnership is void, whenever [[immovable property]] is contributed thereto, if an inventory of said property is not made, signed by the parties, and attached to the public instrument. (1668a)
 	- **ARTICLE 1774.**
-		- Any immovable property or an interest therein may be acquired in the partnership name. Title so acquired can be conveyed only in the partnership name. (n)
+		- Any [[immovable property]] or an interest therein may be acquired in the partnership name. Title so acquired can be conveyed only in the partnership name. (n)
 	- **ARTICLE 1775.**
 		- Associations and societies, whose articles are kept secret among the members, and wherein any one of the members may contract in his own name with third persons, shall have no juridical personality, and shall be governed by the provisions relating to co-ownership. (1669)
 	- **ARTICLE 1776.**
@@ -52,7 +52,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- A stipulation for the common enjoyment of any other profits may also be made; but the property which the partners may acquire subsequently by inheritance, legacy, or donation cannot be included in such stipulation, except the fruits thereof. (1674a)
 	- **ARTICLE 1780.**
 		- A universal partnership of profits comprises all that the partners may acquire by their industry or work during the existence of the partnership.
-		- Movable or immovable property which each of the partners may possess at the time of the celebration of the contract shall continue to pertain exclusively to each, only the usufruct passing to the partnership. (1675)
+		- Movable or [[immovable property]] which each of the partners may possess at the time of the celebration of the contract shall continue to pertain exclusively to each, only the usufruct passing to the partnership. (1675)
 	- **ARTICLE 1781.**
 		- Articles of universal partnership, entered into without specification of its nature, only constitute a universal partnership of profits. (1676)
 	- A**RTICLE 1782.**
@@ -120,7 +120,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1803.**
 			- When the manner of management has not been agreed upon, the following rules shall be observed:
 				- (1) All the partners shall be considered agents and whatever any one of them may do alone shall bind the partnership, without prejudice to the provisions of [article 1801](((705be2ee-88d5-43a1-8e09-0d22fd1b6c86))).
-				- (2) None of the partners may, without the consent of the others, make any important alteration in the immovable property of the partnership, even if it may be useful to the partnership.
+				- (2) None of the partners may, without the consent of the others, make any important alteration in the [[immovable property]] of the partnership, even if it may be useful to the partnership.
 					- But if the refusal of consent by the other partners is manifestly prejudicial to the interest of the partnership, the court’s intervention may be sought. (1695a)
 		- **ARTICLE 1804.**
 			- Every partner may associate another person with him in his share, but the associate shall not be admitted into the partnership without the consent of all the other partners, even if the partner having an associate should be a manager. (1696)

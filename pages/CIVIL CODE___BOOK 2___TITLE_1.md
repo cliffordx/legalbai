@@ -33,7 +33,7 @@ sys-category:: [[36]]
 			- (7) Fertilizer actually used on a piece of land;
 			- (8) Mines, quarries, and slag dumps, while the matter thereof forms part of the bed, and waters either running or stagnant;
 			- (9) Docks and structures which, though floating, are intended by their nature and object to remain at a fixed place on a river, lake, or coast;
-			- (10) Contracts for public works, and servitudes and other real rights over immovable property. (334a)
+			- (10) Contracts for public works, and servitudes and other real rights over [[immovable property]]. (334a)
 		- *See:* [[Classification of Lands]]
 - ## 🔴 CHAPTER 2 - Movable Property
   id:: 758c441f-559d-4aea-aef2-ab385cb42364

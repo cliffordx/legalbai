@@ -210,7 +210,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 2006.**
 	  id:: f1abaadd-0f67-40c5-ab33-63c4feecee1a
 	  collapsed:: true
-		- Movable as well as immovable property may be the object of sequestration. (1786)
+		- Movable as well as [[immovable property]] may be the object of sequestration. (1786)
 	- **ARTICLE 2007.**
 	  collapsed:: true
 		- The depositary of property or objects sequestrated cannot be relieved of his responsibility until the controversy which gave rise thereto has come to an end, unless the court so orders. (1787a)

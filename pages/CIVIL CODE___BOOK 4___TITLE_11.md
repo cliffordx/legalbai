@@ -28,7 +28,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1936.**
 			- Consumable goods may be the subject of commodatum if the purpose of the contract is not the consumption of the object, as when it is merely for exhibition. (n)
 		- **ARTICLE 1937.**
-			- Movable or immovable property may be the object of commodatum. (n)
+			- Movable or [[immovable property]] may be the object of commodatum. (n)
 		- **ARTICLE 1938.**
 			- The bailor in commodatum need not be the owner of the thing loaned. (n)
 		- **ARTICLE 1939.**

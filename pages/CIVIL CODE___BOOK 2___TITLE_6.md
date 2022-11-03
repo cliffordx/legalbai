@@ -198,7 +198,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- A usufruct granted for the time that may elapse before a third person attains a certain age, shall subsist for the number of years specified, even if the third person should die before the period expires, unless such usufruct has been expressly granted only in consideration of the existence of such person. (516)
 	- **ARTICLE 607.**
 	  collapsed:: true
-		- If the usufruct is constituted on immovable property of which a building forms part, and the latter should be destroyed in any manner whatsoever, the usufructuary shall have a right to make use of the land and the materials.
+		- If the usufruct is constituted on [[immovable property]] of which a building forms part, and the latter should be destroyed in any manner whatsoever, the usufructuary shall have a right to make use of the land and the materials.
 		- The same rule shall be applied if the usufruct is constituted on a building only and the same should be destroyed.
 		- But in such a case, if the owner should wish to construct another building, he shall have a right to occupy the land and to make use of the materials, being obliged to pay to the usufructuary, during the continuance of the usufruct, the interest upon the sum equivalent to the value of the land and of the materials. (517)
 	- **ARTICLE 608.**

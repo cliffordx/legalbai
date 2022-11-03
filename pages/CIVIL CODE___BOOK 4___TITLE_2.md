@@ -232,7 +232,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1358.**
 	  collapsed:: true
 		- The following must appear in a public document:
-			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over immovable property; sales of real property or of an interest therein are governed by articles [1403, No. 2](((8d494334-0a4c-4800-a3e5-6879921647bc))), and [1405](((635bc751-192b-4801-8b28-002413054f9d)));
+			- (1) Acts and contracts which have for their object the creation, transmission, modification or extinguishment of real rights over [[immovable property]]; sales of real property or of an interest therein are governed by articles [1403, No. 2](((8d494334-0a4c-4800-a3e5-6879921647bc))), and [1405](((635bc751-192b-4801-8b28-002413054f9d)));
 			- (2) The cession, repudiation or renunciation of hereditary rights or of those of the conjugal partnership of gains;
 			- (3) The power to administer property, or any other power which has for its object an act appearing or which should appear in a public document, or should prejudice a third person;
 			- (4) The cession of actions or rights proceeding from an act appearing in a public document.

@@ -119,7 +119,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Movables possessed through a crime can never be acquired through prescription by the offender. (1956a)
 	- **ARTICLE 1134.**
 	  collapsed:: true
-		- Ownership and other real rights over immovable property are acquired by ordinary prescription through possession of ten years. (1957a)
+		- Ownership and other real rights over [[immovable property]] are acquired by ordinary prescription through possession of ten years. (1957a)
 	- **ARTICLE 1135.**
 	  collapsed:: true
 		- In case the adverse claimant possesses by mistake an area greater, or less, than that expressed in his title, prescription shall be based on the possession. (n)

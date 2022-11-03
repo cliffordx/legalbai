@@ -360,7 +360,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 		  id:: 631d71fd-0199-405e-b0e8-1a8d7973a814
 			- If the same thing should have been sold to different vendees, the ownership shall be transferred to the person who may have first taken possession thereof in good faith, if it should be movable property.
-			- Should it be immovable property, the ownership shall belong to the person acquiring it who in good faith first recorded it in the Registry of Property.
+			- Should it be [[immovable property]], the ownership shall belong to the person acquiring it who in good faith first recorded it in the Registry of Property.
 			- Should there be no inscription, the ownership shall pertain to the person who in good faith was first in the possession; and, in the absence thereof, to the person who presents the oldest title, provided there is good faith. (1473)
 				- inscription
 					- phonetic
@@ -515,10 +515,10 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1590.**
 		- Should the vendee be disturbed in the possession or ownership of the thing acquired, or should he have reasonable grounds to fear such disturbance, by a vindicatory action or a foreclosure of mortgage, he may suspend the payment of the price until the vendor has caused the disturbance or danger to cease, unless the latter gives security for the return of the price in a proper case, or it has been stipulated that, notwithstanding any such contingency, the vendee shall be bound to make the payment. A mere act of trespass shall not authorize the suspension of the payment of the price. (1502a)
 	- **ARTICLE 1591.**
-		- Should the vendor have reasonable grounds to fear the loss of immovable property sold and its price, he may immediately sue for the rescission of the sale.
+		- Should the vendor have reasonable grounds to fear the loss of [[immovable property]] sold and its price, he may immediately sue for the rescission of the sale.
 		- Should such ground not exist, the provisions of [article 1191](((62e7ca78-a7ad-4bac-9052-89837572036a))) shall be observed. (1503)
 	- **ARTICLE 1592.**
-		- In the sale of immovable property, even though it may have been stipulated that upon failure to pay the price at the time agreed upon the rescission of the contract shall of right take place, the vendee may pay, even after the expiration of the period, as long as no demand for rescission of the contract has been made upon him either judicially or by a notarial act. After the demand, the court may not grant him a new term. (1504a)
+		- In the sale of [[immovable property]], even though it may have been stipulated that upon failure to pay the price at the time agreed upon the rescission of the contract shall of right take place, the vendee may pay, even after the expiration of the period, as long as no demand for rescission of the contract has been made upon him either judicially or by a notarial act. After the demand, the court may not grant him a new term. (1504a)
 	- **ARTICLE 1593.**
 		- With respect to movable property, the rescission of the sale shall of right take place in the interest of the vendor, if the vendee, upon the expiration of the period fixed for the delivery of the thing, should not have appeared to receive it, or, having appeared, he should not have tendered the price at the same time, unless a longer period has been stipulated for its payment. (1505)
 - # 🔴 CHAPTER 6 - ACTIONS FOR BREACH OF CONTRACT OF SALE OF GOODS

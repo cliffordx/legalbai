@@ -51,7 +51,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In the foregoing cases, if the movables to which the lien or preference attaches have been wrongfully taken, the creditor may demand them from any possessor, within thirty days from the unlawful seizure. (1922a)
 	- **ARTICLE 2242.**
 	  collapsed:: true
-		- With reference to specific immovable property and real rights of the debtor, the following claims, mortgages and liens shall be preferred, and shall constitute an encumbrance on the immovable or real right:
+		- With reference to specific [[immovable property]] and real rights of the debtor, the following claims, mortgages and liens shall be preferred, and shall constitute an encumbrance on the immovable or real right:
 		  collapsed:: true
 			- (1) Taxes due upon the land or building;
 			  id:: 62b5ac92-b407-46f1-aa46-113b837d108a
@@ -109,7 +109,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Those credits which enjoy preference in relation to specific real property or real rights, exclude all others to the extent of the value of the immovable or real right to which the preference refers.
 	- **ARTICLE 2249.**
 	  collapsed:: true
-		- If there are two or more credits with respect to the same specific real property or real rights, they shall be satisfied pro rata, after the payment of the taxes and assessments upon the immovable property or real right. (1927a)
+		- If there are two or more credits with respect to the same specific real property or real rights, they shall be satisfied pro rata, after the payment of the taxes and assessments upon the [[immovable property]] or real right. (1927a)
 	- **ARTICLE 2250.**
 	  collapsed:: true
 		- The excess, if any, after the payment of the credits which enjoy preference with respect to specific property, real or personal, shall be added to the free property which the debtor may have, for the payment of the other credits. (1928a)

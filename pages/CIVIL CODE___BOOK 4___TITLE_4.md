@@ -21,7 +21,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - **ARTICLE 1436.**
 	- A lessee or a bailee is estopped from asserting title to the thing leased or received, as against the lessor or bailor.
 - **ARTICLE 1437.**
-	- When in a contract between third persons concerning immovable property, one of them is misled by a person with respect to the ownership or real right over the real estate, the latter is precluded from asserting his legal title or interest therein, provided all these requisites are present:
+	- When in a contract between third persons concerning [[immovable property]], one of them is misled by a person with respect to the ownership or real right over the real estate, the latter is precluded from asserting his legal title or interest therein, provided all these requisites are present:
 		- (1) There must be fraudulent representation or wrongful concealment of facts known to the party ;
 		- (2) The party precluded must intend that the other should act upon the facts as misrepresented;
 		- (3) The party misled must have been unaware of the true facts; and

@@ -37,7 +37,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- If the marriage is between a citizen of the Philippines and a foreigner, whether celebrated in the Philippines or abroad, the following rules shall prevail:
 		  collapsed:: true
 			- (1) If the husband is a citizen of the Philippines while the wife is a foreigner, the provisions of this Code shall govern their property relations;
-			- (2) If the husband is a foreigner and the wife is a citizen of the Philippines, the laws of the husband’s country shall be followed, without prejudice to the provisions of this Code with regard to immovable property. (1325a)
+			- (2) If the husband is a foreigner and the wife is a citizen of the Philippines, the laws of the husband’s country shall be followed, without prejudice to the provisions of this Code with regard to [[immovable property]]. (1325a)
 	- **ARTICLE 125.**
 	  collapsed:: true
 		- Everything stipulated in the settlements or contracts referred to in the preceding articles in consideration of a future marriage shall be rendered void and without effect whatever, if the marriage should not take place.
@@ -340,7 +340,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The share of the spouse who is under civil interdiction or absent shall be administered in accordance with the Rules of Court. (1434a)
 	- **ARTICLE 193.**
 	  collapsed:: true
-		- The complaint for separation and the final judgment declaring the same, shall be noted and recorded in the proper registers of property, if the judgment should refer to immovable property. (1437)
+		- The complaint for separation and the final judgment declaring the same, shall be noted and recorded in the proper registers of property, if the judgment should refer to [[immovable property]]. (1437)
 	- **ARTICLE 194.**
 	  collapsed:: true
 		- The separation of property shall not prejudice the rights previously acquired by creditors. (1438)

@@ -92,7 +92,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (9) To bind the principal to render some service without compensation;
 			- (10) To bind the principal in a contract of partnership;
 			- (11) To obligate the principal as a guarantor or surety;
-			- (12) To create or convey real rights over immovable property;
+			- (12) To create or convey real rights over [[immovable property]];
 			- (13) To accept or repudiate an inheritance;
 			- (14) To ratify or recognize obligations contracted before the agency;
 			- (15) Any other act of strict dominion. (n)

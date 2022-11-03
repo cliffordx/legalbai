@@ -1222,7 +1222,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 941.**
 		  collapsed:: true
 			- A legacy of generic personal property shall be valid even if there be no things of the same kind in the estate.
-			- A devise of indeterminate real property shall be valid only if there be immovable property of its kind in the estate.
+			- A devise of indeterminate real property shall be valid only if there be [[immovable property]] of its kind in the estate.
 			- The right of choice shall belong to the executor or administrator who shall comply with the legacy by the delivery of a thing which is neither of inferior nor of superior quality. (875a)
 		- **ARTICLE 942.**
 		  collapsed:: true
