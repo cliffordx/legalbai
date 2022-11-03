@@ -88,7 +88,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- Only such as are manifest or born are considered as natural or industrial fruits.
 			- With respect to animals, it is sufficient that they are in the womb of the mother, although unborn. (357)
-	- ### SECTION 2 - Right of Accession with Respect to Immovable Property
+	- ### SECTION 2 - Right of Accession with Respect to [Immovable Property]([[immovable property]])
 	  collapsed:: true
 		- **ARTICLE 445.**
 		  collapsed:: true
