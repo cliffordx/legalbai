@@ -943,6 +943,9 @@
  {:block/name "friday, 5th august 2022",
   :block/created-at 1666857322116,
   :block/updated-at 1666857322116}
+ {:block/name "friday, nov 4th, 2022",
+  :block/created-at 1667541210945,
+  :block/updated-at 1667541210945}
  {:block/name "friday, oct 28th, 2022",
   :block/created-at 1666959158373,
   :block/updated-at 1667113186089}
@@ -1077,7 +1080,7 @@
   :block/updated-at 1666857317832}
  {:block/name "monday, oct 31st, 2022",
   :block/created-at 1667187845388,
-  :block/updated-at 1667455896082}
+  :block/updated-at 1667541294850}
  {:block/name "multiplicity of suits",
   :block/created-at 1666857322078,
   :block/updated-at 1666857322078}
