@@ -158,6 +158,12 @@
  {:block/name "635bc738-f19d-4080-b7ca-ce446d4db085",
   :block/created-at 1667187845842,
   :block/updated-at 1667187845842}
+ {:block/name "635bc739-955f-4ba4-915a-39fd7ca39968",
+  :block/created-at 1667744478208,
+  :block/updated-at 1667744478208}
+ {:block/name "635bc739-a8bb-4bc3-a987-2f29de954c70",
+  :block/created-at 1667744672619,
+  :block/updated-at 1667744672619}
  {:block/name "635bc742-8abc-432a-aa77-7b85395411b3",
   :block/created-at 1667187846464,
   :block/updated-at 1667187846464}
@@ -379,7 +385,7 @@
   :block/updated-at 1667719599078}
  {:block/name "civil code/book 1/title_8",
   :block/created-at 1666857313151,
-  :block/updated-at 1667720082478}
+  :block/updated-at 1667744389722}
  {:block/name "civil code/book 1/title_9",
   :block/created-at 1666857313388,
   :block/updated-at 1667397149318}
@@ -427,7 +433,7 @@
   :block/updated-at 1666874632506}
  {:block/name "civil code/book 3/title_4",
   :block/created-at 1666857316022,
-  :block/updated-at 1667720279237}
+  :block/updated-at 1667744333065}
  {:block/name "civil code/book 3/title_5",
   :block/created-at 1666857316026,
   :block/updated-at 1667454889220}
@@ -1099,6 +1105,9 @@
  {:block/name "name",
   :block/created-at 1667455441045,
   :block/updated-at 1667455441045}
+ {:block/name "natural children",
+  :block/created-at 1667744333063,
+  :block/updated-at 1667744672621}
  {:block/name "natural person",
   :block/created-at 1666857310264,
   :block/updated-at 1666857310264}
