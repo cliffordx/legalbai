@@ -944,7 +944,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- But in the first case he shall not enter into possession of the property until after having given sufficient security, with the intervention of the instituted heir. (805)
 			- [Paras](((6357df6e-767b-4222-8de2-cf61670b5f75)))
 	- ## SECTION 5 - [[Legitime]]
-	  collapsed:: true
 		- **ARTICLE 886.**
 		  id:: 634fba6d-78b7-4ce7-a959-dce0556783d5
 			- {{cloze Legitime}} is that part of the testator’s property which he cannot {{cloze dispose}} of because the law has {{cloze reserved}} it for certain heirs who are, therefore, called [[compulsory heirs]] . (806)
