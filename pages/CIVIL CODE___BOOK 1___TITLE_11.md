@@ -16,7 +16,7 @@ collapsed:: true
 		- In case of disagreement, the father’s decision shall prevail, unless there is a judicial order to the contrary.
 		- Children are obliged to obey their parents so long as they are under parental power, and to observe respect and reverence toward them always.
 		- Recognized natural and adopted children who are under the age of majority are under the parental authority of the father or mother recognizing or adopting them, and are under the same obligation stated in the preceding paragraph.
-		- Natural children by legal fiction are under the joint authority of the father and mother, as provided in the first paragraph of this article. (154a)
+		- [[Natural children]] by legal fiction are under the joint authority of the father and mother, as provided in the first paragraph of this article. (154a)
 	- **ARTICLE 312.**
 		- Grandparents shall be consulted by all members of the family on all important family questions. (n)
 	- **ARTICLE 313.**
@@ -102,7 +102,7 @@ collapsed:: true
 		- Any person, even if of age, may be adopted, provided the adopter is sixteen years older. (173a)
 	- **ARTICLE 338.**
 		- The following may be adopted:
-		- (1) The natural child, by the natural father or mother;
+		- (1) The [[natural child]], by the natural father or mother;
 		- (2) Other illegitimate children, by the father or mother;
 		- (3) A step-child, by the step-father or step-mother. (n)
 	- **ARTICLE 339.**
