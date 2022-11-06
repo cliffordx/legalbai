@@ -728,8 +728,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 854.**
 		  id:: 6337096d-207b-48c7-b538-db584ba012e6
 		  collapsed:: true
-			- The [[preterition]] or omission of one, some, or all of the compulsory heirs in the direct line, whether living at the time of the execution of the will or [born after the death of the testator](((634d420d-6d89-4780-93f0-b4a3cc27a214))), shall annul the institution of heir; but the devises and legacies shall be valid insofar as they are not [inofficious](((634b8a5b-98c0-4147-80bc-af5a5be15738))).
-			- If the omitted compulsory heirs should die before the testator, the institution shall be effectual, without prejudice to the right of representation. (814a)
+			- The [[preterition]] or omission of one, some, or all of the [[compulsory heirs]] in the direct line, whether living at the time of the execution of the will or [born after the death of the testator](((634d420d-6d89-4780-93f0-b4a3cc27a214))), shall annul the institution of heir; but the devises and legacies shall be valid insofar as they are not [inofficious](((634b8a5b-98c0-4147-80bc-af5a5be15738))).
+			- If the omitted [[compulsory heirs]] should die before the testator, the institution shall be effectual, without prejudice to the right of representation. (814a)
 			- #### Commentaries
 			  collapsed:: true
 				- [Bueno Mison on Preterition](((6327294a-c3ad-4e8d-84bc-43fbaf4fe552)))
@@ -1026,7 +1026,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In the latter case, the legitime of the surviving spouse shall be that specified in the preceding paragraph. (n)
 		- **ARTICLE 901.**
 		  collapsed:: true
-			- When the testator dies leaving illegitimate children and no other compulsory heirs, such illegitimate children shall have a right to one-half of the hereditary estate of the deceased.
+			- When the testator dies leaving illegitimate children and no other [[compulsory heirs]], such illegitimate children shall have a right to one-half of the hereditary estate of the deceased.
 			- The other half shall be at the free disposal of the testator. (842a)
 		- **ARTICLE 902.**
 		  collapsed:: true
@@ -1049,7 +1049,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Any compulsory heir to whom the testator has left by any title less than the legitime belonging to him may demand that the same be fully satisfied. (815)
 		- **ARTICLE 907.**
 		  collapsed:: true
-			- Testamentary dispositions that impair or diminish the legitime of the compulsory heirs shall be reduced on petition of the same, insofar as they may be inofficious or excessive. (817)
+			- Testamentary dispositions that impair or diminish the legitime of the [[compulsory heirs]] shall be reduced on petition of the same, insofar as they may be inofficious or excessive. (817)
 		- **ARTICLE 908.**
 		  collapsed:: true
 			- To determine the legitime, the value of the property left at the death of the testator shall be considered, deducting all debts and charges, which shall not include those imposed in the will.
@@ -1072,7 +1072,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) The reduction of the devises or legacies shall be pro rata, without any distinction whatever.
 				  collapsed:: true
 					- If the testator has directed that a certain devise or legacy be paid in preference to others, it shall not suffer any reduction until the latter have been applied in full to the payment of the legitime.
-				- (3) If the devise or legacy consists of a usufruct or life annuity, whose value may be considered greater than that of the disposable portion, the compulsory heirs may choose between complying with the testamentary provision and delivering to the devisee or legatee the part of the inheritance of which the testator could freely dispose. (820a)
+				- (3) If the devise or legacy consists of a usufruct or life annuity, whose value may be considered greater than that of the disposable portion, the [[compulsory heirs]] may choose between complying with the testamentary provision and delivering to the devisee or legatee the part of the inheritance of which the testator could freely dispose. (820a)
 		- **ARTICLE 912.**
 		  collapsed:: true
 		  id:: 62f13782-4567-4ef5-bbb4-a9ce5644493a
@@ -1153,7 +1153,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- A testator may charge with legacies and devises not only his compulsory heirs but also the legatees and devisees.
 			- The latter shall be liable for the charge only to the extent of the value of the legacy or the devise received by them.
-			- The compulsory heirs shall not be liable for the charge beyond the amount of the free portion given them. (858a)
+			- The [[compulsory heirs]] shall not be liable for the charge beyond the amount of the free portion given them. (858a)
 		- **ARTICLE 926.**
 		  collapsed:: true
 			- When the testator charges one of the heirs with a legacy or devise, he alone shall be bound.
@@ -1557,7 +1557,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The heirs to whom the inheritance accrues shall succeed to all the rights and obligations which the heir who renounced or could not receive it would have had. (984)
 		- **ARTICLE 1021.**
 		  collapsed:: true
-			- Among the compulsory heirs the right of accretion shall take place only when the free portion is left to two or more of them, or to any one of them and to a stranger.
+			- Among the [[compulsory heirs]] the right of accretion shall take place only when the free portion is left to two or more of them, or to any one of them and to a stranger.
 			- Should the part repudiated be the legitime, the other co-heirs shall succeed to it in their own right, and not by the right of accretion. (985)
 		- **ARTICLE 1022.**
 		  collapsed:: true
@@ -1739,7 +1739,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- **ARTICLE 1061.**
 		  collapsed:: true
-			- Every compulsory heir, who succeeds with other compulsory heirs, must bring into the mass of the estate any property or right which he may have received from the decedent, during the lifetime of the latter, by way of donation, or any other gratuitous title, in order that it may be computed in the determination of the legitime of each heir, and in the account of the partition. (1035a)
+			- Every compulsory heir, who succeeds with other [[compulsory heirs]], must bring into the mass of the estate any property or right which he may have received from the decedent, during the lifetime of the latter, by way of donation, or any other gratuitous title, in order that it may be computed in the determination of the legitime of each heir, and in the account of the partition. (1035a)
 		- **ARTICLE 1062.**
 		  collapsed:: true
 			- Collation shall not take place among compulsory heirs if the donor should have so expressly provided, or if the donee should repudiate the inheritance, unless the donation should be reduced as inofficious. (1036)
@@ -1902,7 +1902,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The omission of one or more objects or securities of the inheritance shall not cause the rescission of the partition on the ground of lesion, but the partition shall be completed by the distribution of the objects or securities which have been omitted. (1079a)
 			- **ARTICLE 1104.**
 			  collapsed:: true
-				- A partition made with *[[preterition]]* of any of the compulsory heirs shall not be rescinded, unless it be proved that there was bad faith or fraud on the part of the other persons interested; but the latter shall be proportionately obliged to pay to the person omitted the share which belongs to him. (1080)
+				- A partition made with *[[preterition]]* of any of the [[compulsory heirs]] shall not be rescinded, unless it be proved that there was bad faith or fraud on the part of the other persons interested; but the latter shall be proportionately obliged to pay to the person omitted the share which belongs to him. (1080)
 			- **ARTICLE 1105.**
 			  collapsed:: true
 				- A partition which includes a person believed to be an heir, but who is not, shall be void only with respect to such person. (1081a)
