@@ -84,7 +84,6 @@ status:: active
 		- Illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children.
 		- The action must be brought within the same period specified in [Article 173](((6310aecf-83d1-4e46-85e3-105f657db555))), except when the action is based on the [second paragraph of Article 172](((6310ae4a-165a-459b-b3ce-3a83e5f6b6ce))), in which case the action may be brought during the lifetime of the alleged parent. (289a)
 	- **ARTICLE 176.**
-	  collapsed:: true
 		- Illegitimate children shall use the surname and shall be under the parental authority of their mother, and shall be entitled to support in conformity with this Code.
 		- However, illegitimate children may use the surname of their father if their filiation has been expressly recognized by their father through the record of birth appearing in the civil register, or when an admission in a public document or private handwritten instrument is made by the father.
 		- *Provided*, the father has the right to institute an action before the regular courts to prove non-filiation during his lifetime.
