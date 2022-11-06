@@ -110,11 +110,9 @@ collapsed:: true
 	  collapsed:: true
 		- Legitimation may be impugned by those who are prejudiced in their rights, when it takes place in favor of those who do not have the legal condition of natural children or when the requisites laid down in this Chapter are not complied with. (128a)
 ## CHAPTER 4 - Illegitimate Children
-collapsed:: true
 	- ### SECTION 1. Recognition of Natural Children
-	  collapsed:: true
 		- **ARTICLE 276.**
-		  collapsed:: true
+		  id:: 635bc739-a8bb-4bc3-a987-2f29de954c70
 			- A natural child may be recognized by the father and mother jointly, or by only one of them. (129)
 		- **ARTICLE 277.**
 		  collapsed:: true
