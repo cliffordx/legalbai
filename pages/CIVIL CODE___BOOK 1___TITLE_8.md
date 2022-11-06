@@ -86,7 +86,7 @@ collapsed:: true
 	- **ARTICLE 269.**
 	  id:: 6e6a0372-aa07-4d5e-a9fa-78bfa4340446
 	  collapsed:: true
-		- Only natural children can be legitimated.
+		- Only [[natural children]] can be legitimated.
 		- Children born outside wedlock of parents who, at the time of the conception of the former, were not disqualified by any impediment to marry each other, are natural. (119a)
 	- **ARTICLE 270.**
 	  collapsed:: true
