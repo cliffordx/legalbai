@@ -12,7 +12,7 @@ status:: inactive, superseded
 ## CHAPTER 1- General Provisions
 collapsed:: true
 	- **ARTICLE 311.**
-		- The father and mother jointly exercise parental authority over their legitimate children who are not emancipated.
+		- The father and mother jointly exercise parental authority over their [[legitimate children]] who are not emancipated.
 		- In case of disagreement, the father’s decision shall prevail, unless there is a judicial order to the contrary.
 		- Children are obliged to obey their parents so long as they are under parental power, and to observe respect and reverence toward them always.
 		- Recognized natural and adopted children who are under the age of majority are under the parental authority of the father or mother recognizing or adopting them, and are under the same obligation stated in the preceding paragraph.

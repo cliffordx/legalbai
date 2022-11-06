@@ -6,7 +6,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - Superseded by: [TITLE VI - PATERNITY AND FILIATION]([[codal/Family Code of the Philippines/Title 6]]) (Family Code of the Philippines)
 - {{embed ((630f4e85-3674-4960-bfd6-dfd332a67c40))}}
-- ## CHAPTER 1 - Legitimate Children
+- ## CHAPTER 1 - [[Legitimate Children]]
   collapsed:: true
 	- **ARTICLE 255.**
 	  id:: 146f8570-30b6-4660-9b38-55cc5f42fc7e
@@ -61,16 +61,16 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 264.**
 	  id:: 634fba6a-78a8-43ee-825e-13470307265a
 	  collapsed:: true
-		- Legitimate children shall have the right:
+		- [[Legitimate children]] shall have the right:
 		  collapsed:: true
 			- (1) To bear the surnames of the father and of the mother;
 			- (2) To receive support from them, from their ascendants, and in a proper case, from their brothers and sisters, in conformity with [article 291](((9394ae3c-6bc2-4f47-a973-8020c8e96b51)));
 			- (3) To the legitime and other successional rights which this Code recognizes in their favor. (114)
-## CHAPTER 2 - Proof of Filiation of Legitimate Children
-collapsed:: true
+- ## CHAPTER 2 - Proof of Filiation of [[Legitimate Children]]
+  collapsed:: true
 	- **ARTICLE 265.**
 	  collapsed:: true
-		- The filiation of legitimate children is proved by the record of birth appearing in the Civil Register, or by an authentic document or a final judgment. (115)
+		- The filiation of [[legitimate children]] is proved by the record of birth appearing in the Civil Register, or by an authentic document or a final judgment. (115)
 	- **ARTICLE 266.**
 	  collapsed:: true
 		- In the absence of the titles indicated in the preceding article, the filiation shall be proved by the continuous possession of status of a legitimate child. (116)
@@ -98,7 +98,7 @@ collapsed:: true
 	- **ARTICLE 272.**
 	  id:: 634fba6a-1b42-415d-a537-5dd73eee5624
 	  collapsed:: true
-		- Children who are legitimated by subsequent marriage shall enjoy the same rights as legitimate children. (122)
+		- Children who are legitimated by subsequent marriage shall enjoy the same rights as [[legitimate children]]. (122)
 	- **ARTICLE 273.**
 	  collapsed:: true
 		- Legitimation shall take effect from the time of the child’s birth. (123a)

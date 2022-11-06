@@ -954,7 +954,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The following are [[compulsory heirs]]:
 				- (1) [[Legitimate children]] and descendants, with respect to their legitimate parents and ascendants;
 				  id:: 635a9ef6-8910-424a-a0e3-13d0da39bd3e
-				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their legitimate children and descendants;
+				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their [[legitimate children]] and descendants;
 				  id:: 635a9ef6-b491-493d-983d-b9255566e327
 				- (3) The widow or widower;
 				- (4) Acknowledged natural children, and natural children by legal fiction;
@@ -970,7 +970,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The father or mother of illegitimate children of the three classes mentioned, shall inherit from them in the manner and to the extent established by this Code. (807a)
 		- **ARTICLE 888.**
 		  collapsed:: true
-			- The legitime of legitimate children and descendants consists of one-half of the hereditary estate of the father and of the mother.
+			- The legitime of [[legitimate children]] and descendants consists of one-half of the hereditary estate of the father and of the mother.
 			- The latter may freely dispose of the remaining half, subject to the rights of illegitimate children and of the surviving spouse as hereinafter provided. (808a)
 		- **ARTICLE 889.**
 		  collapsed:: true
@@ -1014,7 +1014,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When the widow or widower survives with legitimate children or descendants, and acknowledged natural children, or natural children by legal fiction, such surviving spouse shall be entitled to a portion equal to the legitime of each of the legitimate children which must be taken from that part of the estate which the testator can freely dispose of. (n)
 		- **ARTICLE 898.**
 		  collapsed:: true
-			- If the widow or widower survives with legitimate children or descendants, and with illegitimate children other than acknowledged natural, or natural children by legal fiction, the share of the surviving spouse shall be the same as that provided in the preceding article. (n)
+			- If the widow or widower survives with [[legitimate children]] or descendants, and with il[[legitimate children]] other than acknowledged natural, or natural children by legal fiction, the share of the surviving spouse shall be the same as that provided in the preceding article. (n)
 		- **ARTICLE 899.**
 		  collapsed:: true
 			- When the widow or widower survives with legitimate parents or ascendants and with illegitimate children, such surviving spouse shall be entitled to one-eighth of the hereditary estate of the deceased which must be taken from the free portion, and the illegitimate children shall be entitled to one-fourth of the estate which shall be taken also from the disposable portion.
@@ -1394,7 +1394,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 979.**
 			  id:: 6337096d-1fa5-4399-8147-acc5e4f068f5
 			  collapsed:: true
-				- Legitimate children and their descendants succeed the parents and other ascendants, without distinction as to sex or age, and even if they should come from different marriages.
+				- [[Legitimate children]] and their descendants succeed the parents and other ascendants, without distinction as to sex or age, and even if they should come from different marriages.
 				- An adopted child succeeds to the property of the adopting parents in the same manner as a legitimate child. (931a)
 				  id:: 6337096d-4969-4540-8415-8513f893cb14
 			- **ARTICLE 980.**
@@ -1418,7 +1418,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- **ARTICLE 985.**
 			  collapsed:: true
-				- In default of legitimate children and descendants of the deceased, his parents and ascendants shall inherit from him, to the exclusion of collateral relatives. (935a)
+				- In default of [[legitimate children]] and descendants of the deceased, his parents and ascendants shall inherit from him, to the exclusion of collateral relatives. (935a)
 			- **ARTICLE 986.**
 			  collapsed:: true
 				- The father and mother, if living, shall inherit in equal shares.
@@ -1447,7 +1447,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 992.**
 			  id:: 486dc98f-e3a0-45d2-b992-d6a3cfee478a
 			  collapsed:: true
-				- An illegitimate child has no right to inherit *ab intestato* from the legitimate children and relatives of his father or mother; nor shall such children or relatives inherit in the same manner from the illegitimate child. (943a)
+				- An illegitimate child has no right to inherit *ab intestato* from the [[legitimate children]] and relatives of his father or mother; nor shall such children or relatives inherit in the same manner from the illegitimate child. (943a)
 			- **ARTICLE 993.**
 			  collapsed:: true
 				- If an illegitimate child should die without issue, either legitimate or illegitimate, his father or mother shall succeed to his entire estate; and if the child’s filiation is duly proved as to both parents, who are both living, they shall inherit from him share and share alike. (944a)
