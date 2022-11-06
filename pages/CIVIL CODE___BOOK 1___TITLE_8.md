@@ -88,6 +88,7 @@ collapsed:: true
 	  collapsed:: true
 		- Only [[natural children]] can be legitimated.
 		- Children born outside wedlock of parents who, at the time of the conception of the former, were not disqualified by any impediment to marry each other, are natural. (119a)
+		  id:: 635bc739-955f-4ba4-915a-39fd7ca39968
 	- **ARTICLE 270.**
 	  collapsed:: true
 		- Legitimation shall take place by the subsequent marriage between the parents. (120a)
