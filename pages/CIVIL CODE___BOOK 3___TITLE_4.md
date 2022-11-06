@@ -1462,7 +1462,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- In the absence of legitimate descendants and ascendants, and illegitimate children and their descendants, whether legitimate or illegitimate, the surviving spouse shall inherit the entire estate, without prejudice to the rights of brothers and sisters, nephews and nieces, should there be any, under [article 1001](((e38a6cc7-90ac-471a-81c0-6059c13a2c0e))). (946a)
 			- **ARTICLE 996.**
 			  collapsed:: true
-				- If a widow or widower and legitimate children or descendants are left, the surviving spouse has in the succession the same share as that of each of the children. (834a)
+				- If a widow or widower and [[legitimate children]] or descendants are left, the surviving spouse has in the succession the same share as that of each of the children. (834a)
 			- **ARTICLE 997.**
 			  collapsed:: true
 				- When the widow or widower survives with legitimate parents or ascendants, the surviving spouse shall be entitled to one-half of the estate, and the legitimate parents or ascendants to the other half. (836a)

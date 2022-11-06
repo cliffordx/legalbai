@@ -1,1 +1,3 @@
-alias:: [[illegitimate child]]
+alias:: #[[legitimate child]]
+
+-
