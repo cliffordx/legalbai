@@ -1505,6 +1505,9 @@
  {:block/name "sunday, aug 7th, 2022",
   :block/created-at 1666959158460,
   :block/updated-at 1666959158460}
+ {:block/name "sunday, nov 6th, 2022",
+  :block/created-at 1667715355175,
+  :block/updated-at 1667715355175}
  {:block/name "sunday, oct 30th, 2022",
   :block/created-at 1667187846474,
   :block/updated-at 1667187846474}
