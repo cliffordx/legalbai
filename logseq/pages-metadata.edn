@@ -343,7 +343,7 @@
   :block/updated-at 1666857310419}
  {:block/name "civil code/book 1/title_11",
   :block/created-at 1666857310600,
-  :block/updated-at 1666857310600}
+  :block/updated-at 1667720085012}
  {:block/name "civil code/book 1/title_12",
   :block/created-at 1666857310799,
   :block/updated-at 1666857310799}
@@ -373,13 +373,13 @@
   :block/updated-at 1667393913123}
  {:block/name "civil code/book 1/title_6",
   :block/created-at 1666857312487,
-  :block/updated-at 1667454876740}
+  :block/updated-at 1667720323543}
  {:block/name "civil code/book 1/title_7",
   :block/created-at 1666857312935,
   :block/updated-at 1667719599078}
  {:block/name "civil code/book 1/title_8",
   :block/created-at 1666857313151,
-  :block/updated-at 1666857313151}
+  :block/updated-at 1667720082478}
  {:block/name "civil code/book 1/title_9",
   :block/created-at 1666857313388,
   :block/updated-at 1667397149318}
@@ -427,7 +427,7 @@
   :block/updated-at 1666874632506}
  {:block/name "civil code/book 3/title_4",
   :block/created-at 1666857316022,
-  :block/updated-at 1667719851402}
+  :block/updated-at 1667720279237}
  {:block/name "civil code/book 3/title_5",
   :block/created-at 1666857316026,
   :block/updated-at 1667454889220}
@@ -595,13 +595,13 @@
   :block/updated-at 1666857312004}
  {:block/name "codal/family code of the philippines/title 4",
   :block/created-at 1666857312433,
-  :block/updated-at 1666857312433}
+  :block/updated-at 1667720318449}
  {:block/name "codal/family code of the philippines/title 5",
   :block/created-at 1666857312912,
   :block/updated-at 1666857312912}
  {:block/name "codal/family code of the philippines/title 6",
   :block/created-at 1666857313129,
-  :block/updated-at 1666857313129}
+  :block/updated-at 1667720347244}
  {:block/name "codal/family code of the philippines/title 7",
   :block/created-at 1666878430252,
   :block/updated-at 1666878430252}
@@ -972,7 +972,7 @@
   :block/updated-at 1666720761560}
  {:block/name "heirs",
   :block/created-at 1666884999591,
-  :block/updated-at 1666885833432}
+  :block/updated-at 1667720302666}
  {:block/name "heirs of loreto maramag v. maramag",
   :block/created-at 1667374118961,
   :block/updated-at 1667374118961}
@@ -1042,6 +1042,12 @@
  {:block/name "legal redemption",
   :block/created-at 1667396873044,
   :block/updated-at 1667396873044}
+ {:block/name "legitimate child",
+  :block/created-at 1667720255012,
+  :block/updated-at 1667720255012}
+ {:block/name "legitimate children",
+  :block/created-at 1667719962773,
+  :block/updated-at 1667720255015}
  {:block/name "legitime",
   :block/created-at 1666857317930,
   :block/updated-at 1666885508205}
