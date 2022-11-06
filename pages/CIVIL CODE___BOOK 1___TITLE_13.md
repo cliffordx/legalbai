@@ -14,8 +14,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- An adopted child shall bear the surname of the adopter.
 - **ARTICLE 366.**
   collapsed:: true
-	- A natural child acknowledged by both parents shall principally use the surname of the father.
-	- If recognized by only one of the parents, a natural child shall employ the surname of the recognizing parent.
+	- A [[natural child]] acknowledged by both parents shall principally use the surname of the father.
+	- If recognized by only one of the parents, a [[natural child]] shall employ the surname of the recognizing parent.
 - **ARTICLE 367.**
   collapsed:: true
 	- Natural children by legal fiction shall principally employ the surname of the father.

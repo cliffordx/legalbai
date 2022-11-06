@@ -90,7 +90,7 @@ collapsed:: true
 		- Every person of age, who is in full possession of his civil rights, may adopt. (173a)
 	- **ARTICLE 335.**
 		- The following cannot adopt:
-			- (1) Those who have legitimate, legitimated, acknowledged natural children, or natural children by legal fiction;
+			- (1) Those who have legitimate, legitimated, acknowledged [[natural children]], or [[natural children]] by legal fiction;
 			- (2) The guardian, with respect to the ward, before the final approval of his accounts;
 			- (3) A married person, without the consent of the other spouse;
 			- (4) Non-resident aliens;
@@ -123,7 +123,7 @@ collapsed:: true
 	- **ARTICLE 342.**
 		- The adopter shall not be a legal heir of the adopted person, whose parents by nature shall inherit from him. (177a)
 	- **ARTICLE 343.**
-		- If the adopter is survived by legitimate parents or ascendants and by an adopted person, the latter shall not have more successional rights than an acknowledged natural child. (n)
+		- If the adopter is survived by legitimate parents or ascendants and by an adopted person, the latter shall not have more successional rights than an acknowledged [[natural child]]. (n)
 	- **ARTICLE 344.**
 		- The adopter may donate property, by an act *inter vivos* or by will, to the adopted person, who shall acquire ownership thereof. (n)
 	- **ARTICLE 345.**

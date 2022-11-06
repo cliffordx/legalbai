@@ -22,7 +22,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- (6) judgments declaring marriages void from the beginning;
 		- (7) legitimations;
 		- (8) adoptions;
-		- (9) acknowledgments of natural children;
+		- (9) acknowledgments of [[natural children]];
 		- (10) naturalization;
 		- (11) loss, or
 		- (12) recovery of citizenship;

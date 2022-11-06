@@ -82,7 +82,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (1) rights and obligations between husband and wife;
 				- (2) property relations between husband and wife;
 				- (3) action for legal separation;
-				- (4) action to compel acknowledgment of a natural child;
+				- (4) action to compel acknowledgment of a [[natural child]];
 				- (5) action to obtain judicial declaration of illegitimate filiation of an illegitimate child who is not natural;
 				- (6) parental authority or patria potestas;
 				- (7) rights of a guardian;
@@ -956,7 +956,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their [[legitimate children]] and descendants;
 				  id:: 635a9ef6-b491-493d-983d-b9255566e327
 				- (3) The widow or widower;
-				- (4) Acknowledged [[natural children]] , and natural children by legal fiction;
+				- (4) Acknowledged [[natural children]] , and [[natural children]] by legal fiction;
 				  id:: 632c0334-6e69-407e-a5b6-ec9579b0bd6c
 				- (5) Other illegitimate children referred to in [article 287](((2ba77fad-69f6-4a99-9ab6-8b8052760c5f))).
 					- #paksitnotes
@@ -1001,18 +1001,18 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 895.**
 		  collapsed:: true
 		  id:: 635f4489-d48f-4bd1-a10e-b20b786ea2c4
-			- The legitime of each of the acknowledged natural children and each of the natural children by legal fiction shall consist of one-half of the legitime of each of the legitimate children or descendants.
-			- The legitime of an illegitimate child who is neither an acknowledged natural, nor a natural child by legal fiction, shall be equal in every case to four-fifths of the legitime of an acknowledged natural child.
+			- The legitime of each of the acknowledged [[natural children]] and each of the [[natural children]] by legal fiction shall consist of one-half of the legitime of each of the legitimate children or descendants.
+			- The legitime of an illegitimate child who is neither an acknowledged natural, nor a [[natural child]] by legal fiction, shall be equal in every case to four-fifths of the legitime of an acknowledged [[natural child]].
 			- The legitime of the illegitimate children shall be taken from the portion of the estate at the free disposal of the testator, provided that in no case shall the total legitime of such illegitimate children exceed that free portion, and that the legitime of the surviving spouse must first be fully satisfied. (840a)
 		- **ARTICLE 896.**
 		  collapsed:: true
 			- Illegitimate children who may survive with legitimate parents or ascendants of the deceased shall be entitled to one-fourth of the hereditary estate to be taken from the portion at the free disposal of the testator. (841a)
 		- **ARTICLE 897.**
 		  collapsed:: true
-			- When the widow or widower survives with legitimate children or descendants, and acknowledged natural children, or natural children by legal fiction, such surviving spouse shall be entitled to a portion equal to the legitime of each of the legitimate children which must be taken from that part of the estate which the testator can freely dispose of. (n)
+			- When the widow or widower survives with legitimate children or descendants, and acknowledged [[natural children]], or [[natural children]] by legal fiction, such surviving spouse shall be entitled to a portion equal to the legitime of each of the legitimate children which must be taken from that part of the estate which the testator can freely dispose of. (n)
 		- **ARTICLE 898.**
 		  collapsed:: true
-			- If the widow or widower survives with [[legitimate children]] or descendants, and with illegitimate children other than acknowledged natural, or natural children by legal fiction, the share of the surviving spouse shall be the same as that provided in the preceding article. (n)
+			- If the widow or widower survives with [[legitimate children]] or descendants, and with illegitimate children other than acknowledged natural, or [[natural children]] by legal fiction, the share of the surviving spouse shall be the same as that provided in the preceding article. (n)
 		- **ARTICLE 899.**
 		  collapsed:: true
 			- When the widow or widower survives with legitimate parents or ascendants and with illegitimate children, such surviving spouse shall be entitled to one-eighth of the hereditary estate of the deceased which must be taken from the free portion, and the illegitimate children shall be entitled to one-fourth of the estate which shall be taken also from the disposable portion.
