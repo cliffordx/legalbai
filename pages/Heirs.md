@@ -48,8 +48,8 @@
 	  background-color:: red
 		- (1) ((63576df1-7a13-404d-bf30-339d839fe080))
 		  collapsed:: true
-			- This class includes legitimate children or descendants proper[^8] legitimated children or descendants,[^9] and adopted children.[^10]
-			- As a rule, adopted children are entitled to the same successional rights as legitimate children.^{*Ibid.*}
+			- This class includes [[legitimate children]] or descendants proper[^8] legitimated children or descendants,[^9] and adopted children.[^10]
+			- As a rule, adopted children are entitled to the same successional rights as [[legitimate children]].^{*Ibid.*}
 			- **There are, however, two well-known exceptions.** Thus, if the adopter is survived by his legitimate parents or ascendants and by his adopted child, the latter shall not have more successional rights than an acknowledged natural child.^{*Ibid.*} Furthermore, if the adopter dies before his legitimate parent or ascendant, or is incapacitated to inherit from such parent or ascendant, or is disinherited by such parent or ascendant, unlike a legitimate child, the adopted child cannot inherit by right of representation from the parent or ascendant.
 			- *The basis of this exception is evident.*
 			- [[#blue]]==Adoption merely creates a relationship similar to that of legitimate paternity and filiation between adopter and adopted child. It does not create any relationship between the adopted child and the legitimate relatives of the adopter.==

@@ -58,7 +58,7 @@ status:: active
 - # [[🔴 CHAPTER 2 - Proof of Filiation]]
 	- **ARTICLE 172.**
 	  id:: 634fbac2-8000-45ca-bd06-e5829cc5fb9f
-		- The filiation of legitimate children is established by any of the following:
+		- The filiation of [[legitimate children]] is established by any of the following:
 			- (1) The record of birth appearing in the civil register or a final judgment; or
 			- (2) An admission of legitimate filiation in a public document or a private handwritten instrument and signed by the parent concerned.
 		- In the absence of the foregoing evidence, the legitimate filiation shall be proved by:
@@ -72,7 +72,7 @@ status:: active
 		  id:: 6310aecf-83d1-4e46-85e3-105f657db555
 	- **ARTICLE 174.**
 	  collapsed:: true
-		- Legitimate children shall have the right:
+		- [[Legitimate children]] shall have the right:
 		  collapsed:: true
 			- (1) To bear the surnames of the father and the mother, in conformity with the provisions of the Civil Code on Surnames;
 			- (2) To receive support from their parents, their ascendants, and in proper cases, their brothers and sisters, in conformity with the provisions of this Code on Support; and
@@ -100,7 +100,7 @@ status:: active
 		- The annulment of a voidable marriage shall not affect the legitimation. (270a)
 	- **ARTICLE 179.**
 	  collapsed:: true
-		- Legitimated children shall enjoy the same rights as legitimate children. (272a)
+		- Legitimated children shall enjoy the same rights as [[legitimate children]]. (272a)
 	- **ARTICLE 180.**
 	  collapsed:: true
 		- The effects of legitimation shall retroact to the time of the child’s birth. (273a)

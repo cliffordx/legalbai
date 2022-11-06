@@ -103,14 +103,14 @@ status:: active
 		  collapsed:: true
 			- The absolute community of property shall be liable for:
 			  collapsed:: true
-				- (1) The support of the spouses, their common children, and legitimate children of either spouse; however, the support of illegitimate children shall be governed by the provisions of this Code on Support;
+				- (1) The support of the spouses, their common children, and [[legitimate children]] of either spouse; however, the support of il[[legitimate children]] shall be governed by the provisions of this Code on Support;
 				- (2) All debts and obligations contracted during the marriage by the designated administrator-spouse for the benefit of the community, or by both spouses, or by one spouse with the consent of the other;
 				- (3) Debts and obligations contracted by either spouse without the consent of the other to the extent that the family may have been benefited;
 				- (4) All taxes, liens, charges and expenses, including major or minor repairs, upon the community property;
 				- (5) All taxes and expenses for mere preservation made during marriage upon the separate property of either spouse used by the family;
 				- (6) Expenses to enable either spouse to commence or complete a professional or vocational course, or other activity for self-improvement;
 				- (7) Ante-nuptial debts of either spouse insofar as they have redounded to the benefit of the family;
-				- (8) The value of what is donated or promised by both spouses in favor of their common legitimate children for the exclusive purpose of commencing or completing a professional or vocational course or other activity for self-improvement;
+				- (8) The value of what is donated or promised by both spouses in favor of their common [[legitimate children]] for the exclusive purpose of commencing or completing a professional or vocational course or other activity for self-improvement;
 				- (9) Ante-nuptial debts of either spouse other than those falling under paragraph (7) of this Article, the support of illegitimate children of either spouse, and liabilities incurred by either spouse by reason of a crime or a quasi-delict, in case of absence or insufficiency of the exclusive property of the debtor-spouse, the payment of which shall be considered as advances to be deducted from the share of the debtor-spouse upon liquidation of the community; and
 				- (10) Expenses of litigation between the spouses unless the suit is found to be groundless.
 			- If the community property is insufficient to cover the foregoing liabilities, except those falling under paragraph (9), the spouses shall be solidarily liable for the unpaid balance with their separate properties. (161a, 162a, 163a, 202a-205a)
@@ -267,7 +267,7 @@ status:: active
 				- (5) All taxes and expenses for mere preservation made during the marriage upon the separate property of either spouse;
 				- (6) Expenses to enable either spouse to commence or complete a professional, vocational, or other activity for self-improvement;
 				- (7) Ante-nuptial debts of either spouse insofar as they have redounded to the benefit of the family;
-				- (8) The value of what is donated or promised by both spouses in favor of their common legitimate children for the exclusive purpose of commencing or completing a professional or vocational course or other activity for self-improvement; and
+				- (8) The value of what is donated or promised by both spouses in favor of their common [[legitimate children]] for the exclusive purpose of commencing or completing a professional or vocational course or other activity for self-improvement; and
 				- (9) Expenses of litigation between the spouses unless the suit is found to groundless.
 				- If the conjugal partnership is insufficient to cover the foregoing liabilities, the spouses shall be solidarily liable for the unpaid balance with their separate properties. (161a)
 		- **ARTICLE 122.**

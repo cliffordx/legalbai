@@ -199,7 +199,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) Arrears or income due, during the marriage, from obligations which constitute a charge upon property of either spouse or of the partnership;
 				- (3) Minor repairs or for mere preservation made during the marriage upon the separate property of either the husband or the wife; major repairs shall not be charged to the partnership;
 				- (4) Major or minor repairs upon the conjugal partnership property;
-				- (5) The maintenance of the family and the education of the children of both husband and wife, and of legitimate children of one of the spouses;
+				- (5) The maintenance of the family and the education of the children of both husband and wife, and of [[legitimate children]] of one of the spouses;
 				- (6) Expenses to permit the spouses to complete a professional, vocational or other course. (1408a)
 		- **ARTICLE 162.**
 		  id:: 60e4b758-77f9-442c-bcbc-a010a9b6d852
