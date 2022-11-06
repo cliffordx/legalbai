@@ -651,8 +651,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 842.**
 		  id:: 6337096d-87cb-425f-8e92-0debbc566e4d
 		  collapsed:: true
-			- One who has no compulsory heirs may dispose by will of all his estate or any part of it in favor of any person having capacity to succeed.
-			- One who has compulsory heirs may dispose of his estate provided he does not contravene the provisions of this Code with regard to the legitime of said heirs. (763a)
+			- One who has no [[compulsory heirs]] may dispose by will of all his estate or any part of it in favor of any person having capacity to succeed.
+			- One who has [[compulsory heirs]] may dispose of his estate provided he does not contravene the provisions of this Code with regard to the legitime of said heirs. (763a)
 			- #### Commentaries
 			  collapsed:: true
 				- [Paras](((6343f0ba-e828-490b-b44a-767f7e90186e)))
@@ -741,7 +741,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 855.**
 		  id:: 6337096d-7357-4805-8256-bb4d977e2dd6
 		  collapsed:: true
-			- The share of a child or descendant omitted in a will must first be taken from the part of the estate not disposed of by the will, if any; if that is not sufficient, so much as may be necessary must be taken proportionally from the shares of the other compulsory heirs. (1080a)
+			- The share of a child or descendant omitted in a will must first be taken from the part of the estate not disposed of by the will, if any; if that is not sufficient, so much as may be necessary must be taken proportionally from the shares of the other [[compulsory heirs]]. (1080a)
 			- #### Commentaries
 		- **ARTICLE 856.**
 		  id:: 6337096d-de28-4783-bb77-b3b05fd024f6
@@ -951,7 +951,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 887.**
 		  id:: 634fba6d-b427-495e-a84a-98c6daab592b
 		  collapsed:: true
-			- The following are compulsory heirs:
+			- The following are [[compulsory heirs]]:
 				- (1) Legitimate children and descendants, with respect to their legitimate parents and ascendants;
 				  id:: 635a9ef6-8910-424a-a0e3-13d0da39bd3e
 				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their legitimate children and descendants;
@@ -964,7 +964,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- #paksitnotes
 					- art. 287 referred to, is repealed. My understanding is that it was superseded by the Family Code which can be found [here](((581259f2-6077-4f61-b466-d3f2699e98dc))).
 					-
-			- Compulsory heirs mentioned in Nos. 3, 4 and 5 are not excluded by those in Nos. 1 and 2; neither do they exclude one another.
+			- [[Compulsory heirs]] mentioned in Nos. 3, 4 and 5 are not excluded by those in Nos. 1 and 2; neither do they exclude one another.
 			- In all cases of illegitimate children, their filiation must be duly proved.
 			  id:: 634fba6d-ab6f-49b5-bad6-aa6553096301
 			- The father or mother of illegitimate children of the three classes mentioned, shall inherit from them in the manner and to the extent established by this Code. (807a)
@@ -1038,11 +1038,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If only the widow or widower survives with parents of the illegitimate child, the legitime of the parents is one-fourth of the hereditary estate of the child, and that of the surviving spouse also one-fourth of the estate. (n)
 		- **ARTICLE 904.**
 		  collapsed:: true
-			- The testator cannot deprive his compulsory heirs of their legitime, except in cases expressly specified by law.
+			- The testator cannot deprive his [[compulsory heirs]] of their legitime, except in cases expressly specified by law.
 			- Neither can he impose upon the same any burden, encumbrance, condition, or substitution of any kind whatsoever. (813a)
 		- **ARTICLE 905.**
 		  collapsed:: true
-			- Every renunciation or compromise as regards a future legitime between the person owing it and his compulsory heirs is void, and the latter may claim the same upon the death of the former; but they must bring to collation whatever they may have received by virtue of the renunciation or compromise. (816)
+			- Every renunciation or compromise as regards a future legitime between the person owing it and his [[compulsory heirs]] is void, and the latter may claim the same upon the death of the former; but they must bring to collation whatever they may have received by virtue of the renunciation or compromise. (816)
 		- **ARTICLE 906.**
 		  id:: 6337096d-076f-4b58-a622-ef9cf6d7b62f
 		  collapsed:: true
@@ -1076,7 +1076,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 912.**
 		  collapsed:: true
 		  id:: 62f13782-4567-4ef5-bbb4-a9ce5644493a
-			- If the devise subject to reduction should consist of real property, which cannot be conveniently divided, it shall go to the devisee if the reduction does not absorb one-half of its value; and in a contrary case, to the compulsory heirs; but the former and the latter shall reimburse each other in cash for what respectively belongs to them.
+			- If the devise subject to reduction should consist of real property, which cannot be conveniently divided, it shall go to the devisee if the reduction does not absorb one-half of its value; and in a contrary case, to the [[compulsory heirs]]; but the former and the latter shall reimburse each other in cash for what respectively belongs to them.
 			- The devisee who is entitled to a legitime may retain the entire property, provided its value does not exceed that of the disposable portion and of the share pertaining to him as legitime. (821)
 		- **ARTICLE 913.**
 		  collapsed:: true
@@ -1143,7 +1143,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- A subsequent reconciliation between the offender and the offended person deprives the latter of the right to disinherit, and renders ineffectual any disinheritance that may have been made. (856)
 		- **ARTICLE 923.**
 		  collapsed:: true
-			- The children and descendants of the person disinherited shall take his or her place and shall preserve the rights of compulsory heirs with respect to the legitime; but the disinherited parent shall not have the usufruct or administration of the property which constitutes the legitime. (857)
+			- The children and descendants of the person disinherited shall take his or her place and shall preserve the rights of [[compulsory heirs]] with respect to the legitime; but the disinherited parent shall not have the usufruct or administration of the property which constitutes the legitime. (857)
 	- ## SECTION 7 - Legacies and Devises
 	  collapsed:: true
 		- **ARTICLE 924.**
@@ -1151,7 +1151,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- All things and rights which are within the commerce of man may be bequeathed or devised. (865a)
 		- **ARTICLE 925.**
 		  collapsed:: true
-			- A testator may charge with legacies and devises not only his compulsory heirs but also the legatees and devisees.
+			- A testator may charge with legacies and devises not only his [[compulsory heirs]] but also the legatees and devisees.
 			- The latter shall be liable for the charge only to the extent of the value of the legacy or the devise received by them.
 			- The [[compulsory heirs]] shall not be liable for the charge beyond the amount of the free portion given them. (858a)
 		- **ARTICLE 926.**
@@ -1742,7 +1742,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Every compulsory heir, who succeeds with other [[compulsory heirs]], must bring into the mass of the estate any property or right which he may have received from the decedent, during the lifetime of the latter, by way of donation, or any other gratuitous title, in order that it may be computed in the determination of the legitime of each heir, and in the account of the partition. (1035a)
 		- **ARTICLE 1062.**
 		  collapsed:: true
-			- Collation shall not take place among compulsory heirs if the donor should have so expressly provided, or if the donee should repudiate the inheritance, unless the donation should be reduced as inofficious. (1036)
+			- Collation shall not take place among [[compulsory heirs]] if the donor should have so expressly provided, or if the donee should repudiate the inheritance, unless the donation should be reduced as inofficious. (1036)
 		- **ARTICLE 1063.**
 		  collapsed:: true
 			- Property left by will is not deemed subject to collation, if the testator has not otherwise provided, but the legitime shall in any case remain unimpaired. (1037)
@@ -1809,7 +1809,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The thing itself may be divided, or its value. (n)
 			- **ARTICLE 1080.**
 			  collapsed:: true
-				- Should a person make a partition of his estate by an act inter vivos, or by will, such partition shall be respected, insofar as it does not prejudice the legitime of the compulsory heirs.
+				- Should a person make a partition of his estate by an act inter vivos, or by will, such partition shall be respected, insofar as it does not prejudice the legitime of the [[compulsory heirs]].
 				- A parent who, in the interest of his or her family, desires to keep any agricultural, industrial, or manufacturing enterprise intact, may avail himself of the right granted him in this article, by ordering that the legitime of the other children to whom the property is not assigned, be paid in cash. (1056a)
 			- **ARTICLE 1081.**
 			  collapsed:: true
@@ -1885,7 +1885,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- A partition, judicial or extra-judicial, may also be rescinded on account of lesion, when any one of the co-heirs received things whose value is less, by at least one-fourth, than the share to which he is entitled, considering the value of the things at the time they were adjudicated. (1074a)
 			- **ARTICLE 1099.**
 			  collapsed:: true
-				- The partition made by the testator cannot be impugned on the ground of lesion, except when the legitime of the compulsory heirs is thereby prejudiced, or when it appears or may reasonably be presumed, that the intention of the testator was otherwise. (1075)
+				- The partition made by the testator cannot be impugned on the ground of lesion, except when the legitime of the [[compulsory heirs]] is thereby prejudiced, or when it appears or may reasonably be presumed, that the intention of the testator was otherwise. (1075)
 			- **ARTICLE 1100.**
 			  collapsed:: true
 				- The action for rescission on account of lesion shall prescribe after four years from the time the partition was made. (1076)
