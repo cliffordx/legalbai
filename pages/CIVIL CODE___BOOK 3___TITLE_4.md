@@ -947,7 +947,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- **ARTICLE 886.**
 		  id:: 634fba6d-78b7-4ce7-a959-dce0556783d5
-			- {{cloze Legitime}} is that part of the testator’s property which he cannot {{cloze dispose}} of because the law has {{cloze reserved}} it for certain heirs who are, therefore, called {{cloze compulsory heirs}}. (806)
+			- {{cloze Legitime}} is that part of the testator’s property which he cannot {{cloze dispose}} of because the law has {{cloze reserved}} it for certain heirs who are, therefore, called [[compulsory heirs]] . (806)
 		- **ARTICLE 887.**
 		  id:: 634fba6d-b427-495e-a84a-98c6daab592b
 		  collapsed:: true
