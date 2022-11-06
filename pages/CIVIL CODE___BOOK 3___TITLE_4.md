@@ -956,7 +956,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their [[legitimate children]] and descendants;
 				  id:: 635a9ef6-b491-493d-983d-b9255566e327
 				- (3) The widow or widower;
-				- (4) Acknowledged natural children, and natural children by legal fiction;
+				- (4) Acknowledged [[natural children]] , and natural children by legal fiction;
 				  id:: 632c0334-6e69-407e-a5b6-ec9579b0bd6c
 				- (5) Other illegitimate children referred to in [article 287](((2ba77fad-69f6-4a99-9ab6-8b8052760c5f))).
 				  collapsed:: true
