@@ -989,7 +989,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 634fba6c-d424-4806-bcf5-68611e4f3117
 			- If only one legitimate child or descendant of the deceased survives, the widow or widower shall be entitled to one-fourth of the hereditary estate.
 			- In case of a legal separation, the surviving spouse may inherit if it was the deceased who had given cause for the same.
-			- If there are two or more legitimate children or descendants, the surviving spouse shall be entitled to a portion equal to the legitime of each of the legitimate children or descendants.
+			- If there are two or more [[legitimate children]] or descendants, the surviving spouse shall be entitled to a portion equal to the legitime of each of the [[legitimate children]] or descendants.
 			- In both cases, the legitime of the surviving spouse shall be taken from the portion that can be freely disposed of by the testator. (834a)
 		- **ARTICLE 893.**
 		  collapsed:: true
@@ -1014,7 +1014,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When the widow or widower survives with legitimate children or descendants, and acknowledged natural children, or natural children by legal fiction, such surviving spouse shall be entitled to a portion equal to the legitime of each of the legitimate children which must be taken from that part of the estate which the testator can freely dispose of. (n)
 		- **ARTICLE 898.**
 		  collapsed:: true
-			- If the widow or widower survives with [[legitimate children]] or descendants, and with il[[legitimate children]] other than acknowledged natural, or natural children by legal fiction, the share of the surviving spouse shall be the same as that provided in the preceding article. (n)
+			- If the widow or widower survives with [[legitimate children]] or descendants, and with illegitimate children other than acknowledged natural, or natural children by legal fiction, the share of the surviving spouse shall be the same as that provided in the preceding article. (n)
 		- **ARTICLE 899.**
 		  collapsed:: true
 			- When the widow or widower survives with legitimate parents or ascendants and with illegitimate children, such surviving spouse shall be entitled to one-eighth of the hereditary estate of the deceased which must be taken from the free portion, and the illegitimate children shall be entitled to one-fourth of the estate which shall be taken also from the disposable portion.
