@@ -35,7 +35,7 @@ collapsed:: true
 			- (1) Any contract for personal separation between husband and wife;
 			- (2) Every extra-judicial agreement, during marriage, for the dissolution of the conjugal partnership of gains or of the absolute community of property between husband and wife;
 			- (3) Every collusion to obtain a decree of legal separation, or of annulment of marriage;
-			- (4) Any simulated alienation of property with intent to deprive the compulsory heirs of their legitime.
+			- (4) Any simulated alienation of property with intent to deprive the [[compulsory heirs]] of their legitime.
 	- **ARTICLE 222.**
 	  collapsed:: true
 		- No suit shall be filed or maintained between members of the same family unless it should appear that earnest efforts toward a compromise have been made, but that the same have failed, subject to the limitations in [article 2035](((dff8bf4f-0521-4d0e-8ccc-ef7f8b8876de))).
