@@ -952,7 +952,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 634fba6d-b427-495e-a84a-98c6daab592b
 		  collapsed:: true
 			- The following are [[compulsory heirs]]:
-				- (1) Legitimate children and descendants, with respect to their legitimate parents and ascendants;
+				- (1) [[Legitimate children]] and descendants, with respect to their legitimate parents and ascendants;
 				  id:: 635a9ef6-8910-424a-a0e3-13d0da39bd3e
 				- (2) In default of the foregoing, legitimate parents and ascendants, with respect to their legitimate children and descendants;
 				  id:: 635a9ef6-b491-493d-983d-b9255566e327

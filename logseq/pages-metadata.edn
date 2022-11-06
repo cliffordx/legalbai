@@ -376,7 +376,7 @@
   :block/updated-at 1667454876740}
  {:block/name "civil code/book 1/title_7",
   :block/created-at 1666857312935,
-  :block/updated-at 1667394694076}
+  :block/updated-at 1667719599078}
  {:block/name "civil code/book 1/title_8",
   :block/created-at 1666857313151,
   :block/updated-at 1666857313151}
@@ -427,7 +427,7 @@
   :block/updated-at 1666874632506}
  {:block/name "civil code/book 3/title_4",
   :block/created-at 1666857316022,
-  :block/updated-at 1667719309554}
+  :block/updated-at 1667719851402}
  {:block/name "civil code/book 3/title_5",
   :block/created-at 1666857316026,
   :block/updated-at 1667454889220}
@@ -779,6 +779,9 @@
  {:block/name "commodatum",
   :block/created-at 1666857324179,
   :block/updated-at 1666857324179}
+ {:block/name "compulsory heirs",
+  :block/created-at 1667719529816,
+  :block/updated-at 1667719529816}
  {:block/name "conditional sale",
   :block/created-at 1666857331234,
   :block/updated-at 1666857331234}
@@ -1520,6 +1523,9 @@
  {:block/name "sys-category",
   :block/created-at 1666857313630,
   :block/updated-at 1666857313630}
+ {:block/name "tags",
+  :block/created-at 1667719340608,
+  :block/updated-at 1667719340608}
  {:block/name "taxation 1 flashcards",
   :block/created-at 1666770177673,
   :block/updated-at 1666770367916}
