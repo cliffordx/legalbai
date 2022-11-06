@@ -959,7 +959,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (4) Acknowledged [[natural children]] , and natural children by legal fiction;
 				  id:: 632c0334-6e69-407e-a5b6-ec9579b0bd6c
 				- (5) Other illegitimate children referred to in [article 287](((2ba77fad-69f6-4a99-9ab6-8b8052760c5f))).
-				  collapsed:: true
 					- #paksitnotes
 					- art. 287 referred to, is repealed. My understanding is that it was superseded by the Family Code which can be found [here](((581259f2-6077-4f61-b466-d3f2699e98dc))).
 					-
