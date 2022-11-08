@@ -53,12 +53,6 @@
  {:block/name "17",
   :block/created-at 1666878431920,
   :block/updated-at 1666878431920}
- {:block/name "25] to [[🗂 obs_persons_family",
-  :block/created-at 1667393887351,
-  :block/updated-at 1667393887351}
- {:block/name "25] to [[🗂 obs_persons_family/🗒 codal",
-  :block/created-at 1667393887352,
-  :block/updated-at 1667393887352}
  {:block/name "26 oct 2022",
   :block/created-at 1666760141922,
   :block/updated-at 1667139704172}
@@ -188,24 +182,6 @@
  {:block/name "7e18747d-ffdf-45fc-9f9c-2b0572d37280",
   :block/created-at 1666878435715,
   :block/updated-at 1666878435715}
- {:block/name "[[civil code",
-  :block/created-at 1667391866893,
-  :block/updated-at 1667391866893}
- {:block/name "[[civil code/book 1",
-  :block/created-at 1667391866895,
-  :block/updated-at 1667391866895}
- {:block/name "[[civil code/book 1/title_10",
-  :block/created-at 1667391866892,
-  :block/updated-at 1667391866892}
- {:block/name "[civil code",
-  :block/created-at 1667391888747,
-  :block/updated-at 1667391888747}
- {:block/name "[civil code/book 1",
-  :block/created-at 1667391888748,
-  :block/updated-at 1667391888748}
- {:block/name "[civil code/book 1/title_10",
-  :block/created-at 1667391888746,
-  :block/updated-at 1667391888746}
  {:block/name "a",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -263,9 +239,6 @@
  {:block/name "angkel",
   :block/created-at 1666940172205,
   :block/updated-at 1666940172205}
- {:block/name "article 546",
-  :block/created-at 1667395519537,
-  :block/updated-at 1667395519537}
  {:block/name "article 7 civil code",
   :block/created-at 1666857309976,
   :block/updated-at 1666857309976}
@@ -308,9 +281,6 @@
  {:block/name "c",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
- {:block/name "calendar",
-  :block/created-at 1667289835374,
-  :block/updated-at 1667289835374}
  {:block/name "canceled",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -858,10 +828,6 @@
  {:block/name "consti_1987_annotated/preamble",
   :block/created-at 1666878435720,
   :block/updated-at 1666878435720}
- {:block/name
-  "consti_1987_annotated]][[codal/family code of the philippines]] | [civil code of the philippines]([[civil code]]) | [rules of court]([[roc_annotated]]) | [insurance code]([[codal/special_laws/the_insurance_code",
-  :block/created-at 1667374472445,
-  :block/updated-at 1667374472445}
  {:block/name "contents",
   :block/created-at 1659873766464,
   :block/updated-at 1667375607502}
@@ -952,9 +918,6 @@
  {:block/name "friday, 5th august 2022",
   :block/created-at 1666857322116,
   :block/updated-at 1666857322116}
- {:block/name "friday, nov 4th, 2022",
-  :block/created-at 1667541210945,
-  :block/updated-at 1667541210945}
  {:block/name "friday, oct 28th, 2022",
   :block/created-at 1666959158373,
   :block/updated-at 1667113186089}
@@ -1322,6 +1285,9 @@
  {:block/name "question of law",
   :block/created-at 1666878433574,
   :block/updated-at 1666878433574}
+ {:block/name "reading",
+  :block/created-at 1667882375331,
+  :block/updated-at 1667882375331}
  {:block/name "readme",
   :block/created-at 1659873332742,
   :block/updated-at 1659873332742}
@@ -1526,9 +1492,6 @@
  {:block/name "sunday, aug 7th, 2022",
   :block/created-at 1666959158460,
   :block/updated-at 1666959158460}
- {:block/name "sunday, nov 6th, 2022",
-  :block/created-at 1667715355175,
-  :block/updated-at 1667715355175}
  {:block/name "sunday, oct 30th, 2022",
   :block/created-at 1667187846474,
   :block/updated-at 1667187846474}
@@ -1541,9 +1504,6 @@
  {:block/name "sys-category",
   :block/created-at 1666857313630,
   :block/updated-at 1666857313630}
- {:block/name "tags",
-  :block/created-at 1667719340608,
-  :block/updated-at 1667719340608}
  {:block/name "taxation 1 flashcards",
   :block/created-at 1666770177673,
   :block/updated-at 1666770367916}
@@ -1574,9 +1534,6 @@
  {:block/name "thursday, oct 27th, 2022",
   :block/created-at 1666959158407,
   :block/updated-at 1666959158407}
- {:block/name "title_16",
-  :block/created-at 1667745134608,
-  :block/updated-at 1667745134608}
  {:block/name "todo",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
@@ -1586,6 +1543,9 @@
  {:block/name "tuesday, nov 1st, 2022",
   :block/created-at 1667286121953,
   :block/updated-at 1667455520167}
+ {:block/name "tuesday, nov 8th, 2022",
+  :block/created-at 1667881822477,
+  :block/updated-at 1667882399962}
  {:block/name "type",
   :block/created-at 1666720761575,
   :block/updated-at 1666720761575}
@@ -1606,7 +1566,7 @@
   :block/updated-at 1667374782046}
  {:block/name "wednesday, oct 26th, 2022",
   :block/created-at 1666959158437,
-  :block/updated-at 1666959158437}
+  :block/updated-at 1667882333746}
  {:block/name "welcome page",
   :block/created-at 1667187845638,
   :block/updated-at 1667289535857}
@@ -1710,60 +1670,6 @@
   "🔴 chapter 7 - property regime of unions without marriage",
   :block/created-at 1666878429395,
   :block/updated-at 1666878429395}
- {:block/name "🗂 obs_persons_family",
-  :block/created-at 1666857312015,
-  :block/updated-at 1666857312015}
- {:block/name "🗂 obs_persons_family/🗒 codal",
-  :block/created-at 1666857312016,
-  :block/updated-at 1666857312016}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 21|21",
-  :block/created-at 1666857328130,
-  :block/updated-at 1666857328130}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25",
-  :block/created-at 1666857312014,
-  :block/updated-at 1666857312014}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25] to [[🗂 obs_persons_family",
-  :block/created-at 1667393884650,
-  :block/updated-at 1667393884650}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 25|25] to [[🗂 obs_persons_family/🗒 codal",
-  :block/created-at 1667393884651,
-  :block/updated-at 1667393884651}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 26|26",
-  :block/created-at 1666857328128,
-  :block/updated-at 1666857328128}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 27|27",
-  :block/created-at 1666857328127,
-  :block/updated-at 1666857328127}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 28|28",
-  :block/created-at 1666857328126,
-  :block/updated-at 1666857328126}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 29|29",
-  :block/created-at 1666857328125,
-  :block/updated-at 1666857328125}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 30|30",
-  :block/created-at 1666857328124,
-  :block/updated-at 1666857328124}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 32|32",
-  :block/created-at 1666857328123,
-  :block/updated-at 1666857328123}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 34|34",
-  :block/created-at 1666857328122,
-  :block/updated-at 1666857328122}
- {:block/name
-  "🗂 obs_persons_family/🗒 codal/0 - preliminary title#article 35|35",
-  :block/created-at 1666857312013,
-  :block/updated-at 1666857312013}
  {:block/name "🗂 obs_property",
   :block/created-at 1666857313941,
   :block/updated-at 1666857313941}
