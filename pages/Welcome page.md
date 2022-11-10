@@ -12,7 +12,6 @@ tags:: paksiteer, paksitive, paksionate
 	- Next, there's a left side menu bar and right side menu bar. Go over them and let me know if you find something interesting. ;)
 - ### What can you expect from my Github page?
   id:: 635bc75b-257f-4fc4-b4f3-8dece2332ef7
-  collapsed:: true
 	- A ton. For starters, I have #[[flashcards]] collated and collected from exams and quizzes.
 	- Also, I have the fundamental codals uploaded here, either annotated or commented by [me]([[Clifford Enoc]]).
 		- But don't expect too much. Some are not meant to be shared.
@@ -37,7 +36,7 @@ tags:: paksiteer, paksitive, paksionate
 		  id:: f58f3bdc-7e2d-4e84-a836-45daaad58780
 	- #### Affiliate Links
 	  id:: 6358df01-20ef-4b83-9569-7742d7622398
-		- Some outside links to websites are affiliate links, *i.e.,* Amazon, which are sponsored/or affiliated which means that if you buy something from them, unless it is sponsored for a fee, then I earn a 'tiny' commission fee. It pays to know that I disclose this stuff because it is required nowadays.
+		- Some outside links to websites are affiliate links, *i.e.,* Amazon, which are sponsored and/or affiliated websites which means that until you bought something from them, provided it is my affiliate link, then I earn a 'tiny' commission fee. It is necessary to disclose this stuff because it is required nowadays.
 - ## Support or Contact
   id:: 635bc75b-4c3b-4b8f-9d92-f58f0d227fd2
 	- You may reach me at @cliffordx on these Social Media:
