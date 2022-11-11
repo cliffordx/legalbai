@@ -905,7 +905,7 @@
   :block/updated-at 1666771844116}
  {:block/name "flow",
   :block/created-at 1667455176326,
-  :block/updated-at 1667455423789}
+  :block/updated-at 1668182840858}
  {:block/name "forms of contract",
   :block/created-at 1666857331241,
   :block/updated-at 1666857331241}
@@ -924,6 +924,9 @@
  {:block/name "friday, 5th august 2022",
   :block/created-at 1666857322116,
   :block/updated-at 1666857322116}
+ {:block/name "friday, nov 11th, 2022",
+  :block/created-at 1668096057071,
+  :block/updated-at 1668096057071}
  {:block/name "friday, oct 28th, 2022",
   :block/created-at 1666959158373,
   :block/updated-at 1667113186089}
@@ -931,8 +934,8 @@
   :block/created-at 1666857313946,
   :block/updated-at 1666857313946}
  {:block/name "getthatbar2022",
-  :block/created-at 1668073851945,
-  :block/updated-at 1668073851945}
+  :block/created-at 1668182882895,
+  :block/updated-at 1668182882895}
  {:block/name "good faith",
   :block/created-at 1666857314680,
   :block/updated-at 1666857314680}
@@ -1465,6 +1468,9 @@
  {:block/name "saturday, 27th august 2022",
   :block/created-at 1666878431919,
   :block/updated-at 1666878431919}
+ {:block/name "saturday, nov 12th, 2022",
+  :block/created-at 1668182435609,
+  :block/updated-at 1668182435609}
  {:block/name "searches and seizures",
   :block/created-at 1666857309992,
   :block/updated-at 1666857309992}
@@ -1584,7 +1590,7 @@
   :block/updated-at 1667882333746}
  {:block/name "welcome page",
   :block/created-at 1667187845638,
-  :block/updated-at 1667289535857}
+  :block/updated-at 1668085574615}
  {:block/name "writ of prohibition",
   :block/created-at 1666720761558,
   :block/updated-at 1666720761558}
