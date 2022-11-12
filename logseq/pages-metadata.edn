@@ -53,12 +53,54 @@
  {:block/name "17",
   :block/created-at 1666878431920,
   :block/updated-at 1666878431920}
+ {:block/name "2019_proposed_amendments_to_the_revised_rules2019.pdf",
+  :block/created-at 1668243274689,
+  :block/updated-at 1668243274689}
+ {:block/name "2022-06-27 monday",
+  :block/created-at 1668243277812,
+  :block/updated-at 1668243277812}
  {:block/name "26 oct 2022",
   :block/created-at 1666760141922,
   :block/updated-at 1667139704172}
  {:block/name "36",
   :block/created-at 1666857313625,
   :block/updated-at 1666857313625}
+ {:block/name "41",
+  :block/created-at 1668243280653,
+  :block/updated-at 1668243280653}
+ {:block/name "41.1",
+  :block/created-at 1668243279824,
+  :block/updated-at 1668243279824}
+ {:block/name "41.2",
+  :block/created-at 1668243280504,
+  :block/updated-at 1668243280504}
+ {:block/name "41/codal",
+  :block/created-at 1668243277793,
+  :block/updated-at 1668243277793}
+ {:block/name "41/codal/civpro",
+  :block/created-at 1668243277794,
+  :block/updated-at 1668243277794}
+ {:block/name "41/codal/civpro/r36",
+  :block/created-at 1668243277314,
+  :block/updated-at 1668243277314}
+ {:block/name "41/codal/civpro/r36/1",
+  :block/created-at 1668243277310,
+  :block/updated-at 1668243277310}
+ {:block/name "41/codal/civpro/r39",
+  :block/created-at 1668243277795,
+  :block/updated-at 1668243277795}
+ {:block/name "41/codal/civpro/r39/1",
+  :block/created-at 1668243277792,
+  :block/updated-at 1668243277792}
+ {:block/name "42",
+  :block/created-at 1668243280979,
+  :block/updated-at 1668243280979}
+ {:block/name "43",
+  :block/created-at 1668243281345,
+  :block/updated-at 1668243281345}
+ {:block/name "44",
+  :block/created-at 1668243284962,
+  :block/updated-at 1668243284962}
  {:block/name "48c9e1f4-30b4-4071-94e4-135495115ea9",
   :block/created-at 1666720759133,
   :block/updated-at 1666720759133}
@@ -68,6 +110,9 @@
  {:block/name "62bbdbb4-3283-44bc-8899-bd7136d26451",
   :block/created-at 1666720759375,
   :block/updated-at 1666720759375}
+ {:block/name "62bd538b-c2c7-43a0-949d-2e095d423ee0",
+  :block/created-at 1668243277791,
+  :block/updated-at 1668243277791}
  {:block/name "62c2d9e7-6962-4f17-937b-6ffdda9e3328",
   :block/created-at 1666857317901,
   :block/updated-at 1666857317901}
@@ -104,6 +149,9 @@
  {:block/name "63105c5a-833f-4451-8c20-204f223ff5b4",
   :block/created-at 1666857313608,
   :block/updated-at 1666857313608}
+ {:block/name "631462c7-84e6-41fc-a7d1-30cb32a82c68",
+  :block/created-at 1668243279811,
+  :block/updated-at 1668243279811}
  {:block/name "631b1e7a-1602-44e7-bcd8-54eb0b19bb78",
   :block/created-at 1666857323332,
   :block/updated-at 1666857323332}
@@ -197,6 +245,9 @@
  {:block/name "action for rescission",
   :block/created-at 1666857329334,
   :block/updated-at 1666857329334}
+ {:block/name "actionable document",
+  :block/created-at 1668243279680,
+  :block/updated-at 1668243279680}
  {:block/name "actions available to recover possession or ownership",
   :block/created-at 1666857313939,
   :block/updated-at 1666857313939}
@@ -275,12 +326,18 @@
  {:block/name "bill of attainder",
   :block/created-at 1666878431916,
   :block/updated-at 1666878431916}
+ {:block/name "bond paper sizes",
+  :block/created-at 1668243278300,
+  :block/updated-at 1668243278300}
  {:block/name "buildings",
   :block/created-at 1666857313614,
   :block/updated-at 1666857313614}
  {:block/name "c",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "caap",
+  :block/created-at 1668243278862,
+  :block/updated-at 1668243278862}
  {:block/name "cagiwowbar",
   :block/created-at 1667991462643,
   :block/updated-at 1667991462643}
@@ -296,6 +353,12 @@
  {:block/name "card",
   :block/created-at 1659873766464,
   :block/updated-at 1666771820418}
+ {:block/name "carpio-morales_v._court_of_appeals.pdf",
+  :block/created-at 1668243280063,
+  :block/updated-at 1668243280063}
+ {:block/name "cases",
+  :block/created-at 1668243277858,
+  :block/updated-at 1668243277858}
  {:block/name "certiorari",
   :block/created-at 1666720761571,
   :block/updated-at 1666720761571}
@@ -305,6 +368,9 @@
  {:block/name "choses in action",
   :block/created-at 1667374119902,
   :block/updated-at 1667374119902}
+ {:block/name "circa",
+  :block/created-at 1668243274679,
+  :block/updated-at 1668243274679}
  {:block/name "civil code",
   :block/created-at 1666853378117,
   :block/updated-at 1666857760751}
@@ -698,6 +764,27 @@
  {:block/name "codal/roc/civpro",
   :block/created-at 1666720761573,
   :block/updated-at 1666720761573}
+ {:block/name "codal/roc/civpro/appeal",
+  :block/created-at 1668243279119,
+  :block/updated-at 1668243279119}
+ {:block/name "codal/roc/civpro/review",
+  :block/created-at 1668243278309,
+  :block/updated-at 1668243278309}
+ {:block/name "codal/roc/crimpro",
+  :block/created-at 1668243281344,
+  :block/updated-at 1668243281344}
+ {:block/name "codal/roc/evidence",
+  :block/created-at 1668243284962,
+  :block/updated-at 1668243284962}
+ {:block/name "codal/roc/provrem",
+  :block/created-at 1668243279823,
+  :block/updated-at 1668243279823}
+ {:block/name "codal/roc/sca",
+  :block/created-at 1668243280503,
+  :block/updated-at 1668243280503}
+ {:block/name "codal/roc/spro",
+  :block/created-at 1668243280978,
+  :block/updated-at 1668243280978}
  {:block/name "codal/sales",
   :block/created-at 1666857331300,
   :block/updated-at 1666857331300}
@@ -758,6 +845,9 @@
  {:block/name "commodatum",
   :block/created-at 1666857324179,
   :block/updated-at 1666857324179}
+ {:block/name "complaint",
+  :block/created-at 1668243281076,
+  :block/updated-at 1668243281076}
  {:block/name "compulsory heirs",
   :block/created-at 1667719529816,
   :block/updated-at 1667719529816}
@@ -870,6 +960,9 @@
  {:block/name "dorotheo v. c.a",
   :block/created-at 1666883879699,
   :block/updated-at 1666883879699}
+ {:block/name "double jeopardy",
+  :block/created-at 1668243281081,
+  :block/updated-at 1668243281081}
  {:block/name "due process clause",
   :block/created-at 1666857309989,
   :block/updated-at 1666857309989}
@@ -882,6 +975,12 @@
  {:block/name "equal protection",
   :block/created-at 1666857309991,
   :block/updated-at 1666857309991}
+ {:block/name "esj",
+  :block/created-at 1668243279249,
+  :block/updated-at 1668243279249}
+ {:block/name "ex parte",
+  :block/created-at 1668243275392,
+  :block/updated-at 1668243275392}
  {:block/name "ex post facto laws",
   :block/created-at 1666878431917,
   :block/updated-at 1666878431917}
@@ -924,9 +1023,6 @@
  {:block/name "friday, 5th august 2022",
   :block/created-at 1666857322116,
   :block/updated-at 1666857322116}
- {:block/name "friday, nov 11th, 2022",
-  :block/created-at 1668096057071,
-  :block/updated-at 1668096057071}
  {:block/name "friday, oct 28th, 2022",
   :block/created-at 1666959158373,
   :block/updated-at 1667113186089}
@@ -934,8 +1030,8 @@
   :block/created-at 1666857313946,
   :block/updated-at 1666857313946}
  {:block/name "getthatbar2022",
-  :block/created-at 1668243094744,
-  :block/updated-at 1668243094744}
+  :block/created-at 1668243254660,
+  :block/updated-at 1668243254660}
  {:block/name "good faith",
   :block/created-at 1666857314680,
   :block/updated-at 1666857314680}
@@ -969,15 +1065,24 @@
  {:block/name "impeachment",
   :block/created-at 1666878433891,
   :block/updated-at 1666878433891}
+ {:block/name "in rem",
+  :block/created-at 1668243279405,
+  :block/updated-at 1668243279405}
  {:block/name "in-progress",
   :block/created-at 1659873766464,
   :block/updated-at 1659873766464}
+ {:block/name "indeterminate sentence law",
+  :block/created-at 1668243283908,
+  :block/updated-at 1668243283908}
  {:block/name "index",
   :block/created-at 1666762314194,
   :block/updated-at 1666762314194}
  {:block/name "index_cards",
   :block/created-at 1659873332628,
   :block/updated-at 1666767148433}
+ {:block/name "information",
+  :block/created-at 1668243281075,
+  :block/updated-at 1668243281075}
  {:block/name "inheritance",
   :block/created-at 1666857317990,
   :block/updated-at 1666857317990}
@@ -1035,6 +1140,9 @@
  {:block/name "lgc",
   :block/created-at 1666878434185,
   :block/updated-at 1666878434185}
+ {:block/name "life insurance",
+  :block/created-at 1668243277840,
+  :block/updated-at 1668243277840}
  {:block/name "link-ref",
   :block/created-at 1666857311042,
   :block/updated-at 1666857311042}
@@ -1071,6 +1179,9 @@
  {:block/name "monday, oct 31st, 2022",
   :block/created-at 1667187845388,
   :block/updated-at 1667541294850}
+ {:block/name "moral turpitude",
+  :block/created-at 1668243284301,
+  :block/updated-at 1668243284301}
  {:block/name "multiplicity of suits",
   :block/created-at 1666857322078,
   :block/updated-at 1666857322078}
@@ -1092,9 +1203,6 @@
  {:block/name "nde",
   :block/created-at 1666720760214,
   :block/updated-at 1666720760214}
- {:block/name "noche_vol2_rule40.pdf",
-  :block/created-at 1666854450634,
-  :block/updated-at 1666854450634}
  {:block/name "note",
   :block/created-at 1666720761564,
   :block/updated-at 1666720761564}
@@ -1134,6 +1242,24 @@
  {:block/name "note/codal/civpro/r23/29",
   :block/created-at 1666720759385,
   :block/updated-at 1666720759385}
+ {:block/name "note/codal/civpro/r39",
+  :block/created-at 1668243277848,
+  :block/updated-at 1668243277848}
+ {:block/name "note/codal/civpro/r39/13",
+  :block/created-at 1668243277835,
+  :block/updated-at 1668243277835}
+ {:block/name "note/codal/civpro/r39/16",
+  :block/created-at 1668243277842,
+  :block/updated-at 1668243277842}
+ {:block/name "note/codal/civpro/r39/2",
+  :block/created-at 1668243277807,
+  :block/updated-at 1668243277807}
+ {:block/name "note/codal/civpro/r39/6",
+  :block/created-at 1668243277815,
+  :block/updated-at 1668243277815}
+ {:block/name "note/codal/civpro/r39/7",
+  :block/created-at 1668243277826,
+  :block/updated-at 1668243277826}
  {:block/name "note/codal/civpro/r40",
   :block/created-at 1666720760392,
   :block/updated-at 1666720760392}
@@ -1221,6 +1347,9 @@
  {:block/name "obsidian",
   :block/created-at 1666945254056,
   :block/updated-at 1668242339916}
+ {:block/name "office",
+  :block/created-at 1668243279681,
+  :block/updated-at 1668243279681}
  {:block/name "opinion",
   :block/created-at 1666720760885,
   :block/updated-at 1666720760885}
@@ -1248,6 +1377,9 @@
  {:block/name "paksitnotes",
   :block/created-at 1666857317932,
   :block/updated-at 1666857317932}
+ {:block/name "pam",
+  :block/created-at 1668243280652,
+  :block/updated-at 1668243280652}
  {:block/name "passive subject",
   :block/created-at 1666857322091,
   :block/updated-at 1666857322091}
@@ -1261,12 +1393,27 @@
   "payment#how payment or performance is made|how payment or performance is made",
   :block/created-at 1666857322089,
   :block/updated-at 1666857322089}
+ {:block/name "pdf: supreme court a.m. no. 19-10-20-sc",
+  :block/created-at 1668243275558,
+  :block/updated-at 1668243275558}
  {:block/name "perez v. tolete",
   :block/created-at 1666857317881,
   :block/updated-at 1666857317881}
  {:block/name "personality",
   :block/created-at 1666857310276,
   :block/updated-at 1666857310276}
+ {:block/name "petition for certiorari",
+  :block/created-at 1668243280064,
+  :block/updated-at 1668243280064}
+ {:block/name "petition for mandamus",
+  :block/created-at 1668243280067,
+  :block/updated-at 1668243280067}
+ {:block/name "petition for prohibition",
+  :block/created-at 1668243280066,
+  :block/updated-at 1668243280066}
+ {:block/name "pjr",
+  :block/created-at 1668243277868,
+  :block/updated-at 1668243277868}
  {:block/name "pomodoro",
   :block/created-at 1666956469682,
   :block/updated-at 1666956469682}
@@ -1276,6 +1423,12 @@
  {:block/name "possession",
   :block/created-at 1666857321025,
   :block/updated-at 1666857321025}
+ {:block/name "prejudicial question",
+  :block/created-at 1668243281156,
+  :block/updated-at 1668243281156}
+ {:block/name "preliminary considerations",
+  :block/created-at 1668243274675,
+  :block/updated-at 1668243274675}
  {:block/name "prestation",
   :block/created-at 1666857329319,
   :block/updated-at 1666857329319}
@@ -1285,6 +1438,9 @@
  {:block/name "probate",
   :block/created-at 1666857317898,
   :block/updated-at 1666857317898}
+ {:block/name "ptmd",
+  :block/created-at 1668243278784,
+  :block/updated-at 1668243278784}
  {:block/name "publishing",
   :block/created-at 1666945207738,
   :block/updated-at 1666945207738}
@@ -1294,9 +1450,15 @@
  {:block/name "qq22_23",
   :block/created-at 1666857317831,
   :block/updated-at 1666857317831}
+ {:block/name "quasi in rem",
+  :block/created-at 1668243279404,
+  :block/updated-at 1668243279404}
  {:block/name "question of law",
   :block/created-at 1666878433574,
   :block/updated-at 1666878433574}
+ {:block/name "questions of law",
+  :block/created-at 1668243278597,
+  :block/updated-at 1668243278597}
  {:block/name "reading",
   :block/created-at 1667882375331,
   :block/updated-at 1667882375331}
@@ -1306,6 +1468,9 @@
  {:block/name "regional trial court",
   :block/created-at 1666857317982,
   :block/updated-at 1666857317982}
+ {:block/name "remedial law",
+  :block/created-at 1668243274682,
+  :block/updated-at 1668243274682}
  {:block/name "renvoi",
   :block/created-at 1666857309982,
   :block/updated-at 1666857309982}
@@ -1318,6 +1483,9 @@
  {:block/name "residual jurisdiction",
   :block/created-at 1666720760702,
   :block/updated-at 1666720760702}
+ {:block/name "revised rules on summary procedure",
+  :block/created-at 1668243280410,
+  :block/updated-at 1668243280410}
  {:block/name "revocation of wills and testamentary dispositions",
   :block/created-at 1666857317891,
   :block/updated-at 1666857317891}
@@ -1333,132 +1501,300 @@
  {:block/name "right to bail",
   :block/created-at 1666878431913,
   :block/updated-at 1666878431913}
- {:block/name "roc",
-  :block/created-at 1666720758822,
-  :block/updated-at 1666720758822}
  {:block/name "roc_annotated",
   :block/created-at 1666720761584,
   :block/updated-at 1666761568185}
  {:block/name "roc_annotated/part_1",
   :block/created-at 1667374121224,
   :block/updated-at 1667374121224}
+ {:block/name "roc_annotated/part_1/rule 1",
+  :block/created-at 1668243274763,
+  :block/updated-at 1668243274763}
+ {:block/name "roc_annotated/part_1/rule 10",
+  :block/created-at 1668243274818,
+  :block/updated-at 1668243274818}
+ {:block/name "roc_annotated/part_1/rule 11",
+  :block/created-at 1668243274890,
+  :block/updated-at 1668243274890}
+ {:block/name "roc_annotated/part_1/rule 12",
+  :block/created-at 1668243274941,
+  :block/updated-at 1668243274941}
+ {:block/name "roc_annotated/part_1/rule 13",
+  :block/created-at 1668243275164,
+  :block/updated-at 1668243275164}
+ {:block/name "roc_annotated/part_1/rule 14",
+  :block/created-at 1668243275411,
+  :block/updated-at 1668243275411}
+ {:block/name "roc_annotated/part_1/rule 15",
+  :block/created-at 1668243275527,
+  :block/updated-at 1668243275527}
+ {:block/name "roc_annotated/part_1/rule 16",
+  :block/created-at 1668243279874,
+  :block/updated-at 1668243279874}
+ {:block/name "roc_annotated/part_1/rule 17",
+  :block/created-at 1668243275619,
+  :block/updated-at 1668243275619}
+ {:block/name "roc_annotated/part_1/rule 18",
+  :block/created-at 1668243275734,
+  :block/updated-at 1668243275734}
+ {:block/name "roc_annotated/part_1/rule 19",
+  :block/created-at 1668243275780,
+  :block/updated-at 1668243275780}
+ {:block/name "roc_annotated/part_1/rule 2",
+  :block/created-at 1668243275831,
+  :block/updated-at 1668243275831}
+ {:block/name "roc_annotated/part_1/rule 20",
+  :block/created-at 1668243275874,
+  :block/updated-at 1668243275874}
+ {:block/name "roc_annotated/part_1/rule 21",
+  :block/created-at 1668243275951,
+  :block/updated-at 1668243275951}
+ {:block/name "roc_annotated/part_1/rule 22",
+  :block/created-at 1668243275996,
+  :block/updated-at 1668243275996}
+ {:block/name "roc_annotated/part_1/rule 23",
+  :block/created-at 1668243276190,
+  :block/updated-at 1668243276190}
+ {:block/name "roc_annotated/part_1/rule 24",
+  :block/created-at 1668243276263,
+  :block/updated-at 1668243276263}
+ {:block/name "roc_annotated/part_1/rule 25",
+  :block/created-at 1668243276316,
+  :block/updated-at 1668243276316}
+ {:block/name "roc_annotated/part_1/rule 26",
+  :block/created-at 1668243276362,
+  :block/updated-at 1668243276362}
+ {:block/name "roc_annotated/part_1/rule 27",
+  :block/created-at 1668243276406,
+  :block/updated-at 1668243276406}
+ {:block/name "roc_annotated/part_1/rule 28",
+  :block/created-at 1668243276448,
+  :block/updated-at 1668243276448}
+ {:block/name "roc_annotated/part_1/rule 29",
+  :block/created-at 1668243276510,
+  :block/updated-at 1668243276510}
+ {:block/name "roc_annotated/part_1/rule 3",
+  :block/created-at 1668243276604,
+  :block/updated-at 1668243276604}
+ {:block/name "roc_annotated/part_1/rule 30",
+  :block/created-at 1668243276690,
+  :block/updated-at 1668243276690}
+ {:block/name "roc_annotated/part_1/rule 31",
+  :block/created-at 1668243276732,
+  :block/updated-at 1668243276732}
+ {:block/name "roc_annotated/part_1/rule 32",
+  :block/created-at 1668243276807,
+  :block/updated-at 1668243276807}
+ {:block/name "roc_annotated/part_1/rule 33",
+  :block/created-at 1668243277168,
+  :block/updated-at 1668243277168}
+ {:block/name "roc_annotated/part_1/rule 34",
+  :block/created-at 1668243277216,
+  :block/updated-at 1668243277216}
+ {:block/name "roc_annotated/part_1/rule 35",
+  :block/created-at 1668243277269,
+  :block/updated-at 1668243277269}
+ {:block/name "roc_annotated/part_1/rule 36",
+  :block/created-at 1668243277331,
+  :block/updated-at 1668243277331}
+ {:block/name "roc_annotated/part_1/rule 37",
+  :block/created-at 1668243277416,
+  :block/updated-at 1668243277416}
+ {:block/name "roc_annotated/part_1/rule 38",
+  :block/created-at 1668243277472,
+  :block/updated-at 1668243277472}
+ {:block/name "roc_annotated/part_1/rule 39",
+  :block/created-at 1668243280135,
+  :block/updated-at 1668243280135}
+ {:block/name "roc_annotated/part_1/rule 4",
+  :block/created-at 1668243277952,
+  :block/updated-at 1668243277952}
+ {:block/name "roc_annotated/part_1/rule 40",
+  :block/created-at 1668243278039,
+  :block/updated-at 1668243278039}
+ {:block/name "roc_annotated/part_1/rule 41",
+  :block/created-at 1668243278198,
+  :block/updated-at 1668243278198}
+ {:block/name "roc_annotated/part_1/rule 42",
+  :block/created-at 1668243278323,
+  :block/updated-at 1668243278323}
+ {:block/name "roc_annotated/part_1/rule 43",
+  :block/created-at 1668243278408,
+  :block/updated-at 1668243278408}
+ {:block/name "roc_annotated/part_1/rule 44",
+  :block/created-at 1668243278508,
+  :block/updated-at 1668243278508}
+ {:block/name "roc_annotated/part_1/rule 45",
+  :block/created-at 1668243279235,
+  :block/updated-at 1668243279235}
+ {:block/name "roc_annotated/part_1/rule 46",
+  :block/created-at 1668243278688,
+  :block/updated-at 1668243278688}
+ {:block/name "roc_annotated/part_1/rule 47",
+  :block/created-at 1668243278749,
+  :block/updated-at 1668243278749}
+ {:block/name "roc_annotated/part_1/rule 48",
+  :block/created-at 1668243279234,
+  :block/updated-at 1668243279234}
+ {:block/name "roc_annotated/part_1/rule 49",
+  :block/created-at 1668243278835,
+  :block/updated-at 1668243278835}
+ {:block/name "roc_annotated/part_1/rule 5",
+  :block/created-at 1668243278873,
+  :block/updated-at 1668243278873}
+ {:block/name "roc_annotated/part_1/rule 50",
+  :block/created-at 1668243278923,
+  :block/updated-at 1668243278923}
+ {:block/name "roc_annotated/part_1/rule 51",
+  :block/created-at 1668243278999,
+  :block/updated-at 1668243278999}
+ {:block/name "roc_annotated/part_1/rule 52",
+  :block/created-at 1668243279041,
+  :block/updated-at 1668243279041}
+ {:block/name "roc_annotated/part_1/rule 53",
+  :block/created-at 1668243279087,
+  :block/updated-at 1668243279087}
+ {:block/name "roc_annotated/part_1/rule 54",
+  :block/created-at 1668243279130,
+  :block/updated-at 1668243279130}
+ {:block/name "roc_annotated/part_1/rule 55",
+  :block/created-at 1668243279177,
+  :block/updated-at 1668243279177}
+ {:block/name "roc_annotated/part_1/rule 56",
+  :block/created-at 1668243279262,
+  :block/updated-at 1668243279262}
+ {:block/name "roc_annotated/part_1/rule 57",
+  :block/created-at 1668243279430,
+  :block/updated-at 1668243279430}
  {:block/name "roc_annotated/part_1/rule 58",
   :block/created-at 1667374121222,
   :block/updated-at 1667374121222}
- {:block/name "roc_annotated/rule 13",
-  :block/created-at 1666753384826,
-  :block/updated-at 1666875049836}
- {:block/name "roc_annotated/rule 15",
-  :block/created-at 1666753385122,
-  :block/updated-at 1666875067455}
- {:block/name "roc_annotated/rule 18",
-  :block/created-at 1666753385284,
-  :block/updated-at 1666753385284}
- {:block/name "roc_annotated/rule 20",
-  :block/created-at 1666753385410,
-  :block/updated-at 1666753385410}
- {:block/name "roc_annotated/rule 21",
-  :block/created-at 1666753385499,
-  :block/updated-at 1666753385499}
- {:block/name "roc_annotated/rule 22",
-  :block/created-at 1666753385596,
-  :block/updated-at 1666753385596}
- {:block/name "roc_annotated/rule 23",
-  :block/created-at 1666753385831,
-  :block/updated-at 1666753385831}
- {:block/name "roc_annotated/rule 24",
-  :block/created-at 1666753386036,
-  :block/updated-at 1666753386036}
- {:block/name "roc_annotated/rule 25",
-  :block/created-at 1666753386102,
-  :block/updated-at 1666753386102}
- {:block/name "roc_annotated/rule 26",
-  :block/created-at 1666753386194,
-  :block/updated-at 1666753386194}
- {:block/name "roc_annotated/rule 27",
-  :block/created-at 1666753386240,
-  :block/updated-at 1666753386240}
- {:block/name "roc_annotated/rule 28",
-  :block/created-at 1666753386286,
-  :block/updated-at 1666753386286}
- {:block/name "roc_annotated/rule 29",
-  :block/created-at 1666753386392,
-  :block/updated-at 1666753386392}
- {:block/name "roc_annotated/rule 30",
-  :block/created-at 1666753386493,
-  :block/updated-at 1666753386493}
- {:block/name "roc_annotated/rule 32",
-  :block/created-at 1666753386643,
-  :block/updated-at 1666753386643}
- {:block/name "roc_annotated/rule 33",
-  :block/created-at 1666753386756,
-  :block/updated-at 1666753386756}
- {:block/name "roc_annotated/rule 34",
-  :block/created-at 1666753386812,
-  :block/updated-at 1666753386812}
- {:block/name "roc_annotated/rule 35",
-  :block/created-at 1666753386908,
-  :block/updated-at 1666753386908}
- {:block/name "roc_annotated/rule 36",
-  :block/created-at 1666753386978,
-  :block/updated-at 1666753386978}
- {:block/name "roc_annotated/rule 37",
-  :block/created-at 1666753387109,
-  :block/updated-at 1666753387109}
- {:block/name "roc_annotated/rule 38",
-  :block/created-at 1666753387196,
-  :block/updated-at 1666753387196}
- {:block/name "roc_annotated/rule 40",
-  :block/created-at 1666753387335,
-  :block/updated-at 1666854450636}
- {:block/name "roc_annotated/rule 41",
-  :block/created-at 1666753387539,
-  :block/updated-at 1666753387539}
- {:block/name "roc_annotated/rule 42",
-  :block/created-at 1666753387755,
-  :block/updated-at 1666753387755}
- {:block/name "roc_annotated/rule 43",
-  :block/created-at 1666753387888,
-  :block/updated-at 1666753387888}
- {:block/name "roc_annotated/rule 44",
-  :block/created-at 1666753388050,
-  :block/updated-at 1666753388050}
- {:block/name "roc_annotated/rule 45",
-  :block/created-at 1666753388213,
-  :block/updated-at 1666767446926}
- {:block/name "roc_annotated/rule 46",
-  :block/created-at 1666753388345,
-  :block/updated-at 1666753388345}
- {:block/name "roc_annotated/rule 47",
-  :block/created-at 1666753388431,
-  :block/updated-at 1666753388431}
- {:block/name "roc_annotated/rule 48",
-  :block/created-at 1666753388526,
-  :block/updated-at 1666753388526}
- {:block/name "roc_annotated/rule 49",
-  :block/created-at 1666753388574,
-  :block/updated-at 1666753388574}
- {:block/name "roc_annotated/rule 50",
-  :block/created-at 1666753388631,
-  :block/updated-at 1666753388631}
- {:block/name "roc_annotated/rule 51",
-  :block/created-at 1666753388757,
-  :block/updated-at 1666753388757}
- {:block/name "roc_annotated/rule 52",
-  :block/created-at 1666753388821,
-  :block/updated-at 1666753388821}
- {:block/name "roc_annotated/rule 53",
-  :block/created-at 1666753388900,
-  :block/updated-at 1666753388900}
- {:block/name "roc_annotated/rule 54",
-  :block/created-at 1666753388948,
-  :block/updated-at 1666753388948}
- {:block/name "roc_annotated/rule 55",
-  :block/created-at 1666753388994,
-  :block/updated-at 1666753388994}
- {:block/name "roc_annotated/rule 56",
-  :block/created-at 1666753389117,
-  :block/updated-at 1666753989278}
+ {:block/name "roc_annotated/part_1/rule 59",
+  :block/created-at 1668243279588,
+  :block/updated-at 1668243279588}
+ {:block/name "roc_annotated/part_1/rule 6",
+  :block/created-at 1668243279696,
+  :block/updated-at 1668243279696}
+ {:block/name "roc_annotated/part_1/rule 60",
+  :block/created-at 1668243279768,
+  :block/updated-at 1668243279768}
+ {:block/name "roc_annotated/part_1/rule 61",
+  :block/created-at 1668243279834,
+  :block/updated-at 1668243279834}
+ {:block/name "roc_annotated/part_1/rule 62",
+  :block/created-at 1668243279888,
+  :block/updated-at 1668243279888}
+ {:block/name "roc_annotated/part_1/rule 63",
+  :block/created-at 1668243279934,
+  :block/updated-at 1668243279934}
+ {:block/name "roc_annotated/part_1/rule 64",
+  :block/created-at 1668243280002,
+  :block/updated-at 1668243280002}
+ {:block/name "roc_annotated/part_1/rule 65",
+  :block/created-at 1668243280082,
+  :block/updated-at 1668243280082}
+ {:block/name "roc_annotated/part_1/rule 68",
+  :block/created-at 1668243280151,
+  :block/updated-at 1668243280151}
+ {:block/name "roc_annotated/part_1/rule 7",
+  :block/created-at 1668243280306,
+  :block/updated-at 1668243280306}
+ {:block/name "roc_annotated/part_1/rule 70",
+  :block/created-at 1668243280429,
+  :block/updated-at 1668243280429}
+ {:block/name "roc_annotated/part_1/rule 71",
+  :block/created-at 1668243280515,
+  :block/updated-at 1668243280515}
+ {:block/name "roc_annotated/part_1/rule 8",
+  :block/created-at 1668243280612,
+  :block/updated-at 1668243280612}
+ {:block/name "roc_annotated/part_1/rule 9",
+  :block/created-at 1668243280664,
+  :block/updated-at 1668243280664}
+ {:block/name "roc_annotated/part_2",
+  :block/created-at 1668243280991,
+  :block/updated-at 1668243280991}
+ {:block/name "roc_annotated/part_2/rule 72",
+  :block/created-at 1668243280714,
+  :block/updated-at 1668243280714}
+ {:block/name "roc_annotated/part_2/rule 73",
+  :block/created-at 1668243280761,
+  :block/updated-at 1668243280761}
+ {:block/name "roc_annotated/part_2/rule 74",
+  :block/created-at 1668243280814,
+  :block/updated-at 1668243280814}
+ {:block/name "roc_annotated/part_2/rule 75",
+  :block/created-at 1668243280859,
+  :block/updated-at 1668243280859}
+ {:block/name "roc_annotated/part_2/rule 76",
+  :block/created-at 1668243280942,
+  :block/updated-at 1668243280942}
+ {:block/name "roc_annotated/part_2/rule 77",
+  :block/created-at 1668243280989,
+  :block/updated-at 1668243280989}
+ {:block/name "roc_annotated/part_3",
+  :block/created-at 1668243281356,
+  :block/updated-at 1668243281356}
+ {:block/name "roc_annotated/part_3/rule 110",
+  :block/created-at 1668243281096,
+  :block/updated-at 1668243281096}
+ {:block/name "roc_annotated/part_3/rule 111",
+  :block/created-at 1668243281167,
+  :block/updated-at 1668243281167}
+ {:block/name "roc_annotated/part_3/rule 112",
+  :block/created-at 1668243281284,
+  :block/updated-at 1668243281284}
+ {:block/name "roc_annotated/part_3/rule 113",
+  :block/created-at 1668243281354,
+  :block/updated-at 1668243281354}
+ {:block/name "roc_annotated/part_3/rule 114",
+  :block/created-at 1668243283923,
+  :block/updated-at 1668243283923}
+ {:block/name "roc_annotated/part_3/rule 115",
+  :block/created-at 1668243283972,
+  :block/updated-at 1668243283972}
+ {:block/name "roc_annotated/part_3/rule 116",
+  :block/created-at 1668243284045,
+  :block/updated-at 1668243284045}
+ {:block/name "roc_annotated/part_3/rule 117",
+  :block/created-at 1668243284121,
+  :block/updated-at 1668243284121}
+ {:block/name "roc_annotated/part_3/rule 118",
+  :block/created-at 1668243284170,
+  :block/updated-at 1668243284170}
+ {:block/name "roc_annotated/part_3/rule 119",
+  :block/created-at 1668243284316,
+  :block/updated-at 1668243284316}
+ {:block/name "roc_annotated/part_3/rule 120",
+  :block/created-at 1668243284392,
+  :block/updated-at 1668243284392}
+ {:block/name "roc_annotated/part_3/rule 121",
+  :block/created-at 1668243284442,
+  :block/updated-at 1668243284442}
+ {:block/name "roc_annotated/part_3/rule 122",
+  :block/created-at 1668243284534,
+  :block/updated-at 1668243284534}
+ {:block/name "roc_annotated/part_3/rule 123",
+  :block/created-at 1668243284570,
+  :block/updated-at 1668243284570}
+ {:block/name "roc_annotated/part_3/rule 124",
+  :block/created-at 1668243284655,
+  :block/updated-at 1668243284655}
+ {:block/name "roc_annotated/part_3/rule 125",
+  :block/created-at 1668243284693,
+  :block/updated-at 1668243284693}
+ {:block/name "roc_annotated/part_3/rule 126",
+  :block/created-at 1668243284765,
+  :block/updated-at 1668243284765}
+ {:block/name "roc_annotated/part_3/rule 127",
+  :block/created-at 1668243284807,
+  :block/updated-at 1668243284807}
+ {:block/name "roc_annotated/part_4",
+  :block/created-at 1668243284974,
+  :block/updated-at 1668243284974}
+ {:block/name "roc_annotated/part_4/rule 132",
+  :block/created-at 1668243284972,
+  :block/updated-at 1668243284972}
  {:block/name "rule 65",
   :block/created-at 1666720760220,
   :block/updated-at 1666720760220}
@@ -1468,12 +1804,21 @@
  {:block/name "saturday, 27th august 2022",
   :block/created-at 1666878431919,
   :block/updated-at 1666878431919}
+ {:block/name "saturday, 8th october 2022",
+  :block/created-at 1668243279418,
+  :block/updated-at 1668243279418}
  {:block/name "saturday, nov 12th, 2022",
   :block/created-at 1668182435609,
-  :block/updated-at 1668242403335}
+  :block/updated-at 1668243423226}
  {:block/name "searches and seizures",
   :block/created-at 1666857309992,
   :block/updated-at 1666857309992}
+ {:block/name "searching inquiry",
+  :block/created-at 1668243284031,
+  :block/updated-at 1668243284031}
+ {:block/name "separate civil action is suspended",
+  :block/created-at 1668243281154,
+  :block/updated-at 1668243281154}
  {:block/name "special power of attorney",
   :block/created-at 1666857323348,
   :block/updated-at 1666857323348}
@@ -1489,6 +1834,9 @@
  {:block/name "subrogation",
   :block/created-at 1667454709628,
   :block/updated-at 1667454709628}
+ {:block/name "substantive law",
+  :block/created-at 1668243274681,
+  :block/updated-at 1668243274681}
  {:block/name "substitution of heirs",
   :block/created-at 1667187845848,
   :block/updated-at 1667187845848}
@@ -1516,12 +1864,22 @@
  {:block/name "suretyship",
   :block/created-at 1666857325973,
   :block/updated-at 1666857325973}
+ {:block/name "syllabus",
+  :block/created-at 1668243277859,
+  :block/updated-at 1668243277859}
  {:block/name "sys-category",
   :block/created-at 1666857313630,
   :block/updated-at 1666857313630}
+ {:block/name
+  "tarcisio s. calilung v. paramount insurance corporation",
+  :block/created-at 1668243277860,
+  :block/updated-at 1668243277860}
  {:block/name "taxation 1 flashcards",
   :block/created-at 1666770177673,
   :block/updated-at 1666770367916}
+ {:block/name "tdej",
+  :block/created-at 1668243279074,
+  :block/updated-at 1668243279074}
  {:block/name "things",
   :block/created-at 1666857322117,
   :block/updated-at 1666857322117}
@@ -1543,9 +1901,6 @@
  {:block/name "thursday, jun 23rd, 2022",
   :block/created-at 1666959205295,
   :block/updated-at 1666959205295}
- {:block/name "thursday, nov 10th, 2022",
-  :block/created-at 1668051524133,
-  :block/updated-at 1668051524133}
  {:block/name "thursday, nov 3rd, 2022",
   :block/created-at 1667410528038,
   :block/updated-at 1667455176328}
