@@ -101,7 +101,7 @@ sys-category:: [[41.1]]
 - **SECTION 16.** Balance due collected upon an execution; excess delivered to judgment [obligor]([[Passive subject]]).
   collapsed:: true
 	- If after realizing upon all the property attached, including the proceeds of any debts or credits collected, and applying the proceeds to the satisfaction of the judgment, less the expenses of proceedings upon the judgment, any balance shall remain due, the sheriff must proceed to collect such balance as upon ordinary execution.
-
+	  
 	  Whenever the judgment shall have been paid, the sheriff, upon reasonable demand, must return to the judgment [obligor]([[Passive subject]]) the attached property remaining in his hands, and any proceeds of the sale of the property attached not applied to the judgment. (16a)
 - **SECTION 17.** Recovery upon the counter-bond.
   collapsed:: true

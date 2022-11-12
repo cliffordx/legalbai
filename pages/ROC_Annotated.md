@@ -115,7 +115,6 @@ status:: active
 			  query-sort-by:: title
 			  query-sort-desc:: false
 - # PART II - Special Proceedings
-  collapsed:: true
 	- ### General Provisions
 		- [[ROC_Annotated/PART_2/Rule 72]]
 	- ### Settlement of Estate of Deceased Persons
@@ -123,16 +122,15 @@ status:: active
 	  query-table:: true
 	  query-properties:: [:title :alt-title]
 - # PART III - REVISED RULES OF CRIMINAL PROCEDURE[^P3]
-  collapsed:: true
 	- [^P3]: _{As amended by A.M. No. 00-5-03-SC Re: Revised Rules of Criminal Procedure (Rule 110-127, Revised Rules of Court), effective on 01 December, 2000.}
 	- ***Sources:***
 		-
 		-
 	- {{query #codal/roc/crimpro}}
-	  query-table:: true
-	  query-properties:: [:title :alt-title]
 	  query-sort-by:: title
+	  query-table:: true
 	  query-sort-desc:: false
+	  query-properties:: [:title :alt-title]
 	-
 - # PART IV - REVISED RULES OF EVIDENCE
 	- ![A.M. No. 19-08-15-SC REvised Rules on Evidence PDF](2019_Proposed_Amendments_to_the_Revised_Rules2019.pdf)
