@@ -934,8 +934,8 @@
   :block/created-at 1666857313946,
   :block/updated-at 1666857313946}
  {:block/name "getthatbar2022",
-  :block/created-at 1668224095007,
-  :block/updated-at 1668224095007}
+  :block/created-at 1668243094744,
+  :block/updated-at 1668243094744}
  {:block/name "good faith",
   :block/created-at 1666857314680,
   :block/updated-at 1666857314680}
@@ -1046,7 +1046,7 @@
   :block/updated-at 1667374118511}
  {:block/name "logseq",
   :block/created-at 1666945225739,
-  :block/updated-at 1667289583566}
+  :block/updated-at 1668231247989}
  {:block/name "mandamus",
   :block/created-at 1666720761558,
   :block/updated-at 1666720761558}
@@ -1220,7 +1220,7 @@
   :block/updated-at 1666857329348}
  {:block/name "obsidian",
   :block/created-at 1666945254056,
-  :block/updated-at 1666948433496}
+  :block/updated-at 1668242339916}
  {:block/name "opinion",
   :block/created-at 1666720760885,
   :block/updated-at 1666720760885}
@@ -1470,7 +1470,7 @@
   :block/updated-at 1666878431919}
  {:block/name "saturday, nov 12th, 2022",
   :block/created-at 1668182435609,
-  :block/updated-at 1668182435609}
+  :block/updated-at 1668242403335}
  {:block/name "searches and seizures",
   :block/created-at 1666857309992,
   :block/updated-at 1666857309992}
@@ -1590,7 +1590,7 @@
   :block/updated-at 1667882333746}
  {:block/name "welcome page",
   :block/created-at 1667187845638,
-  :block/updated-at 1668085574615}
+  :block/updated-at 1668231348223}
  {:block/name "writ of prohibition",
   :block/created-at 1666720761558,
   :block/updated-at 1666720761558}

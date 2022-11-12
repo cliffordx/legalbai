@@ -1,0 +1,33 @@
+title:: ROC_Annotated/PART_1/Rule 68
+alt-title:: Foreclosure of Real Estate Mortgage
+type:: codal
+law-subject:: remedial
+tags:: #codal/roc/sca
+status:: active
+sys-category:: [[41.2]]
+
+# RULE 68 - Foreclosure of Real Estate Mortgage
+- **SECTION 1.** *Complaint in action for foreclosure.*
+	- In an action for the foreclosure of a mortgage or other encumbrance upon real estate, the complaint shall set forth the date and due execution of the mortgage; its assignments, if any; the names and residences of the mortgagor and the mortgagee; a description of the mortgaged property; a statement of the date of the note or other documentary evidence of the obligation secured by the mortgage, the amount claimed to be unpaid thereon; and the names and residences of all persons having or claiming an interest in the property subordinate in right to that of the holder of the mortgage, all of whom shall be made defendants in the action. (1a)
+- **SECTION 2.** *Judgment on foreclosure for payment or sale.*
+	- If upon the trial in such action the court shall find the facts set forth in the complaint to be true, it shall ascertain the amount due to the plaintiff upon the mortgage debt or obligation, including interest and other charges as approved by the court, and costs, and shall render judgment for the sum so found due and order that the same be paid to the court or to the judgment obligee within a period of not less than ninety (90) days nor more than one hundred twenty (120) days from the entry of judgment, and that in default of such payment the property shall be sold at public auction to satisfy the judgment. (2a)
+- **SECTION 3.** *Sale of mortgaged property; effect.*
+	- When the defendant, after being directed to do so as provided in the next preceding section, fails to pay the amount of the judgment within the period specified therein, the court, upon motion, shall order the property to be sold in the manner and under the provisions of [Rule 39]([[ROC_Annotated/PART_1/Rule 39]]) and other regulations governing sales of real estate under execution.
+	- Such sale shall not affect the rights of persons holding prior encumbrances upon the property or a part thereof, and when confirmed by an order of the court, also upon motion, it shall operate to divest the rights in the property of all the parties to the action and to vest their rights in the purchaser, subject to such rights of redemption as may be allowed by law.
+	- Upon the finality of the order of confirmation or upon the expiration of the period of redemption when allowed by law, the purchaser at the auction sale or last redemptioner, if any, shall be entitled to the possession of the property unless a third party is actually holding the same adversely to the judgment obligor.
+	- The said purchaser or last redemptioner may secure a writ of possession, upon motion, from the court which ordered the foreclosure. (3a)
+- **SECTION 4.** *Disposition of proceeds of sale.*
+	- The amount realized from the foreclosure sale of the mortgaged property shall, after deducting the costs of the sale, be paid to the person foreclosing the mortgage, and when there shall be any balance or residue, after paying off the mortgage debt due, the same shall be paid to junior encumbrancers in the order of their priority, to be ascertained by the court, or if there be no such encumbrancers or there be a balance or residue after payment to them, then to the mortgagor or his duly authorized agent, or to person entitled to it. (4a)
+- **SECTION 5.** *How sale to proceed in case the debt is not all due.*
+	- If the debt for which the mortgage or encumbrance was held is not all due as provided in the judgment, as soon as a sufficient portion of the property has been sold to pay the total amount and the costs due, the sale shall terminate; and afterwards, as often as more becomes due for principal or interest and other valid charges, the court may, on motion, order more to be sold.
+	- But if the property cannot be sold in portions without prejudice to the parties, the whole shall be ordered to be sold in the first instance, and the entire debt and costs shall be paid, if the proceeds of the sale be sufficient therefor, there being a rebate of interest where such rebate is proper. (5a)
+- **SECTION 6.** *Deficiency judgment.*
+	- If upon the sale of any real property as provided in the next preceding section there be a balance due to the plaintiff after applying the proceeds of the sale, the court, upon motion, shall render judgment against the defendant for any such balance for which, by the record of the case, he may be personally liable to the plaintiff, upon which execution may issue immediately if the balance is all due at the time of the rendition of the judgment; otherwise, the plaintiff shall be entitled to execution at such time as the balance remaining becomes due under the terms of the original contract, which time shall be stated in the judgment. (6a)
+- **SECTION 7.** *Registration.*
+	- A certified copy of the final order of the court confirming the sale shall be registered in the registry of deeds.
+	- If no right of redemption exists, the certificate of title in the name of the mortgagor shall be cancelled, and a new one issued in the name of the purchaser.
+	- Where a right of redemption exists, the certificate of title in the name of the mortgagor shall not be cancelled, but the certificate of sale and the order confirming the sale shall be registered and a brief memorandum thereof made by the registrar of deeds upon the certificate of title.
+	- In the event the property is redeemed, the deed of redemption shall be registered with the registry of deeds, and a brief memorandum thereof shall be made by the registrar of deeds on said certificate of title.
+	- If the property is not redeemed, the final deed of sale executed by the sheriff in favor of the purchaser at the foreclosure sale shall be registered with the registry of deeds; whereupon the certificate of title in the name of the mortgagor shall be cancelled and a new one issued in the name of the purchaser. (n)
+- **SECTION 8.** *Applicability of other provisions.*
+	- The provisions of sections [31](((634fbaa2-f7ab-427c-8cad-4a94888fad0c))), [32](((634fbaa2-c18c-4f50-b007-8b4c9151adc5))) and [34](((634fbaa2-1432-488d-bf21-c5ad26626991))) of Rule 39 shall be applicable to the judicial foreclosure of real estate mortgages under this Rule insofar as the former are not inconsistent with or may serve to supplement the provisions of the latter. (8a)
