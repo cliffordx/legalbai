@@ -15,7 +15,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- (2) Those born in the Philippines of foreign parents who, before the adoption of said Constitution, had been elected to public office in the Philippines;
 		- (3) Those whose fathers are citizens of the Philippines;
 		- (4) Those whose mothers are citizens of the Philippines and, upon reaching the age of majority, elect Philippine citizenship;
-		- (5) Those who are naturalized in accordance with law. (n)
+		- (5) Those who are [[naturalized]] in accordance with law. (n)
 - **ARTICLE 49.**
   collapsed:: true
 	- Naturalization and the loss and reacquisition of citizenship of the Philippines are governed by special laws. (n)
