@@ -18,7 +18,6 @@ sys-category:: [[41]]
 			- 1) Where no hearing on the merits of the main case is held, upon the filing of the last pleading, brief, or memorandum required by the Rules or by the court itself, or the expiration of the period for its filing.
 			- 2) Where such a hearing is held, upon its termination or upon the filing of the last pleading or memorandum as may be required or permitted to be filed by the court, or the expiration of the period for its filing.
 		- B. In original actions and petitions for review.
-		  collapsed:: true
 			- 1) Where no comment is filed, upon the expiration of the period to comment.
 			- 2) Where no hearing is held, upon the filing of the last pleading required or permitted to be filed by the court, or the expiration of the period for its filing.
 			- 3) Where a hearing on the merits of the main case is held, upon its termination or upon the filing of the last pleading or memorandum as may be required or permitted to be filed by the court, or the expiration of the period for its filing. (n)
