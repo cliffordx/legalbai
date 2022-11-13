@@ -406,7 +406,7 @@
   :block/updated-at 1667744866099}
  {:block/name "civil code/book 1/title_2",
   :block/created-at 1666853378117,
-  :block/updated-at 1666857889665}
+  :block/updated-at 1668334044455}
  {:block/name "civil code/book 1/title_3",
   :block/created-at 1666857311657,
   :block/updated-at 1666857902575}
@@ -875,7 +875,7 @@
   :block/updated-at 1667392497003}
  {:block/name "consti_1987_annotated/article iv (4)",
   :block/created-at 1666878432284,
-  :block/updated-at 1667392690572}
+  :block/updated-at 1668334011771}
  {:block/name "consti_1987_annotated/article ix (9)",
   :block/created-at 1666878432496,
   :block/updated-at 1666878432496}
@@ -1200,6 +1200,9 @@
  {:block/name "natural person",
   :block/created-at 1666857310264,
   :block/updated-at 1666857310264}
+ {:block/name "naturalized",
+  :block/created-at 1668334011770,
+  :block/updated-at 1668334011770}
  {:block/name "nde",
   :block/created-at 1666720760214,
   :block/updated-at 1666720760214}
@@ -1857,7 +1860,7 @@
   :block/updated-at 1666959158460}
  {:block/name "sunday, nov 13th, 2022",
   :block/created-at 1668268827037,
-  :block/updated-at 1668268827037}
+  :block/updated-at 1668335489688}
  {:block/name "sunday, oct 30th, 2022",
   :block/created-at 1667187846474,
   :block/updated-at 1667187846474}
