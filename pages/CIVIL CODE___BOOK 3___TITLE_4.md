@@ -861,7 +861,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [Jurado](((63566abc-26b2-47a4-8226-65ff273c0310)))
 	- ## SECTION 4 - [[Conditional Testamentary Dispositions and Testamentary Dispositions With a Term]]
 	  background-color:: yellow
-	  collapsed:: true
 		- ***Commentaries***
 		  collapsed:: true
 			- [Jurado](((63567c65-c8c8-43c1-b2e6-cbb7c59de07e)))
@@ -944,6 +943,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- But in the first case he shall not enter into possession of the property until after having given sufficient security, with the intervention of the instituted heir. (805)
 			- [Paras](((6357df6e-767b-4222-8de2-cf61670b5f75)))
 	- ## SECTION 5 - [[Legitime]]
+	  collapsed:: true
 		- **ARTICLE 886.**
 		  id:: 634fba6d-78b7-4ce7-a959-dce0556783d5
 			- {{cloze Legitime}} is that part of the testator’s property which he cannot {{cloze dispose}} of because the law has {{cloze reserved}} it for certain heirs who are, therefore, called [[compulsory heirs]] . (806)
@@ -967,11 +967,9 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			  id:: 634fba6d-ab6f-49b5-bad6-aa6553096301
 			- The father or mother of illegitimate children of the three classes mentioned, shall inherit from them in the manner and to the extent established by this Code. (807a)
 		- **ARTICLE 888.**
-		  collapsed:: true
 			- The legitime of [[legitimate children]] and descendants consists of one-half of the hereditary estate of the father and of the mother.
 			- The latter may freely dispose of the remaining half, subject to the rights of illegitimate children and of the surviving spouse as hereinafter provided. (808a)
 		- **ARTICLE 889.**
-		  collapsed:: true
 			- The legitime of legitimate parents or ascendants consists of one-half of the hereditary estates of their children and descendants.
 			- The children or descendants may freely dispose of the other half, subject to the rights of illegitimate children and of the surviving spouse as hereinafter provided. (809a)
 		- **ARTICLE 890.**
@@ -1143,7 +1141,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- The children and descendants of the person disinherited shall take his or her place and shall preserve the rights of [[compulsory heirs]] with respect to the legitime; but the disinherited parent shall not have the usufruct or administration of the property which constitutes the legitime. (857)
 	- ## SECTION 7 - Legacies and Devises
-	  collapsed:: true
 		- **ARTICLE 924.**
 		  collapsed:: true
 			- All things and rights which are within the commerce of man may be bequeathed or devised. (865a)
@@ -1318,7 +1315,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- In default of testamentary heirs, the law vests the inheritance, in accordance with the rules hereinafter set forth, in the legitimate and illegitimate relatives of the deceased, in the surviving spouse, and in the State. (913a)
 		- **ARTICLE 962.**
-		  collapsed:: true
 			- In every inheritance, the relative nearest in degree excludes the more distant ones, saving the right of representation when it properly takes place.
 			- Relatives in the same degree shall inherit in equal shares, subject to the provisions of [article 1006](((92c33502-173a-4bc9-ad34-739b0af438bd))) with respect to relatives of the full and half blood, and of [article 987, paragraph 2](((62e52ca3-3850-465f-8abb-6d79c3768c02))), concerning division between the paternal and maternal lines. (921a)
 		- ### SUBSECTION 1 - Relationship
@@ -1363,7 +1359,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- The representative is called to the succession by the law and not by the person represented.
 				- The representative does not succeed the person represented but the one whom the person represented would have succeeded. (n)
 			- **ARTICLE 972.**
-			  collapsed:: true
 				- The right of representation takes place in the direct descending line, but never in the ascending.
 				- In the collateral line, it takes place only in favor of the children of brothers or sisters, whether they be of the full or half blood. (925)
 			- **ARTICLE 973.**

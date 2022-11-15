@@ -1176,6 +1176,9 @@
  {:block/name "modes of acquiring ownership",
   :block/created-at 1666857317832,
   :block/updated-at 1666857317832}
+ {:block/name "monday, nov 14th, 2022",
+  :block/created-at 1668355214680,
+  :block/updated-at 1668355214680}
  {:block/name "monday, oct 31st, 2022",
   :block/created-at 1667187845388,
   :block/updated-at 1667541294850}
@@ -1812,7 +1815,7 @@
   :block/updated-at 1668243279418}
  {:block/name "saturday, nov 12th, 2022",
   :block/created-at 1668182435609,
-  :block/updated-at 1668243423226}
+  :block/updated-at 1668353048902}
  {:block/name "searches and seizures",
   :block/created-at 1666857309992,
   :block/updated-at 1666857309992}
@@ -1919,6 +1922,9 @@
  {:block/name "trusts",
   :block/created-at 1666857330631,
   :block/updated-at 1666940202480}
+ {:block/name "tuesday, nov 15th, 2022",
+  :block/created-at 1668441601301,
+  :block/updated-at 1668441601301}
  {:block/name "tuesday, nov 1st, 2022",
   :block/created-at 1667286121953,
   :block/updated-at 1667455520167}

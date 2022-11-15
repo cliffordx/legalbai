@@ -1,47 +1,44 @@
-# REVALIDA CONSTITUTIONAL LAW 1 QUESTIONS
+- # Constitutional Law Q&As
 	- > NOTE: These are collated Q&As from our class. Use this only as your reference or you may wish to add/edit/correct any of them, just inform me. Read at your own risk.
-## **INTRODUCTION:**
-collapsed:: true
-	- **Discuss the doctrine of constitutional supremacy.** #card
-	  collapsed:: true
-		- Under the doctrine of constitutional supremacy, **if a law or contract violates** any norm of the constitution that law or contract whether promulgated by the legislative or by the executive branch or entered into by private persons for private purposes is null and void and without any force and effect. Thus, since the Constitution is the fundamental, paramount and supreme law of the nation, it is deemed written in every statute and contract.
-		- The Constitution is the basic and paramount law to which all other laws and statutes must conform and to which all people, including the President, must uphold and support. No law shall be valid even in its noblest of intentions, if it conflicts with the Constitution. The Constitution must ever remain supreme. All must bow to the mandate of this law.
-		- Expediency must not be allowed to sap its strength nor greed for power debase its rectitude. Right or wrong, the Constitution must be upheld as long as it has not been changed by the sovereign people lest its disregard result in the usurpation of the majesty of law by the pretenders to illegitimate power.
-	- **Distinguish amendments from revisions of Constitution.** #card
-	  collapsed:: true
-		- **1) Amendment:** an alteration of one or a few specific provisions of the Constitution. Its main purpose is to improve specific provisions of the Constitution. The changes brought about by amendments will not affect the other provisions of the Constitution.
-		- 2) Revision: An examination of the entire Constitution to determine how and to what extent it should be altered. A revision implies substantive change, affecting the Constitution as a whole.
-		- “Revision” is the  alterations of the different portions of the entire document [Constitution]. It may result in the rewriting whether the whole constitution, or the greater portion of it, or perhaps some of its important provisions. But whatever results the revision may produce, the factor that characterizes it as an act of revision is the original intention and plan authorized to be carried out. That intention and plan must contemplate a consideration of all the provisions of the Constitution to determine which one should be altered or suppressed or whether the whole document should be replaced with an entirely new one.
-		- “Amendment” of the Constitution, on the other hand, envisages a change or only a few specific provisions. The intention of an act to amend is not to consider the advisability of changing the entire constitution or of considering that possibility. The intention rather is to improve specific parts of the existing constitution or to add to it provisions deemed essential on account of changed conditions or to suppress portions of it that seem obsolete, or dangerous, or misleading in their effect. (SINCO, Vicente, PHILIPPINE POLITICAL LAW)
-	- **Discuss the three (3) mode of proposing amendments to the Constitution** #card
-	  collapsed:: true
-		- Under the common interpretation of the Constitution, amendments can be proposed by one of three methods: a **People's Initiative**, a **Constituent Assembly** or a **Constitutional Convention.**
-		- The proposal is usually made either directly by the Congress or by a constitutional convention. A special case is provided for where the proposal may be made directly by the people through initiative.
+	- ## **INTRODUCTION:**
+		- **Discuss the doctrine of constitutional supremacy.** #card
+			- Under the doctrine of constitutional supremacy, **if a law or contract violates** any norm of the constitution that law or contract whether promulgated by the legislative or by the executive branch or entered into by private persons for private purposes is null and void and without any force and effect. Thus, since the Constitution is the fundamental, paramount and supreme law of the nation, it is deemed written in every statute and contract.
+			- The Constitution is the basic and paramount law to which all other laws and statutes must conform and to which all people, including the President, must uphold and support. No law shall be valid even in its noblest of intentions, if it conflicts with the Constitution. The Constitution must ever remain supreme. All must bow to the mandate of this law.
+			- Expediency must not be allowed to sap its strength nor greed for power debase its rectitude. Right or wrong, the Constitution must be upheld as long as it has not been changed by the sovereign people lest its disregard result in the usurpation of the majesty of law by the pretenders to illegitimate power.
+		- **Distinguish amendments from revisions of Constitution.** #card
 		  collapsed:: true
-			- **The pertinent rules are:**
-				- "Section 1. Any amendment to, or revision of, this Constitution may be proposed by:
-					- **"(1) The Congress, upon a vote of three-fourths of all its Members; or**
-					- "(2) A **constitutional convention.**
-						- "Sec. 2. Amendments to this Constitution may likewise be directly proposed by the people through **initiative** upon a petition of at least twelve per centum of the total number of registered voters, of which every legislative district must be represented by at least three per centum of the registered voters therein. No amendment under this section shall be authorized within five years following the ratification of this Constitution nor oftener than once every five years thereafter.
-						- "The Congress shall provide for the implementation of the exercise of this right.
-						- "Sec. 3. The Congress may, by a vote of two-thirds of all its Members, call a **constitutional convention,** or by a majority vote of all its Members, submit to the electorate the question of calling such a convention."
-	- **Discuss the “doctrine of proper submission” in connection with proposed amendments to the Constitution.** #card
-	  collapsed:: true
-		- Amendments cannot be submitted to the people in a piecemeal fashion wherein the other amendments are to follow. The people should have a frame of reference from which to read the amendments being proposed. (Tolentino vs COMELEC)
-		- The plebiscite may be held on the same day as regular election (Gonzales v COMELEC)provided the people are sufficiently informed of the amendments to be voted upon, to conscientiously deliberate thereon, to express their will in a genuine manner. Submission of piecemeal amendments is unconstitutional.
-		- “Doctrine of Proper Submission” means all the proposed amendments to the Constitution shall be presented to the people for the ratification or rejection at the same time, not piecemeal. (TOLENTINO V. COMELEC, 41 SCRA 702)
-	- **What is initiative? Discuss the three (3) kinds of initiative** #card
-	  collapsed:: true
-		- **“Initiative”** is the power of the people to propose amendments to the Constitution_ or _to propose and enact legislations through an election_ called for the purpose.
-		- **There are three (3) systems of initiative, namely:**
-			- a.1 I**nitiative on the Constitution** which refers to a petition proposing amendments to the Constitution;
-			- a.2 **Initiative on statutes** which refers to a petition proposing to enact a national legislation; and
-			- a.3 **Initiative on local legislation** which refers to a petition proposing to enact a regional, provincial, city, municipal, or barangay law, resolution or ordinance.
-	- **Explain the distinction between original legislative power and derivative power** #card
-	  collapsed:: true
-		- (1) Original legislative power- possessed by the sovereign people.
-		- (2) Derivative legislative power- that which has been delegated by the sovereign people to the legislative bodies. (Kind of power vested in Congress)
-		- 1.  Discuss the two sets to determine whether a proposed change in the Constitution is an amendment or a revision.
+			- **1) Amendment:** an alteration of one or a few specific provisions of the Constitution. Its main purpose is to improve specific provisions of the Constitution. The changes brought about by amendments will not affect the other provisions of the Constitution.
+			- 2) Revision: An examination of the entire Constitution to determine how and to what extent it should be altered. A revision implies substantive change, affecting the Constitution as a whole.
+			- “Revision” is the  alterations of the different portions of the entire document [Constitution]. It may result in the rewriting whether the whole constitution, or the greater portion of it, or perhaps some of its important provisions. But whatever results the revision may produce, the factor that characterizes it as an act of revision is the original intention and plan authorized to be carried out. That intention and plan must contemplate a consideration of all the provisions of the Constitution to determine which one should be altered or suppressed or whether the whole document should be replaced with an entirely new one.
+			- “Amendment” of the Constitution, on the other hand, envisages a change or only a few specific provisions. The intention of an act to amend is not to consider the advisability of changing the entire constitution or of considering that possibility. The intention rather is to improve specific parts of the existing constitution or to add to it provisions deemed essential on account of changed conditions or to suppress portions of it that seem obsolete, or dangerous, or misleading in their effect. (SINCO, Vicente, PHILIPPINE POLITICAL LAW)
+		- **Discuss the three (3) mode of proposing amendments to the Constitution** #card
+		  collapsed:: true
+			- Under the common interpretation of the Constitution, amendments can be proposed by one of three methods: a **People's Initiative**, a **Constituent Assembly** or a **Constitutional Convention.**
+			- The proposal is usually made either directly by the Congress or by a constitutional convention. A special case is provided for where the proposal may be made directly by the people through initiative.
+			  collapsed:: true
+				- **The pertinent rules are:**
+					- "Section 1. Any amendment to, or revision of, this Constitution may be proposed by:
+						- **"(1) The Congress, upon a vote of three-fourths of all its Members; or**
+						- "(2) A **constitutional convention.**
+							- "Sec. 2. Amendments to this Constitution may likewise be directly proposed by the people through **initiative** upon a petition of at least twelve per centum of the total number of registered voters, of which every legislative district must be represented by at least three per centum of the registered voters therein. No amendment under this section shall be authorized within five years following the ratification of this Constitution nor oftener than once every five years thereafter.
+							- "The Congress shall provide for the implementation of the exercise of this right.
+							- "Sec. 3. The Congress may, by a vote of two-thirds of all its Members, call a **constitutional convention,** or by a majority vote of all its Members, submit to the electorate the question of calling such a convention."
+		- **Discuss the “doctrine of proper submission” in connection with proposed amendments to the Constitution.** #card
+		  collapsed:: true
+			- Amendments cannot be submitted to the people in a piecemeal fashion wherein the other amendments are to follow. The people should have a frame of reference from which to read the amendments being proposed. (Tolentino vs COMELEC)
+			- The plebiscite may be held on the same day as regular election (Gonzales v COMELEC)provided the people are sufficiently informed of the amendments to be voted upon, to conscientiously deliberate thereon, to express their will in a genuine manner. Submission of piecemeal amendments is unconstitutional.
+			- “Doctrine of Proper Submission” means all the proposed amendments to the Constitution shall be presented to the people for the ratification or rejection at the same time, not piecemeal. (TOLENTINO V. COMELEC, 41 SCRA 702)
+		- **What is initiative? Discuss the three (3) kinds of initiative** #card
+			- **“Initiative”** is the power of the people to propose amendments to the Constitution_ or _to propose and enact legislations through an election_ called for the purpose.
+			- **There are three (3) systems of initiative, namely:**
+				- a.1 I**nitiative on the Constitution** which refers to a petition proposing amendments to the Constitution;
+				- a.2 **Initiative on statutes** which refers to a petition proposing to enact a national legislation; and
+				- a.3 **Initiative on local legislation** which refers to a petition proposing to enact a regional, provincial, city, municipal, or barangay law, resolution or ordinance.
+		- **Explain the distinction between original legislative power and derivative power** #card
+		  collapsed:: true
+			- (1) Original legislative power- possessed by the sovereign people.
+			- (2) Derivative legislative power- that which has been delegated by the sovereign people to the legislative bodies. (Kind of power vested in Congress)
+			- 1.  Discuss the two sets to determine whether a proposed change in the Constitution is an amendment or a revision.
 - ## **FUNDAMENTAL PRINCIPLES AND STATE POLICIES**
   collapsed:: true
 	- collapsed:: true

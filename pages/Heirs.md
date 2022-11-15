@@ -47,7 +47,6 @@
 	- If the testator is a **legitimate person**, his compulsory heirs under Art. 887 of the Civil Code are the following:
 	  background-color:: red
 		- (1) ((63576df1-7a13-404d-bf30-339d839fe080))
-		  collapsed:: true
 			- This class includes [[legitimate children]] or descendants proper[^8] legitimated children or descendants,[^9] and adopted children.[^10]
 			- As a rule, adopted children are entitled to the same successional rights as [[legitimate children]].^{*Ibid.*}
 			- **There are, however, two well-known exceptions.** Thus, if the adopter is survived by his legitimate parents or ascendants and by his adopted child, the latter shall not have more successional rights than an acknowledged natural child.^{*Ibid.*} Furthermore, if the adopter dies before his legitimate parent or ascendant, or is incapacitated to inherit from such parent or ascendant, or is disinherited by such parent or ascendant, unlike a legitimate child, the adopted child cannot inherit by right of representation from the parent or ascendant.
@@ -57,7 +56,6 @@
 				- [^9]: Article [272](((634fba6a-1b42-415d-a537-5dd73eee5624))), Civil Code.
 				- [^10]: _{See Art. 39, Child and Youth Welfare Code (P.D. No. 603).}
 		- (2) In default of the foregoing, legitimate parents and ascendants;
-		  collapsed:: true
 			- **Legitimate parents or ascendants are classified as secondary compulsory heirs** ^^because of the fact that under our law, they cannot inherit from their child or descendant if they concur with [[legitimate children]] or descendants of the latter. It must be noted, however, that while they can be excluded by the presence of [[legitimate children]] or descendants, they cannot be excluded by the presence of adopted children.^^
 			- This is so, because of the provision of No. 4 of Art 39 of the Child and Youth Welfare Code (P.D. No. 603), which has superseded Art. 343 of the New Civil Code, and which states that if the adopter is survived by legitimate parents or ascendants and by the adopted child, the latter shall not have more successional rights than an acknowledged natural child.
 			- Illegitimate parents are also classified as secondary, compulsory heirs because of the fact that under our law, they cannot inherit from their illegitimate child if they concur with children or descendants of the latter, whether legitimate or illegitimate. Thus, [if the testator, who is an illegitimate child](((63575771-fec9-49d8-8da2-0e90934ebc5a))), is survived by his children and his illegitimate parents, the latter are excluded altogether from the succession by the presence of the former regardless of their legitimacy or illegitimacy.
@@ -78,7 +76,6 @@
 						- 1. Yes. Don’s testamentary disposition of his estate is in accordance with the law on succession. Don has no compulsory heirs not having ascendants, descendants nor a spouse (Art. 887, NCC). Brothers and sisters are not compulsory heirs. Thus, he can bequeath his entire estate to anyone who is not otherwise incapacitated to inherit from him. A common-law wife is not incapacitated under the law as Don is not married to anyone.
 						  2. Jayson will still be entitled to the entire P12 Million as the father, brother and sister will be excluded by a legitimate son of the decedent (Art. 887, NCC). This follows the principle that the descendants exclude the ascendants from inheritance.^{(Suggested Answers to the 2006 Bar Examination Questions, PALS)}
 		- (3) The widow or widower;
-		  collapsed:: true
 			- Under the old law, the widow or widower was entitled merely to a usufructuary right; under the present law, she or he is now entitled to all of the rights of a primary compulsory heir. However, if there is a decree of legal separation, the guilty spouse can no longer be considered as a compulsory heir of the innocent spouse, since one of the effects of the decree is to disqualify the former from inheriting from the latter.[^13]
 				- [^13]: Arts. [106](((634fba69-b6b0-4bcd-905e-53f5979dbceb))), [892](((634fba6c-d424-4806-bcf5-68611e4f3117))), Civil Code.
 			- **The surviving spouse cannot claim to be a compulsory heir of her or his parent-in-law under Art. 887(3).** The aforesaid provision refers to the estate of the deceased spouse in which case the surviving spouse (widow or widower) is a compulsory heir. It does not apply to the estate of a parent-in-law.
