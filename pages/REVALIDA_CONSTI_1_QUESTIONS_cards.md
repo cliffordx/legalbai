@@ -297,6 +297,12 @@
 		- **Dual allegiance**, on the other hand, refers to a situation in which a person simultaneously owes, by some positive act, loyalty to two or more states. While dual citizenship is involuntary, dual allegiance is the result of an individual’s volition, his participation in the naturalization process. (Mercado v. Manzano, 307 SCRA 630, May 26, 1999, En Banc [Mendoza])
 	- **What is the effect of repatriation to one’s citizenship?** #card
 	  collapsed:: true
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2022-11-19T03:06:10.449Z
+	  card-last-reviewed:: 2022-11-15T03:06:10.450Z
+	  card-last-score:: 3
 		- In Bengzon III v. House of Representatives Electoral Tribunal, G.R. No. 142840, May 7, 2001, the Supreme Court ruled that the act of repatriation allows the person to recover, or return to, his original status before he lost his Philippine citizenship.
 	- **Enumerate at least five (5) government officials who are required to possess natural-born Filipino citizenship.** #card
 	  collapsed:: true

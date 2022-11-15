@@ -4,7 +4,6 @@ item-type:: card
 tags:: flashcards
 public:: false
 
-
 - #Q Which tax principle dictates that the government must maintain an ideal budgetary system?
   * [ ] a. Fiscal adequacy
   * [ ] b. Theoretical justice
@@ -16,7 +15,7 @@ public:: false
 - #Q No person shall be imprisoned for non-payment of
   * [ ] a. Property tax
   * [ ] b. Excise tax
-  * [ ] c. Poll tax
+  * [X] c. Poll tax
   * [ ] d. Value added tax #card
 - #Q The President of the Philippines does not have the power to grant tax exemption but can grant tax amnesty.
   * [ ] True

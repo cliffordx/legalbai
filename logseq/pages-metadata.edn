@@ -945,6 +945,9 @@
  {:block/name "deed of sale",
   :block/created-at 1666857331287,
   :block/updated-at 1666857331287}
+ {:block/name "delegation of powers#permissible delegation",
+  :block/created-at 1668481362471,
+  :block/updated-at 1668481362471}
  {:block/name "demo",
   :block/created-at 1666956456841,
   :block/updated-at 1666956456841}
@@ -1176,9 +1179,6 @@
  {:block/name "modes of acquiring ownership",
   :block/created-at 1666857317832,
   :block/updated-at 1666857317832}
- {:block/name "monday, nov 14th, 2022",
-  :block/created-at 1668355214680,
-  :block/updated-at 1668355214680}
  {:block/name "monday, oct 31st, 2022",
   :block/created-at 1667187845388,
   :block/updated-at 1667541294850}
@@ -1489,6 +1489,9 @@
  {:block/name "residual jurisdiction",
   :block/created-at 1666720760702,
   :block/updated-at 1666720760702}
+ {:block/name "revalida_consti_1_questions_cards",
+  :block/created-at 1668481362597,
+  :block/updated-at 1668481570482}
  {:block/name "revised rules on summary procedure",
   :block/created-at 1668243280410,
   :block/updated-at 1668243280410}
@@ -1885,7 +1888,7 @@
   :block/updated-at 1668243277860}
  {:block/name "taxation 1 flashcards",
   :block/created-at 1666770177673,
-  :block/updated-at 1666770367916}
+  :block/updated-at 1668481574483}
  {:block/name "tdej",
   :block/created-at 1668243279074,
   :block/updated-at 1668243279074}
