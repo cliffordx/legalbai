@@ -19,3 +19,7 @@ html[data-theme='light'] {
     --cl-secondary: 258,100%,65%;
     --cl-accent: 258,100%,65%;
 }
+/* added 21 Nov 2022 */
+.block-content {
+    text-align: justify;
+}
