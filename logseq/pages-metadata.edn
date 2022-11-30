@@ -535,7 +535,7 @@
   :block/updated-at 1667396133713}
  {:block/name "civil code/book 4/title_9",
   :block/created-at 1666857321544,
-  :block/updated-at 1667454867354}
+  :block/updated-at 1669782771611}
  {:block/name "civil interdiction",
   :block/created-at 1666857310268,
   :block/updated-at 1666857310268}
@@ -933,6 +933,9 @@
  {:block/name "contract of loan",
   :block/created-at 1666857324179,
   :block/updated-at 1666857324179}
+ {:block/name "corporation by estoppel",
+  :block/created-at 1669782773328,
+  :block/updated-at 1669782773328}
  {:block/name "cruel and unusual punishment",
   :block/created-at 1666857309994,
   :block/updated-at 1666857309994}
@@ -1026,9 +1029,6 @@
  {:block/name "friday, 5th august 2022",
   :block/created-at 1666857322116,
   :block/updated-at 1666857322116}
- {:block/name "friday, nov 25th, 2022",
-  :block/created-at 1669390528011,
-  :block/updated-at 1669390528011}
  {:block/name "friday, oct 28th, 2022",
   :block/created-at 1666959158373,
   :block/updated-at 1667113186089}
@@ -1822,9 +1822,6 @@
  {:block/name "saturday, nov 12th, 2022",
   :block/created-at 1668182435609,
   :block/updated-at 1668353048902}
- {:block/name "saturday, nov 26th, 2022",
-  :block/created-at 1669392030900,
-  :block/updated-at 1669392030900}
  {:block/name "searches and seizures",
   :block/created-at 1666857309992,
   :block/updated-at 1666857309992}
@@ -1955,6 +1952,9 @@
  {:block/name "wednesday, nov 2nd, 2022",
   :block/created-at 1667318446090,
   :block/updated-at 1667374782046}
+ {:block/name "wednesday, nov 30th, 2022",
+  :block/created-at 1669782615886,
+  :block/updated-at 1669782615886}
  {:block/name "wednesday, nov 9th, 2022",
   :block/created-at 1667923850966,
   :block/updated-at 1667991494078}
