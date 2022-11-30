@@ -11,6 +11,86 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1767.**
 		- By the contract of partnership two or more persons bind themselves to contribute money, property, or industry to a common fund, with the intention of dividing the profits among themselves.
 		- Two or more persons may also form a partnership for the exercise of a profession. (1665a)
+			- ### COMMENTARIES:
+			- ### VIDEOS:
+				- ### Partnership cases part 1
+					- {{video https://youtu.be/5X8fc3f24yQ}}
+					- //MENU
+						- {{youtube-timestamp 33}} **Evangelista v. CIR** (Intro to Partnership)
+						  collapsed:: true
+				- {{youtube-timestamp 76}} series of acts; one act does not constitute a person
+				- {{youtube-timestamp 95}} Principle
+				- . {{youtube-timestamp 164}} **Facts** {{youtube-timestamp 230}} ats {{youtube-timestamp 258}} rental
+				- {{youtube-timestamp 302}} **Issue**
+				- {{youtube-timestamp 308}} **Ruling**
+					- {{youtube-timestamp 462}} series of transactions
+					- {{youtube-timestamp 653}} next slide
+					- {{youtube-timestamp 777}} corporation v. partnership
+						- {{youtube-timestamp 905}} **Obillos v. CIR**
+						  collapsed:: true
+				- {{youtube-timestamp 936}} tanging yaman; general provisions; definition, elements, existence
+				- {{youtube-timestamp 987}} Principle
+				- {{youtube-timestamp 1005}} **Facts** {{youtube-timestamp 1060}} sold property {{youtube-timestamp 1074}} BIR
+				- {{youtube-timestamp 1129}} **Issue**
+				- {{youtube-timestamp 1139}} **Ruling**
+					- {{youtube-timestamp 1254}} next slide
+					- {{youtube-timestamp 1360}} another slide
+						- {{youtube-timestamp 1380}} **Estanislao v. CA**
+						  collapsed:: true
+				- {{youtube-timestamp 1391}} topic: gen. provision- definition/elements/ existence
+				- {{youtube-timestamp 1430}} Principle
+				- {{youtube-timestamp 1436}} Facts
+				  collapsed:: true
+					- {{youtube-timestamp 1462}}  siblings - property - gas station; {{youtube-timestamp 1515}} additional agreement; {{youtube-timestamp 1609}} away mag-soon
+					- {{youtube-timestamp 1624}}: next slide; {{youtube-timestamp 1742}} next slide; {{youtube-timestamp 1757}}: filed complaint; {{youtube-timestamp 1780}}: joint affidavit
+					- {{youtube-timestamp 1963}} contention sa magsuon
+				- {{youtube-timestamp 1996}} Issue
+				- {{youtube-timestamp 2004}} Ruling; {{youtube-timestamp 2142}} next slide
+				-
+					- {{youtube-timestamp 2245}} **Pascual v. CIR** (Hating Kapatid)
+					  collapsed:: true
+				- {{youtube-timestamp 2287}} Principle
+				- {{youtube-timestamp 2336}} Facts: {{youtube-timestamp 2375}} CGT
+				- {{youtube-timestamp 2391}} Issue
+				- {{youtube-timestamp 2397}} Ruling: No. {{youtube-timestamp 2410}} put #⭐️/atp/5; {{youtube-timestamp 2453}} essential elements; {{youtube-timestamp 2532}} next slide; {{youtube-timestamp 2541}} next slide; {{youtube-timestamp 2593}} next slide; {{youtube-timestamp 2706}} **two isolated transactions**;
+					- {{youtube-timestamp 2790}} **Lim Tong Lim v. Phil. Fishing Gear Ent.** (ang tunay na kaibigan...)
+					  collapsed:: true
+				- {{youtube-timestamp 2846}} Principle
+				- {{youtube-timestamp 2917}} Facts: {{youtube-timestamp 2940}} entered into business {{youtube-timestamp 3005}} next slide; no reg. SEC; {{youtube-timestamp 3072}} NO show;
+				- {{youtube-timestamp 3099}} Issue
+				- {{youtube-timestamp 3106}} Ruling: Yes. {{youtube-timestamp 3171}} Compromise agreement.; {{youtube-timestamp 3250}} lower court; {{youtube-timestamp 3326}} next slide, (6) entrusted; {{youtube-timestamp 3368}} next slide; {{youtube-timestamp 3567}} doctrine of [[Corporation by Estoppel]]; {{youtube-timestamp 3736}} \#end
+				- ### Partnership cases part 2
+					- {{video https://youtu.be/V1D00l-cz_8}}
+						- // MENU
+				- {{youtube-timestamp 5}} we continue on our discussion...
+				- {{youtube-timestamp 15}} **Heirs of Tan Eng Kee v. CA (Kilay is LIfe)**
+				  collapsed:: true
+					- {{youtube-timestamp 35}} Principle; {{youtube-timestamp 103}} next slide; dapat memorize ni nga part #⭐️/atp
+					- {{youtube-timestamp 149}} Facts: angkel; Benguet Lumber Co;
+					- {{youtube-timestamp 271}} Issue
+					- {{youtube-timestamp 297}} Ruling. No partnership; {{youtube-timestamp 345}} next slide; single transaction; {{youtube-timestamp 405}} fall short of quantum proof; {{youtube-timestamp 450}} next slide; {{youtube-timestamp 481}} next slide; {{youtube-timestamp 579}} did not present and offer evidence; {{youtube-timestamp 612}} next slide
+				- {{youtube-timestamp 712}} **Tocao et al v. CA**
+				  collapsed:: true
+					- {{youtube-timestamp 737}} Principle
+					- {{youtube-timestamp 758}} Facts; {{youtube-timestamp 823}} cookwares {{youtube-timestamp 848}} capitalist; silent partner; {{youtube-timestamp 885}} Head / VP sales; {{youtube-timestamp 933}} Geminesse Enterprise; {{youtube-timestamp 956}}next slide; agreement; {{youtube-timestamp 1017}} no longer VP; {{youtube-timestamp 1033}}overriding com; {{youtube-timestamp 1070}} we are not partners
+					- {{youtube-timestamp 1117}} Issue
+					- {{youtube-timestamp 1124}} Yes, the parties formed a partnership; {{youtube-timestamp 1182}} oral contract of partnership is as good as written one; {{youtube-timestamp 1229}} next slide; Anay had a voice; {{youtube-timestamp 1330}} next slide, no moment- sole prop, for practical reasons
+				- {{youtube-timestamp 1468}} **Sunga-Chan v. Chua** ( can a partnership be oral?)
+					- {{youtube-timestamp 1497}} Principle
+					- {{youtube-timestamp 1554}} Facts; LPG; {{youtube-timestamp 1629}} demand accounting; {{youtube-timestamp 1646}} anak: no partnership;
+					- {{youtube-timestamp 1665}} Issue
+					- {{youtube-timestamp 1676}} Ruling. Yes. {{youtube-timestamp 1726}} Dead Man's Statute; {{youtube-timestamp 1784}} next slide. {{youtube-timestamp 1830}} next slide;
+				- {{youtube-timestamp 1872}} **Sy. v. CA (Ano mo ba ako)**
+					- {{youtube-timestamp 1894}} Principle
+					- {{youtube-timestamp 1905}} Facts; {{youtube-timestamp 1937}} 36 years work, No SSS, {{youtube-timestamp 1990}} you are terminated; {{youtube-timestamp 2004}} I am an employee. {{youtube-timestamp 2023}} employer: we are partners;
+					- {{youtube-timestamp 2079}} Issue
+					- {{youtube-timestamp 2086}} Ruling. No partnership.; {{youtube-timestamp 2135}} next slide; {{youtube-timestamp 2183}} not industrial partner; {{youtube-timestamp 2203}} next slide;
+				- {{youtube-timestamp 2259}} **Anton v. Sps. Oliva et al**
+					- {{youtube-timestamp 2286}} Principle
+					- {{youtube-timestamp 2371}} Facts: mag-asawa; {{youtube-timestamp 2416}} 3 MOAs; {{youtube-timestamp 2477}} filed a case for accounting / spec. performance; {{youtube-timestamp 2520}} MOA contents; {{youtube-timestamp 2596}} next slide
+					- {{youtube-timestamp 2605}} Issue
+					- {{youtube-timestamp 2611}} Ruling.  No, they did not form a partnership.; {{youtube-timestamp 2678}} next slide; prima facie, take note; {{youtube-timestamp 2786}} next slide. {{youtube-timestamp 2884}} next slide, interest. \#end
+				-
 	- **ARTICLE 1768.**
 		- The partnership has a juridical personality separate and distinct from that of each of the partners, even in case of failure to comply with the requirements of [article 1772, first paragraph](((63010050-f0a7-4d68-aea0-04ed11999e5f))). (n)
 	- **ARTICLE 1769.**
