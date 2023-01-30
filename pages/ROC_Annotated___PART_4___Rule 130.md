@@ -45,11 +45,10 @@ sys-category:: [[44]]
 						- (e) When the original is not closely-related to a controlling issue.(3a)
 			- **SECTION 4.** {{cloze Original of}} document.
 				- (a) An {{cloze "original"}} of {{cloze a document is}}  the {{cloze document}} itself or {{cloze any counterpart intended to}} have the {{cloze same eff}}ect by a {{cloze person executing or issuing}} it. An {{cloze "original" of a ph}}otograph {{cloze includes the negati}}ve or {{cloze any}} print {{cloze therefrom}}. If {{cloze data is stored in a computer or similar}} device, {{cloze any printout or}} other {{cloze output read}}able {{cloze by sight or other}} means, {{cloze shown to reflect the data}} accurately, {{cloze is an "original."}}
-				- (b) A {{cloze "duplicate"}} is a {{cloze counterpart}} {{cloze produced by the same impression}} as the {{cloze original, or fro}}m the {{cloze same matri}}x, {{cloze or by means of}} photography, {{cloze including enlargements and miniatur}}es, or by {{cloz mechanical or electronic rerecording, or by}} chemical {{cloze reproduction, or by other equivalent techni}}ques which {{cloze accurately reproduce the}} original.
-				- (c) A duplicate is admissible to the same extent as an original unless —
-				  collapsed:: true
-					- (1) a genuine question is raised as to the authenticity of the original, or
-					- (2) in the circumstances, it is unjust or inequitable to admit the duplicate in lieu of the original. (4a)
+				- (b) A {{cloze "duplicate"}} is a {{cloze counterpart}} {{cloze produced by the same impression}} as the {{cloze original, or fro}}m the {{cloze same matri}}x, {{cloze or by means of}} photography, {{cloze including enlargements and miniatur}}es, or by {{cloze mechanical or electronic rerecording, or by}} chemical {{cloze reproduction, or by other equivalent techni}}ques which {{cloze accurately reproduce the}} original.
+				- (c) A {{cloze duplicate is admissible}} to the {{cloze same extent as an original}} unless —
+					- (1) {{cloze a genuine}} question {{cloze is raised}}  as to {{cloze the authenticity of the original}}, or
+					- (2) in {{cloze the circumstances, it is unjust}} or inequitable to admit the duplicate in lieu of the original. (4a)
 		- ### 2. Secondary Evidence
 		  collapsed:: true
 			- **SECTION 5.** *When original document is unavailable.*
