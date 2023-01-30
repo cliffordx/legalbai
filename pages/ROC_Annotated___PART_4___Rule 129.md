@@ -27,8 +27,8 @@ sys-category:: [[44]]
 	  collapsed:: true
 		- A court may take judicial notice of matters which are of public knowledge, or are capable of unquestionable demonstration, or ought to be known to judges because of their judicial functions.
 - **SECTION 3.** {{cloze Judicial notice, when hearing}} necessary.
-	- During {{cloze the pre-trial}}  and the[^1] {{cloze }} court, {{cloze motu proprio or upon motion}}, shall {{cloze hear the parties}} on the {{cloze propriety of taking}} judicial notice {{cloze of any matt}}er.
-	- Before judgment or on appeal, the court, motu proprio or upon motion, may take judicial notice of any matter and shall hear the parties thereon if such matter is decisive of a material issue in the case. (n)
+	- During {{cloze the pre-tri}}al  and the[^1] {{cloze }} court, {{cloze motu proprio or upon motio}}n, shall {{cloze hear the par}}ties on the {{cloze propriety of taking}} judicial notice {{cloze of any matt}}er.
+	- Before {{cloze judgment}} or {{cloze on appeal, the cour}}t, {{cloze motu}} proprio {{cloze or upon motion, may}} take judicial {{cloze notice of any matter}} and shall hear the parties thereon if such matter is decisive of a material issue in the case. (n)
 - **SECTION 4.** *Judicial admissions.*
   collapsed:: true
 	- An admission, verbal or written, made by a party in the course of the proceedings in the same case, does not require proof. The admission may be contradicted only by showing that it was made through palpable mistake or that the imputed admission was not, in fact, made.(2a)[^1]
