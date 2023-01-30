@@ -57,9 +57,8 @@ sys-category:: [[44]]
 			- **SECTION 7.** {{cloze Summaries.}}
 				- When the {{cloze contents of documents, records, photographs, or num}}erous accounts are {{cloze voluminous}} and {{cloze cannot be examined in}} court without {{cloze great loss of time, and}} the {{cloze fact sought to be established}} is only {{cloze the general result of}} the whole, {{cloze the contents of such evidence}} may {{cloze be pre}}sented in {{cloze the form of a chart, summary}}, or {{cloze calc}}ulation.
 				- The {{cloze originals shall be}} available {{cloze for examination or copying, or bo}}th, by {{cloze the ad}}verse {{cloze par}}ty at {{cloze a reason}}able time {{cloze and place}}. The {{cloze court may order that they}} be {{cloze produced in c}}ourt. (n)
-			- **SECTION 8.** *Evidence admissible when original document is a public record.*
-			  collapsed:: true
-				- When the original of a document is in the custody of a public officer or is recorded in a public office, its contents may be proved by a certified copy issued by the public officer in custody thereof. (7)
+			- **SECTION 8.** Evidence {{cloze admissible when original doc}}ument is {{cloze a public re}}cord.
+				- When {{cloze the original of a doc}}ument is in the custody {{cloze of a public officer or is rec}}orded in a public office, {{cloze its contents may}} be {{cloze proved by a certified copy issued}} by {{cloze the public officer}} in custody thereof. (7)
 			- **SECTION 9.** *Party who calls for document not bound to offer it.*
 			  collapsed:: true
 				- A party who calls for the production of a document and inspects the same is not obliged to offer it as evidence. (8)
