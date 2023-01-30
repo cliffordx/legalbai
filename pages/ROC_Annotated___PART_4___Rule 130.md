@@ -12,13 +12,16 @@ sys-category:: [[44]]
 - ## A. {{cloze Object (Real)}} Evidence
 	- **SECTION 1.** {{cloze Object as evidence.}}
 		- {{cloze Objects as evidence}} are {{cloze those addre}}ssed {{cloze to the senses of the court.}}
+		  collapsed:: true
+			- Objects as evidence are those addressed to the senses of the court.
 		- When {{cloze an object is relevant}} to {{cloze the fact in issu}}e, it {{cloze may be exhibited to}}, {{cloze exam}}ined or {{cloze viewed by the cou}}rt. (1)
+			-
 - ## B. {{cloze Documentary Evidence}}
 	- **SECTION 2.** {{cloze Documentary}} evidence.
 		- {{cloze Documents}} as evidence {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing {{cloze letters, words, numb}}ers, {{cloze figures, symb}}ols or their {{cloze equivalent, or other modes}} of {{cloze written expressions}} {{cloze offered as proof}} of their {{cloze contents.}}
-		- Photographs {{cloze include still pictures}}, {{cloze drawings, st}}ored {{cloze images, x-ray film}}s, motion pictures or videos. (2a) [^1]
+		- Photographs {{cloze include still pictures}}, {{cloze drawings, st}}ored {{cloze images, x-ray film}}s, {{cloze motion pictures or}} videos. (2a) [^1]
 			- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
-		- ### 1. Original Document Rule
+		- ### 1. {{cloze Original Document}} Rule
 			- **SECTION 3.** *Original document must be produced; exceptions.*
 				- When the subject of inquiry is the contents of a document, writing, recording, photograph or other record,]  no evidence shall be admissible other than the original document itself, except in the following cases:
 					- (a) When the original is lost or destroyed, or cannot be produced in court, without bad faith on the part of the offeror;
