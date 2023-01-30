@@ -74,10 +74,10 @@ sys-category:: [[44]]
 			- **SECTION 14.** {{cloze Interpretation according to circumstances.}}
 				- {{cloze For the proper construction of an instrument, the circumstances under which it was made, including the situation of the subject thereof and of the parties to it, may be shown, so that the judge may be placed in the position of those whose language he is to interpret}}. (13a)
 			- **SECTION 15.** *Peculiar signification of terms.*
-				- The terms of a {{cloze writing are presumed to have been used in their primary and}} general acceptation, but evidence is {{cloze admissible to show}} that they have a local, technical, or otherwise {{cloze peculiar signification}}, and were so {{cloze used and understood}} in the particular {{cloze instance}}, in which {{case the agreement must be construed}} accordingly. (14)
-			- **SECTION 16.** *Written words control printed.*
-				- When an instrument consists partly of written words and partly of a printed form, and the two are inconsistent, the former controls the latter. (15)
-			- **SECTION 17.** *Experts and interpreters to be used in explaining certain writings.*
+				- The terms of a {{cloze writing are presumed to have been used in their primary and}} general acceptation, but evidence is {{cloze admissible to show}} that they have a local, technical, or otherwise {{cloze peculiar signification}}, and were so {{cloze used and understood}} in the particular {{cloze instance}}, in which {{cloze case the agreement must be construed}} accordingly. (14)
+			- **SECTION 16.** {{cloze Written words control}} printed.
+				- When {{cloze an instrument consists partly of}} written words and {{cloze partly of a printed f}}orm, {{cloze and the two are inconsist}}ent, the former controls the latter. (15)
+			- **SECTION 17.** Experts {{cloze and interpreters}} to be used in explaining certain {{cloze writings}}.
 				- When the characters in which an instrument is written are difficult to be deciphered, or the language is not understood by the court, the evidence of persons skilled in deciphering the characters, or who understand the language, is admissible to declare the characters or the meaning of the language. (16)
 			- **SECTION 18.** *Of two constructions, which preferred.*
 				- When the terms of an agreement have been intended in a different sense by the different parties to it, that sense is to prevail against either party in which he supposed the other understood it, and when different constructions of a provision are otherwise equally proper, that is to be taken which is the most favorable to the party in whose favor the provision was made. (17a)
