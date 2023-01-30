@@ -55,7 +55,7 @@ sys-category:: [[44]]
 			- **SECTION 6.** When original document is {{cloze in adverse party's custody or}} control.
 				- {{cloze If the document is in the custody or under the control of the adverse}} party, {{cloze he or}} she {{cloze must have reasonable notice}} to produce it. If {{cloze after such notice and after}} satisfactory {{cloze proof of its existence}}, he {{cloze fails to produce}} the document, {{cloze secondary evidence may be presented}} as in the case {{cloze of its loss}}.(5a)
 			- **SECTION 7.** {{cloze Summaries.}}
-				- When the {{cloze contents of documents, records, photographs, or num}}erous accounts are {{voluminous}} and cannot be examined in court without great loss of time, and the fact sought to be established is only the general result of the whole, the contents of such evidence may be presented in the form of a chart, summary, or calculation.
+				- When the {{cloze contents of documents, records, photographs, or num}}erous accounts are {{cloze voluminous}} and {{cloze cannot be examined in}} court without {{cloze great loss of time, and}} the {{cloze fact sought to be established}} is only {{cloze the general result of}} the whole, {{cloze the contents of such evidence}} may {{cloze be pre}}sented in {{cloze the form of a chart, summary}}, or {{calc}}ulation.
 				- The originals shall be available for examination or copying, or both, by the adverse party at a reasonable time and place. The court may order that they be produced in court. (n)
 			- **SECTION 8.** *Evidence admissible when original document is a public record.*
 			  collapsed:: true
