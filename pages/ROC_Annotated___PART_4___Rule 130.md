@@ -28,13 +28,13 @@ sys-category:: [[44]]
 			- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
 		- ### 1. {{cloze Original Document}} Rule
 			- **SECTION 3.** Original document {{cloze must be produced}}; exceptions.
-				- When the subject of inquiry is the contents of a document, writing, recording, photograph or other record,]  no evidence shall be admissible other than the original document itself, except in the following cases:
+				- When the {{cloze subject of inquiry}} is the {{cloze contents of a document, writing,}} recording, {{cloze photograph or other rec}}ord,  {{cloze no evidence shall}} be admissible other than the original document itself, except in the following cases:
 					- (a) When the original is lost or destroyed, or cannot be produced in court, without bad faith on the part of the offeror;
 					- (b) When the original is in the custody or under the control of the party against whom the evidence is offered, and the latter fails to produce it after reasonable notice or the original cannot be obtained by local judicial processes or procedures;
 					- (c) When the original consists of numerous accounts or other documents which cannot be examined in court without great loss of time and the fact sought to be established from them is only the general result of the whole; and
 					- (d) When the original is a public record in the custody of a public officer or is recorded in a public office; and
 					- (e) When the original is not closely-related to a controlling issue.(3a)
-						-
+						- When the subject of inquiry is the contents of a document, writing, recording, photograph or other record, no evidence shall be admissible other than the original document itself, except in the following cases:
 			- **SECTION 4.** *Original of document.*
 			  collapsed:: true
 				- (a) An "original" of a document is the document itself or any counterpart intended to have the same effect by a person executing or issuing it. An "original" of a photograph includes the negative or any print therefrom. If data is stored in a computer or similar device, any printout or other output readable by sight or other means, shown to reflect the data accurately, is an "original."
