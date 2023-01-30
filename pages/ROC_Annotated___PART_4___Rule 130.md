@@ -39,10 +39,11 @@ sys-category:: [[44]]
 					  collapsed:: true
 						- (c) When the original consists of numerous accounts or other documents which cannot be examined in court without great loss of time and the fact sought to be established from them is only the general result of the whole; and
 					- (d) When the {{cloze original is a public}} record in the {{cloze custody of a public}} officer or is {{cloze recorded in a public o}}ffice; and
+					  collapsed:: true
+						- (d) When the original is a public record in the custody of a public officer or is recorded in a public office; and
 					- (e) {{cloze When the}} original {{cloze is n}}ot closely-{{cloze related to a controlling}} {{cloze iss}}ue.(3a)
-						- When the subject of inquiry is the contents of a document, writing, recording, photograph or other record, no evidence shall be admissible other than the original document itself, except in the following cases:
-			- **SECTION 4.** *Original of document.*
-			  collapsed:: true
+						- (e) When the original is not closely-related to a controlling issue.(3a)
+			- **SECTION 4.** Original of document.
 				- (a) An "original" of a document is the document itself or any counterpart intended to have the same effect by a person executing or issuing it. An "original" of a photograph includes the negative or any print therefrom. If data is stored in a computer or similar device, any printout or other output readable by sight or other means, shown to reflect the data accurately, is an "original."
 				- (b) A "duplicate" is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent techniques which accurately reproduce the original.
 				- (c) A duplicate is admissible to the same extent as an original unless —
