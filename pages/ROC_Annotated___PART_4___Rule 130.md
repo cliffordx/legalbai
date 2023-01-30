@@ -44,7 +44,7 @@ sys-category:: [[44]]
 					- (e) {{cloze When the}} original {{cloze is n}}ot closely-{{cloze related to a controlling}} {{cloze iss}}ue.(3a)
 						- (e) When the original is not closely-related to a controlling issue.(3a)
 			- **SECTION 4.** {{cloze Original of}} document.
-				- (a) An {{cloze"original" of a document is}}  the {{cloze document}} itself or {{cloze any counterpart intended to}} have the {{cloze same eff}}ect by a {{cloze person executing or issuing}} it. An {{cloze "original" of a ph}}otograph {{includes the negati}}ve or any print therefrom. If data is stored in a computer or similar device, any printout or other output readable by sight or other means, shown to reflect the data accurately, is an "original."
+				- (a) An {cloze"original" of a document is}}  the {{cloze document}} itself or {{cloze any counterpart intended to}} have the {{cloze same eff}}ect by a {{cloze person executing or issuing}} it. An {{cloze "original" of a ph}}otograph {{cloze includes the negati}}ve or {{cloze any}} print {{cloze therefrom}}. If {{cloze data is stored in a computer or similar}} device, {{cloze any printout or}} other {{cloze output read}}able {{cloze by sight or other}} means, {{cloze shown to reflect the data}} accurately, {{cloze is an "original."}}
 				- (b) A "duplicate" is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent techniques which accurately reproduce the original.
 				- (c) A duplicate is admissible to the same extent as an original unless —
 				  collapsed:: true
