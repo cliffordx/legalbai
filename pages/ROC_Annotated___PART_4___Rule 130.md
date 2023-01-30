@@ -30,11 +30,12 @@ sys-category:: [[44]]
 			- **SECTION 3.** Original document {{cloze must be produced}}; exceptions.
 				- When the {{cloze subject of inquiry}} is the {{cloze contents of a document, writing}}, recording, {{cloze photograph or other rec}}ord,  {{cloze no evidence shall}} be {{cloze admissible other than the o}}riginal {{cloze document itse}}lf, {{cloze except in the}} following {{cloze cases}}:
 					- (a) When the {{cloze original is lost or destroyed}}, or {{cloze cannot be produced in c}}ourt, without {{cloze bad fait}}h on {{cloze the part of the off}}eror;
+						- (a) When the original [is] lost or destroyed, or cannot be produced in court, without bad faith on the part of the offeror;
 					- (b) {{cloze When the orig}}inal is {{cloze in the custody}} or {{cloze under the control of the}} party {{cloze against whom the evidence}} is offered, and the {{cloze latter fails}} to {{cloze produce}} it after {{cloze reasonable notice}} or the {{cloze original cannot be obtained by local judicial processes}} {{cloze or proce}}dures;
 					- (c) When the {{cloze original consists of numerous accounts or other documents}} which {{cloze cannot be examined in court}} without {{cloze great loss of time and the fact sought}} to be {{cloze establis}}hed from {{cloze them is only the gene}}ral result {{cloze of the whole; a}}nd
 					- (d) When the {{cloze original is a public}} record in the {{cloze custody of a public}} officer or is {{cloze recorded in a public o}}ffice; and
 					- (e) {{cloze When the}} original {{cloze is n}}ot closely-{{cloze related to a controlling}} {{cloze iss}}ue.(3a)
-						- When the {subject of inquiry is the}} contents of {{cloze a document, writing, recording}}, {{cloze photo}}graph or other {{cloze record}}, {{cloze no evidence shall be admissible o}}ther than {{cloze the original document}} itself, {{cloze except in the}} following cases:
+						- When the subject of inquiry is the contents of a document, writing, recording, photograph or other record, no evidence shall be admissible other than the original document itself, except in the following cases:
 			- **SECTION 4.** *Original of document.*
 			  collapsed:: true
 				- (a) An "original" of a document is the document itself or any counterpart intended to have the same effect by a person executing or issuing it. An "original" of a photograph includes the negative or any print therefrom. If data is stored in a computer or similar device, any printout or other output readable by sight or other means, shown to reflect the data accurately, is an "original."
