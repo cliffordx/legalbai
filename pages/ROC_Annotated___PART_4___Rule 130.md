@@ -65,9 +65,9 @@ sys-category:: [[44]]
 					- (d) The {{cloze existence of other terms agreed}} to by the parties or {{cloze their successors in interest after the execution}} of the {{cloze written agreement}}.
 					- The term {{cloze "agreement"}} includes {{cloze wills}}. (9a)
 		- ### 4. {{cloze Interpretation}} of Documents
-			- **SECTION 11.** {{Interpretation of a writing according to its legal me}}aning.
-				- The language of a writing is to be interpreted according to the legal meaning it bears in the place of its execution, unless the parties intended otherwise. (10)
-			- **SECTION 12.** *Instrument construed so as to give effect to all provisions.*
+			- **SECTION 11.** {{cloze Interpretation of a writing according to its legal me}}aning.
+				- The {{cloze language of a writing is}} to be {{cloze interpreted according to the legal meaning it}} bears in the {{cloze place of its execu}}tion, {{cloze unless the par}}ties intended {{cloze other}}wise. (10)
+			- **SECTION 12.** {{cloze Instrument construed}} so as to give effect to all provisions.
 				- In the construction of an instrument where there are several provisions or particulars, such a construction is, if possible, to be adopted as will give effect to all. (11)
 			- **SECTION 13.** *Interpretation according to intention; general and particular provisions.*
 				- In the construction of an instrument, the intention of the parties is to be pursued; and when a general and a particular provision are inconsistent, the latter is paramount to the former. So a particular intent will control a general one that is inconsistent with it. (12)
