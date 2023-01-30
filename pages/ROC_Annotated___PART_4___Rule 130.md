@@ -11,7 +11,7 @@ sys-category:: [[44]]
 -
 - ## A. Object (Real) Evidence
 	- **SECTION 1.** *Object as evidence.*
-		- Objects as evidence are those addressed to the senses of the court.
+		- {{cloze Objects as evidence}} are those addressed to the senses of the court.
 		- When an object is relevant to the fact in issue, it may be exhibited to, examined or viewed by the court. (1)
 - ## B. Documentary Evidence
 	- **SECTION 2.** *Documentary evidence.*
