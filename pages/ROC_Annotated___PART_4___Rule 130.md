@@ -9,10 +9,10 @@ sys-category:: [[44]]
 - # RULE 130 — Rules of Admissibility
 	- [codal ref](((63d68e85-2036-45d4-ab03-6893a457a760)))
 -
-- ## A. Object (Real) Evidence
+- ## A. {{cloze Object (Real)}} Evidence
 	- **SECTION 1.** *Object as evidence.*
-		- {{cloze Objects as evidence}} are those addressed to the senses of the court.
-		- When an object is relevant to the fact in issue, it may be exhibited to, examined or viewed by the court. (1)
+		- {{cloze Objects as evidence}} are {{cloze those addre}}ssed {{cloze to the senses of the court.}}
+		- When {{cloze an object is relevant}} to {{cloze the fact in issu}}e, it {{cloze may be exhibited to}}, examined or viewed by the court. (1)
 - ## B. Documentary Evidence
 	- **SECTION 2.** *Documentary evidence.*
 		- Documents as evidence consist of writings, recordings, photographs or any material containing letters, words, numbers, figures, symbols or their equivalent, or other modes of written expressions offered as proof of their contents.
