@@ -9,7 +9,9 @@ sys-category:: [[44]]
 - # RULE 129 — What Need Not {{cloze Be Proved}}
 - **SECTION 1.**{{cloze Judicial notice}} , when {{cloze mandatory}}.
 	- A court shall take {{cloze judicial noti}}ce, without the {{cloze introduction of evide}}nce, of the {{cloze existence}} and {{cloze territorial extent of s}}tates, their {{cloze political histo}}ry, {{cloze forms}} of {{cloze government}} and {{cloze symbols of nationality}}, the law of {{cloze nations}}, the {{cloze admiralty}} and {{cloze maritime}} courts of the {{cloze world}} and their {{cloze seals}}, the {{cloze political}} constitution and {{cloze history of the Philipp}}ines, the {{cloze official acts of the legis}}lative, {{cloze executive and judicial departments of the National Government}} of the Philippines[^1], the {{cloze laws of}} nature, the {{cloze measure of tim}}e, and the {{cloze geographical divisi}}ons. (1a)
+	  collapsed:: true
 		- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
+		- A court shall take judicial notice, without the introduction of evidence, of the existence and territorial extent of states, their political history, forms of government and symbols of nationality, the law of nations, the admiralty and maritime courts of the world and their seals, the political constitution and history of the Philippines, the official acts of the legislative, executive and judicial departments of the [National Government of the] Philippines, the laws of nature, the measure of time, and the geographical divisions.
 		- > **NOTES:**
 			- ((63d5e978-b4eb-4f5a-bf30-71810a0c1312))
 			  collapsed:: true
@@ -20,8 +22,7 @@ sys-category:: [[44]]
 				- The object of judicial notice is to save time, labor and expense in securing and introducing evidence on matters which are not ordinary capable of dispute and are not actually bona fide disputed, and the tenor of which can safely assumed from the tribunal's general knowledge or from a slight search on its part. Judicial notice, is therefore, based upon convenience and expediency.[^q2]
 				  collapsed:: true
 					- [^q2]: _{Wigmore on Evidence, Sec. 2565.}
-- **SECTION 2.** *Judicial notice, when discretionary.*
-  collapsed:: true
+- **SECTION 2.** Judicial notice, {{cloze when discretionary}}.
 	- A court may take judicial notice of matters which are of public knowledge, or are capable of unquestionable demonstration, or ought to be known to judges because of their judicial functions. (1a)
 - **SECTION 3.** *Judicial notice, when hearing necessary.*
   collapsed:: true
