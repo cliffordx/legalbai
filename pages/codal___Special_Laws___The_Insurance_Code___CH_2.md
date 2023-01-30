@@ -260,7 +260,6 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_2
 		- Notice to an insurer of a transfer or bequest thereof is not necessary to preserve the validity of a policy of insurance upon life or health, unless thereby expressly required.
 	- **SECTION 186.**
 	  id:: 631d7241-2e27-4c45-aa42-d143b4f35f94
-	  collapsed:: true
 		- Unless the interest of a person insured is susceptible of exact pecuniary measurement, the measure of indemnity under a policy of insurance upon life or health is the sum fixed in the policy.
 - ## TITLE 6 Microinsurance
 	- **SECTION 187.**

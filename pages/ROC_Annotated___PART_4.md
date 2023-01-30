@@ -1,0 +1,15 @@
+- ## A.M. No. 19-08-15-SC, 08 October 2019 [effective 01 May 2020](((63d62d01-ed1b-4319-ac19-be9fa359e835))).
+	- After several meetings in 2019, the re-organized Committee on the Revision of the Rules of Court(Mother Rule Committee) 1— which included the original Sub-Committee members, like—
+		- Chief Justice Bersamin (Chairperson);
+		- Justice Peralta (Vice/Working Chairperson);
+		- Justice Callejo; and
+		- Atty. Lim, as well as new members, namely:
+			- SC Associate Justice Francis H. Jardeleza;
+			- SC Associate Justice Alfredo Benjamin S. Caguioa;
+			- SC Associate Justice Alexander G. Gesmundo;
+			- Department of Justice Secretary Menardo I. Guevarra;
+			- Philippine Judicial Academy Chancellor and retired SC Associate Justice Adolfo S. Azcuna;
+			- Court Administrator Jose Midas P. Marquez;
+			- Atty. Tranquil Gervacio S. Salvador III and Atty. Ramon S. Esguerra (representing the academe and private practitioners); and
+			- Atty. Amador Z. Tolentino, Jr. (representing the Integrated Bar of the Philippines)
+		- has finally finished amending and updating the 2010 Proposed Amendments to the Revised Rules on Evidence, in order to incorporate the technological advances and developments in law, jurisprudence and international conventions in the past decade.
