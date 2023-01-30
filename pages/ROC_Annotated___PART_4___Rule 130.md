@@ -54,10 +54,10 @@ sys-category:: [[44]]
 			- **SECTION 8.** Evidence {{cloze admissible when original doc}}ument is {{cloze a public re}}cord.
 				- When {{cloze the original of a doc}}ument is in the custody {{cloze of a public officer or is rec}}orded in a public office, {{cloze its contents may}} be {{cloze proved by a certified copy issued}} by {{cloze the public officer}} in {{cloze custody the}}reof. (7)
 			- **SECTION 9.** {{cloze Party who calls for do}}cument {{cloze not bound to offer}} it.
-				- A {{cloze party who}} calls {{clzoe for the production}} of a {{cloze doc}}ument and {{inspects the same is}} not obliged to offer it as evidence. (8)
-		- ### 3. Parol Evidence Rule
-			- **SECTION 10.** *Evidence of written agreements.*
-				- When the terms of an agreement have been reduced to writing, it is considered as  all the terms agreed upon and there can be, between the parties and their successors in interest, no evidence of such terms other than the contents of the written agreement.
+				- A {{cloze party who}} calls {{cloze for the production}} of a {{cloze doc}}ument and {{cloze inspects the same is}} not {{cloze obliged to offe}}r it as {{cloze evidence}}. (8)
+		- ### 3. {{cloze Parol Evidence}} Rule
+			- **SECTION 10.** {{cloze Evidence of written agreements.}}
+				- When the terms {{cloze of an agreement have been}} reduced to {{cloze writing, it is considered}} as  all the terms agreed upon and there can be, between the parties and their successors in interest, no evidence of such terms other than the contents of the written agreement.
 				- However, a party may present evidence to modify, explain or add to the terms of the written agreement if he or she puts in issue in  a verified pleading:
 					- (a) An intrinsic ambiguity, mistake or imperfection in the written agreement;
 					- (b) The failure of the written agreement to express the true intent and agreement of the parties thereto;
