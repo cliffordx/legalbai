@@ -30,4 +30,5 @@ sys-category:: [[44]]
 	- During {{cloze the pre-tri}}al  and the[^1] {{cloze }} court, {{cloze motu proprio or upon motio}}n, shall {{cloze hear the par}}ties on the {{cloze propriety of taking}} judicial notice {{cloze of any matt}}er.
 	- Before {{cloze judgment}} or {{cloze on appeal, the cour}}t, {{cloze motu}} proprio {{cloze or upon motion, may}} take judicial {{cloze notice of any matter}} and shall {{cloze hear the parties thereon}} if such {{cloze matter is decisive of a material issue}} in the case. (n)
 - **SECTION 4.** *Judicial admissions.*
-	- {{cloze An}} {{cloze adm}}ission, {{cloze verbal or writte}}n, made {{cloze by a party in the course of the proceedings}} in the same case, does {{cloze not require pro}}of. The {{cloze admission may be contradicted}} only by showing that it was made through palpable mistake or that the imputed admission was not, in fact, made.(2a)[^1]
+	- {{cloze An}} {{cloze adm}}ission, {{cloze verbal or writte}}n, made {{cloze by a party in the course of the proceedings}} in the same case, does {{cloze not require pro}}of. The {{cloze admission may be contradicted}} only by {{cloze showing that it was made}} through {{cloze palpable mis}}take or that {{cloze the imputed admission}} was {{cloze not}}, {{cloze in f}}act, {{cloze made}}.(2a)[^1]
+-
