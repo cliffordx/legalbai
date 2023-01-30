@@ -25,4 +25,5 @@ sys-category:: [[44]]
 - **SECTION 4.** *Relevancy; collateral matters.*
   id:: 63d5ba8e-1fad-4a05-a9ff-f0a7d225d561
 	- {{cloze Evidence}} must have {{cloze such}} a {{cloze relation}} to the fact in issue as to {{cloze induce belief}} in its {{cloze existence}} or {{cloze nonexistence}}. Evidence on {{cloze collateral}} matters {{cloze shall not be}} allowed, {{cloze except when it tends}} in {{cloze any}} reasonable {{cloze degree to establish}} the {{cloze probability or improbability}} of the {{cloze fact in}} issue. (4a)
-		- **Evidence** must have **such** a **relation** to the fact in issue as to **induce belief** in its **existence** or **nonexistence.** Evidence on **collateral** matters shall not be allowed, except when it tends in any reasonable degree to establish the probability or improbability of the fact in issue.
+	  collapsed:: true
+		- **Evidence** must have **such** a **relation** to the fact in issue as to **induce belief** in its **existence** or **nonexistence.** Evidence on **collateral** matters **shall not be** allowed, **except when it tends** in **any** reasonable **degree to establish** the **probability or improbability** of the **fact in** issue.
