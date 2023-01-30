@@ -69,8 +69,8 @@ sys-category:: [[44]]
 				- The {{cloze language of a writing is}} to be {{cloze interpreted according to the legal meaning it}} bears in the {{cloze place of its execu}}tion, {{cloze unless the par}}ties intended {{cloze other}}wise. (10)
 			- **SECTION 12.** {{cloze Instrument construed}} so as to give {{cloze effect to all pro}}visions.
 				- In the {{cloze construction of an instrument}} where there are {{cloze several provisions or p}}articulars, such a {{cloze construction is, if}} possible, {{cloze to be adopted as will}} give effect {{cloze to all}}. (11)
-			- **SECTION 13.** Interpretation {{according to intention; general and}} particular provisions.
-				- In the construction of an instrument, the intention of the parties is to be pursued; and when a general and a particular provision are inconsistent, the latter is paramount to the former. So a particular intent will control a general one that is inconsistent with it. (12)
+			- **SECTION 13.** Interpretation {{cloze according to intention; general and}} particular {{cloze provisions}}.
+				- In the {{cloze construction of an in}}strument, the intention of {{cloze the parties is to be}} pursued; and {{cloze when a general and a particular}} provision are {{cloze inconsisten}}t, the {{cloze latter is paramo}}unt to the {{cloze former.}} So a {{cloze particular intent}} will control {{cloze a general one}} that is{{cloze inconsistent with it}} . (12)
 			- **SECTION 14.** *Interpretation according to circumstances.*
 				- For the proper construction of an instrument, the circumstances under which it was made, including the situation of the subject thereof and of the parties to it, may be shown, so that the judge may be placed in the position of those whose language he is to interpret. (13a)
 			- **SECTION 15.** *Peculiar signification of terms.*
