@@ -13,6 +13,7 @@ sys-category:: [[44]]
 		- Evidence is the **means**, **sanctioned** by these **rules**, of **ascertaining** in a **judicial proceed**ing the truth **respecting a matter** of fact.
 - **SECTION 2.** *Scope.*
 	- The rules of evidence {{cloze shall be the same in all courts}} and in {{cloze all trials an}}d hearings, except as {{cloze otherwise provid}}ed by {{cloze law or these}} rules. (2a)
+		- The rules of evidence **shall be the same in all courts** and in **all trials an**d hearings, except as **otherwise provid**ed by **law or these** rules.
 - **SECTION 3.** *Admissibility of evidence.*
   id:: 63d5ba8b-96f8-49e7-bdb4-0d69cf3d5fe4
 	- Evidence is {{cloze admissible}} when it is {{cloze relevant to the issue}} and is not excluded by {{cloze the Constitution}},[^1] the {{cloze law or these}} rules.(3a)
