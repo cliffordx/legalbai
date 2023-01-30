@@ -48,12 +48,10 @@ sys-category:: [[44]]
 				- (b) A {{cloze "duplicate"}} is a {{cloze counterpart}} {{cloze produced by the same impression}} as the {{cloze original, or fro}}m the {{cloze same matri}}x, {{cloze or by means of}} photography, {{cloze including enlargements and miniatur}}es, or by {{cloze mechanical or electronic rerecording, or by}} chemical {{cloze reproduction, or by other equivalent techni}}ques which {{cloze accurately reproduce the}} original.
 				- (c) A {{cloze duplicate is admissible}} to the {{cloze same extent as an original}} unless —
 					- (1) {{cloze a genuine}} question {{cloze is raised}}  as to {{cloze the authenticity of the original}}, or
-					- (2) in {{cloze the circumstances, it is unjust}} or inequitable to admit the duplicate in lieu of the original. (4a)
-		- ### 2. Secondary Evidence
-		  collapsed:: true
-			- **SECTION 5.** *When original document is unavailable.*
-			  collapsed:: true
-				- When the original document has been lost or destroyed, or cannot be produced in court, the offeror, upon proof of its execution or existence and the cause of its unavailability without bad faith on his or her part, may prove its contents by a copy, or by a recital of its contents in some authentic document, or by the testimony of witnesses in the order stated. (5a)
+					- (2) in {{cloze the circumstances, it is unj}}ust or {{cloze inequita}}ble to admit the {{cloze duplicate in lieu of the orig}}inal. (4a)
+		- ### 2. {{cloze Secondary Evidence}}
+			- **SECTION 5.** When {{cloze original document is unavailable.}}
+				- When the {{cloze original document has been lost or destroyed, or cannot be produced}} in court, the offeror, upon proof of its execution or existence and the cause of its unavailability without bad faith on his or her part, may prove its contents by a copy, or by a recital of its contents in some authentic document, or by the testimony of witnesses in the order stated. (5a)
 			- **SECTION 6.** *When original document is in adverse party's custody or control.*
 			  collapsed:: true
 				- If the document is in the custody or under the control of the adverse party, he or she must have reasonable notice to produce it. If after such notice and after satisfactory proof of its existence, he fails to produce the document, secondary evidence may be presented as in the case of its loss.(5a)
