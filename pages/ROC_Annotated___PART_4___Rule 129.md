@@ -8,7 +8,7 @@ sys-category:: [[44]]
 
 - # RULE 129 — What Need Not {{cloze Be Proved}}
 - **SECTION 1.**{{cloze Judicial notice}} , when {{cloze mandatory}}.
-	- A court shall take {{cloze judicial notice}}, without the {{introduction of evidence}}, of the existence and territorial extent of states, their political history, forms of government and symbols of nationality, the law of nations, the admiralty and maritime courts of the world and their seals, the political constitution and history of the Philippines, the official acts of the legislative, executive and judicial departments of the National Government of the Philippines[^1], the laws of nature, the measure of time, and the geographical divisions. (1a)
+	- A court shall take {{cloze judicial notice}}, without the {{cloze introduction of evidence}}, of the {{cloze existence}} and {{cloze territorial extent of states}} , their {{cloze political history}}, {{cloze forms}} of {{cloze government}} and {{cloze symbols of nationality}}, the law of {{cloze nations}}, the {{admiralty}} and maritime courts of the world and their seals, the political constitution and history of the Philippines, the official acts of the legislative, executive and judicial departments of the National Government of the Philippines[^1], the laws of nature, the measure of time, and the geographical divisions. (1a)
 		- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
 		- > **NOTES:**
 			- ((63d5e978-b4eb-4f5a-bf30-71810a0c1312))
