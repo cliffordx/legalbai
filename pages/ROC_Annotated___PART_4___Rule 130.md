@@ -78,8 +78,8 @@ sys-category:: [[44]]
 			- **SECTION 16.** {{cloze Written words control}} printed.
 				- When {{cloze an instrument consists partly of}} written words and {{cloze partly of a printed f}}orm, {{cloze and the two are inconsist}}ent, the former controls the latter. (15)
 			- **SECTION 17.** Experts {{cloze and interpreters}} to be used in explaining certain {{cloze writings}}.
-				- When the characters in which an instrument is written are difficult to be deciphered, or the language is not understood by the court, the evidence of persons skilled in deciphering the characters, or who understand the language, is admissible to declare the characters or the meaning of the language. (16)
-			- **SECTION 18.** *Of two constructions, which preferred.*
+				- When the {{cloze characters in which an instrument is written are difficult to be}} deciphered, or {{cloze the language is not understood by the}} court, the evidence of {{cloze persons skilled in deciphering the characters}}, or who understand the {{cloze language}}, is {{cloze admissible to declare the}} characters or the meaning of the {{cloze language}}. (16)
+			- **SECTION 18.** {{cloze Of two constructions, which preferred.}}
 				- When the terms of an agreement have been intended in a different sense by the different parties to it, that sense is to prevail against either party in which he supposed the other understood it, and when different constructions of a provision are otherwise equally proper, that is to be taken which is the most favorable to the party in whose favor the provision was made. (17a)
 			- **SECTION 19.** *Construction in favor of natural right.*
 				- When an instrument is equally susceptible of two interpretations, one is favor of natural right and the other against it, the former is to be adopted. (18)
