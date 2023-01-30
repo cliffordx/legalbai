@@ -10,11 +10,11 @@ sys-category:: [[44]]
 	- [codal ref](((63d68e85-2036-45d4-ab03-6893a457a760)))
 -
 - ## A. {{cloze Object (Real)}} Evidence
-	- **SECTION 1.** *Object as evidence.*
+	- **SECTION 1.** {{cloze Object as evidence.}}
 		- {{cloze Objects as evidence}} are {{cloze those addre}}ssed {{cloze to the senses of the court.}}
-		- When {{cloze an object is relevant}} to {{cloze the fact in issu}}e, it {{cloze may be exhibited to}}, examined or viewed by the court. (1)
+		- When {{cloze an object is relevant}} to {{cloze the fact in issu}}e, it {{cloze may be exhibited to}}, {{cloze exam}}ined or {{cloze viewed by the cou}}rt. (1)
 - ## B. Documentary Evidence
-	- **SECTION 2.** *Documentary evidence.*
+	- **SECTION 2.** {{cloze Documentary}} evidence.
 		- Documents as evidence consist of writings, recordings, photographs or any material containing letters, words, numbers, figures, symbols or their equivalent, or other modes of written expressions offered as proof of their contents.
 		- Photographs include still pictures, drawings, stored images, x-ray films, motion pictures or videos. (2a) [^1]
 			- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
