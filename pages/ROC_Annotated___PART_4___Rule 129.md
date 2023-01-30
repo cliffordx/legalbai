@@ -6,7 +6,7 @@ tags:: #codal/roc/evidence
 status:: active
 sys-category:: [[44]]
 
-- # RULE 129 — What Need Not Be Proved
+- # RULE 129 — What Need Not {{Be Proved}}
 - **SECTION 1.** *Judicial notice, when mandatory.*
   collapsed:: true
 	- A court shall take judicial notice, without the introduction of evidence, of the existence and territorial extent of states, their political history, forms of government and symbols of nationality, the law of nations, the admiralty and maritime courts of the world and their seals, the political constitution and history of the Philippines, the official acts of the legislative, executive and judicial departments of the National Government of the Philippines[^1], the laws of nature, the measure of time, and the geographical divisions. (1a)
