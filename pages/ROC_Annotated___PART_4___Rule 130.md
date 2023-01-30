@@ -53,10 +53,9 @@ sys-category:: [[44]]
 			- **SECTION 5.** When {{cloze original document is unavailable.}}
 				- When the {{cloze original document has been lost or destroyed, or cannot be pro}}duced in court, the {{cloze offeror, upon proof of its execution}} or existence and the {{cloze cause of its unavailability}} without {{cloze bad faith}} on his or {{cloze her part, may prove its}} contents {{cloze by a copy, or by a recital}} of its contents in {{cloze some authentic document}}, or by the {{cloze testimony of witnesses in the}} order {{cloze stated}}. (5a)
 			- **SECTION 6.** When original document is {{cloze in adverse party's custody or}} control.
-				- {{cloze If the document is in the custody or under the control of the adverse}} party, {{cloze he or}} she {{cloze must have reasonable notice}} to produce it. If {{cloze after such notice and after}} satisfactory proof of its existence, he fails to produce the document, secondary evidence may be presented as in the case of its loss.(5a)
-			- **SECTION 7.** *Summaries.*
-			  collapsed:: true
-				- When the contents of documents, records, photographs, or numerous accounts are voluminous and cannot be examined in court without great loss of time, and the fact sought to be established is only the general result of the whole, the contents of such evidence may be presented in the form of a chart, summary, or calculation.
+				- {{cloze If the document is in the custody or under the control of the adverse}} party, {{cloze he or}} she {{cloze must have reasonable notice}} to produce it. If {{cloze after such notice and after}} satisfactory {{cloze proof of its existence}}, he {{cloze fails to produce}} the document, {{cloze secondary evidence may be presented}} as in the case {{cloze of its loss}}.(5a)
+			- **SECTION 7.** {{cloze Summaries.}}
+				- When the {{cloze contents of documents, records, photographs, or num}}erous accounts are {{voluminous}} and cannot be examined in court without great loss of time, and the fact sought to be established is only the general result of the whole, the contents of such evidence may be presented in the form of a chart, summary, or calculation.
 				- The originals shall be available for examination or copying, or both, by the adverse party at a reasonable time and place. The court may order that they be produced in court. (n)
 			- **SECTION 8.** *Evidence admissible when original document is a public record.*
 			  collapsed:: true
