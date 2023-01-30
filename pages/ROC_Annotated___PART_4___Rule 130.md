@@ -15,8 +15,8 @@ sys-category:: [[44]]
 		- When {{cloze an object is relevant}} to {{cloze the fact in issu}}e, it {{cloze may be exhibited to}}, {{cloze exam}}ined or {{cloze viewed by the cou}}rt. (1)
 - ## B. {{cloze Documentary Evidence}}
 	- **SECTION 2.** {{cloze Documentary}} evidence.
-		- {{cloze Documents}} as evidence {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing {{cloze letters, words, numb}}ers, {{figures, symb}}ols or their equivalent, or other modes of written expressions offered as proof of their contents.
-		- Photographs include still pictures, drawings, stored images, x-ray films, motion pictures or videos. (2a) [^1]
+		- {{cloze Documents}} as evidence {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing {{cloze letters, words, numb}}ers, {{cloze figures, symb}}ols or their {{cloze equivalent, or other modes}} of {{cloze written expressions}} {{cloze offered as proof}} of their {{cloze contents.}}
+		- Photographs {{cloze include still pictures}}, {{cloze drawings, st}}ored {{cloze images, x-ray film}}s, motion pictures or videos. (2a) [^1]
 			- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
 		- ### 1. Original Document Rule
 			- **SECTION 3.** *Original document must be produced; exceptions.*
