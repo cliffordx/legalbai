@@ -80,8 +80,8 @@ sys-category:: [[44]]
 			- **SECTION 17.** Experts {{cloze and interpreters}} to be used in explaining certain {{cloze writings}}.
 				- When the {{cloze characters in which an instrument is written are difficult to be}} deciphered, or {{cloze the language is not understood by the}} court, the evidence of {{cloze persons skilled in deciphering the characters}}, or who understand the {{cloze language}}, is {{cloze admissible to declare the}} characters or the meaning of the {{cloze language}}. (16)
 			- **SECTION 18.** {{cloze Of two constructions, which preferred.}}
-				- When the terms of an agreement have been intended in a different sense by the different parties to it, that sense is to prevail against either party in which he supposed the other understood it, and when different constructions of a provision are otherwise equally proper, that is to be taken which is the most favorable to the party in whose favor the provision was made. (17a)
-			- **SECTION 19.** *Construction in favor of natural right.*
+				- When the terms of an agreement {{cloze have been}} intended in a {{cloze different sense by the different}} parties to it, that sense is to prevail against either party in which he supposed the {{cloze other understood it}}, and when different constructions of a {{cloze provision are otherwise}} equally proper, that is to be taken {{cloze which is the most favorable to the party in whose favor}} the provision was made. (17a)
+			- **SECTION 19.** Construction {{in favor of natural}} right.
 				- When an instrument is equally susceptible of two interpretations, one is favor of natural right and the other against it, the former is to be adopted. (18)
 			- **SECTION 20.** *Interpretation according to usage.*
 				- An instrument may be construed according to usage, in order to determine its true character. (19)
