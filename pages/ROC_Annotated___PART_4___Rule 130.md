@@ -13,9 +13,9 @@ sys-category:: [[44]]
 	- **SECTION 1.** {{cloze Object as evidence.}}
 		- {{cloze Objects as evidence}} are {{cloze those addre}}ssed {{cloze to the senses of the court.}}
 		- When {{cloze an object is relevant}} to {{cloze the fact in issu}}e, it {{cloze may be exhibited to}}, {{cloze exam}}ined or {{cloze viewed by the cou}}rt. (1)
-- ## B. Documentary Evidence
+- ## B. {{cloze Documentary Evidence}}
 	- **SECTION 2.** {{cloze Documentary}} evidence.
-		- Documents as evidence consist of writings, recordings, photographs or any material containing letters, words, numbers, figures, symbols or their equivalent, or other modes of written expressions offered as proof of their contents.
+		- {{cloze Documents}} as evidence {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing {{cloze letters, words, numb}}ers, {{figures, symb}}ols or their equivalent, or other modes of written expressions offered as proof of their contents.
 		- Photographs include still pictures, drawings, stored images, x-ray films, motion pictures or videos. (2a) [^1]
 			- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
 		- ### 1. Original Document Rule
