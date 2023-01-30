@@ -61,11 +61,11 @@ sys-category:: [[44]]
 				- However, {{cloze a party may presen}}t evidence to {{cloze modify, expla}}in or add {{cloze to the terms of}} the {{cloze written agreement if}} he {{cloze or she puts in issue}} in  {{cloze a verified p}}leading:
 					- (a) An {{cloze intrinsic ambiguity, mistak}}e or {{cloze imperfection in the}} written agreement;
 					- (b) {{cloze The failure of the written agreement to express the true in}}tent and {{cloze agreement of the parties}} thereto;
-					- (c) The validity of the written agreement; or
-					- (d) The existence of other terms agreed to by the parties or their successors in interest after the execution of the written agreement.
-					- The term "agreement" includes wills. (9a)
-		- ### 4. Interpretation of Documents
-			- **SECTION 11.** *Interpretation of a writing according to its legal meaning.*
+					- (c) The validity of the {{cloze written agreement}}; or
+					- (d) The {{cloze existence of other terms agreed}} to by the parties or {{cloze their successors in interest after the execution}} of the {{cloze written agreement}}.
+					- The term {{cloze "agreement"}} includes {{cloze wills}}. (9a)
+		- ### 4. {{cloze Interpretation}} of Documents
+			- **SECTION 11.** {{Interpretation of a writing according to its legal me}}aning.
 				- The language of a writing is to be interpreted according to the legal meaning it bears in the place of its execution, unless the parties intended otherwise. (10)
 			- **SECTION 12.** *Instrument construed so as to give effect to all provisions.*
 				- In the construction of an instrument where there are several provisions or particulars, such a construction is, if possible, to be adopted as will give effect to all. (11)
