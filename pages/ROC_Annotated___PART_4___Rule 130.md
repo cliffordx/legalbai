@@ -34,7 +34,7 @@ sys-category:: [[44]]
 					- (c) When the {{cloze original consists of numerous accounts or other documents}} which {{cloze cannot be examined in court}} without {{cloze great loss of time and the fact sought}} to be {{cloze establis}}hed from {{cloze them is only the gene}}ral result {{cloze of the whole; a}}nd
 					- (d) When the {{cloze original is a public}} record in the {{cloze custody of a public}} officer or is {{cloze recorded in a public o}}ffice; and
 					- (e) {{cloze When the}} original {{cloze is n}}ot closely-{{cloze related to a controlling}} {{cloze iss}}ue.(3a)
-						- When the {{cloze subject of inquiry is the}} contents of {{cloze a document, writing, recording}}, {{cloze photo}}graph or other {{cloze record}}, {{cloze no evidence shall be admissible o}}ther than {{cloze the original document}} itself, except in the following cases:
+						- When the {{cloze subject of inquiry is the}} contents of {{cloze a document, writing, recording}}, {{cloze photo}}graph or other {{cloze record}}, {{cloze no evidence shall be admissible o}}ther than {{cloze the original document}} itself, {{cloze except in the}} following cases:
 			- **SECTION 4.** *Original of document.*
 			  collapsed:: true
 				- (a) An "original" of a document is the document itself or any counterpart intended to have the same effect by a person executing or issuing it. An "original" of a photograph includes the negative or any print therefrom. If data is stored in a computer or similar device, any printout or other output readable by sight or other means, shown to reflect the data accurately, is an "original."
