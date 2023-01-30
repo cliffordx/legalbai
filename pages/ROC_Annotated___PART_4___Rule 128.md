@@ -9,7 +9,7 @@ sys-category:: [[44]]
 - # RULE 128 - General Provisions
 - **SECTION 1.** *Evidence defined.*
   id:: 63d5ba5f-fe52-426a-8a20-608ea057ad26
-	- Evidence is the means, sanctioned by these rules, of ascertaining in a judicial proceeding the truth respecting a matter of fact. (1)
+	- Evidence is the {{cloze means}}, {{cloze }} sanctioned by these rules, of ascertaining in a judicial proceeding the truth respecting a matter of fact. (1)
 - **SECTION 2.** *Scope.*
 	- The rules of evidence shall be the same in all courts and in all trials and hearings, except as otherwise provided by law or these rules. (2a)
 - **SECTION 3.** *Admissibility of evidence.*
