@@ -58,9 +58,9 @@ sys-category:: [[44]]
 		- ### 3. {{cloze Parol Evidence}} Rule
 			- **SECTION 10.** {{cloze Evidence of written agreements.}}
 				- When the terms {{cloze of an agreement have been}} reduced to {{cloze writing, it is considered}} as  {{cloze all the terms agreed upon and there}} can be, {{cloze between}} the parties and {{cloze their successors in int}}erest, {{cloze no evidence of such terms other th}}an the {{cloze contents of the written a}}greement.
-				- However, {{cloze a party may presen}}t evidence to {{cloze modify, expla}}in}} or add to the terms of the written agreement if he or she puts in issue in  a verified pleading:
-					- (a) An intrinsic ambiguity, mistake or imperfection in the written agreement;
-					- (b) The failure of the written agreement to express the true intent and agreement of the parties thereto;
+				- However, {{cloze a party may presen}}t evidence to {{cloze modify, expla}}in or add {{cloze to the terms of}} the {{cloze written agreement if}} he {{cloze or she puts in issue}} in  {{cloze a verified p}}leading:
+					- (a) An {{cloze intrinsic ambiguity, mistak}}e or {{cloze imperfection in the}} written agreement;
+					- (b) {{cloze The failure of the written agreement to express the true in}}tent and {{cloze agreement of the parties}} thereto;
 					- (c) The validity of the written agreement; or
 					- (d) The existence of other terms agreed to by the parties or their successors in interest after the execution of the written agreement.
 					- The term "agreement" includes wills. (9a)
