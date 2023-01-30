@@ -84,7 +84,7 @@ sys-category:: [[44]]
 			- **SECTION 19.** Construction {{cloze in favor of natural}} right.
 				- When an {{cloze instrument is equally susceptible of two interpretations}}, one is {{cloze favor of natural right}} and the {{cloze other against}} it, the {cloze former is to be adopte}d. (18)
 			- **SECTION 20.** Interpretation {{cloze according to usage}} .
-				- An {{cloze instrument may be construed}} according to {{cloze usage}}, in order to determine its true character. (19)
+				- An {{cloze instrument may be construed}} according to {{cloze usage}}, in order {{cloze to determine its true ch}}aracter. (19)
 - ## C. Testimonial Evidence
 	- ### 1. Qualification of Witnesses
 	  collapsed:: true
