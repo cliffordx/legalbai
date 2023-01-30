@@ -134,4 +134,9 @@ status:: active
 	-
 - # PART IV - REVISED RULES OF EVIDENCE
 	- ![A.M. No. 19-08-15-SC REvised Rules on Evidence PDF](2019_Proposed_Amendments_to_the_Revised_Rules2019.pdf)
+	- {{query #codal/roc/evidence}}
+	  query-table:: true
+	  query-properties:: [:title :alt-title]
+	  query-sort-by:: title
+	  query-sort-desc:: false
 - # PART V - LEGAL ETHICS
