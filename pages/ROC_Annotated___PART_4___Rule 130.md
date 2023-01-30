@@ -29,8 +29,8 @@ sys-category:: [[44]]
 		- ### 1. {{cloze Original Document}} Rule
 			- **SECTION 3.** Original document {{cloze must be produced}}; exceptions.
 				- When the {{cloze subject of inquiry}} is the {{cloze contents of a document, writing,}} recording, {{cloze photograph or other rec}}ord,  {{cloze no evidence shall}} be {{cloze admissible other than the o}}riginal {{cloze document itse}}lf, {{cloze except in the}} following {{cloze cases}}:
-					- (a) When the {{cloze original is lost or destroyed}}, or {{cloze cannot be produced in c}}ourt, without {{cloze bad fait}}h on {{the part of the off}}eror;
-					- (b) When the original is in the custody or under the control of the party against whom the evidence is offered, and the latter fails to produce it after reasonable notice or the original cannot be obtained by local judicial processes or procedures;
+					- (a) When the {{cloze original is lost or destroyed}}, or {{cloze cannot be produced in c}}ourt, without {{cloze bad fait}}h on {{cloze the part of the off}}eror;
+					- (b) {{cloze When the orig}}inal is {{cloze in the custody}} or {{cloze under the control of the}} party {{cloze against whom the evidence}} is offered, and the {{cloze latter fails}} to {{cloze produce}} it after {{cloze reasonable notice}} or the original cannot be obtained by local judicial processes or procedures;
 					- (c) When the original consists of numerous accounts or other documents which cannot be examined in court without great loss of time and the fact sought to be established from them is only the general result of the whole; and
 					- (d) When the original is a public record in the custody of a public officer or is recorded in a public office; and
 					- (e) When the original is not closely-related to a controlling issue.(3a)
