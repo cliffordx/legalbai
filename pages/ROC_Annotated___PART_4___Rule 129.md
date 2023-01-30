@@ -23,9 +23,10 @@ sys-category:: [[44]]
 				  collapsed:: true
 					- [^q2]: _{Wigmore on Evidence, Sec. 2565.}
 - **SECTION 2.** Judicial notice, {{cloze when discretionary}}.
-	- A {{cloze court may take}} {{cloze judicial notice of}} matters which are of {{cloze public know}}ledge, or {{cloze are capable of unquesti}}onable {{cloze demonstration}}, or {{cloze ought to be}} known to judges because of their judicial functions. (1a)
-- **SECTION 3.** *Judicial notice, when hearing necessary.*
-  collapsed:: true
+	- A {{cloze court may take}} {{cloze judicial notice of}} matters which are of {{cloze public know}}ledge, or {{cloze are capable of unquesti}}onable {{cloze demonstration}}, or {{cloze ought to be}} known {{cloze to judges}} because {{cloze of their judicial}} functions. (1a)
+	  collapsed:: true
+		- A court may take judicial notice of matters which are of public knowledge, or are capable of unquestionable demonstration, or ought to be known to judges because of their judicial functions.
+- **SECTION 3.** {{cloze Judicial notice, when hearing}} necessary.
 	- During the pre-trial and the[^1] trial, the court, motu proprio or upon motion, shall hear the parties on the propriety of taking judicial notice of any matter.
 	- Before judgment or on appeal, the court, motu proprio or upon motion, may take judicial notice of any matter and shall hear the parties thereon if such matter is decisive of a material issue in the case. (n)
 - **SECTION 4.** *Judicial admissions.*
