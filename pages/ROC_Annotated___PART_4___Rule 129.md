@@ -31,4 +31,5 @@ sys-category:: [[44]]
 	- Before {{cloze judgment}} or {{cloze on appeal, the cour}}t, {{cloze motu}} proprio {{cloze or upon motion, may}} take judicial {{cloze notice of any matter}} and shall {{cloze hear the parties thereon}} if such {{cloze matter is decisive of a material issue}} in the case. (n)
 - **SECTION 4.** *Judicial admissions.*
 	- {{cloze An}} {{cloze adm}}ission, {{cloze verbal or writte}}n, made {{cloze by a party in the course of the proceedings}} in the same case, does {{cloze not require pro}}of. The {{cloze admission may be contradicted}} only by {{cloze showing that it was made}} through {{cloze palpable mis}}take or that {{cloze the imputed admission}} was {{cloze not}}, {{cloze in f}}act, {{cloze made}}.(2a)[^1]
--
+	  collapsed:: true
+		- An admission, verbal or written, made by a party in the course of the proceedings in the same case, does not require proof. The admission may be contradicted only by showing that it was made through palpable mistake or that the imputed admission was not, in fact, made.
