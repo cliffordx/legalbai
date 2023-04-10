@@ -8,6 +8,19 @@ html[data-theme='dark'] {
     --cl-secondary: 258,100%,77%;
     --cl-accent: 258,100%,77%;
 }
+/* bujo inspired dotted lines 10 Apr 2023 */
+.dark-theme #app-container {
+    background-image: radial-gradient(#484f5d 8%, #303540 5%);
+    background-position: 0 0;
+    background-size: 25px 25px;
+}
+
+.light-theme, .white-theme, #app-container {
+    background-image: radial-gradient(#08404f 5%, #181818 5%);
+    background-position: 0 0;
+    background-size: 25px 25px;
+}
+/* bujo end */
 
 .white-theme,
 html[data-theme='light'] {

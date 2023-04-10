@@ -19,7 +19,7 @@ sys-category:: [[44]]
 			- When an object is relevant to the fact in issue, it may be exhibited to, examined or viewed by the court.
 - ## B. {{cloze Documentary Evidence}}
 	- **SECTION 2.** {{cloze Documentary}} evidence.
-		- {{cloze Documents}} as evidence {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing {{cloze letters, words, numb}}ers, {{cloze figures, symb}}ols or their {{cloze equivalent, or other modes}} of {{cloze written expressions}} {{cloze offered as proof}} of their {{cloze contents.}}
+		- {{cloze Documents}} as evidence {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing {{cloze letters, words, sounds, numb}}ers, {{cloze figures, symb}}ols or their {{cloze equivalent, or other modes}} of {{cloze written expressions}} {{cloze offered as proof}} of their {{cloze contents.}}
 			- Documents as evidence consist of writings, recordings, photographs or any material containing letters, words, numbers, figures, symbols or their equivalent, or other modes of written expressions offered as proof of their contents.
 		- Photographs {{cloze include still pictures}}, {{cloze drawings, st}}ored {{cloze images, x-ray film}}s, {{cloze motion pictures or}} videos. (2a) [^1]
 			- Photographs include still pictures, drawings, stored images, x-ray films, motion pictures or videos.
@@ -35,7 +35,7 @@ sys-category:: [[44]]
 						- (c) When the original consists of numerous accounts or other documents which cannot be examined in court without great loss of time and the fact sought to be established from them is only the general result of the whole; and
 					- (d) When the {{cloze original is a public}} record in the {{cloze custody of a public}} officer or is {{cloze recorded in a public o}}ffice; and
 						- (d) When the original is a public record in the custody of a public officer or is recorded in a public office; and
-					- (e) {{cloze When the}} original {{cloze is n}}ot closely-{{cloze related to a controlling}} {{cloze iss}}ue.(3a)
+					- (e) {{cloze When the}} original {{cloze is n}}ot {{closely-cloze related to a controlling}} {{cloze iss}}ue.(3a)
 						- (e) When the original is not closely-related to a controlling issue.(3a)
 			- **SECTION 4.** {{cloze Original of}} document.
 				- (a) An {{cloze "original"}} of {{cloze a document is}}  the {{cloze document}} itself or {{cloze any counterpart intended to}} have the {{cloze same eff}}ect by a {{cloze person executing or issuing}} it. An {{cloze "original" of a ph}}otograph {{cloze includes the negati}}ve or {{cloze any}} print {{cloze therefrom}}. If {{cloze data is stored in a computer or similar}} device, {{cloze any printout or}} other {{cloze output read}}able {{cloze by sight or other}} means, {{cloze shown to reflect the data}} accurately, {{cloze is an "original."}}
