@@ -218,6 +218,7 @@
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
  :feature/enable-whiteboards? true
+ :ui/auto-expand-block-refs? false
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}
