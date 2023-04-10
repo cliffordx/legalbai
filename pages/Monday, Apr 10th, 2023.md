@@ -1,4 +1,5 @@
 - **"I hope you can make it."**
 	- These six (6) words reminded me of our Civil Procedure class when our professor asked us to introduce ourselves during one of our sessions. Those words had a profound impact on me, and I will never forget them. Truly grateful.
 	- My journey continues.…
--
+- **[12:22]**
+	- `push` did not complete. resending…
