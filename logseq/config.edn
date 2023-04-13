@@ -221,6 +221,7 @@
  :property-pages/enabled? true
  :feature/enable-whiteboards? true
  :ui/auto-expand-block-refs? false
+ :ui/show-full-blocks? true
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}
