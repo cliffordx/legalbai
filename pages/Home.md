@@ -1,13 +1,11 @@
-icon:: 
+icon:: 🏠 
 
-- {{embed ((635bc75b-10e9-4e0d-b8c1-b0b98d8ba016))}}
-	- *[Read more...]([[Welcome page]])*
-- query-table:: true
+- query-sort-by:: created-at
+  query-table:: true
+  query-sort-desc:: false
   query-properties:: [:page :created-at]
-  query-sort-by:: created-at
-  query-sort-desc:: true
   #+BEGIN_QUERY
-  {:title " 📚 ⑦  Journals 一 Past 7 days"
+  {:title [:h2 "📚 ⑦  Daily Journal"]
   :query [:find (pull ?page [*])
   :in $ ?startdate ?enddate
   :where
@@ -25,6 +23,8 @@ icon:: 
   :breadcrumb-show? true
   }
   #+END_QUERY
+- {{embed ((635bc75b-10e9-4e0d-b8c1-b0b98d8ba016))}}
+	- *[Read more...]([[Welcome page]])*
 - ---
 - {{embed ((635bc75b-7730-4bdb-8246-0d43c3432cd3))}}
 - {{embed ((635bc75b-257f-4fc4-b4f3-8dece2332ef7))}}
