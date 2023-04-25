@@ -63,6 +63,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   heading:: true
   collapsed:: true
 	- **ARTICLE 44.**
+	  id:: 6447bb9c-c24d-4a12-ad19-49432982c65c
 		- The following are juridical persons:
 			- (1) The State and its political subdivisions;
 			- (2) Other corporations, institutions and entities for public interest or purpose, created by law; their personality begins as soon as they have been constituted according to law;
