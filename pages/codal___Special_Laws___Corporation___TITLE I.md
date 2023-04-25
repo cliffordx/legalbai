@@ -6,7 +6,7 @@ tags:: #rccp
 	- This Code shall be known as the “**Revised Corporation Code of the Philippines**”.
 - ## SEC. 2. Corporation Defined.
   id:: 6390c056-c05c-4bad-a93a-0c4cbc10e68b
-	- A corporation is ==an artificial being== [[#red]]==created by operation of law==, having the [[$green]]==right of succession== and the [[#blue]]==powers, attributes, and properties expressly authorized by law or incidental to its existence==.
+	- A corporation is  an [[#cloze]]==artificial being== [[#red]]==created by operation of law==, having the [[#cloze]]==right of succession== and the  [[#cloze]]==powers, attributes, and properties== expressly authorized by law or incidental to its existence.
 	-
 - ## SEC. 3. Classes of Corporations.
   id:: 64408c45-abb7-42fe-b385-fcf015697636
