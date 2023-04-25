@@ -1,4 +1,5 @@
--
+public:: false
+
 - [[Wednesday, 05 April 2023]] 15:47 #memos
   memo-id:: 96
 	- Life is short. Live it fully. #nts
