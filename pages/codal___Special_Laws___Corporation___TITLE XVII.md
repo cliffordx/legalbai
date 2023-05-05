@@ -1,3 +1,6 @@
+long-title:: TITLE XVII - MISCELLANEOUS PROVISIONS
+tags:: rccp
+
 # TITLE XVII - MISCELLANEOUS PROVISIONS
 - ## SEC. 173. Outstanding Capital Stock Defined.
   id:: 64408c46-4246-45d7-9335-183ddde73756

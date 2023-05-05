@@ -1,3 +1,6 @@
+long-title:: TITLE X - APPRAISAL RIGHT
+tags:: rccp
+
 # TITLE X - APPRAISAL RIGHT
 - ## SEC. 80. When the Right of Appraisal May Be Exercised.
 	- Any stockholder of a corporation shall have the right to dissent and demand payment of the fair value of the shares in the following instances:

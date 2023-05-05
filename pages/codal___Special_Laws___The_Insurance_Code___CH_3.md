@@ -103,6 +103,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_3
 		- No domestic insurance corporation shall declare or distribute any dividend on its outstanding stocks unless it has met the minimum paid-up capital and net worth requirements under [Section 194](((d0ba8a2d-c7d6-45ed-86ab-3ded1b1b8d5d))) and except from profits attested in a sworn statement to the Commissioner by the president or treasurer of the corporation to be remaining on hand after retaining unimpaired:
 		  collapsed:: true
 			- (a) The entire paid-up capital stock,
+			  id:: 64377f63-6c41-46bd-bced-881319d95ff6
 			- (b) The solvency requirements defined by [Section 200](((d5eaa224-a5d5-496e-b1f0-af383a9dce45)));
 			- (c) In the case of life insurance corporations, the legal reserve fund required by [Section 217](((8da89d81-6fb9-4eff-b065-2694ae4a4501)));
 			- (d) In the case of corporations other than life, the legal reserve fund required by [Section 219](((602c20b4-0f1b-4d64-a12b-60903059ad11))); and

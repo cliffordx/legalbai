@@ -1,3 +1,6 @@
+long-title:: TITLE XII - CLOSE CORPORATIONS
+tags:: rccp
+
 # TITLE XII - CLOSE CORPORATIONS
 - ## SEC. 95. Definition and Applicability of Title.
   id:: 64408c46-db3b-4957-b1bc-2dd79464bb00

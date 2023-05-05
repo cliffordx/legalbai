@@ -1,3 +1,6 @@
+long-title:: TITLE XVI - INVESTIGATIONS, OFFENSES, AND PENALTIES
+tags:: rccp
+
 # TITLE XVI - INVESTIGATIONS, OFFENSES, AND PENALTIES
 - ## SEC. 154. Investigation and Prosecution of Offenses.
 	- The Commission may investigate an alleged violation of this Code, or of rule, regulation, or order of the Commission.

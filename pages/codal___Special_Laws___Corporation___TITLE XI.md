@@ -1,4 +1,8 @@
+long-title:: TITLE XI - NONSTOCK CORPORATION
+tags:: rccp
+
 # TITLE XI - NONSTOCK CORPORATION
+id:: 6447de7b-4422-4672-a9ae-74d7e20341e9
 - ## SEC. 86. Definition.
 	- For purposes of this Code and subject to its provisions on dissolution, a nonstock corporation is one where no part of its income is distributable as dividends to its members, trustees, or officers: *Provided*, That any profit which a nonstock corporation may obtain incidental to its operations shall, whenever necessary or proper, be used for the furtherance of the purpose or purposes for which the corporation was organized, subject to the provisions of this Title.
 	- The provisions governing stock corporations, when pertinent, shall be applicable to nonstock corporations, except as may be covered by specific provisions of this Title.

@@ -1,4 +1,5 @@
 long-title:: TITLE VIII - CORPORATE BOOKS AND RECORDS
+tags:: rccp
 
 # TITLE VIII - CORPORATE BOOKS AND RECORDS
 - ## SEC. 73. Books to be Kept; Stock Transfer Agent.

@@ -1,3 +1,6 @@
+long-title:: TITLE XV - FOREIGN CORPORATIONS
+tags:: rccp
+
 # TITLE XV - FOREIGN CORPORATIONS
 - ## SEC. 140. Definition and Rights of Foreign Corporations.
 	- For purposes of this Code, a foreign corporation is one formed, organized or existing under laws other than those of the Philippines’ and whose laws allow Filipino citizens and corporations to do business in its own country or State. It shall have the right to transact business in the Philippines after obtaining a license for that purpose in accordance with this Code and a certificate of authority from the appropriate government agency.

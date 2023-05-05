@@ -6,18 +6,18 @@ tags:: #rccp
 	- This Code shall be known as the “**Revised Corporation Code of the Philippines**”.
 - ## SEC. 2. Corporation Defined.
   id:: 6390c056-c05c-4bad-a93a-0c4cbc10e68b
-	- A corporation is  an [[#cloze]]==artificial being== [[#red]]==created by operation of law==, having the [[#cloze]]==right of succession== and the  [[#cloze]]==powers, attributes, and properties== expressly authorized by law or incidental to its existence.
+	- A corporation is  an {{cloze  artificial bein}}g created by {{cloze operation of l}}aw, having the {{cloze right of succession}} and the  {{cloze powers}}, {{cloze attribute}}s, and {{cloze properti}}es {{cloze expressly autho}}rized by law or {{cloze incidental}} to its {{cloze existen}}ce.
 	-
 - ## SEC. 3. Classes of Corporations.
   id:: 64408c45-abb7-42fe-b385-fcf015697636
-	- Corporations formed or organized under this Code may be stock or nonstock corporations. Stock corporations are those which have capital stock divided into shares and are authorized to distribute to the holders of such shares, dividends, or allotments of the surplus profits on the basis of the shares held. All other corporations are nonstock corporations.
+	- Corporations formed or organized under this Code may be [stock] or [nonstock corporations](((6447de7b-4422-4672-a9ae-74d7e20341e9))). Stock corporations are those which have [capital stock](((64377f63-6c41-46bd-bced-881319d95ff6))) divided into [shares](((64408c45-998c-4ba2-b5c1-5bf1d72f621b))) and are authorized to distribute to the holders of such shares, dividends, or allotments of the [surplus profits]([[unrestricted retained earnings]]) on the basis of the shares held. All other corporations are nonstock corporations.
 - ## SEC. 4. Corporations Created by Special Laws or Charters.
 	- Corporations created by special laws or charters shall be governed primarily by the provisions of the special law or charter creating them or applicable to them, supplemented by the provisions of this Code, insofar as they are applicable.
 - ## SEC. 5. Corporators and Incorporators, Stockholders and Members.
 	- Corporators are those who compose a corporation, whether as stockholders or shareholders in a stock corporation or as members in a nonstock corporation. Incorporators are those stockholders or members mentioned in the articles of incorporation as originally forming and composing the corporation and who are signatories thereof.
 - ## SEC. 6. Classification of Shares.
   id:: 64408c45-998c-4ba2-b5c1-5bf1d72f621b
-	- The classification of shares, their corresponding rights, privileges, or restrictions, and their stated par value, if any, must be indicated in the articles of incorporation. ==Each share shall be equal in all respects to every other share,==  [[#red]]==except as otherwise provided in the articles of incorporation and in the certificate of stock==.
+	- The classification of shares, their corresponding rights, privileges, or restrictions, and their stated par value, if any, must be indicated in the articles of incorporation. ==Each share shall be equal in all respects to every other share,==  ==except as otherwise provided in the articles of incorporation and in the certificate of stock==.
 	  id:: 64408c45-304a-41ed-aa47-6b7da7b22e59
 	- The shares in stock corporations may be divided into classes or series of shares, or both. No share may be deprived of voting rights except those classified and issued as “preferred” or “redeemable” shares, unless otherwise provided in this Code: *Provided*, That there shall always be a class or series of shares with complete voting rights.
 	- Holders of nonvoting shares shall nevertheless be entitled to vote on the following matters:
