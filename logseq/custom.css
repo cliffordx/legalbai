@@ -9,6 +9,35 @@ html[data-theme='dark'] {
     --cl-secondary: 258,100%,77%;
     --cl-accent: 258,100%,77%;
 }
+
+/* added for compact LSB */
+/* Put nav buttons on one row, no text */
+.nav-header {
+  margin-left: 2px;
+}
+
+.nav-header .flex-1 {
+  display: none
+}
+
+.nav-header .item {
+  margin-left: 4px;
+  padding: 2px;
+}
+
+.nav-header .ui__icon {
+  margin-right: 0px;
+}
+
+.nav-header {
+  flex-direction: row;
+}
+
+.flashcards-nav .inline-block {
+  margin-left: 	2px;
+  padding: 0px;
+}
+
 /* bujo inspired dotted lines 10 Apr 2023 */
 .dark-theme #app-container {
     background-image: radial-gradient(#484f5d 8%, #303540 5%);

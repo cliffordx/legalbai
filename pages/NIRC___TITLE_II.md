@@ -678,8 +678,12 @@ icon:: 龎
 			- As used in this Title
 				- **(1) Capital Assets**.
 				  id:: 631a20a6-d485-4c94-8ece-9fdcbcea7c52
-					- The term ‘[[capital assets]]’ means property held by the taxpayer (whether or not connected with his trade or business), but does not include stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year or [property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business]([[ordinary asset]]), or property used in the trade or business, of a character which is subject to the allowance for depreciation provided in [Subsection (F) of Section 34](((635f5090-3205-4a52-b0aa-981fba5f7b3d))); or real property used in trade or business of the taxpayer.
+					- The term ‘[[capital assets]]’ means —
 					  id:: 635f5090-5c4c-46af-a16c-627dcfde7b26
+						- property held by the taxpayer (whether or not connected with his trade or business), but does not include stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year or
+						- [property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business]([[ordinary asset]]), or
+						- property used in the trade or business, of a character which is subject to the allowance for depreciation provided in [Subsection (F) of Section 34](((635f5090-3205-4a52-b0aa-981fba5f7b3d))); or
+						- real property used in trade or business of the taxpayer.
 						- See: [[ordinary asset]]
 				- **(2) Net Capital Gain**.
 				  collapsed:: true
