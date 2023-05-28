@@ -19,26 +19,33 @@ sys-category:: [[44]]
 			- When an object is relevant to the fact in issue, it may be exhibited to, examined or viewed by the court.
 - ## B. {{cloze Documentary Evidence}}
 	- **SECTION 2.** {{cloze Documentary}} evidence.
-		- {{cloze Documents}} as evidence {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing {{cloze letters, words, sounds, numb}}ers, {{cloze figures, symb}}ols or their {{cloze equivalent, or other modes}} of {{cloze written expressions}} {{cloze offered as proof}} of their {{cloze contents.}}
+		- {{cloze Documents}} as  {{cloze evidence}} {{cloze consist of writings, re}}cordings, {{cloze photographs or any material}} containing  {{cloze letters}},  {{cloze words}},  {{cloze sounds, numbe}}rs, {{cloze figures, symb}}ols or their {{cloze equivalent, or other modes}} of {{cloze written expressions}} {{cloze offered as proof}} of their {{cloze contents.}}
+		  collapsed:: true
 			- Documents as evidence consist of writings, recordings, photographs or any material containing letters, words, numbers, figures, symbols or their equivalent, or other modes of written expressions offered as proof of their contents.
 		- Photographs {{cloze include still pictures}}, {{cloze drawings, st}}ored {{cloze images, x-ray film}}s, {{cloze motion pictures or}} videos. (2a) [^1]
+		  collapsed:: true
 			- Photographs include still pictures, drawings, stored images, x-ray films, motion pictures or videos.
 			- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
 		- ### 1. {{cloze Original Document}} Rule
 			- **SECTION 3.** Original document {{cloze must be produced}}; exceptions.
 				- When the {{cloze subject of inquiry}} is the {{cloze contents of a document, writing}}, recording, {{cloze photograph or other rec}}ord,  {{cloze no evidence shall}} be {{cloze admissible other than the o}}riginal {{cloze document itse}}lf, {{cloze except in the}} following {{cloze cases}}:
 					- (a) When the {{cloze original is lost or destroyed}}, or {{cloze cannot be produced in c}}ourt, without {{cloze bad fait}}h on {{cloze the part of the off}}eror;
+					  collapsed:: true
 						- (a) When the original is lost or destroyed, or cannot be produced in court, without bad faith on the part of the offeror;
 					- (b) {{cloze When the orig}}inal is {{cloze in the custody}} or {{cloze under the control of the}} party {{cloze against whom the evidence}} is offered, and the {{cloze latter fails}} to {{cloze produce}} it after {{cloze reasonable notice}} or the {{cloze original cannot be obtained by local judicial processes}} {{cloze or proce}}dures;
+					  collapsed:: true
 						- (b) When the original is in the custody or under the control of the party against whom the evidence is offered, and the latter fails to produce it after reasonable notice or the original cannot be obtained by local judicial processes or procedures;
 					- (c) When the {{cloze original consists of numerous accounts or other documents}} which {{cloze cannot be examined in court}} without {{cloze great loss of time and the fact sought}} to be {{cloze establis}}hed from {{cloze them is only the gene}}ral result {{cloze of the whole; a}}nd
+					  collapsed:: true
 						- (c) When the original consists of numerous accounts or other documents which cannot be examined in court without great loss of time and the fact sought to be established from them is only the general result of the whole; and
 					- (d) When the {{cloze original is a public}} record in the {{cloze custody of a public}} officer or is {{cloze recorded in a public o}}ffice; and
+					  collapsed:: true
 						- (d) When the original is a public record in the custody of a public officer or is recorded in a public office; and
-					- (e) {{cloze When the}} original {{cloze is n}}ot {{closely-cloze related to a controlling}} {{cloze iss}}ue.(3a)
+					- (e) {{cloze When the}} original {{cloze is n}}ot {{cloze closely related to a controlling}} {{cloze iss}}ue.(3a)
+					  collapsed:: true
 						- (e) When the original is not closely-related to a controlling issue.(3a)
 			- **SECTION 4.** {{cloze Original of}} document.
-				- (a) An {{cloze "original"}} of {{cloze a document is}}  the {{cloze document}} itself or {{cloze any counterpart intended to}} have the {{cloze same eff}}ect by a {{cloze person executing or issuing}} it. An {{cloze "original" of a ph}}otograph {{cloze includes the negati}}ve or {{cloze any}} print {{cloze therefrom}}. If {{cloze data is stored in a computer or similar}} device, {{cloze any printout or}} other {{cloze output read}}able {{cloze by sight or other}} means, {{cloze shown to reflect the data}} accurately, {{cloze is an "original."}}
+				- (a) An {{cloze "original"}} of {{cloze a document is}}  the {{cloze document}} itself or {{cloze any counterpart intended to}} have the {{cloze same eff}}ect by a {{cloze person executing or issuing}} it. An  {{cloze \"original\" of a photograph}} {{cloze includes the negati}}ve or {{cloze any}} print {{cloze therefrom}}. If {{cloze data is stored in a computer or similar}} device, {{cloze any printout or}} other {{cloze output read}}able {{cloze by sight or other}} means, {{cloze shown to reflect the data}} accurately, {{cloze is an "original."}}
 				- (b) A {{cloze "duplicate"}} is a {{cloze counterpart}} {{cloze produced by the same impression}} as the {{cloze original, or fro}}m the {{cloze same matri}}x, {{cloze or by means of}} photography, {{cloze including enlargements and miniatur}}es, or by {{cloze mechanical or electronic rerecording, or by}} chemical {{cloze reproduction, or by other equivalent techni}}ques which {{cloze accurately reproduce the}} original.
 				- (c) A {{cloze duplicate is admissible}} to the {{cloze same extent as an original}} unless —
 					- (1) {{cloze a genuine}} question {{cloze is raised}}  as to {{cloze the authenticity of the original}}, or
@@ -70,7 +77,7 @@ sys-category:: [[44]]
 			- **SECTION 12.** {{cloze Instrument construed}} so as to give {{cloze effect to all pro}}visions.
 				- In the {{cloze construction of an instrument}} where there are {{cloze several provisions or p}}articulars, such a {{cloze construction is, if}} possible, {{cloze to be adopted as will}} give effect {{cloze to all}}. (11)
 			- **SECTION 13.** Interpretation {{cloze according to intention; general and}} particular {{cloze provisions}}.
-				- In the {{cloze construction of an in}}strument, the intention of {{cloze the parties is to be}} pursued; and {{cloze when a general and a particular}} provision are {{cloze inconsisten}}t, the {{cloze latter is paramo}}unt to the {{cloze former.}} So a {{cloze particular intent}} will control {{cloze a general one}} that is{{cloze inconsistent with it}} . (12)
+				- In the {{cloze construction of an in}}strument, the intention of {{cloze the parties is to be}} pursued; and {{cloze when a general and a particular}} provision are {{cloze inconsisten}}t, the {{cloze latter is paramo}}unt to the {{cloze former.}} So a {{cloze particular intent}} will control {{cloze a general one}} that is {{cloze inconsistent with it}} . (12)
 			- **SECTION 14.** {{cloze Interpretation according to circumstances.}}
 				- {{cloze For the proper construction of an instrument, the circumstances under which it was made, including the situation of the subject thereof and of the parties to it, may be shown, so that the judge may be placed in the position of those whose language he is to interpret}}. (13a)
 			- **SECTION 15.** *Peculiar signification of terms.*
@@ -87,27 +94,20 @@ sys-category:: [[44]]
 				- An {{cloze instrument may be construed}} according to {{cloze usage}}, in order {{cloze to determine its true ch}}aracter. (19)
 - ## C. Testimonial Evidence
 	- ### 1. Qualification of Witnesses
-	  collapsed:: true
 		- **SECTION 21.** *Witnesses; their qualifications.*
-		  collapsed:: true
-			- All persons who can perceive, and perceiving, can make known their perception to others, may be witnesses. (20a)
-			- Religious or political belief, interest in the outcome of the case, or conviction of a crime unless otherwise provided by law, shall not be a ground for disqualification. (20)
+			- All  {{cloze persons}}  {{cloze who}} can  {{cloze perceive}}, and  {{cloze perceiving}}, can  {{cloze make known}} their  {{cloze perception to others}}, may  {{cloze be witnesses}}. (20a)
+			- {{cloze Religious}} or  {{cloze political belief}},  {{cloze interest}} in the  {{cloze outcome of the case}}, or  {{cloze conviction of a crime}} unless  {{cloze otherwise provided by law}}, shall not  {{cloze be a ground}} for  {{cloze disqualification}}. (20)
 		- **SECTION 22.** *Testimony confined to personal knowledge.*
 		  id:: 63d60cbe-712d-4441-82ce-fa18cc871d9c
-		  collapsed:: true
-			- A witness can testify only to those facts which he or she knows of his or her personal knowledge; that is, which are derived from his or her own perception. (36a)
+			- A  {{cloze witness can testify}} only  {{cloze to those facts}} which  {{cloze he or she knows}} of his  {{cloze or her personal knowledge}}; that is,  {{cloze which are derived}} from  {{cloze his or her own perceptio}}n. (36a)
 		- **SECTION 23.** *Disqualification by reason of marriage.*
-		  collapsed:: true
-			- During their marriage, the husband or the wife cannot testify against the other without the consent of the affected spouse, except in a civil case by one against the other, or in a criminal case for a crime committed by one against the other or the latter's direct descendants or ascendants. (22a)
+			- {{cloze During their marri}}age,  {{cloze the husband or}} the  {{cloze wife cannot testify against}} the  {{cloze other without the consent}} of the  {{cloze affected spouse}}, except  {{cloze in a civil case by one against}} the  {{cloze othe}}r, or in  {{cloze a criminal case}} for a  {{cloze crime committed by one}}  {{cloze against the other}} or the  {{cloze latter's direct descendants}} or  {{cloze ascendants.}} (22a)
 		- **SECTION 24.** *Disqualification by reason of privileged communications.*
-		  collapsed:: true
-			- The following persons cannot testify as to matters learned in confidence in the following cases:
-			  collapsed:: true
-				- (a) The husband or the wife, during or after the marriage, cannot be examined without the consent of the other as to any communication received in confidence by one from the other during the marriage except in a civil case by one against the other, or in a criminal case for a crime committed by one against the other or the latter's direct descendants or ascendants;
-				- (b) An attorney or person reasonably believed by the client to be licensed to engage in the practice of law cannot, without the consent of the client, be examined as to any communication made by the client to him or her , or his or her advice given thereon in the course of, or with a view to, professional employment, nor can an attorney's secretary, stenographer, or clerk, or other persons assisting the attorney be examined, without the consent of the client and his or her employer, concerning any fact the knowledge of which has been acquired in such capacity, except in the following cases: ;
-				  collapsed:: true
-					- (i) Furtherance of crime or fraud. If the services or advice of the lawyer were sought or obtained to enable or aid anyone to commit or plan to commit what the client knew or reasonably should have known to be a crime or fraud;
-					- (ii) Claimants through same deceased client. As to a communication relevant to an issue between parties who claim through the same deceased client, regardless of whether the claims are by testate or intestate or by inter vivos transaction;
+			- The  {{cloze following persons}} cannot  {{cloze testify as to matters}}  {{cloze learned in confidence}} in the  {{cloze following cases}}:
+				- (a) The  {{cloze husband or the wife}},  {{cloze during or after the marria}}ge, cannot  {{cloze be examined without the}}  {{cloze consent}} of the other  {{cloze as to any communication received}} in  {{cloze confidence by one}} from  {{cloze the other during the marriage}}  {{cloze except in a civil case}} by  {{cloze one against the other}}, or  {{cloze in a criminal case for a crime}}  {{cloze committed by one against the other}} or the  {{cloze latter's direct descendants or ascendants}};
+				- (b) An  {{cloze attorney}} or  {{cloze person}}  {{cloze reasonably believed}} by the  {{cloze client to be licensed}} to  {{cloze engage}} in the  {{cloze practice of law}} cannot,  {{cloze without}} the  {{cloze consent of the client}}, be  {{cloze examined as to any communication}} made  {{cloze by the client to him or he}}r , or  {{cloze his or her advic}}e  {{cloze given thereon in the course of}}, or w {{cloze ith a view to}},  {{cloze professional employm}}ent, nor  {{cloze can an attorney's secretary}},  {{cloze stenogra}}pher,  {{cloze or clerk}}, or  {{cloze other persons assisting the attor}}ney  {{cloze be examined}},  {{cloze without the consent}} of the  {{cloze client}} and  {{cloze his or her employer}},  {{cloze concerning any fact}} the  {{cloze knowledge}} of which  {{cloze has been acquired}} in  {{cloze such capacity}}, except  {{cloze in the following case}}s: ;
+					- (i)  {{cloze Furtherance}} of  {{cloze crim}}e or  {{cloze fraud}}. If  {{cloze the services}} or  {{cloze advice}} of the  {{cloze lawyer were}}  {{cloze sought}} or  {{cloze obtained}} to  {{cloze enable or aid anyone to commit}} or plan to commit  {{cloze what the client}}  {{cloze knew}} or  {{cloze reasonably}} should  {{cloze have known to be a crime}} or  {{cloze fraud}};
+					- (ii)  {{cloze Claimants}} through same deceased client. As to a communication relevant to an issue between parties who claim through the same deceased client, regardless of whether the claims are by testate or intestate or by inter vivos transaction;
 					  id:: 63d60e63-bf2d-47ee-898a-f03697f610ce
 					- (iii) Breach of duty by lawyer or client. As to a communication relevant to an issue of breach of duty by the lawyer to his or her client, or by the client to his or her lawyer;
 					- (iv) Document attested by the lawyer. As to a communication relevant to an issue concerning an attested document to which the lawyer is an attesting witness; or
