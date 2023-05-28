@@ -1,5 +1,5 @@
 - # Constitutional Law Q&As
-	- > NOTE: These are collated Q&As from our class. Use this only as your reference or you may wish to add/edit/correct any of them, just inform me. Read at your own risk.
+	- > NOTE: These are collated Q&As from our class. Use this only as your reference or you may wish to add/edit/correct any of them, just inform me. Use at your own risk.
 	- ## **INTRODUCTION:**
 		- **Discuss the doctrine of constitutional supremacy.** #card
 			- Under the doctrine of constitutional supremacy, **if a law or contract violates** any norm of the constitution that law or contract whether promulgated by the legislative or by the executive branch or entered into by private persons for private purposes is null and void and without any force and effect. Thus, since the Constitution is the fundamental, paramount and supreme law of the nation, it is deemed written in every statute and contract.

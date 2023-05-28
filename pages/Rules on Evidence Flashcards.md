@@ -5,13 +5,10 @@ tags:: flashcards, #[[bar/QA]]
 
 - #card **SECTION 1.** *Evidence defined.*
 	- Evidence is the means, sanctioned by these rules , of ascertaining in a judicial proceeding the truth respecting a matter of fact. (1)
-		- Evidence is the **means**, **sanctioned** by these **rules**, of **ascertaining** in a **judicial proceed**ing the truth **respecting a matter** of fact.
 - #card **SECTION 2.** *Scope.*
 	- The rules of evidence shall be the same in all courts and in all trials and hearings, except as otherwise provided by law or these rules. (2a)
-		- The rules of evidence **shall be the same in all courts** and in **all trials an**d hearings, except as **otherwise provid**ed by **law or these** rules.
 - #card **SECTION 3.** Admissibility of evidence.
 	- Evidence is admissible when it is relevant to the issue and is not excluded by the Constitution, the law or these rules.(3a)
-		- Evidence is **admissible** when it is **relevant to the issue** and is not excluded by **the Constitution**, **the law or these** rules.
 - #card **SECTION 4.** Relevancy; collateral matters.
 	- Evidence must have such a relation to the fact in issue as to induce belief in its existence or nonexistence. Evidence on collateral matters shall not be allowed, except when it tends in any reasonable degree to establish the probability or improbability of the fact in issue. (4a)
 - #card **SECTION 1.**Judicial notice , when mandatory.

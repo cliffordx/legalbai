@@ -9,13 +9,14 @@ public:: false
   * [ ] b. Theoretical justice
   * [ ] c. Administrative feasibility
   * [ ] d. Economic efficiency #card
+  - Answer: Fiscal adequacy
 - #Q Due process is usually violated where the tax imposed is for a private purpose as distinguished from a public purpose.
   * [ ] True
   * [ ] False #card
 - #Q No person shall be imprisoned for non-payment of
   * [ ] a. Property tax
   * [ ] b. Excise tax
-  * [X] c. Poll tax
+  * [ ] c. Poll tax
   * [ ] d. Value added tax #card
 - #Q The President of the Philippines does not have the power to grant tax exemption but can grant tax amnesty.
   * [ ] True
