@@ -64,7 +64,7 @@ sys-category:: [[44]]
 				- A {{cloze party who}} calls {{cloze for the production}} of a {{cloze doc}}ument and {{cloze inspects the same is}} not {{cloze obliged to offe}}r it as {{cloze evidence}}. (8)
 		- ### 3. {{cloze Parol Evidence}} Rule
 			- **SECTION 10.** {{cloze Evidence of written agreements.}}
-				- When the terms {{cloze of an agreement have been}} reduced to {{cloze writing, it is considered}} as  {{cloze all the terms agreed upon and there}} can be, {{cloze between}} the parties and {{cloze their successors in int}}erest, {{cloze no evidence of such terms other th}}an the {{cloze contents of the written a}}greement.
+				- When the terms {{cloze of an agreement have been}} reduced to {{cloze writing, it is considered}} as containing {{cloze all the terms agreed upon and there}} can be, {{cloze between}} the parties and {{cloze their successors in int}}erest, {{cloze no evidence of such terms other th}}an the {{cloze contents of the written a}}greement.
 				- However, {{cloze a party may presen}}t evidence to {{cloze modify, expla}}in or add {{cloze to the terms of}} the {{cloze written agreement if}} he {{cloze or she puts in issue}} in  {{cloze a verified p}}leading:
 					- (a) An {{cloze intrinsic ambiguity, mistak}}e or {{cloze imperfection in the}} written agreement;
 					- (b) {{cloze The failure of the written agreement to express the true in}}tent and {{cloze agreement of the parties}} thereto;

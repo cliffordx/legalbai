@@ -57,7 +57,7 @@ tags:: flashcards, #[[bar/QA]]
 - #card **SECTION 9.** Party who calls for document not bound to offer it.
 	- A party who calls for the production of a document and inspects the same is not obliged to offer it as evidence.
 - #card **SECTION 10.** Evidence of written agreements.
-	- When the terms of an agreement have been reduced to writing, it is considered as  all the terms agreed upon and there can be, between the parties and their successors in interest, no evidence of such terms other than the contents of the written agreement.
+	- When the terms of an agreement have been reduced to writing, it is considered as containing all the terms agreed upon and there can be, between the parties and their successors in interest, no evidence of such terms other than the contents of the written agreement.
 	- However, a party may present evidence to modify, explain or add to the terms of the written agreement if he or she puts in issue in  a verified pleading:
 		- (a) An intrinsic ambiguity, mistake or imperfection in the written agreement;
 		- (b) The failure of the written agreement to express the true intent and agreement of the parties thereto;
