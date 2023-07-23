@@ -66,3 +66,46 @@ html[data-theme='light'] {
 .block-content {
     text-align: justify;
 }
+
+/* added ruler for deep threading 23 July 2023 */
+.ls-block > div > div > .bullet-link-wrap:before {
+    position:  absolute;
+    margin-left: -10px;
+    margin-top: -4px;
+}
+.ls-block[level="1"] > div > div > .bullet-link-wrap:before {
+    content: "1";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="2"] > div > div > .bullet-link-wrap:before {
+    content: "2";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="3"] > div > div > .bullet-link-wrap:before {
+    content: "3️";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="4"] > div > div > .bullet-link-wrap:before {
+    content: "4";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="5"] > div > div > .bullet-link-wrap:before {
+    content: "5";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="6"] > div > div > .bullet-link-wrap:before {
+    content: "6";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
