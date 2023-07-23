@@ -8,9 +8,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 48.**
   id:: 63370969-b8c8-49ce-9714-8cb8fcc05b5d
-  collapsed:: true
 	- The following are citizens of the Philippines:
-	  collapsed:: true
 		- (1) Those who were citizens of the Philippines at the time of the adoption of the Constitution of the Philippines;
 		- (2) Those born in the Philippines of foreign parents who, before the adoption of said Constitution, had been elected to public office in the Philippines;
 		- (3) Those whose fathers are citizens of the Philippines;

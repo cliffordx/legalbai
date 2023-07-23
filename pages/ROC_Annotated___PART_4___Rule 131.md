@@ -15,7 +15,7 @@ sys-category:: [[44]]
   collapsed:: true
 	- The following are instances of conclusive presumptions:
 	  collapsed:: true
-		- (a) Whenever a party has, by his own declaration, act, or omission, intentionally and deliberately led another to believe a particular thing true, and to act upon such belief, he cannot, in any litigation arising out of such declaration, act or omission, be permitted to falsify it;
+		- (a) Whenever a party has, by his own declaration, act, or omission, intentionally and deliberately led another to believe a particular thing true, and to act upon such belief, he or she cannot, in any litigation arising out of such declaration, act or omission, be permitted to falsify it;
 		- (b) The tenant is not permitted to deny the title of his landlord at the time of the commencement of the relation of landlord and tenant between them. (3a)
 - **SECTION 3.** *Disputable presumptions.*
   collapsed:: true

@@ -10,13 +10,11 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - ## 🔴 CHAPTER 1- General Provisions
   heading:: true
   id:: 63007585-7804-4375-b637-8b9d9a7a79c3
-  collapsed:: true
 	- **ARTICLE 774.**
 	  id:: 6302fb2f-0856-441c-8758-34cf3cfe904b
 		- Succession is a [mode of acquisition]([[Modes of Acquiring Ownership]]) by virtue of which the property, rights and obligations to the extent of the value of the inheritance, of a person are transmitted through his death to another or others either by his will or by operation of law. (n) #QQ22_23
 		  id:: 63104e94-272f-43bd-b213-501dbe8caa1b
-		- #### Commentaries:
-		- [Paras](((632729ac-5e63-4ccc-a832-7918c415ac69))); [De Leon](((6328449d-1d00-42ef-b5aa-6c92673958e0))) [Jurado](((63283ea7-bc36-460a-a710-6a0d4ac226ab)))
+		- ### Commentaries:
 	- **ARTICLE 775.**
 	  id:: 6302fb2f-b144-4050-9458-92582bb362cb
 	  collapsed:: true
