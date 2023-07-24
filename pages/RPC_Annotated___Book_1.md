@@ -53,7 +53,7 @@ sys-category:: [[21]]
 		- **ARTICLE 7.** *When Light Felonies are Punishable.*
 		  id:: 649990c9-785b-4ded-a421-723f66929d39
 		  collapsed:: true
-			- Light felonies are punishable only when they have been consummated, with the exception of those committed against person or property.
+			- Light felonies are punishable only when they have been consummated, with the exception of those committed against person or property. #[[persons or property]]
 		- **ARTICLE 8.** *Conspiracy and Proposal to Commit Felony.*
 		  id:: 64bd037a-1dd8-48f7-848c-13086966be26
 		  collapsed:: true

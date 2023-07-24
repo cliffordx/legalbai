@@ -4,19 +4,20 @@ tags:: paksiteer, paksitive, paksionate
 
 - # Welcome to Legal Bai
   id:: 635bc75b-10e9-4e0d-b8c1-b0b98d8ba016
-	- This is [my]([[Clifford Enoc]]) repository of law notes, codal annotations and commentaries in my study of law in the Philippines. As of writing this welcome/index page [28 July 2022], I am in my third year of law school. `updated: Oct 26, 2022: 13:06:00`
+	- This is [my]([[Clifford Enoc]]) repository of law notes, codal annotations and commentaries in my study of law in the Philippines. As of writing this welcome/index page [28 July 2022], I am in my third year of law school.
+		- > Last updated: ~~Oct 26, 2022: 13:06:00~~ 26 July 2023: 19:47:00
 	- Law school is tough, but "I am tougher." — The [Paksiteer]([[Clifford Enoc]])
 - ## How to navigate this site?
   id:: 635bc75b-7730-4bdb-8246-0d43c3432cd3
-	- You can collapse or uncollapse a heading to either show or hide subgroup or underneath the title. Next to this is a title `What can you expect from my Github page` there's a `.` on the left but DO NOT click yet, as that will open into separate page. After you  hover, you will see a drop/side arrow, depending if the page is hidden or already shown. Do try it!
-	- Next, there's a left side menu bar and right side menu bar. Go over them and let me know if you find something interesting. ;)
+	- You can collapse or expand headings to show or hide subgroups. Next to the title `What can you expect from my GitHub page`, there is a `.` on the left. **Do not click on it yet, as it will open a separate page.** If you hover over it, you will see a drop-down arrow, depending on whether the page is hidden or already shown. **Try it out!**
+	- Next, there are left and right side menu bars. **Explore them and let me know if you find anything interesting.** ;)
 		- *If you are [new to Logseq /PKM](((636f3032-e2ba-47fb-ab19-654d489423f0))), here is a [video for you](((636f3032-e2ba-47fb-ab19-654d489423f0))).*
 - ### What can you expect from my Github page?
   id:: 635bc75b-257f-4fc4-b4f3-8dece2332ef7
 	- A lot. For starters, I have created and collected #[[flashcards]] from exams and quizzes.
-	- I have also uploaded the fundamental codals here, with [my]([[Clifford Enoc]]) annotations and comments.
-		- But don't expect too much. Some are not meant to be shared.
-			- Reason: Some are from authors of a law book.
+	- I have also uploaded the fundamental codals here, with [my]([[Clifford Enoc]]) annotations and comments, as well as some from law book authors.
+		- ~~But don't expect too much. Some are not meant to be shared.~~
+			- ~~Reason: Some are from authors of a law book.~~
 				- Others are from law review pdfs floating around but it's already there,  no need to have it here.
 				- id:: 635f4491-7ba1-42f4-92ca-0759d89e45f9
 				  > NOTE: If you find a gibberish code something like this `((635a41f7-2049-491e-8838-b8d5119d291f)),` it means that the link reference is to some other annotated document, *i.e.,* PDF file, that no longer appear from this site because it was deleted but I'm sure it appear somewhere, *i.e.,* on my local machine (my laptop/phone).
