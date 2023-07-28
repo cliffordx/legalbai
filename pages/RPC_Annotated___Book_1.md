@@ -56,13 +56,11 @@ sys-category:: [[21]]
 			- Light felonies are punishable only when they have been consummated, with the exception of those committed against person or property. #[[persons or property]]
 		- **ARTICLE 8.** *Conspiracy and Proposal to Commit Felony.*
 		  id:: 64bd037a-1dd8-48f7-848c-13086966be26
-		  collapsed:: true
 			- Conspiracy and proposal to commit felony are punishable only in the cases in which the law specially provides a penalty therefor.
 			- A conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it.
 			- There is proposal when the person who has decided to commit a felony proposes its execution to some other person or persons.
 		- **ARTICLE 9.** *Grave Felonies, Less Grave Felonies and Light Felonies.*
 		  id:: 649990c9-468c-423f-a94c-4fb0a4608960
-		  collapsed:: true
 			- Grave felonies are those to which the law attaches the capital punishment or penalties which in any of their periods are afflictive, in accordance with [article 25](((513609b9-8883-4407-b69d-92b98afce0a4))) of this Code.
 			- Less grave felonies are those which the law punishes with penalties which in their maximum period are correctional, in accordance with the abovementioned article.
 			- Light felonies are those infractions of law for the commission of which the penalty of arresto menor or a fine not exceeding forty thousand pesos(P40,000), or both, is provided.^{As amended by R.A. No. 10951, August 29, 2017}
@@ -70,7 +68,6 @@ sys-category:: [[21]]
 				-
 		- **ARTICLE 10.** *Offenses Not Subject to the Provisions of this Code.*
 		  id:: 64bd037a-d1ce-48c8-bb7d-2baec1afe828
-		  collapsed:: true
 			- Offenses which are or in the future may be punishable under special laws are not subject to the provisions of this Code. This Code shall be [supplementary]([[suppletory laws]]) to such laws, unless the latter should specially provide the contrary.
 	- ## CHAPTER TWO  Justifying Circumstances and Circumstances which Exempt from Criminal Liability
 		- **ARTICLE 11.** *Justifying Circumstances.*
@@ -285,7 +282,6 @@ sys-category:: [[21]]
 		  collapsed:: true
 			- The penalties which may be imposed, according to this Code, and their different classes, are those included in the following:
 			- #### SCALE
-			  collapsed:: true
 				- **PRINCIPAL PENALTIES**
 				  collapsed:: true
 					- **Capital punishment:**
