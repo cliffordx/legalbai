@@ -253,10 +253,9 @@ sys-category:: [[21]]
 	  id:: 1f0c7450-b33e-4222-b838-970d93f6426b
 		- **ARTICLE 21.** *Penalties that May Be Imposed.*
 		  id:: 3a723e5f-aaee-43ca-bef8-18d90082df98
-		  collapsed:: true
 			- No felony shall be punishable by any penalty not prescribed by law prior to its commission.
 			- COMMENTS:
-				-
+				- If it is not prescribed by law, no felony shall be punishable by any penalty.
 		- **ARTICLE 22.** *Retroactive Effect of Penal Laws.*
 		  id:: 51bf2be4-997a-4e76-9276-ea64b368939a
 		  collapsed:: true
