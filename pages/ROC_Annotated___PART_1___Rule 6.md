@@ -27,6 +27,7 @@ sys-category:: [[41]]
   id:: 65161f8d-8179-4d98-abd8-bbcdeabef0c4
 	- Defenses may either be negative or affirmative.
 		- (a) A negative defense is the specific denial of the material fact or facts alleged in the pleading of the claimant essential to his <ins>or her</ins> cause or causes of action.
+		  id:: 65164d87-8ce7-4daa-afca-c1908fad6f8d
 		- (b) An affirmative defense is an allegation of a new matter which, while hypothetically admitting the material allegations in the pleading of the claimant, would nevertheless prevent or bar recovery by him <ins>or her</ins>.
 		  id:: 050697c9-e06a-4f59-92ba-5312dcd90b23
 		- The affirmative defenses include fraud, statute of limitations, release, payment, illegality, statute of frauds, estoppel, former recovery, discharge in bankruptcy, and any other matter by way of confession and avoidance.

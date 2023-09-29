@@ -33,6 +33,7 @@ sys-category:: [[41]]
 - **SECTION 9.** *Official document or act.*
 	- In pleading an official document or official act, it is sufficient to aver that the document <u>was</u> ~~issued or the act~~ done in compliance with law. (9)
 - **SECTION 10.** *Specific denial.*
+  id:: 65164d88-5743-4174-810f-b3573770573a
 	- A defendant must specify each material allegation of fact the truth of which he <u>or she</u> does not admit and, whenever practicable, shall set forth the substance of the matters upon which he <u>or she</u> relies to support his <u>or her</u> denial.
 	- Where a defendant desires to deny only a part of an averment, he <u>or she</u> shall specify so much of it as is true and material and shall deny only the remainder.
 	- Where a defendant is without knowledge or information sufficient to form a belief as to the truth of a material averment made in the complaint, he <u>or she</u> shall so state, and this shall have the effect of a denial. (10a)
