@@ -20,6 +20,7 @@ sys-category:: [[41]]
   id:: 65161f8d-97b0-495a-85e8-1b3b1d63b165
 	- The complaint is the pleading alleging the plaintiff's <ins>or claiming party's</ins> [cause or causes of action]([[cause of action]]). The names and residences of the plaintiff and defendant must be stated in the complaint. (3a)
 - **SECTION 4**. *Answer.*
+  id:: 65164d87-12fd-4af4-a8a4-cf450410e4d8
   collapsed:: true
 	- An answer is a pleading in which a defending party sets forth his <ins>or her</ins> defenses. (4a)
 - **SECTION 5.** *Defenses.*

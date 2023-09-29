@@ -5,8 +5,9 @@ law-subject:: remedial
 tags:: #codal/roc/civpro #pam
 status:: active
 sys-category:: [[41]]
-# RULE 15 - Motions
-heading:: true
+
+- # RULE 15 - Motions
+  heading:: true
 - **SECTION 1.** Motion defined.
 	- A motion is an application for relief other than by a pleading. (1a)
 		- A motion is an application for relief other than by a pleading.
@@ -35,6 +36,7 @@ heading:: true
   collapsed:: true
 	- (a) Litigious motions include:
 		- 1) Motion for bill of particulars;
+		  id:: 65164d80-6932-489a-9cd1-87d71129623c
 		- 2) Motion to dismiss;
 		- 3) Motion for new trial;
 		- 4) Motion for reconsideration;

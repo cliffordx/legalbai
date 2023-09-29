@@ -6,7 +6,7 @@ tags:: #codal/roc/civpro #pam
 status:: active
 sys-category:: [[41]]
 
-# RULE 7 - Parts <u>and Contents</u> of a Pleading
+- # RULE 7 - Parts <u>and Contents</u> of a Pleading
 - **SECTION 1.** *Caption.*
   collapsed:: true
 	- The caption sets forth the name of the court, the title of the action, and the docket number if assigned.
@@ -15,12 +15,12 @@ sys-category:: [[41]]
 	- Their respective participation in the case shall be indicated. (1a, 2a)
 - **SECTION 2.** *The body.*
   id:: f6acdf04-e215-4eb1-adf4-a74a5580efc5
-  collapsed:: true
 	- The body of the pleading sets forth its designation, the allegations of the party's claims or defenses, the relief prayed for, and the date of the pleading. (n)
 	- *(a) Paragraphs.* — The allegations in the body of a pleading shall be divided into paragraphs so numbered as to be readily identified, each of which shall contain a statement of a single set of circumstances so far as that can be done with convenience. A paragraph may be referred to by its number in all succeeding pleadings. (3a)
 	- *(b) Headings.* — When two or more causes of action are joined, the statement of the first shall be prefaced by the words, "first cause of action," of the second by "second cause of action," and so on for the others.
 	- When one or more paragraphs in the answer are addressed to one of several causes of action in the complaint, they shall be prefaced by the words "answer to the first cause of action" or "answer to the second cause of action" and so on; and when one or more paragraphs of the answer are addressed to several causes of action, they shall be prefaced by words to that effect.
 	- *(c) Relief .* — The pleading shall specify the relief sought, but it may add a general prayer for such further or other relief as may be deemed just or equitable. (3a, R6)
+	  id:: 65164d87-aef9-44cd-a45b-fe2145d2d0e2
 	- *(d) Date.* — Every pleading shall be dated. (4)
 - **SECTION 3.** *Signature and address.*
   collapsed:: true

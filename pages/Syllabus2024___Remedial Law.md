@@ -1,6 +1,7 @@
 id:: 65161f93-9f13-4094-898a-1e394f3deee2
 > **NOTE:** All Bar candidates should be guided that only laws, rules, issuances, and jurisprudence pertinent to the topics in this syllabus as of *June 30, 2023* are within the coverage of the 2024 Bar Examinations.
 
+- ![2024 Syllabus](../assets/Remedial-Law-and-Ethics-2024-Bar-Syllabus.pdf)
 - ## I. GENERAL PRINCIPLES
   collapsed:: true
 	- A. Substantive Law vs. Adjective Law

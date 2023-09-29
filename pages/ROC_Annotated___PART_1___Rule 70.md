@@ -6,7 +6,7 @@ tags:: #codal/roc/sca
 status:: active
 sys-category:: [[41.2]]
 
-# RULE 70 - Forcible Entry and Unlawful Detainer
+- # RULE 70 - Forcible Entry and Unlawful Detainer
 - **SECTION 1.** *Who may institute proceedings, and when.*
   id:: 2ce9b866-65c1-4da9-8701-c56f413a06b2
   collapsed:: true
@@ -22,7 +22,7 @@ sys-category:: [[41.2]]
 	- The only pleadings allowed to be filed are the complaint, compulsory counterclaim and cross-claim pleaded in the answer, and the answers thereto.
 	- All pleadings shall be verified. (3a, RSP)
 - **SECTION 5.** *Action on complaint.*
-  collapsed:: true
+  id:: 65164d88-1f15-480f-a887-2b3c7294996a
 	- The court may, from an examination of the allegations in the complaint and such evidence as may be attached thereto, dismiss the case outright on any of the grounds for the dismissal of a civil action which are apparent therein.
 	- If no ground for dismissal is found, it shall forthwith issue summons. (n)
 - **SECTION 6.** *Answer.*

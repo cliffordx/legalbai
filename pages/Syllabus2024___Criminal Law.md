@@ -1,6 +1,8 @@
 - {{embed ((65161f93-9f13-4094-898a-1e394f3deee2))}}
+- ![2024 Syllabus](../assets/Criminal-Law-2024-Bar-Syllabus.pdf)
 - ## I. FUNDAMENTAL PRINCIPLES OF CRIMINAL LAW
   id:: 64f07bf1-67c0-4346-9032-ecdeeffd40ba
+  collapsed:: true
 	- A. Schools of Thoughts See: p. 7 of Boado Compact Reviewer 2021 ed.
 		- [[Classical Theory]]
 		  logseq.order-list-type:: number

@@ -6,7 +6,7 @@ tags:: #codal/roc/crimpro
 status:: active
 sys-category:: [[43]]
 
-# RULE 116 - Arraignment and Plea
+- # RULE 116 - Arraignment and Plea
 - **Section  1.** Arraignment and plea; how made.
 	- (a) The accused must be arraigned before the court where the complaint or information was filed or assigned for trial.
 		- The arraignment shall be made in open court by the judge or clerk by furnishing the accused with a copy of the complaint or information, reading the same in the language or dialect known to him, and asking him whether he pleads guilty or not guilty.
@@ -43,6 +43,7 @@ sys-category:: [[43]]
 - **Section  8.** Time for counsel de oficio to prepare for arraignment.
 	- Whenever a counsel _de oficio_ is appointed by the court to defend the accused at the arraignment, he shall be given a reasonable time to consult with the accused as to his plea before proceeding with the arraignment. (8)
 - **Section  9**. Bill of particulars.
+  id:: 65164d88-2348-4faf-aa7e-6c6bd475c69c
 	- The accused may, before arraignment, move for a bill of particulars to enable him properly to plead and to prepare for trial.
 	- The motion shall specify the alleged defects of the complaint or information and the details desired. (10a)
 - **Section  10.** Production or inspection of material evidence in possession of prosecution.

@@ -6,7 +6,8 @@ tags:: #codal/roc/civpro #pam
 status:: active
 sys-category:: [[41]]
 
-# RULE 12 - Bill of Particulars
+- # RULE 12 - Bill of Particulars
+  id:: 65164d7f-1ec1-42db-828d-552bfac43d0f
 - **SECTION 1.** *When applied for; purpose.*
 	- Before responding to a pleading, a party may move for a definite statement or for a bill of particulars of any matter which is not averred with sufficient definiteness or particularity to enable him <u>his or her</u> properly to prepare <u>his or her</u> responsive pleading.
 	- If the pleading is a reply, the motion must be filed within ten (10) <u>calendar</u> days from service thereof.
