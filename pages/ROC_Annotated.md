@@ -1,6 +1,6 @@
 filters:: {"mnemonic/rem" true}
 public:: true
-icon:: 
+icon:: ✍️
 title:: ROC_Annotated
 alt-title::
 type:: codal

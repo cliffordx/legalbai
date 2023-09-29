@@ -1,5 +1,5 @@
 title:: CONSTI_1987_Annotated
-icon:: 
+icon:: ✍️
 
 - ## REVIEWERS
 	- ~~[Bedan Red Book 2022 Vol 1 PDF]~~

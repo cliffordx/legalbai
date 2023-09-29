@@ -1,6 +1,6 @@
 filters:: {"dashboard-main" true}
 title:: codal/Family Code of the Philippines
-icon:: 
+icon:: ✍️
 alt-title:: Family Code of the Philippines
 type:: codal
 law-subject:: civil

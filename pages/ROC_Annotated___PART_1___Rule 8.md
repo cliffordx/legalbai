@@ -5,10 +5,13 @@ law-subject:: remedial
 tags:: #codal/roc/civpro #pam
 status:: active
 sys-category:: [[41]]
-# RULE 8 - Manner of Making Allegations in Pleadings
+
+- # RULE 8 - Manner of Making Allegations in Pleadings
 - **SECTION 1.** *In general.*
-	- Every pleading shall contain in a methodical and logical form, a plain, concise and direct statement of the ultimate facts, <u>including the evidence</u> on which the party pleading relies for his <u>or her</u> claim or defense, as the case may be.~~, omitting the statement of mere evidentiary facts. (1)~~
+  id:: 65161f8d-10e5-4de6-84bd-ea4d988607c3
+	- Every pleading shall contain in a methodical and logical form, a plain, concise and direct statement of ==the ultimate facts==, including the ==evidence== on which the party pleading relies for his <u>or her</u> claim or defense, as the case may be.~~, omitting the statement of mere evidentiary facts. (1)~~[^1]
 	- If a <u>cause of action [or]</u> defense relied on is based on law, the pertinent provisions thereof and their applicability to him <u>or her</u> shall be clearly and concisely stated. (n)
+	- > NOTE: Kaning mga g-crush-out are the old provisions sa wala pa ang amendments. Ang mga g-underlined or highlighted words are the latest amendments.
 - **SECTION 2.** *Alternative causes of action or defenses.*
 	- A party may set forth two or more statements of a claim or defense alternatively or hypothetically, either in one cause of action or defense or in separate causes of action or defenses.
 	- When two or more statements are made in the alternative and one of them if made independently would be sufficient, the pleading is not made insufficient by the insufficiency of one or more of the alternative statements. (2)

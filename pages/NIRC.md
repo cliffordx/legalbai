@@ -1,5 +1,5 @@
 long-title:: NATIONAL INTERNAL REVENUE CODE OF 1997
-icon:: 
+icon:: ✍️
 
 - # NIRC OUTLINE
 - **SOURCES:**

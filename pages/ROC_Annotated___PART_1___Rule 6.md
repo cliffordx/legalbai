@@ -17,14 +17,14 @@ sys-category:: [[41]]
 	- The defenses of a party are alleged in the answer to the pleading asserting a claim against him <ins>or her</ins>.
 	- An answer may be responded to by a reply <ins>only if the defending party attaches an actionable document to the answer</ins>. (2a)
 - **SECTION 3.** *Complaint.*
-  collapsed:: true
-	- The complaint is the pleading alleging the plaintiff's <ins>or claiming party's</ins> cause or causes of action. The names and residences of the plaintiff and defendant must be stated in the complaint. (3a)
+  id:: 65161f8d-97b0-495a-85e8-1b3b1d63b165
+	- The complaint is the pleading alleging the plaintiff's <ins>or claiming party's</ins> [cause or causes of action]([[cause of action]]). The names and residences of the plaintiff and defendant must be stated in the complaint. (3a)
 - **SECTION 4**. *Answer.*
   collapsed:: true
 	- An answer is a pleading in which a defending party sets forth his <ins>or her</ins> defenses. (4a)
 - **SECTION 5.** *Defenses.*
+  id:: 65161f8d-8179-4d98-abd8-bbcdeabef0c4
 	- Defenses may either be negative or affirmative.
-	  collapsed:: true
 		- (a) A negative defense is the specific denial of the material fact or facts alleged in the pleading of the claimant essential to his <ins>or her</ins> cause or causes of action.
 		- (b) An affirmative defense is an allegation of a new matter which, while hypothetically admitting the material allegations in the pleading of the claimant, would nevertheless prevent or bar recovery by him <ins>or her</ins>.
 		  id:: 050697c9-e06a-4f59-92ba-5312dcd90b23

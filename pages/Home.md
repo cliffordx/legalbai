@@ -1,4 +1,4 @@
-icon:: 🏠 
+icon:: 🏠
 
 - query-sort-by:: created-at
   query-table:: true
