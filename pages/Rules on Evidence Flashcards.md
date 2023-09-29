@@ -4,6 +4,12 @@ item-type:: card
 tags:: flashcards, #[[bar/QA]]
 
 - #card **SECTION 1.** *Evidence defined.*
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2023-10-03T01:04:38.814Z
+  card-last-reviewed:: 2023-09-29T01:04:38.815Z
+  card-last-score:: 5
 	- Evidence is the means, sanctioned by these rules , of ascertaining in a judicial proceeding the truth respecting a matter of fact.
 - #card **SECTION 2.** *Scope.*
 	- The rules of evidence shall be the same in all courts and in all trials and hearings, except as otherwise provided by law or these rules.
@@ -50,6 +56,12 @@ tags:: flashcards, #[[bar/QA]]
 - #card **SECTION 6.** When original document is in adverse party's custody or control.
 	- If the document is in the custody or under the control of the adverse party, he or she must have reasonable notice to produce it. If after such notice and after satisfactory proof of its existence, he fails to produce the document, secondary evidence may be presented as in the case of its loss.
 - #card **SECTION 7.** Summaries.
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2023-10-03T01:05:10.112Z
+  card-last-reviewed:: 2023-09-29T01:05:10.112Z
+  card-last-score:: 3
 	- When the contents of documents, records, photographs, or numerous accounts are voluminous and cannot be examined in court without great loss of time, and the fact sought to be established is only the general result of the whole, the contents of such evidence may be presented in the form of a chart, summary, or calculation.
 	- The originals shall be available for examination or copying, or both, by the adverse party at a reasonable time and place. The court may order that they be produced in court.
 - #card **SECTION 8.** Evidence admissible when original document is a public record.
@@ -117,7 +129,7 @@ tags:: flashcards, #[[bar/QA]]
 	- In civil cases, an offer of compromise is not an admission of any liability, and is not admissible in evidence against the offeror. Neither is evidence of conduct nor statements made in compromise negotiations admissible, except evidence otherwise discoverable or offered for another purpose, such as proving bias or prejudice of a witness, negativing a contention of undue delay, or proving an effort to obstruct a criminal investigation or prosecution.
 	- In criminal cases, except those involving quasi-offenses (criminal negligence) or those allowed by law to be compromised, an offer of compromise by the accused may be received in evidence as an implied admission of guilt.
 	- A plea of guilty later withdrawn, or an unaccepted offer of a plea of guilty to a lesser offense, is not admissible in evidence against the accused who made the plea or offer. Neither is any statement made in the course of plea bargaining with the prosecution, which does not result in a plea of guilty or which results in a plea of guilty later withdrawn, admissible.
-	- An offer to pay or the payment of medical, hospital or other expenses occasioned by an injury is not admissible in evidence as proof of civil or criminal liability for the injury.  
+	- An offer to pay or the payment of medical, hospital or other expenses occasioned by an injury is not admissible in evidence as proof of civil or criminal liability for the injury.
 - #card **SECTION 29.** *Admission by third party.*
 	- The rights of a party cannot be prejudiced by an act, declaration, or omission of another, except as hereinafter provided.
 - #card **SECTION 30.** *Admission by co-partner or agent.*
@@ -223,7 +235,7 @@ tags:: flashcards, #[[bar/QA]]
 		- (k) That a person in possession of an order on himself or herself for the payment of the money, or the delivery of anything, has paid the money or delivered the thing accordingly;
 		- (l) That a person acting in a public office was regularly appointed or elected to it;
 		- (m) That official duty has been regularly performed;
-		-  That a court, or judge acting as such, whether in the Philippines or elsewhere, was acting in the lawful exercise of jurisdiction;
+		- That a court, or judge acting as such, whether in the Philippines or elsewhere, was acting in the lawful exercise of jurisdiction;
 		- (o) That all the matters within an issue raised in a case were laid before the court and passed upon by it; and in like manner that all matters within an issue raised in a dispute submitted for arbitration were laid before the arbitrators and passed upon by them;
 		- (p) That private transactions have been fair and regular;
 		- (q) That the ordinary course of business has been followed;
@@ -462,6 +474,12 @@ tags:: flashcards, #[[bar/QA]]
 - #card **SECTION 5.** *Reference to court.*
 	- For the purpose of applying Rule24 to depositions for perpetuating testimony, each reference therein to the court in which the action is pending shall be deemed to refer to the court in which the petition for such deposition was filed.
 - #card **SECTION 6.** *Use of deposition.*
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2023-09-29T16:00:00.000Z
+  card-last-reviewed:: 2023-09-29T01:04:51.698Z
+  card-last-score:: 1
 	- If a deposition to perpetuate testimony is taken under this rule, or if, although not so taken, it would be admissible in evidence, it may be used in any action involving the same subject matter subsequently brought in accordance with the provisions of Sections 4 and 5 of Rule 24.
 - #card **SECTION 7.** *Depositions pending appeal.*
 	- If an appeal has been taken from a judgment of the Regional Trial Court or before the taking of an appeal if the time therefor has not expired, the Regional Trial Court in which the judgment was rendered may allow the taking of depositions of witnesses to perpetuate their testimony for use in the event of further proceedings in the said court. In such case the party who desires to perpetuate the testimony may make a motion in the said Regional Trial Court for leave to take the depositions, upon the same notice and service thereof as if the action was pending therein. The motion shall show —

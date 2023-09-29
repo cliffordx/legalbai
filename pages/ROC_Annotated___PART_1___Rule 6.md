@@ -6,8 +6,8 @@ tags:: #codal/roc/civpro #pam
 status:: active
 sys-category:: [[41]]
 
-# RULE 6 - Kinds of Pleadings
-## PROCEDURE IN REGIONAL TRIAL COURTS
+- # RULE 6 - Kinds of Pleadings
+- ## PROCEDURE IN REGIONAL TRIAL COURTS
 - **SECTION 1.** *Pleadings defined.*
   collapsed:: true
 	- Pleadings are the written statements of the respective claims and defenses of the parties submitted to the court for appropriate judgment. (1a)
@@ -24,6 +24,7 @@ sys-category:: [[41]]
 	- An answer is a pleading in which a defending party sets forth his <ins>or her</ins> defenses. (4a)
 - **SECTION 5.** *Defenses.*
 	- Defenses may either be negative or affirmative.
+	  collapsed:: true
 		- (a) A negative defense is the specific denial of the material fact or facts alleged in the pleading of the claimant essential to his <ins>or her</ins> cause or causes of action.
 		- (b) An affirmative defense is an allegation of a new matter which, while hypothetically admitting the material allegations in the pleading of the claimant, would nevertheless prevent or bar recovery by him <ins>or her</ins>.
 		  id:: 050697c9-e06a-4f59-92ba-5312dcd90b23

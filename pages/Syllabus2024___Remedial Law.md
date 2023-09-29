@@ -80,6 +80,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 		- Transfer of Interest
 		  logseq.order-list-type:: number
 	- E. Pleadings
+	  id:: 65161f93-1c00-4214-922b-a32dd8627695
 		- Kinds (Rule 6)
 		  logseq.order-list-type:: number
 		- Parts and Contents; Formal Requirements (Rule 7);
