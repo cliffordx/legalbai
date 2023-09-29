@@ -49,4 +49,6 @@
 			- [^2]: _{Cramer v. Aiken, 63 App. D.C. 16, 68 F, cited in Black's Law Dictionary, 5th ed., p. 930.}
 		- It is a form of negative expression which carries with it an affirmation or at least an implication of some kind favorable to the adverse party.^{Valdez v. Dabon, Jr. A.C. No., 7353, 16 Nov. 2015.}
 		- **Examples:**
-			- The defense
+			- (1) The defense alleges: "I had never borrowed money from the plaintiff from 2011 to 2013," implying that the pleader had borrowed money at some other time and was only denying that he did so during the years mentioned.
+			- (2) A complaint alleges: " Plaintiff extended a loan to Defendant in the amount of P500,000 on July 27, 2016 in Cebu City." The Defendant, in his answer, alleges: "Defendant specifically denies that the Plaintiff extended a loan to Defendant in the amount of P500,000 in Cebu City."
+				- > Notice that it is a mere repetition of the allegations in the complaint. It is clear that this answer does not deny anything but in fact implying some kind of favorable to the Plaintiff. The effect is that it is an admission that he borrowed money alleged although he may be denying the place where the loan was contracted.
