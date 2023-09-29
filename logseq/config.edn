@@ -201,7 +201,7 @@
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
  :ref/default-open-blocks-level 2
 
- :ref/linked-references-collapsed-threshold 50
+ :ref/linked-references-collapsed-threshold 5
 
  :favorites ["Syllabus2024" "RPC_Annotated" "NIRC" "CONSTI_1987_Annotated" "codal/Family Code of the Philippines" "CIVIL CODE" "ROC_Annotated" "codal/Special_Laws/The_Insurance_Code"]
  ;;:journal/page-title-format "EEEE, MMM do, yyyy"
