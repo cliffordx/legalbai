@@ -1,5 +1,4 @@
-# ![2024 BAR SYLLABUS](../assets/Criminal-Law-2024-Bar-Syllabus.pdf)
-	- {{embed ((64f07bf0-0cc4-4b56-a897-dfacb30b5ce0))}}
+- {{embed ((65161f93-9f13-4094-898a-1e394f3deee2))}}
 - ## I. FUNDAMENTAL PRINCIPLES OF CRIMINAL LAW
   id:: 64f07bf1-67c0-4346-9032-ecdeeffd40ba
 	- A. Schools of Thoughts See: p. 7 of Boado Compact Reviewer 2021 ed.
@@ -7,7 +6,7 @@
 		  logseq.order-list-type:: number
 		- [[Positivist Theory]]
 		  logseq.order-list-type:: number
-		- [Eclectic or Mixed Theory](((64f08c77-9d71-4e0a-9eaf-92e45c24fc28)))
+		- Eclectic or Mixed Theory
 		  logseq.order-list-type:: number
 		- [[Utilitarian Theory]]
 		  logseq.order-list-type:: number
@@ -97,13 +96,13 @@
 			  logseq.order-list-type:: number
 			- Habitual delinquency(Revised Penal Code, Art.62(5))
 			  logseq.order-list-type:: number
-	- D. Plurality of Crimes (Real and Ideal) [Aug23 lecture](((64e5fed7-fb7a-4a5d-8ec6-c6a4bb59beae))); [Aug 27 lecture](((64eccdb8-3a2e-4cc8-b618-36d7b8d8d44b)))
+	- D. Plurality of Crimes (Real and Ideal)
 	  id:: 64ea2554-d6e7-4247-b6b0-5633248c27f0
 		- [Absorption System]([[Absorption Rule]])
 		  logseq.order-list-type:: number
 		- [Single Impulse Rule]([[single impulse rule]])
 		  logseq.order-list-type:: number
-		- Compound Complex Crime (Revised Penal Code, Art. 48) [Aug 27 lecture ref](((65067528-2b99-4ef3-b0c7-d8ec064a9fa1)))
+		- Compound Complex Crime (Revised Penal Code, Art. 48)
 		  logseq.order-list-type:: number
 		- Complex Crime Proper (Revised Penal Code, Art. 48)
 		  logseq.order-list-type:: number
@@ -251,3 +250,4 @@
 - ## V. PRACTICAL EXERCISES
   id:: 64f1f750-34d8-4459-8d68-72c59051e4a5
 	- Preparation of criminal complaint and/or information
+- {{embed ((65161f93-9f13-4094-898a-1e394f3deee2))}}

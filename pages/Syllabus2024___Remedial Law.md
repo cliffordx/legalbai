@@ -1,7 +1,8 @@
-# ![2024 BAR SYLLABUS](../assets/Remedial-Law-and-Ethics-2024-Bar-Syllabus.pdf)
-collapsed:: true
-	- {{embed ((64f07bf0-0cc4-4b56-a897-dfacb30b5ce0))}}
+id:: 65161f93-9f13-4094-898a-1e394f3deee2
+> **NOTE:** All Bar candidates should be guided that only laws, rules, issuances, and jurisprudence pertinent to the topics in this syllabus as of *June 30, 2023* are within the coverage of the 2024 Bar Examinations.
+
 - ## I. GENERAL PRINCIPLES
+  collapsed:: true
 	- A. Substantive Law vs. Adjective Law
 	- B. Rule-Making Power of the Supreme Court
 	- C. Hierarchy of Courts; Doctrine of Non-Interference and Judicial Stability
@@ -530,3 +531,4 @@ collapsed:: true
 		  logseq.order-list-type:: number
 		- Complaint for Ejectment
 		  logseq.order-list-type:: number
+- {{embed ((65161f93-9f13-4094-898a-1e394f3deee2))}}
