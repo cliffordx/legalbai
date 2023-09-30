@@ -56,6 +56,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 	- E. Pleadings
 	  id:: 65161f93-1c00-4214-922b-a32dd8627695
 		- Kinds (Rule 6)
+		  id:: 65179f13-c383-4fc4-a162-d7f56c0bb294
 		- Parts and Contents; Formal Requirements (Rule 7);
 		- Manner of Making Allegations (Rule 8)
 		- Effect of Failure to Plead (Rule 9)
