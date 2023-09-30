@@ -31,17 +31,17 @@
 		- Criminal Liability (Revised Penal Code, Art. 4(1))
 		- Gravity of Felonies: Grave, Less Grave, and Light (Revised Penal Code, Art. 9, as amended by R.A. No. 10951)
 		- Aberratio ictus, error in personae, and praeter intentionem
-		- Causes Affecting Criminal Liability 
-			- Proximate Cause 
+		- Causes Affecting Criminal Liability
+			- Proximate Cause
 			- Efficient Intervening Cause
 		- Impossible Crime (Revised Penal Code, Art. 4(2))
-		- Stages of Execution (Revised Penal Code, Art. 6) 
-			- Subjective Phase and Objective Phase 
+		- Stages of Execution (Revised Penal Code, Art. 6)
+			- Subjective Phase and Objective Phase
 			- Spontaneous Desistance
-			- . Attempted, Frustrated, and Consummated Stages 
+			- . Attempted, Frustrated, and Consummated Stages
 			- Overt Acts
 		- Duty of the Courts in case of Non-Punishable Act and Excessive Penalty(Revised Penal Code, Art.5)
-		- Suppletory Application of the Revised Penal Code(Revised Penal Code, Art.10) 
+		- Suppletory Application of the Revised Penal Code(Revised Penal Code, Art.10)
 	- B. [[Circumstances Affecting Criminal Liability]]
 		- [[Circumstances Affecting Criminal Liability/Justifying Circumstances]] (Revised Penal Code, Art. 11)
 		- [[Circumstances Affecting Criminal Liability/Exempting Circumstances]] (Revised Penal Code, Art. 12)
@@ -52,10 +52,10 @@
 	- C. Persons Criminally Liable and [[Degree of Participation]]
 		- Principals, Accomplices, and Accessories(Revised Penal Code, Arts.16, 20)
 		- Conspiracy and Proposal(Revised Penal Code, Art.8)
-		- Liability for Repetitive Commission of Crimes 
-			- Recidivism(Revised Penal Code, Art.14(9)) 
-			- Habituality(Revised Penal Code, Art.14(10)) 
-			- Quasi-recidivism(Revised Penal Code, Art.160) 
+		- Liability for Repetitive Commission of Crimes
+			- Recidivism(Revised Penal Code, Art.14(9))
+			- Habituality(Revised Penal Code, Art.14(10))
+			- Quasi-recidivism(Revised Penal Code, Art.160)
 			- Habitual delinquency(Revised Penal Code, Art.62(5))
 	- D. Plurality of Crimes (Real and Ideal)
 	  id:: 64ea2554-d6e7-4247-b6b0-5633248c27f0
@@ -63,15 +63,15 @@
 		- [Single Impulse Rule]([[single impulse rule]])
 		- Compound Complex Crime (Revised Penal Code, Art. 48)
 		- Complex Crime Proper (Revised Penal Code, Art. 48)
-id:: 64ea2576-ebb9-471c-8e64-aa392b421d45
+		  id:: 64ea2576-ebb9-471c-8e64-aa392b421d45
 		- Special Complex Crime
 		- Continuous/Continued Crime
 		- [[Continuing Crime]]
 	- E. Penalties
 		- Revised Penal Code, Art. 21
-collapsed:: true
+		  collapsed:: true
 		- Philosophical Theories
-collapsed:: true
+		  collapsed:: true
 		- Classification of Penalties (Revised Penal Code, Arts. 25-26, as amended by R.A. No. 10951)
 		- Duration and Effects of Penalties (Revised Penal Code, Art. 27)
 		- Application and Graduation of Penalties (Revised Penal Code, Arts. 46,50-57, 61-65 and 76-77)
@@ -89,19 +89,18 @@ collapsed:: true
 	- F. Extinction of Criminal Liability
 	  id:: 64ea2640-7f4e-490d-ab3b-50933d043a4e
 		- Total Extinction (Revised Penal Code, Art. 89)
-collapsed:: true
-			- Death of Convict 
-			- Service of Sentence 
-			- Amnesty 
-			- Absolute Pardon 
+			- Death of Convict
+			- Service of Sentence
+			- Amnesty
+			- Absolute Pardon
 			- Prescription of Crimes ^{(See Periods of Prescription for Violations Penalized by Special Acts (R.A. No. 3326, Secs. 1-2)}
-			- Prescription of Penalties 
+			- Prescription of Penalties
 			- Marriage between the Offender and the Offended Party (Revised Penal Code, Arts. 266-C and 344)
 		- Partial Extinction(Revised Penal Code, Art.94, as amended by R.A. No.10592, Secs.2-5)
-			- Conditional Pardon(Act No.1524) 
-			- Commutation of Sentence 
+			- Conditional Pardon(Act No.1524)
+			- Commutation of Sentence
 			- Good Conduct» Allowances(Revised Penal Code, Art.97, as amended by R.A. No,10592, Sec.3)
-			- Parole 
+			- Parole
 			- Probation(P.D. No.968, Secs.4,9 and16, as amended by R.A. No.10707)
 	- G. Civil Liability *Ex-Delicto*
 		- Primary and Subsidiary

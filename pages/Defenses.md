@@ -55,11 +55,13 @@
 			- (2) A complaint alleges: " Plaintiff extended a loan to Defendant in the amount of P500,000 on July 27, 2016 in Cebu City." The Defendant, in his answer, alleges: "Defendant specifically denies that the Plaintiff extended a loan to Defendant in the amount of P500,000 in Cebu City."
 				- > Notice that it is a mere repetition of the allegations in the complaint. It is clear that this answer does not deny anything but in fact implying some kind of favorable to the Plaintiff. The effect is that it is an admission that he borrowed money alleged although he may be denying the place where the loan was contracted.
 	- #### Under Oath
-		- As a rule, ang negative defense dili kinahanglan himoon in the form of specific denial in the material allegations alleged in the pleading of the claimant. Pero dunay time ang specific denial dili enough or sufficient for a negative defense.
-		- So dunay instances that it must be made under oath. **For example:**
+		- As a rule, a negative defense is sufficient if made in the form of specific denial in the material allegations alleged in the pleading of the claimant. Pero dunay instances nga ang  mere specific denial dili enough or sufficient for a negative defense. In certain cases, the specific denial must be made under oath, and in this instances, a mere specific denial is not enough to produce the kind of denial required by the Rules of Court. **For example:**
 			- (a) Denial of an actionable document. Rule 8, sec. 8:
 			  background-color:: red
 				- {{embed ((65168c1f-8dae-43e5-b9fd-1afd623c0e56))}}
-				- (b)
+				- (b) DELETED ang second paragraph as per the 2019 amendments.
 					- {{embed ((65168c1f-8cbb-4365-8fbf-48ca1a62b66f))}}
--
+			- ## Unsa nga DOCUMENT?
+			  id:: 65179f01-0057-450e-85d1-5a099b079d95
+				- [ACTIONABLE DOCUMENT]([[actionable document]]). Example is Promissory NOTE (PN).
+				- Continuation here.
