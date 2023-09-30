@@ -2,7 +2,6 @@ title:: RPC_Annotated/Book_1
 type:: codal
 law-subject:: Criminal Law
 sys-category:: [[21]]
-
 - # PRELIMINARY TITLE
   id:: 63031873-51a1-41cc-8971-7582b72a5b26
 	- **Date of Effectiveness and Application of the Provisions of This Code**
@@ -31,11 +30,9 @@ sys-category:: [[21]]
 		  id:: 649990c9-fedc-4743-be7d-b8be7260feef
 		  collapsed:: true
 			- Criminal liability shall be incurred:
-				- By any person **committing a felony** (*delito*) although the wrongful act done be different from that which he intended.
-				  logseq.order-list-type:: number
+				- (1) By any person **committing a felony** (*delito*) although the wrongful act done be different from that which he intended.
 				  id:: 649d2ee1-60c8-4ac9-8eef-ce30fbf92754
-				- By any person performing an act which would be an **offense against [persons](((6488844a-3002-4118-87a7-8a9ecd78439c))) or [property](((6488844a-bd3f-482d-b48f-7cd77849f4f5)))**, were it not for the inherent impossibility of its accomplishment or on account of the employment of inadequate or ineffectual means. #[[persons or property]]
-				  logseq.order-list-type:: number
+				- (2) By any person performing an act which would be an **offense against [persons](((6488844a-3002-4118-87a7-8a9ecd78439c))) or [property](((6488844a-bd3f-482d-b48f-7cd77849f4f5)))**, were it not for the inherent impossibility of its accomplishment or on account of the employment of inadequate or ineffectual means. #[[persons or property]]
 				  id:: 64888449-a6bc-474d-93f5-0f7d6cfd108d
 			- ## COMMENTS:
 				- ((64895764-ef2d-4636-8f90-2fb437b2d70b))
@@ -74,54 +71,41 @@ sys-category:: [[21]]
 		  id:: c4ff2201-eeda-4c18-bfdb-2eed9796c9e2
 		  collapsed:: true
 			- The following do not incur any criminal liability:
-				- Anyone who acts in defense of his person or rights, provided that the following circumstances concur:
-				  logseq.order-list-type:: number
+				- (1) Anyone who acts in defense of his person or rights, provided that the following circumstances concur:
 				  id:: 63031d17-b13e-4e6d-b32f-a799ee19266d
 					- **First**. Unlawful aggression;
 					- **Second**. Reasonable necessity of the means employed to prevent or repel it;
 					- **Third**. Lack of sufficient provocation on the part of the person defending himself.
 					  id:: 64042f67-2fd0-4539-8f55-baece44b1b87
-				- Anyone who acts in defense of the person or rights of his spouse, ascendants, descendants, or legitimate, natural or adopted brothers or sisters, or of his relatives by affinity in the same degrees, and those by consanguinity within the fourth civil degree, provided that the first and second requisites prescribed in the next preceding circumstance are present, and the further requisite, in case the provocation was given by the person attacked, that the one making defense had no part therein.
-				  logseq.order-list-type:: number
-				- Anyone who acts in defense of the person or rights of a stranger, provided that the first and second requisites mentioned in the first circumstance of this article are present and that the person defending be not induced by revenge, resentment, or other evil motive.
-				  logseq.order-list-type:: number
-				- Any person who, in order to avoid an evil or injury, does an act which causes damage to another, provided that the following requisites are present:
-				  logseq.order-list-type:: number
+				- (2) Anyone who acts in defense of the person or rights of his spouse, ascendants, descendants, or legitimate, natural or adopted brothers or sisters, or of his relatives by affinity in the same degrees, and those by consanguinity within the fourth civil degree, provided that the first and second requisites prescribed in the next preceding circumstance are present, and the further requisite, in case the provocation was given by the person attacked, that the one making defense had no part therein.
+				- (3) Anyone who acts in defense of the person or rights of a stranger, provided that the first and second requisites mentioned in the first circumstance of this article are present and that the person defending be not induced by revenge, resentment, or other evil motive.
+				- (4) Any person who, in order to avoid an evil or injury, does an act which causes damage to another, provided that the following requisites are present:
 				  id:: 649ec913-ba35-4a21-8946-ca01b44a883f
 					- **First.** That the evil sought to be avoided actually exists;
 					- **Second.** That the injury feared be greater than that done to avoid it;
 					- **Third.** That there be no other practical and less harmful means of preventing it.
-				- Any person who acts in the fulfillment of a duty or in the lawful exercise of a right or office.
-				  logseq.order-list-type:: number
-				- Any person who acts in obedience to an order issued by a superior for some lawful purpose.
-				  logseq.order-list-type:: number
+				- (4) Any person who acts in the fulfillment of a duty or in the lawful exercise of a right or office.
+				- (5) Any person who acts in obedience to an order issued by a superior for some lawful purpose.
 		- **ARTICLE 12.** *Circumstances Which Exempt from Criminal Liability.*
 		  id:: ee1a0bdb-5aa7-4dd6-94b4-8903d9b521b2
 		  collapsed:: true
 			- The following are exempt from criminal liability:
 			  collapsed:: true
-				- An imbecile or an insane person, unless the latter has acted during a lucid interval.
-				  logseq.order-list-type:: number
+				- (1) An imbecile or an insane person, unless the latter has acted during a lucid interval.
 				  id:: 649ec913-4500-496e-82d8-578c1e2766c0
 				  collapsed:: true
 					- When the imbecile or an insane person has committed an act which the law defines as a felony (delito), the court shall order his confinement in one of the hospitals or asylums established for persons thus afflicted, which he shall not be permitted to leave without first obtaining the permission of the same court.
 					  id:: 63031da1-aa2e-4651-b735-0f5c3225da23
-				- ~~2. A person under nine years of age.~~[^100] #Minority
-				  logseq.order-list-type:: number
-				- ~~3. A person over nine years of age and under fifteen, unless he has acted with discernment, in which case, such minor shall be proceeded against in accordance with the provisions of [article 80](((7244bac8-a5c0-4909-bc27-e49b4626e1a0))) of this Code.~~[^100]
-				  logseq.order-list-type:: number
+				- ~~(2) A person under nine years of age.~~[^100] #Minority
+				- ~~(3) A person over nine years of age and under fifteen, unless he has acted with discernment, in which case, such minor shall be proceeded against in accordance with the provisions of [article 80](((7244bac8-a5c0-4909-bc27-e49b4626e1a0))) of this Code.~~[^100]
 					- ~~When such minor is adjudged to be criminally irresponsible, the court, in conformity with the provisions of this and the preceding paragraph, shall commit him to the care and custody of his family who shall be charged with his surveillance and education; otherwise, he shall be committed to the care of some institution or person mentioned in said [article 80](((7244bac8-a5c0-4909-bc27-e49b4626e1a0)))~~.
-				- Any person who, while performing a lawful act with due care, causes an injury by mere accident without fault or intention of causing it.
-				  logseq.order-list-type:: number
+				- (4) Any person who, while performing a lawful act with due care, causes an injury by mere accident without fault or intention of causing it.
 				  id:: 63031db3-7e5f-4bb9-9390-6ec985b0de8e
-				- Any person who acts under the compulsion of an irresistible force.
-				  logseq.order-list-type:: number
+				- (5) Any person who acts under the compulsion of an irresistible force.
 				  id:: 649ec913-8284-4ddd-b259-e8d05ecfbd74
-				- Any person who acts under the impulse of an uncontrollable fear of an equal or greater injury.
-				  logseq.order-list-type:: number
+				- (6) Any person who acts under the impulse of an uncontrollable fear of an equal or greater injury.
 				  id:: 649ec913-24c6-4dad-8c8d-5f647a865543
-				- Any person who fails to perform an act required by law, when prevented by some lawful or insuperable cause.
-				  logseq.order-list-type:: number
+				- (7) Any person who fails to perform an act required by law, when prevented by some lawful or insuperable cause.
 					- [^100]: Paragraphs 2 and 3 on the exempting circumstance of minority is deemed repealed by R.A. No. 9344, otherwise known as [Juvenile Justice and Welfare Law]([[Juvenile Justice and Welfare Act]]). Minority as an exempting circumstance is now found in Section 6 of R.A. No. 9344.
 			- ## COMMENTS:
 				-
@@ -149,52 +133,31 @@ sys-category:: [[21]]
 		  id:: 649990c9-844d-4ce7-b5a6-33f041cd0833
 			- The following are aggravating circumstances:
 			  collapsed:: true
-				- That advantage be taken by the offender of his public position.
-				  logseq.order-list-type:: number
-				- That the crime be committed in contempt of or with insult to the public authorities.
-				  logseq.order-list-type:: number
-				- That the act be committed with insult or in disregard of the respect due to the offended party on account of his rank, age, or sex, or that it be committed in the dwelling of the offended party, if the latter has not given provocation.
-				  logseq.order-list-type:: number
-				- That the act be committed with abuse of confidence or obvious ungratefulness.
-				  logseq.order-list-type:: number
-				- That the crime be committed in the palace of the Chief Executive, or in his presence, or where public authorities are engaged in the discharge of their duties, or in a place dedicated to religious worship.
-				  logseq.order-list-type:: number
-				- That the crime be committed in the nighttime, or in an uninhabited place, or by a band, whenever such circumstances may facilitate the commission of the offense.
-				  logseq.order-list-type:: number
+				- (1) That advantage be taken by the offender of his public position.
+				- (2) That the crime be committed in contempt of or with insult to the public authorities.
+				- (3) That the act be committed with insult or in disregard of the respect due to the offended party on account of his rank, age, or sex, or that it be committed in the dwelling of the offended party, if the latter has not given provocation.
+				- (4) That the act be committed with abuse of confidence or obvious ungratefulness.
+				- (5) That the crime be committed in the palace of the Chief Executive, or in his presence, or where public authorities are engaged in the discharge of their duties, or in a place dedicated to religious worship.
+				- (6) That the crime be committed in the nighttime, or in an uninhabited place, or by a band, whenever such circumstances may facilitate the commission of the offense.
 					- Whenever more than three armed malefactors shall have acted together in the commission of an offense it shall be deemed to have been committed by a band.
-				- That the crime be committed on the occasion of a conflagration, shipwreck, earthquake, epidemic or other calamity or misfortune.
-				  logseq.order-list-type:: number
-				- That the crime be committed with the aid of armed men or persons who insure or afford impunity].
-				  logseq.order-list-type:: number
-				- That the accused is a [recidivist](((62f137ed-8b1a-4407-8367-4470fd64ca19))).
-				  logseq.order-list-type:: number
+				- (7) That the crime be committed on the occasion of a conflagration, shipwreck, earthquake, epidemic or other calamity or misfortune.
+				- (8) That the crime be committed with the aid of armed men or persons who insure or afford impunity].
+				- (9) That the accused is a [recidivist](((62f137ed-8b1a-4407-8367-4470fd64ca19))).
 					- A recidivist is one who, at the time of his trial for one crime, shall have been previously convicted by final judgment of another crime embraced in the same title of this Code.
-				- That the offender has been previously punished for an offense to which the law attaches an equal or greater penalty or for two or more crimes to which it attaches a lighter penalty.
-				  logseq.order-list-type:: number
-				- That the crime be committed in consideration of a price, reward, or promise.
-				  logseq.order-list-type:: number
-				- That the crime be committed by means of inundation, fire, poison, explosion, stranding of a vessel or intentional damage thereto, derailment of a locomotive, or by the use of any other artifice involving great waste and ruin.
-				  logseq.order-list-type:: number
-				- That the act be committed with evident premeditation.
-				  logseq.order-list-type:: number
-				- That craft, fraud, or disguise be employed.
-				  logseq.order-list-type:: number
-				- That advantage be taken of superior strength, or means be employed to weaken the defense.
-				  logseq.order-list-type:: number
-				- That the act be committed with treachery (*alevosia*).
-				  logseq.order-list-type:: number
+				- (10) That the offender has been previously punished for an offense to which the law attaches an equal or greater penalty or for two or more crimes to which it attaches a lighter penalty.
+				- (11) That the crime be committed in consideration of a price, reward, or promise.
+				- (12) That the crime be committed by means of inundation, fire, poison, explosion, stranding of a vessel or intentional damage thereto, derailment of a locomotive, or by the use of any other artifice involving great waste and ruin.
+				- (13) That the act be committed with evident premeditation.
+				- (14) That craft, fraud, or disguise be employed.
+				- (15) That advantage be taken of superior strength, or means be employed to weaken the defense.
+				- (16) That the act be committed with treachery (*alevosia*).
 					- There is treachery when the offender commits any of the crimes against the person, employing means, methods, or forms in the execution thereof which tend directly and specially to insure its execution, without risk to himself arising from the defense which the offended party might make.
-				- That means be employed or circumstances brought about which add ignominy to the natural effects of the act.
-				  logseq.order-list-type:: number
-				- That the crime be committed after an unlawful entry.
-				  logseq.order-list-type:: number
+				- (17) That means be employed or circumstances brought about which add ignominy to the natural effects of the act.
+				- (18) That the crime be committed after an unlawful entry.
 					- There is an unlawful entry when an entrance is effected by a way not intended for the purpose.
-				- That as a means to the commission of a crime a wall, roof, floor, door, or window be broken.
-				  logseq.order-list-type:: number
-				- That the crime be committed with the aid of persons under fifteen years of age or by means of motor vehicles, airships, or other similar means.
-				  logseq.order-list-type:: number
-				- That the wrong done in the commission of the crime be deliberately augmented by causing other wrong not necessary for its commission.
-				  logseq.order-list-type:: number
+				- (19) That as a means to the commission of a crime a wall, roof, floor, door, or window be broken.
+				- (20) That the crime be committed with the aid of persons under fifteen years of age or by means of motor vehicles, airships, or other similar means.
+				- (21) That the wrong done in the commission of the crime be deliberately augmented by causing other wrong not necessary for its commission.
 	- ## CHAPTER FIVE  Alternative Circumstances
 		- **ARTICLE 15.** *Their Concept.*
 		  id:: 64bd037a-b05c-4434-859f-aeb9aace0f0d
@@ -221,13 +184,10 @@ sys-category:: [[21]]
 	  collapsed:: true
 		- The following are considered principals:
 		  collapsed:: true
-			- Those who take a direct part in the execution of the act;
-			  logseq.order-list-type:: number
-			- Those who directly force or induce others to commit it;
-			  logseq.order-list-type:: number
+			- (1) Those who take a direct part in the execution of the act;
+			- (2) Those who directly force or induce others to commit it;
 			  id:: 649990c9-ad1c-41a4-8dcf-deb57733fa63
-			- Those who cooperate in the commission of the offense by another act without which it would not have been accomplished.
-			  logseq.order-list-type:: number
+			- (3) Those who cooperate in the commission of the offense by another act without which it would not have been accomplished.
 	- **ARTICLE 18.** *Accomplices.*
 	  id:: 64bd037a-1480-483a-9fd4-06dd0e11a02f
 	  collapsed:: true
@@ -525,19 +485,19 @@ sys-category:: [[21]]
 				- Mitigating or aggravating circumstances and habitual delinquency shall be taken into account for the purpose of diminishing or increasing the penalty in conformity with the following rules:
 				  collapsed:: true
 					- Aggravating circumstances which in themselves constitute a crime specially punishable by law or which are included by the law in defining a crime and prescribing the penalty therefor shall not be taken into account for the purpose of increasing the penalty.
-					  logseq.order-list-type:: number
+	
 						- When in the commission of the crime, advantage was taken by the offender of his public position, the penalty to be imposed shall be in its maximum regardless of [[mitigating circumstances]].
-						  logseq.order-list-type:: number
+		
 							- The maximum penalty shall be imposed if the offense was committed by any person who belongs to an organized/syndicated crime group.
 							- An organized/syndicated crime group means a group of two or more persons collaborating, confederating or mutually helping one another for purposes of gain in the commission of any crime.^{(As amended by R.A. No. 7659, December 13, 1993.)}
 					- The same rule shall apply with respect to any aggravating circumstances inherent in the crime to such a degree that it must of necessity accompany the commission thereof.
-					  logseq.order-list-type:: number
+	
 					- Aggravating or [[mitigating circumstances]] which arise from the moral attributes of the offender, or from his private relations with the offended party, or from any other personal cause, shall only serve to aggravate or mitigate the liability of the principals, accomplices and accessories as to whom such circumstances are attendant.
-					  logseq.order-list-type:: number
+	
 					- The circumstances which consist in the material execution of the act, or in the means employed to accomplish it, shall serve to aggravate or mitigate the liability of those persons only who had knowledge of them at the time of the execution of the act or their cooperation therein.
-					  logseq.order-list-type:: number
+	
 					- Habitual delinquency shall have the following effects:
-					  logseq.order-list-type:: number
+	
 						- (a) Upon a third conviction the culprit shall be sentenced to the penalty provided by law for the last crime of which he be found guilty and to the additional penalty of *prisión correccional* in its medium and maximum periods;
 						- (b) Upon a fourth conviction the culprit shall be sentenced to the penalty provided for the last crime of which he be found guilty and to the additional penalty of *prisión mayor* in its minimum and medium periods; and
 						- (c) Upon a fifth or additional conviction, the culprit shall be sentenced to the penalty provided for the last crime of which he be found guilty and to the additional penalty of *prisión mayor* in its maximum period to *reclusión temporal* in its minimum period.
@@ -576,10 +536,10 @@ sys-category:: [[21]]
 				- When the offender is a minor under eighteen years and his case is one coming under the provisions of the paragraph [next to the last of article 80 of this Code](((63032f74-40e8-42dc-9bce-60d09a7ff3f3))), the following rules shall be observed:
 				  collapsed:: true
 					- Upon a person under fifteen but over nine years of age, who is not exempted from liability by reason of the court having declared that he acted with discernment, a discretionary penalty shall be imposed, but always lower by two degrees at least than that prescribed by law for the crime which he committed.[^68a]
-					  logseq.order-list-type:: number
+	
 						- [^68a]: This provision is rendered inoperative by Section 6 of R.A. No. 9344 since a child 15 years or under is exempt from criminal liability.
 					- Upon a person over fifteen and under eighteen years of age the penalty next lower than that prescribed by law shall be imposed, but always in the proper period.
-					  logseq.order-list-type:: number
+	
 						- [^A68]: Suspension of sentence shall still be applied even if the juvenile is already eighteen (18) years of age or more at the time of the pronouncement of his/her guilt.(Sec. 38, R.A. No. 9344). If said [[child in conflict with the law]] has reached eighteen (18) years of age while under suspended sentence, the court shall determine whether to discharge the child in accordance with R.A. No. 9344, to order execution of sentence or to extend the suspended sentence for a certain specified period or until the child reaches the maximum age of twenty-one (21) years. (Second sentence of Sec. 40, R.A. No. 9344.)
 			- **ARTICLE 69.** *Penalty to Be Imposed When the Crime Committed is Not Wholly Excusable.*
 			  collapsed:: true

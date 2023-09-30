@@ -1012,17 +1012,12 @@ sys-category:: [[21]]
 			- **Art. 294.** *Robbery with violence against or intimidation of persons; Penalties.*
 			  id:: bd4898b8-1c53-4779-b39a-cdc2086d498e
 				- Any person guilty of robbery with the use of violence against or intimidation of any person shall suffer:
-					- The penalty of *reclusion perpetua* to death[^DP], when by reason or on occasion of the robbery, the crime of homicide shall have been committed;  or when the robbery shall have been accompanied by rape or intentional mutilation or arson.
-					  logseq.order-list-type:: number
-					- The penalty of *reclusion temporal* in its medium period to *reclusion perpetua* when or if by reason or on occasion of such robbery, any of the physical injuries penalized in [subdivision 1 of Article 263](((63046bef-a32e-4c6d-85f5-6adeba051b72))) shall have been inflicted.
-					  logseq.order-list-type:: number
+					- (1) The penalty of *reclusion perpetua* to death[^DP], when by reason or on occasion of the robbery, the crime of homicide shall have been committed;  or when the robbery shall have been accompanied by rape or intentional mutilation or arson.
+					- (2) The penalty of *reclusion temporal* in its medium period to *reclusion perpetua* when or if by reason or on occasion of such robbery, any of the physical injuries penalized in [subdivision 1 of Article 263](((63046bef-a32e-4c6d-85f5-6adeba051b72))) shall have been inflicted.
 					  id:: 6488844a-2d68-4382-af1f-a4bac522e418
-					- The penalty of *reclusion temporal*, when by reason or on occasion of the robbery, any of the physical injuries penalized in [subdivision 2 of the article mentioned in the next preceding paragraph](((63046d04-8d69-4d71-b287-5e9bb0683597))), shall have been inflicted.
-					  logseq.order-list-type:: number
-					- The penalty of *prision mayor* in its maximum period to *reclusion temporal* in its medium period, if the violence or intimidation employed in the commission of the robbery shall have been carried to a degree clearly unnecessary for the commission of the crime, or when the course of its execution, the offender shall have inflicted upon any person not responsible for its commission any of the physical injuries covered by subdivisions [3](((63046d06-7f6c-44cd-9800-ee85dab6a5de))) and [4](((63046d08-318a-4a21-b8a5-1925216f3c3f))) of said [Article 263](((faadb0e1-32c2-4c2e-8f7f-d04da4eb565d)))
-					  logseq.order-list-type:: number
-					- The penalty of *prision correccional* in its maximum period to *prision mayor* in its medium period in other cases.^{As amended by R. A. 7659, December 13, 1993.}
-					  logseq.order-list-type:: number
+					- (3) The penalty of *reclusion temporal*, when by reason or on occasion of the robbery, any of the physical injuries penalized in [subdivision 2 of the article mentioned in the next preceding paragraph](((63046d04-8d69-4d71-b287-5e9bb0683597))), shall have been inflicted.
+					- (4) The penalty of *prision mayor* in its maximum period to *reclusion temporal* in its medium period, if the violence or intimidation employed in the commission of the robbery shall have been carried to a degree clearly unnecessary for the commission of the crime, or when the course of its execution, the offender shall have inflicted upon any person not responsible for its commission any of the physical injuries covered by subdivisions [3](((63046d06-7f6c-44cd-9800-ee85dab6a5de))) and [4](((63046d08-318a-4a21-b8a5-1925216f3c3f))) of said [Article 263](((faadb0e1-32c2-4c2e-8f7f-d04da4eb565d)))
+					- (5) The penalty of *prision correccional* in its maximum period to *prision mayor* in its medium period in other cases.^{As amended by R. A. 7659, December 13, 1993.}
 						- [^DP]: The imposition of death penalty is prohibited by [[R.A. No. 9346]]
 			- **Art. 295.** *Robbery with physical injuries, committed in an uninhabited place and by a band, or with the use of firearm on a street, road or alley.*
 			  id:: 05691498-8e32-4dfb-ac04-f1d108a8ef22
@@ -1171,21 +1166,18 @@ sys-category:: [[21]]
 				- **2nd**. The penalty of *prision correcciona*l in its minimum and medium periods, if the amount of the fraud is over One million two hundred thousand pesos (P1,200,000) but does not exceed Two million two hundred thousand pesos (P2,200,000) ;
 				- **3rd.** The penalty of *arresto mayor* in its maximum period to *prision correccional* in its minimum period if such amount is over Forty thousand pesos (P40,000) but does not exceed One million two hundred thousand pesos (P1,200,000); and
 				- **4th.** By arresto mayor in its maximum period, if such amount does not exceed Forty thousand pesos (P40,000), provided that in the four cases mentioned, the fraud be committed by any of the following means:
-					- With unfaithfulness or abuse of confidence, namely:
-					  logseq.order-list-type:: number
+					- (1) With unfaithfulness or abuse of confidence, namely:
 					  collapsed:: true
 						- (a) By altering the substance, quantity, or quality or anything of value which the offender shall deliver by virtue of an obligation to do so, even though such obligation be based on an immoral or illegal consideration.
 						- (b) By misappropriating or converting, to the prejudice of another, money, goods, or any other personal property received by the offender in trust or on commission, or for administration, or under any other obligation involving the duty to make delivery of or to return the same, even though such obligation be totally or partially guaranteed by a bond; or by denying having received such money, goods, or other property.
 						- (c) By taking undue advantage of the signature of the offended party in blank, and by writing any document above such signature in blank, to the prejudice of the offended party or of any third person.
-					- By means of any of the following false pretenses or fraudulent acts executed prior to or simultaneously with the commission of the fraud:
-					  logseq.order-list-type:: number
+					- (2) By means of any of the following false pretenses or fraudulent acts executed prior to or simultaneously with the commission of the fraud:
 						- (a) By using fictitious name, or falsely pretending to possess power, influence, qualifications, property, credit, agency, business or imaginary transactions, or by means of other similar deceits.
 						- (b) By altering the quality, fineness or weight of anything pertaining to his art or business.
 						- (c) By pretending to have bribed any Government employee, without prejudice to the action for calumny which the offended party may deem proper to bring against the offender. In this case, the offender shall be punished by the maximum period of the penalty.
 						- (d)  By post-dating a check, or issuing a check in payment of an obligation when the offender had no funds in the bank, or his (or her) funds deposited therein were not sufficient to cover the amount of the check. The failure of the drawer of the check to deposit the amount necessary to cover his check within three (3) days from receipt of notice from the bank and/or the payee or holder that said check has been dishonored for lack of ~~in~~sufficiency of funds shall be *prima facie* evidence of deceit constituting false pretense or fraudulent act.
 						  id:: 731b2b88-b1d0-437b-9b30-7b9351915566
-					- Any person who shall defraud another by means of false pretenses or fraudulent acts as defined in [paragraph 2(d)](((731b2b88-b1d0-437b-9b30-7b9351915566))) hereof shall be punished by:
-					  logseq.order-list-type:: number
+					- (3) Any person who shall defraud another by means of false pretenses or fraudulent acts as defined in [paragraph 2(d)](((731b2b88-b1d0-437b-9b30-7b9351915566))) hereof shall be punished by:
 						- **1st.** The penalty of *reclusion temporal* in its maximum period, if the amount of fraud is over Four million four hundred thousand pesos (P4,400,000) but does not exceed Eight million eight hundred thousand pesos (P8,800,000). If the amount exceeds the latter, the penalty shall be *reclusion perpetua.*
 						- **2nd.** The penalty of *reclusion temporal* in its minimum and medium periods, if the amount of the fraud is over Two million four hundred thousand pesos (P2,400,000) but does not exceed Four million four hundred thousand pesos (P4,400,000).
 						- **3rd.** The penalty of *prision mayor* in its maximum period, if the amount of the fraud is over One million two hundred thousand pesos (P1,200,000) but does not exceed Two million four hundred thousand pesos (P2,400,000).

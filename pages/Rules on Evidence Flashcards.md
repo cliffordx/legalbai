@@ -268,16 +268,11 @@ tags:: flashcards, #[[bar/QA]]
 			- (hh) That a printed or published book, purporting to contain reports of cases adjudged in tribunals of the country where the book is published, contains correct reports of such cases;
 			- (ii) That a trustee or other person whose duty it was to convey real property to a particular person has actually conveyed it to him or her when such presumption is necessary to perfect the title of such person or his or her successor in interest;
 			- (jj) That except for purposes of succession, when two persons perish in the same calamity, such as wreck, battle, or conflagration, and it is not shown who died first, and there are no particular circumstances from which it can be inferred, the survivorship is determined from the probabilities resulting from the strength and age of the sexes, according to the following rules:
-				- If both were under the age of fifteen years, the older is deemed to have survived;
-				  logseq.order-list-type:: number
-				- If both were above the age of sixty, the younger is deemed to have survived;
-				  logseq.order-list-type:: number
-				- If one is under fifteen and the other above sixty, the former is deemed to have survived;
-				  logseq.order-list-type:: number
-				- If both be over fifteen and under sixty, and the sex be different, the male is deemed to have survived; if the sex be the same, the older;
-				  logseq.order-list-type:: number
-				- If one be under fifteen or over sixty, and the other between those ages, the latter is deemed to have survived.
-				  logseq.order-list-type:: number
+				- (1) If both were under the age of fifteen years, the older is deemed to have survived;
+				- (2) If both were above the age of sixty, the younger is deemed to have survived;
+				- (3) If one is under fifteen and the other above sixty, the former is deemed to have survived;
+				- (4) If both be over fifteen and under sixty, and the sex be different, the male is deemed to have survived; if the sex be the same, the older;
+				- (5) If one be under fifteen or over sixty, and the other between those ages, the latter is deemed to have survived.
 			- (kk) That if there is a doubt, as between two or more persons who are called to succeed each other, as to which of them died first, whoever alleges the death of one prior to the other, shall prove the same; in the absence of proof, they shall be considered to have died at the same time.
 - #card **SECTION 4.** *No presumption of legitimacy or illegitimacy.*
 	- There is no presumption of legitimacy or illegitimacy of a child born after three hundred days following the dissolution of the marriage or the separation of the spouses. Whoever alleges the legitimacy or illegitimacy of such child must prove his allegation.
