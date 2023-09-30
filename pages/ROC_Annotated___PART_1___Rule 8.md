@@ -10,7 +10,7 @@ sys-category:: [[41]]
 - **SECTION 1.** *In general.*
   id:: 65161f8d-10e5-4de6-84bd-ea4d988607c3
 	- Every pleading shall contain in a methodical and logical form, a plain, concise and direct statement of ==the ultimate facts==, including the ==evidence== on which the party pleading relies for his <u>or her</u> claim or defense, as the case may be.~~, omitting the statement of mere evidentiary facts. (1)~~[^1]
-	- If a <u>cause of action [or]</u> defense relied on is based on law, the pertinent provisions thereof and their applicability to him <u>or her</u> shall be clearly and concisely stated. (n)
+	- If a <u>cause of action [or]</u> defense relied on is ==based on law==, the pertinent provisions thereof and their applicability to him <u>or her</u> shall be clearly and concisely stated. (n)
 	- > NOTE: Kaning mga g-crush-out are the old provisions sa wala pa ang amendments. Ang mga g-underlined or highlighted words are the latest amendments.
 - **SECTION 2.** *Alternative causes of action or defenses.*
 	- A party may set forth two or more statements of a claim or defense alternatively or hypothetically, either in one cause of action or defense or in separate causes of action or defenses.
@@ -29,6 +29,7 @@ sys-category:: [[41]]
 - **SECTION 7.** *Action or defense based on document.*
 	- Whenever an action or defense is based upon a written instrument or document, the substance of such instrument or document shall be set forth in the pleading, and the original or a copy thereof shall be attached to the pleading as an exhibit, which shall be deemed to be a part of the pleading. ~~or said copy may with like effect be set forth in the pleading. (7)~~
 - **SECTION 8.** *How to contest such documents.*
+  id:: 65168c1f-8dae-43e5-b9fd-1afd623c0e56
 	- When an action or defense is founded upon a written instrument, ~~copied in~~ or attached to the corresponding pleading as provided in the preceding section, the genuineness and due execution of the instrument shall be deemed admitted unless the adverse party, under oath, specifically denies them, and sets forth what he claims to be the facts; but the requirement of an oath does not apply when the adverse party does not appear to be a party to the instrument or when compliance with an order for an inspection of the original instrument is refused. (8a)
 - **SECTION 9.** *Official document or act.*
 	- In pleading an official document or official act, it is sufficient to aver that the document <u>was</u> ~~issued or the act~~ done in compliance with law. (9)
@@ -38,6 +39,7 @@ sys-category:: [[41]]
 	- Where a defendant desires to deny only a part of an averment, he <u>or she</u> shall specify so much of it as is true and material and shall deny only the remainder.
 	- Where a defendant is without knowledge or information sufficient to form a belief as to the truth of a material averment made in the complaint, he <u>or she</u> shall so state, and this shall have the effect of a denial. (10a)
 - **SECTION 11.** *Allegations not specifically denied deemed admitted.*
+  id:: 65168c1f-8cbb-4365-8fbf-48ca1a62b66f
 	- Material <u>averments</u> in ~~the complaint,~~ <u>a pleading asserting a claim or claims</u>, other than those as to the amount of unliquidated damages, shall be deemed admitted when not specifically denied. (11a)
 	- ~~Allegations of usury in a complaint to recover usurious interest are deemed admitted if not denied under oath. (1a, R9)~~
 - **SECTION 12.** *Affirmative Defenses.*
