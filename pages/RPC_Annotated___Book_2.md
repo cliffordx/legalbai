@@ -7,6 +7,7 @@ sys-category:: [[21]]
   id:: 6303188d-cdc0-41d2-8cfc-18d841ea0c40
 	- ## Chapter One - CRIMES AGAINST NATIONAL SECURITY
 	  id:: 9d0b5fb8-85d3-42eb-ba7e-c106a16e7a0c
+	  collapsed:: true
 		- ### Section One. — Treason and espionage
 			- **Art. 114.** *Treason.*
 			  id:: 6488844b-f940-45b7-ad81-fa8da081bdd0
@@ -258,7 +259,6 @@ sys-category:: [[21]]
 			- Any convict of the class referred to in this article, who is not a habitual criminal, shall be pardoned at the age of seventy years if he shall have already served out his original sentence, or when he shall complete it after reaching the said age, unless by reason of his conduct or other circumstances he shall not be worthy of such clemency.
 - # Title Four - CRIMES AGAINST PUBLIC INTEREST
   id:: 6488844a-7766-4088-b297-196aa6e7b132
-  collapsed:: true
 	- # Chapter One - FORGERIES
 	  collapsed:: true
 		- ## Section One. — Forging the seal of the Government of the Philippine Islands, the signature or stamp of the Chief Executive.
@@ -390,16 +390,16 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- Any person who shall knowingly offer in evidence a false witness or testimony in any judicial or official proceeding, shall be punished as guilty of false testimony and shall suffer the respective penalties provided in this section.
 	- # Chapter Three - FRAUDS
-	  collapsed:: true
 		- ## Section One. — Machinations, monopolies and combinations
+		  id:: 65179f12-a06a-43a1-98ee-17165c5b755c
 		  collapsed:: true
 			- **Art. 185.** *Machinations in public auctions.*
+			  id:: 65179f12-85a8-4c55-bea6-4c3533e38a7c
 			  collapsed:: true
 				- Any person who shall solicit any gift or promise as a consideration for refraining from taking part in any public auction, and any person who shall attempt to cause bidders to stay away from an auction by threats, gifts, promises, or any other artifice, with intent to cause the reduction of the price of the thing auctioned, shall suffer the penalty of *prision correccional* in its minimum period and a fine ranging from 10 to 50 per centum of the value of the thing auctioned.
 			- **Art. 186.** *Monopolies and combinations in restraint of trade.*
 			  collapsed:: true
 				- The penalty of *prision correccional* in its minimum period or a fine ranging from 200 to 6,000 pesos, or both, shall be imposed upon:
-				  collapsed:: true
 					- 1. Any person who shall enter into any contract or agreement or shall take part in any conspiracy or combination in the form of a trust or otherwise, in restraint of trade or commerce or to prevent by artificial means free competition in the market;
 					- 2. Any person who shall monopolize any merchandise or object of trade or commerce, or shall combine with any other person or persons to monopolize and merchandise or object in order to alter the price thereof by spreading false rumors or making use of any other article to restrain free competition in the market;
 					- 3. Any person who, being a manufacturer, producer, or processor of any merchandise or object of commerce or an importer of any merchandise or object of commerce from any foreign country, either as principal or agent, wholesaler or retailer, shall combine, conspire or agree in any manner with any person likewise engaged in the manufacture, production, processing, assembling or importation of such merchandise or object of commerce or with any other persons not so similarly engaged for the purpose of making transactions prejudicial to lawful commerce, or of increasing the market price in any part of the Philippines, of any such merchandise or object of commerce manufactured, produced, processed, assembled in or imported into the Philippines, or of any article in the manufacture of which such manufactured, produced, or imported merchandise or object of commerce is used.
@@ -407,6 +407,7 @@ sys-category:: [[21]]
 					- Any property possessed under any contract or by any combination mentioned in the preceding paragraphs, and being the subject thereof, shall be forfeited to the Government of the Philippines.
 					- Whenever any of the offenses described above is committed by a corporation or association, the president and each one of its agents or representatives in the Philippines in case of a foreign corporation or association, who shall have knowingly permitted or failed to prevent the commission of such offense, shall be held liable as principals thereof.
 		- ## Section Two. — Frauds in commerce and industry
+		  id:: 6518ffe7-5929-4fcf-8635-697e8304d78d
 		  collapsed:: true
 			- **Art. 187.** *Importation and disposition of falsely marked articles or merchandise made of gold, silver, or other precious metals or their alloys.*
 			  collapsed:: true
@@ -425,7 +426,6 @@ sys-category:: [[21]]
 					  collapsed:: true
 						- [^IPL]: _{Articles 188 and 189 of the Revised Penal Code were repealed by The Intellectual Property Code[R.A. 8293, January 1, 1998.]}
 			- ~~**Art. 189.** Unfair competition, fraudulent registration of trade-mark, trade-name or service mark, fraudulent designation of origin, and false description.~~[^IPL]
-			  collapsed:: true
 				- ~~The penalty provided in the next proceeding article shall be imposed upon:~~
 				  collapsed:: true
 					- 1. Any person who, in unfair competition and for the purposes of deceiving or defrauding another of his legitimate trade or the public in general, shall sell his goods giving them the general appearance of goods of another manufacturer or dealer, either as to the goods themselves, or in the wrapping of the packages in which they are contained or the device or words thereon or in any other features of their appearance which would be likely to induce the public to believe that the goods offered are those of a manufacturer or dealer other than the actual manufacturer or dealer or shall give other persons a chance or opportunity to do the same with a like purpose.
@@ -461,40 +461,36 @@ sys-category:: [[21]]
 			- Any person found guilty of any of the offenses covered by this articles shall be punished by *arresto menor* or a fine not exceeding Twenty thousand pesos (P20,000), and in case of [recidivism]([[Habitual Offender]]), by *arresto mayor* in its medium period to *prision correccional* in its minimum period or a fine ranging from Twenty thousand pesos (P20,000) to Two hundred thousand pesos (P200,000), or both, in the discretion of the court.^{(As amended by R.A. No. 10951, August 29, 2017)}
 				- [^A202]: _{See Section 58 of R.A. No. 9344 and Sections 17 and 32 of R.A. No. 9208 as amended by R.A. No. 10364 on exemption of trafficked victim and minor from criminal prosecution for prostitution.}
 			- *(The crime of vagrancy, which was punishable under Article 202 of the Revised Penal Code, was decriminalized by R.A. No. 10158 dated March 27, 2012)*
+			  id:: 6518ffe7-720c-4b79-9793-e704dd89d4ad
 - # Title Seven - CRIMES COMMITTED BY PUBLIC OFFICERS
   id:: 6488844a-f15e-4048-8359-6bc2cb2a49bb
-  collapsed:: true
 	- ## Chapter One - PRELIMINARY PROVISIONS
-	  collapsed:: true
 		- **Art. 203.** *Who are public officers.*
 			- For the purpose of applying the provisions of this and the preceding titles of this book, any person who, by direct provision of the law, popular election or appointment by competent authority, shall take part in the performance of public functions in the Government of the Philippine Islands, of shall perform in said Government or in any of its branches public duties as an employee, agent or subordinate official, of any rank or class, shall be deemed to be a public officer.
 	- ## Chapter Two - MALFEASANCE AND MISFEASANCE IN OFFICE
-	  collapsed:: true
 		- ### Section One. — Dereliction of duty
-		  collapsed:: true
 			- **Art. 204.** *Knowingly rendering unjust judgment.*
-			  collapsed:: true
+			  id:: 6518ffe7-1c59-42ab-93eb-bab1b873a80d
 				- Any judge who shall knowingly render an unjust judgment in any case submitted to him for decision, shall be punished by *prision mayor* and perpetual absolute disqualification.
 			- **Art. 205.** *Judgment rendered through negligence.*
-			  collapsed:: true
+			  id:: 6518ffe7-b589-4fad-86d0-7be6b64f12f1
 				- Any judge who, by reason of inexcusable negligence or ignorance shall render a manifestly unjust judgment in any case submitted to him for decision shall be punished by *arresto mayor* and temporary special disqualification.
 			- **Art. 206.** *Unjust interlocutory order.*
-			  collapsed:: true
+			  id:: 6518ffe7-3444-4e52-8a3c-68d5e9f5232c
 				- Any judge who shall knowingly render an unjust interlocutory order or decree shall suffer the penalty of *arresto mayor* in its minimum period and suspension; but if he shall have acted by reason of inexcusable negligence or ignorance and the interlocutory order or decree be manifestly unjust, the penalty shall be suspension.
 			- **Art. 207.** *Malicious delay in the administration of justice.*
-			  collapsed:: true
+			  id:: 6518ffe7-cb0f-484d-abad-481262b071bb
 				- The penalty of *prision correccional* in its minimum period shall be imposed upon any judge guilty of malicious delay in the administration of justice.
 			- **Art. 208.** *Prosecution of offenses; negligence and tolerance.*
-			  collapsed:: true
+			  id:: 6518ffe7-e731-479d-b079-740d383da21f
 				- The penalty of *prision correccional* in its minimum period and suspension shall be imposed upon any public officer, or officer of the law, who, in dereliction of the duties of his office, shall maliciously refrain from instituting prosecution for the punishment of violators of the law, or shall tolerate the commission of offenses.
 			- **Art. 209.** *Betrayal of trust by an attorney or solicitor. Revelation of secrets.*
 			  id:: 6488844a-aaaa-4ad1-bb39-2252b122e44e
-			  collapsed:: true
 				- In addition to the proper administrative action, the penalty of *prision correccional* in its minimum period, or a fine ranging from Forty thousand pesos (P40,000) to Two hundred thousand pesos (P200,000), or both, shall be imposed upon any attorney-at-law or any person duly authorized to represent and/or assist a party to a case who, by any malicious breach of professional duty or of inexcusable negligence or ignorance, shall prejudice his client, or reveal any of the secrets of the latter learned by him in his professional capacity.
 				- The same penalty shall be imposed upon an attorney-at-law or any person duly authorized to represent and/or assist a party to a case who, having undertaken the defense of a client or having received confidential information from said client in a case, shall undertake the defense of the opposing party in the same case, without the consent of his first client.^{(As amended by R.A. No. 10951, August 29, 2017)}
 		- ### Section Two. — Bribery
-		  collapsed:: true
 			- **Art. 210.** *Direct bribery.*
+			  id:: 6518ffe7-a4be-4ed5-b0ac-691de40d689b
 			  collapsed:: true
 				- Any public officer who shall agree to perform an act constituting a crime, in connection with the performance of this official duties, in consideration of any offer, promise, gift or present received by such officer, personally or through the mediation of another, shall suffer the penalty of *prision mayor* in its medium and maximum periods and a fine [of not less than the value of the gift and] not less than three times the value of the gift in addition to the penalty corresponding to the crime agreed upon, if the same shall have been committed.
 				- If the gift was accepted by the officer in consideration of the execution of an act which does not constitute a crime, and the officer executed said act, he shall suffer the same penalty provided in the preceding paragraph; and if said act shall not have been accomplished, the officer shall suffer the penalties of *prision correccional*, in its medium period and a fine of not less than twice the value of such gift.
@@ -502,7 +498,7 @@ sys-category:: [[21]]
 				- In addition to the penalties provided in the preceding paragraphs, the culprit shall suffer the penalty of special temporary disqualification.
 				- The provisions contained in the preceding paragraphs shall be made applicable to assessors, arbitrators, appraisal and claim commissioners, experts or any other persons performing public duties. ^{(As amended by Batas Pambansa Blg. 872, June 10, 1985).}
 			- **Art. 211.** *Indirect bribery.*
-			  collapsed:: true
+			  id:: 6518ffe7-4e95-4a1e-9509-3a7fe6749673
 				- The penalties of *prision correccional* in its medium and maximum periods, and public censure shall be imposed upon any public officer who shall accept gifts offered to him by reason of his office. (As amended by Batas Pambansa Blg. 872, June 10, 1985).
 			- **Art. 211-A.** *Qualified Bribery.*
 			  collapsed:: true
@@ -532,7 +528,7 @@ sys-category:: [[21]]
 		  collapsed:: true
 			- The penalty of *prision correccional* in its maximum period or a fine ranging from Forty thousand pesos (P40,000) to Two hundred thousand pesos (P200,000), or both, shall be imposed upon any appointive public officer who, during his incumbency, shall directly or indirectly become interested in any transaction of exchange or speculation within the territory subject to his jurisdiction.^{(As amended by R.A. No. 10951, August 29, 2017)}
 		- **Art. 216.** *Possession of prohibited interest by a public officer.*
-		  collapsed:: true
+		  id:: 6518ffe7-50f7-447a-abe3-353129e9c4ad
 			- The penalty of *arresto mayor* in its medium period to *prision correccional* in its minimum period, or a fine ranging from Forty thousand pesos (P40,000) to Two hundred thousand pesos (P200,000), or both, shall be imposed upon a public officer who directly or indirectly, shall become interested in any contract or business in which it is his official duty to intervene.
 			- This provisions is applicable to experts, arbitrators and private accountants who, in like manner, shall take part in any contract or transaction connected with the estate or property in appraisal, distribution or adjudication of which they shall have acted, and to the guardians and executors with respect to the property belonging to their wards or estate.^{(As amended by R.A. No. 10951, August 29, 2017)}
 	- ## Chapter Four - MALVERSATION OF PUBLIC FUNDS OR PROPERTY
@@ -541,7 +537,6 @@ sys-category:: [[21]]
 		  id:: 6488844a-72b7-44a7-9f2c-211e68a3f51c
 		  collapsed:: true
 			- Any public officer who, by reason of the duties of his office, is accountable for public funds or property, shall appropriate the same or shall take or misappropriate or shall consent, through abandonment or negligence, shall permit any other person to take such public funds, or property, wholly or partially, or shall otherwise be guilty of the misappropriation or malversation of such funds or property, shall suffer:
-			  collapsed:: true
 				- 1. The penalty of *prision correccional* in its medium and maximum periods, if the amount involved in the misappropriation or malversation does not exceed Forty thousand pesos (P40,000).
 				- 2. The penalty of *prision mayor* in its minimum and medium periods, if the amount involved is more than Forty thousand pesos (P40,000) but does not exceed One million two hundred thousand pesos (P1,200,000).
 				- 3. The penalty of *prision mayor* in its maximum period to *reclusion temporal* in its minimum period, if the amount involved is more than One million two hundred thousand pesos (P1,200,000) but does not exceed Two million four hundred thousand pesos (P2,400,000).
@@ -550,23 +545,22 @@ sys-category:: [[21]]
 				- In all cases, persons guilty of malversation shall also suffer the penalty of perpetual special disqualification and a fine equal to the amount of the funds malversed or equal to the total value of the property embezzled.
 				- The failure of a public officer to have duly forthcoming any public funds or property with which he is chargeable, upon demand by any duly authorized officer, shall be *prima facie* evidence that he has put such missing funds or property to personal uses.^{(As amended by R.A. No. 10951, August 29, 2017)}
 		- **Art. 218.** *Failure of accountable officer to render accounts.*
-		  collapsed:: true
+		  id:: 6518ffe7-469e-43b4-ac7c-85101c26a0ac
 			- Any public officer, whether in the service or separated therefrom by resignation or any other cause, who is required by law or regulation to render account to the Commission on Audit or to a provincial auditor and who fails to do so for a period of two (2) months after such accounts should be rendered, shall be punished by *prision correccional* in its minimum period, or by a fine ranging from Forty thousand pesos (P40,000) to One million two hundred thousand pesos (P1,200,000), or both.^{(As amended by R.A. No. 10951, August 29, 2017)}
 		- **Art. 219.** *Failure of a responsible public officer to render accounts before leaving the country.*
+		  id:: 6518ffe7-c00a-4974-8a8e-e676091af493
 		  collapsed:: true
 			- Any public officer who unlawfully leaves or attempts to leave the Philippine Islands without securing a certificate from the Commission on Audit showing that his accounts have been finally settled, shall be punished by *arresto mayor*, or a fine ranging from Forty thousand pesos (P40,000) to Two hundred thousand pesos (P200,000) or both.^{(As amended by R.A. No. 10951, August 29, 2017)}
 		- **Art. 220.** *Illegal use of public funds or property.*
-		  collapsed:: true
 			- Any public officer who shall apply any public fund or property under his administration to any public use other than for which such fund or property were appropriated by law or ordinance shall suffer the penalty of prision correccional in its minimum period or a fine ranging from one-half to the total of the sum misapplied, if by reason of such misapplication, any damages or embarrassment shall have resulted to the public service. In either case, the offender shall also suffer the penalty of temporary special disqualification.
 			- If no damage or embarrassment to the public service has resulted, the penalty shall be a fine from 5 to 50 per cent of the sum misapplied.
 		- **Art. 221.** *Failure to make delivery of public funds or property.*
-		  collapsed:: true
 			- Any public officer under obligation to make payment from Government funds in his possession, who shall fail to make such payment, shall be punished by *arresto mayor* and a fine from five (5) to twenty-five (25) per cent of the sum which he failed to pay.
 			- This provision shall apply to any public officer who, being ordered by competent authority to deliver any property in his custody or under his administration, shall refuse to make such delivery.
 			- The fine shall be graduated in such case by the value of the thing, provided that it shall not less than Ten thousand pesos (P10,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
 		- **Art. 222.** *Officers included in the preceding provisions.*
-		  collapsed:: true
-			- The provisions of this chapter shall apply to private individuals who in any capacity whatever, have charge of any insular, provincial or municipal funds, revenues, or property and to any administrator or depository of funds or property attached, seized or deposited by public authority, even if such property belongs to a private individual.
+		  id:: 6518ffe7-7159-4b85-9b49-8925221ea3e4
+			- The provisions of this chapter shall apply to private individuals who in any capacity whatever, have charge of any insular, provincial or municipal funds, revenues, or property and to any administrator or depository of funds or ==property attached, seized or deposited by public authority, even if such property belongs to a private individual==.
 	- ## Chapter Five - INFIDELITY OF PUBLIC OFFICERS
 		- ### Section One. — Infidelity in the custody of prisoners
 		  collapsed:: true
@@ -1012,12 +1006,17 @@ sys-category:: [[21]]
 			- **Art. 294.** *Robbery with violence against or intimidation of persons; Penalties.*
 			  id:: bd4898b8-1c53-4779-b39a-cdc2086d498e
 				- Any person guilty of robbery with the use of violence against or intimidation of any person shall suffer:
-					- (1) The penalty of *reclusion perpetua* to death[^DP], when by reason or on occasion of the robbery, the crime of homicide shall have been committed;  or when the robbery shall have been accompanied by rape or intentional mutilation or arson.
-					- (2) The penalty of *reclusion temporal* in its medium period to *reclusion perpetua* when or if by reason or on occasion of such robbery, any of the physical injuries penalized in [subdivision 1 of Article 263](((63046bef-a32e-4c6d-85f5-6adeba051b72))) shall have been inflicted.
+					- The penalty of *reclusion perpetua* to death[^DP], when by reason or on occasion of the robbery, the crime of homicide shall have been committed;  or when the robbery shall have been accompanied by rape or intentional mutilation or arson.
+					  logseq.order-list-type:: number
+					- The penalty of *reclusion temporal* in its medium period to *reclusion perpetua* when or if by reason or on occasion of such robbery, any of the physical injuries penalized in [subdivision 1 of Article 263](((63046bef-a32e-4c6d-85f5-6adeba051b72))) shall have been inflicted.
+					  logseq.order-list-type:: number
 					  id:: 6488844a-2d68-4382-af1f-a4bac522e418
-					- (3) The penalty of *reclusion temporal*, when by reason or on occasion of the robbery, any of the physical injuries penalized in [subdivision 2 of the article mentioned in the next preceding paragraph](((63046d04-8d69-4d71-b287-5e9bb0683597))), shall have been inflicted.
-					- (4) The penalty of *prision mayor* in its maximum period to *reclusion temporal* in its medium period, if the violence or intimidation employed in the commission of the robbery shall have been carried to a degree clearly unnecessary for the commission of the crime, or when the course of its execution, the offender shall have inflicted upon any person not responsible for its commission any of the physical injuries covered by subdivisions [3](((63046d06-7f6c-44cd-9800-ee85dab6a5de))) and [4](((63046d08-318a-4a21-b8a5-1925216f3c3f))) of said [Article 263](((faadb0e1-32c2-4c2e-8f7f-d04da4eb565d)))
-					- (5) The penalty of *prision correccional* in its maximum period to *prision mayor* in its medium period in other cases.^{As amended by R. A. 7659, December 13, 1993.}
+					- The penalty of *reclusion temporal*, when by reason or on occasion of the robbery, any of the physical injuries penalized in [subdivision 2 of the article mentioned in the next preceding paragraph](((63046d04-8d69-4d71-b287-5e9bb0683597))), shall have been inflicted.
+					  logseq.order-list-type:: number
+					- The penalty of *prision mayor* in its maximum period to *reclusion temporal* in its medium period, if the violence or intimidation employed in the commission of the robbery shall have been carried to a degree clearly unnecessary for the commission of the crime, or when the course of its execution, the offender shall have inflicted upon any person not responsible for its commission any of the physical injuries covered by subdivisions [3](((63046d06-7f6c-44cd-9800-ee85dab6a5de))) and [4](((63046d08-318a-4a21-b8a5-1925216f3c3f))) of said [Article 263](((faadb0e1-32c2-4c2e-8f7f-d04da4eb565d)))
+					  logseq.order-list-type:: number
+					- The penalty of *prision correccional* in its maximum period to *prision mayor* in its medium period in other cases.^{As amended by R. A. 7659, December 13, 1993.}
+					  logseq.order-list-type:: number
 						- [^DP]: The imposition of death penalty is prohibited by [[R.A. No. 9346]]
 			- **Art. 295.** *Robbery with physical injuries, committed in an uninhabited place and by a band, or with the use of firearm on a street, road or alley.*
 			  id:: 05691498-8e32-4dfb-ac04-f1d108a8ef22
@@ -1166,18 +1165,21 @@ sys-category:: [[21]]
 				- **2nd**. The penalty of *prision correcciona*l in its minimum and medium periods, if the amount of the fraud is over One million two hundred thousand pesos (P1,200,000) but does not exceed Two million two hundred thousand pesos (P2,200,000) ;
 				- **3rd.** The penalty of *arresto mayor* in its maximum period to *prision correccional* in its minimum period if such amount is over Forty thousand pesos (P40,000) but does not exceed One million two hundred thousand pesos (P1,200,000); and
 				- **4th.** By arresto mayor in its maximum period, if such amount does not exceed Forty thousand pesos (P40,000), provided that in the four cases mentioned, the fraud be committed by any of the following means:
-					- (1) With unfaithfulness or abuse of confidence, namely:
+					- With unfaithfulness or abuse of confidence, namely:
+					  logseq.order-list-type:: number
 					  collapsed:: true
 						- (a) By altering the substance, quantity, or quality or anything of value which the offender shall deliver by virtue of an obligation to do so, even though such obligation be based on an immoral or illegal consideration.
 						- (b) By misappropriating or converting, to the prejudice of another, money, goods, or any other personal property received by the offender in trust or on commission, or for administration, or under any other obligation involving the duty to make delivery of or to return the same, even though such obligation be totally or partially guaranteed by a bond; or by denying having received such money, goods, or other property.
 						- (c) By taking undue advantage of the signature of the offended party in blank, and by writing any document above such signature in blank, to the prejudice of the offended party or of any third person.
-					- (2) By means of any of the following false pretenses or fraudulent acts executed prior to or simultaneously with the commission of the fraud:
+					- By means of any of the following false pretenses or fraudulent acts executed prior to or simultaneously with the commission of the fraud:
+					  logseq.order-list-type:: number
 						- (a) By using fictitious name, or falsely pretending to possess power, influence, qualifications, property, credit, agency, business or imaginary transactions, or by means of other similar deceits.
 						- (b) By altering the quality, fineness or weight of anything pertaining to his art or business.
 						- (c) By pretending to have bribed any Government employee, without prejudice to the action for calumny which the offended party may deem proper to bring against the offender. In this case, the offender shall be punished by the maximum period of the penalty.
 						- (d)  By post-dating a check, or issuing a check in payment of an obligation when the offender had no funds in the bank, or his (or her) funds deposited therein were not sufficient to cover the amount of the check. The failure of the drawer of the check to deposit the amount necessary to cover his check within three (3) days from receipt of notice from the bank and/or the payee or holder that said check has been dishonored for lack of ~~in~~sufficiency of funds shall be *prima facie* evidence of deceit constituting false pretense or fraudulent act.
 						  id:: 731b2b88-b1d0-437b-9b30-7b9351915566
-					- (3) Any person who shall defraud another by means of false pretenses or fraudulent acts as defined in [paragraph 2(d)](((731b2b88-b1d0-437b-9b30-7b9351915566))) hereof shall be punished by:
+					- Any person who shall defraud another by means of false pretenses or fraudulent acts as defined in [paragraph 2(d)](((731b2b88-b1d0-437b-9b30-7b9351915566))) hereof shall be punished by:
+					  logseq.order-list-type:: number
 						- **1st.** The penalty of *reclusion temporal* in its maximum period, if the amount of fraud is over Four million four hundred thousand pesos (P4,400,000) but does not exceed Eight million eight hundred thousand pesos (P8,800,000). If the amount exceeds the latter, the penalty shall be *reclusion perpetua.*
 						- **2nd.** The penalty of *reclusion temporal* in its minimum and medium periods, if the amount of the fraud is over Two million four hundred thousand pesos (P2,400,000) but does not exceed Four million four hundred thousand pesos (P4,400,000).
 						- **3rd.** The penalty of *prision mayor* in its maximum period, if the amount of the fraud is over One million two hundred thousand pesos (P1,200,000) but does not exceed Two million four hundred thousand pesos (P2,400,000).
