@@ -26,6 +26,7 @@
 		- Ex post facto Law
 - ## II. REVISED PENAL CODE - BOOK ONE
   id:: 64eccdc0-4672-44ed-a27a-9c8886e74ffd
+  collapsed:: true
 	- A. Felonies (Revised Penal Code, Art. 3)
 	  id:: 64eccdc0-5d4f-4157-b1ed-8a8e95ecc416
 		- Criminal Liability (Revised Penal Code, Art. 4(1))
@@ -43,11 +44,11 @@
 		- Duty of the Courts in case of Non-Punishable Act and Excessive Penalty(Revised Penal Code, Art.5)
 		- Suppletory Application of the Revised Penal Code(Revised Penal Code, Art.10)
 	- B. [[Circumstances Affecting Criminal Liability]]
-		- [[Circumstances Affecting Criminal Liability/Justifying Circumstances]] (Revised Penal Code, Art. 11)
-		- [[Circumstances Affecting Criminal Liability/Exempting Circumstances]] (Revised Penal Code, Art. 12)
-		- [[Circumstances Affecting Criminal Liability/mitigating circumstances]] (Revised Penal Code, Art. 13)
-		- [[Circumstances Affecting Criminal Liability/Aggravating Circumstances]] (Revised Penal Code, Art. 14)
-		- [[Circumstances Affecting Criminal Liability/Alternative circumstances]] (Revised Penal Code, Art. 15)
+		- [Justifying Circumstances]([[Circumstances Affecting Criminal Liability/Justifying Circumstances]]) (Revised Penal Code, Art. 11)
+		- [Exempting Circumstances]([[Circumstances Affecting Criminal Liability/Exempting Circumstances]]) (Revised Penal Code, Art. 12)
+		- [Mitigating Circumstances]([[Circumstances Affecting Criminal Liability/mitigating circumstances]]) (Revised Penal Code, Art. 13)
+		- [Aggravating Circumstances]([[Circumstances Affecting Criminal Liability/Aggravating Circumstances]]) (Revised Penal Code, Art. 14)
+		- [Alternative Circumstances]([[Circumstances Affecting Criminal Liability/Alternative circumstances]]) (Revised Penal Code, Art. 15)
 		- [Absolutory causes]([[Circumstances Affecting Criminal Liability/ABSOLUTORY CAUSE]])
 	- C. Persons Criminally Liable and [[Degree of Participation]]
 		- Principals, Accomplices, and Accessories(Revised Penal Code, Arts.16, 20)
@@ -71,7 +72,6 @@
 		- Revised Penal Code, Art. 21
 		  collapsed:: true
 		- Philosophical Theories
-		  collapsed:: true
 		- Classification of Penalties (Revised Penal Code, Arts. 25-26, as amended by R.A. No. 10951)
 		- Duration and Effects of Penalties (Revised Penal Code, Art. 27)
 		- Application and Graduation of Penalties (Revised Penal Code, Arts. 46,50-57, 61-65 and 76-77)
@@ -85,7 +85,7 @@
 		- Indeterminate Sentence Law (Act No. 4103, as amended by R.A. No.4203, Secs. 1-2)
 		- Anti-Death Penalty Law (R.A. No. 9346, Secs. 1-3)
 		- Pecuniary Liabilities (Revised Penal Code, Art. 38)
-			- > (Note: The specific penalty for each crime is not included. The questions will provide the prescribed penalties in problems involving application and graduation of penalties.)
+			- > _{(Note: The specific penalty for each crime is not included. The questions will provide the prescribed penalties in problems involving application and graduation of penalties.)}
 	- F. Extinction of Criminal Liability
 	  id:: 64ea2640-7f4e-490d-ab3b-50933d043a4e
 		- Total Extinction (Revised Penal Code, Art. 89)
@@ -116,8 +116,10 @@
 	- B. Title Two - Crimes Against the Fundamental Laws of the State
 	- C. Title Three - Crimes Against Public Order
 	- D. Title Four - Crimes Against Public Interest
+	  id:: 65179f13-4df1-4780-afaf-9c06ba4ae6d0
 	- E. Title Six - Crimes Against Public Morals
 	- F. Title Seven - Crimes Committed by Public Officers
+	  id:: 65179f13-b6c4-491f-8d0d-b47f16c39460
 	- G. Title Eight - Crimes Against Persons
 	- H. Title Nine - Crimes Against Personal Liberty and Security
 	- I. Title Ten - Crimes Against Property
