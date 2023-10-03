@@ -5,11 +5,12 @@ law-subject:: political
 tags:: #codal/family
 status:: active
 
-# Article XV - The Family
+- # Article XV - The Family
 - **SECTION 1.**
 	- The State recognizes the Filipino family as the foundation of the nation.
 	- Accordingly, it shall strengthen its solidarity and actively promote its total development.
 - **SECTION 2.**
+  id:: 65179eff-1f6f-4b37-a721-2cf798f42186
 	- Marriage, as an inviolable social institution, is the foundation of the family and shall be protected by the State.
 	  id:: 6310c52f-d2e7-492e-ab49-3bb100e5dc6e
 - **SECTION 3.**
