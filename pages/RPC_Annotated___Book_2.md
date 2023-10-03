@@ -564,14 +564,12 @@ sys-category:: [[21]]
 		- ### Section One. — Infidelity in the custody of prisoners
 		  collapsed:: true
 			- **Art. 223.** *Conniving with or consenting to evasion.*
-			  collapsed:: true
+			  id:: 6518ffe6-a213-4eb7-98d6-8982ad25049e
 				- Any public officer who shall consent to the escape of a prisoner in his custody or charge, shall be punished:
-				  collapsed:: true
 					- 1. By *prision correccional* in its medium and maximum periods and temporary special disqualification in its maximum period to perpetual special disqualification, if the fugitive shall have been sentenced by final judgment to any penalty.
 					- 2. By *prision correccional* in its minimum period and temporary special disqualification, in case the fugitive shall not have been finally convicted but only held as a detention prisoner for any crime or violation of law or municipal ordinance.
 			- **Art. 224.** *Evasion through negligence.*
 			  id:: 6488844a-349c-4666-9040-b70f11825b14
-			  collapsed:: true
 				- If the evasion of the prisoner shall have taken place through the negligence of the officer charged with the conveyance or custody of the escaping prisoner, said officer shall suffer the penalties of *arresto mayor* in its maximum period to *prision correccional* in its minimum period and temporary special disqualification.
 			- **Art. 225.** *Escape of prisoner under the custody of a person not a public officer.*
 			  collapsed:: true
