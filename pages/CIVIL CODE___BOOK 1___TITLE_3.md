@@ -4,16 +4,16 @@ tags:: #[[codal/Family Code of the Philippines]] #repealed
 status:: repealed
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-
 - Repealed by Executive Order No. 209, Otherwise Known as the "Family Code of the Philippines."
 - Superseded by: [TITLE I - MARRIAGE]([[codal/Family Code of the Philippines/Title 1]]) (Family Code of the Philippines)
 - {{embed ((630f4e85-3674-4960-bfd6-dfd332a67c40))}}
-## CHAPTER 1 - Requisites of Marriage
-collapsed:: true
+- ## CHAPTER 1 - Requisites of Marriage
+  collapsed:: true
 	- **ARTICLE 52.**
-	  collapsed:: true
+	  id:: 65179eef-e17f-41db-a771-d011462fc4d5
 		- Marriage is not a mere contract but an inviolable social institution.
 		- Its nature, consequences and incidents are governed by law and not subject to stipulation, except that the marriage settlements may to a certain extent fix the property relations during the marriage. (n)
+		  id:: 65179eef-9c37-4a4f-ace0-2efdb3dca3aa
 	- **ARTICLE 53.**
 	  collapsed:: true
 		- No marriage shall be solemnized unless all these requisites are complied with:
@@ -128,9 +128,9 @@ collapsed:: true
 	- **ARTICLE 71.**
 	  collapsed:: true
 		- All marriages performed outside the Philippines in accordance with the laws in force in the country where they were performed, and valid there as such, shall also be valid in this country, except bigamous, polygamous, or incestuous marriages as determined by Philippine law. (19a)
-## CHAPTER 2 - Marriages of Exceptional Character
-id:: b3538a2c-e86a-4777-9a0d-3816ccef3f50
-collapsed:: true
+- ## CHAPTER 2 - Marriages of Exceptional Character
+  id:: b3538a2c-e86a-4777-9a0d-3816ccef3f50
+  collapsed:: true
 	- **ARTICLE 72.**
 	  id:: 3b9d29e0-eace-4098-b69f-4c8b7c18a1f2
 	  collapsed:: true
@@ -167,8 +167,8 @@ collapsed:: true
 	- **ARTICLE 79.**
 	  collapsed:: true
 		- Mixed marriages between a Christian male and a Mohammedan or pagan female shall be governed by the general provisions of this Title and not by those of the last preceding article, but mixed marriages between a Mohammedan or pagan male and a Christian female may be performed under the provisions of the last preceding article if so desired by the contracting parties, subject, however, in the latter case to the provisions of the second paragraph of said article. (26)
-## CHAPTER 3 - Void and Voidable Marriages
-collapsed:: true
+- ## CHAPTER 3 - Void and Voidable Marriages
+  collapsed:: true
 	- **ARTICLE 80.**
 	  id:: 338ea8e4-86e1-4dbf-b498-3d15c7c8b218
 	  collapsed:: true
@@ -264,8 +264,8 @@ collapsed:: true
 			- (4) If a bigamous or polygamous marriage was celebrated, and the impediment was concealed from the plaintiff by the party disqualified;
 			- (5) If in an incestuous marriage, or a marriage between a stepbrother and a stepsister or other marriage prohibited by [article 82](((e2cac994-3102-4be6-a386-cf8d38aa0120))), the relationship was known to only one of the contracting parties but was not disclosed to the other;
 			- (6) If one party was insane and the other was aware thereof at the time of the marriage. (n)
-## CHAPTER 4 - Authority to Solemnize Marriages
-collapsed:: true
+- ## CHAPTER 4 - Authority to Solemnize Marriages
+  collapsed:: true
 	- **ARTICLE 92.**
 	  id:: da5c0b5f-a665-4325-80e9-6ad147bd74f5
 	  collapsed:: true
