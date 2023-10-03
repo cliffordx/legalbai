@@ -13,8 +13,10 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- Marriage is a special contract of permanent union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life.
 		- It is the foundation of the family and an inviolable social institution whose nature, consequences, and incidents are governed by law and not subject to stipulation, except that marriage settlements may fix the property relations during the marriage within the limits provided by this Code. (52a)
 	- **ARTICLE 2.**
+	  id:: 65179f14-a416-47f9-b760-cf93dec7af07
 		- No marriage shall be valid, unless these essential requisites are present:
-			- (1) Legal capacity of the contracting parties who must be a male and a female; and
+			- (1) [Legal capacity]([[legal capacity]]) of the contracting parties who must be a male and a female; and
+			  id:: 65179f14-5d04-4608-8549-e079e51de396
 			- (2) Consent freely given in the presence of the solemnizing officer. (53a)
 	- **ARTICLE 3.**
 		- The formal requisites of marriage are:
@@ -82,8 +84,10 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- Such consent shall be manifested in writing by the interested party, who personally appears before the proper local civil registrar, or in the form of an affidavit made in the presence of two witnesses and attested before any official authorized by law to administer oaths.
 		- The personal manifestation shall be recorded in both applications for marriage license, and the affidavit, if one is executed instead, shall be attached to said applications. (61a)
 	- **ARTICLE 15.**
+	  id:: 65179f14-b85e-472f-9409-8c2601808da3
 	  collapsed:: true
-		- Any contracting party between the age of twenty-one and twenty-five shall be obliged to ask their parents or guardian for advice upon the intended marriage.
+		- Any contracting party between the age of twenty-one (21) and twenty-five (25) shall be obliged to ask their parents or guardian for advice upon the intended marriage.
+		  id:: 65179f14-e36a-49d4-a56d-7285fdeaec44
 		- If they do not obtain such advice, or if it be unfavorable, the marriage license shall not be issued till after three months following the completion of the publication of the application therefor.
 		- A sworn statement by the contracting parties to the effect that such advice has been sought, together with the written advice given, if any, shall be attached to the application for marriage license.
 		- Should the parents or guardian refuse to give any advice, this fact shall be stated in the sworn statement. (62a)
@@ -178,10 +182,11 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- The solemnizing officer shall also state under oath that he ascertained the qualifications of the contracting parties are found no legal impediment to the marriage. (76a)
 - # 🔴 Chapter 3 - Void and Voidable Marriages
 	- **ARTICLE 35.**
-	  collapsed:: true
 	  id:: 634fbac1-10d8-4f72-b424-7f07d9901fc7
+	  collapsed:: true
 		- The following marriages shall be void from the beginning:
-			- (1) Those contracted by any party below eighteen years of age even with the consent of parents or guardians;
+			- (1) Those contracted by any party below eighteen (18) years of age even with the consent of parents or guardians;
+			  id:: 65179f14-acf2-47d3-a77a-5750ab131dc6
 			- (2) Those solemnized by any person not legally authorized to perform marriages unless such marriages were contracted with either or both parties believing in good faith that the solemnizing officer had the legal authority to do so;
 			- (3) Those solemnized without license, except those covered the preceding Chapter;
 			- (4) Those bigamous or polygamous marriages not failing under Article 41;
