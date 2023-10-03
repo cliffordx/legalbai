@@ -8,8 +8,8 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 
 - # TITLE I - MARRIAGE
 - # 🔴 Chapter 1. Requisites of Marriage
-  collapsed:: true
 	- **ARTICLE 1.**
+	  id:: 65179f14-cfe9-4c1c-be31-deb4c02f6165
 		- Marriage is a special contract of permanent union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life.
 		- It is the foundation of the family and an inviolable social institution whose nature, consequences, and incidents are governed by law and not subject to stipulation, except that marriage settlements may fix the property relations during the marriage within the limits provided by this Code. (52a)
 	- **ARTICLE 2.**
