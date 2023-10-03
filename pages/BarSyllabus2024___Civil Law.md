@@ -118,7 +118,6 @@
 	- J. Assurance Fund (P.D. No. 1529, Secs. 93-102)
 	- K. Reconstitution of Title (P.D. No. 1529, Sec. 110)
 - ## VII. WILLS AND SUCCESSION
-  collapsed:: true
 	- A. General Provisions (Civil Code, Arts. 774-782)
 	- B. Testamentary Succession
 		- 1. Wills (Civil Code, Arts. 783-795)
