@@ -1,0 +1,1 @@
+- NOTE: note-taking while on class
