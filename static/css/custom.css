@@ -1,0 +1,111 @@
+/* @import url("nord.css");
+.dark-theme,
+html[data-theme='dark'] {
+    --background-color-h: 0;
+    --background-color-s: 0%;
+    --background-color-l: 12%;
+    --cl-text-color: 0,0%,85%;
+    --cl-primary: 258,100%,77%;
+    --cl-secondary: 258,100%,77%;
+    --cl-accent: 258,100%,77%;
+} */
+
+/* added for compact LSB */
+/* Put nav buttons on one row, no text */
+/* .nav-header {
+  margin-left: 2px;
+}
+
+.nav-header .flex-1 {
+  display: none
+}
+
+.nav-header .item {
+  margin-left: 4px;
+  padding: 2px;
+}
+
+.nav-header .ui__icon {
+  margin-right: 0px;
+}
+
+.nav-header {
+  flex-direction: row;
+}
+
+.flashcards-nav .inline-block {
+  margin-left: 	2px;
+  padding: 0px;
+} */
+
+/* bujo inspired dotted lines 10 Apr 2023 */
+/* .dark-theme #app-container {
+    background-image: radial-gradient(#484f5d 8%, #303540 5%);
+    background-position: 0 0;
+    background-size: 25px 25px;
+}
+
+.light-theme, .white-theme, #app-container {
+    background-image: radial-gradient(#08404f 5%, #181818 5%);
+    background-position: 0 0;
+    background-size: 25px 25px;
+} */
+/* bujo end */
+
+/* .white-theme, */
+/* html[data-theme='light'] {
+    --background-color-h: 0;
+    --background-color-s: 0%;
+    --background-color-l: 100%;
+    --cl-text-color: 0,0%,13%;
+    --cl-primary: 258,100%,65%;
+    --cl-secondary: 258,100%,65%;
+    --cl-accent: 258,100%,65%;
+} */
+/* added 21 Nov 2022 */
+/* .block-content {
+    text-align: justify; */
+/* } */
+
+/* added ruler for deep threading 23 July 2023 */
+/* .ls-block > div > div > .bullet-link-wrap:before {
+    position:  absolute;
+    margin-left: -10px;
+    margin-top: -4px;
+}
+.ls-block[level="1"] > div > div > .bullet-link-wrap:before {
+    content: "1";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="2"] > div > div > .bullet-link-wrap:before {
+    content: "2";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="3"] > div > div > .bullet-link-wrap:before {
+    content: "3️";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="4"] > div > div > .bullet-link-wrap:before {
+    content: "4";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="5"] > div > div > .bullet-link-wrap:before {
+    content: "5";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+}
+.ls-block[level="6"] > div > div > .bullet-link-wrap:before {
+    content: "6";
+    font-size: 10px;
+    color: yellow;
+    opacity:  0.4;
+} */
