@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1696421717654
+{:block/created-at 1696497534111
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -16,17 +16,18 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [456 635.99998828058]
+:size [504 588.0000049674467]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "731bbaa0-62af-11ee-96d0-ed4cfdc2cc8e"
 :noFill false
+:isLocked true
 :point [-168 -120]
 :parentId "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
 :collapsedHeight 0
-:nonce 1696421618836}}
-:block/updated-at 1696421717654} 
+:nonce 1696421618888}}
+:block/updated-at 1696497534111} 
 {:block/created-at 1696421775309
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -48,7 +49,7 @@
 :nonce 1696421764446
 :isComplete true}}
 :block/updated-at 1696421775309} 
-{:block/created-at 1696421775456
+{:block/created-at 1696497508466
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -65,25 +66,25 @@
 :id "d030c502-62af-11ee-96d0-ed4cfdc2cc8e"
 :fontWeight 400
 :noFill true
-:point [292 -32]
+:point [340 -32]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [116 0]}
+:point [68 0]}
 :end 
 {:id "end"
 :canBind true
-:point [0 29.61]
+:point [0 15.72]
 :bindingId "d030c501-62af-11ee-96d0-ed4cfdc2cc8e"}}
 :decorations 
 {:end "arrow"}
 :parentId "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
-:nonce 1696421774710
+:nonce 1696421774720
 :italic false}}
-:block/updated-at 1696421775456} 
-{:block/created-at 1696421795760
+:block/updated-at 1696497508466} 
+{:block/created-at 1696497387153
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -95,7 +96,7 @@
 :scaleLevel "md"
 :fill "red"
 :type "text"
-:size [250 58]
+:size [283 58]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -108,10 +109,10 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
-:nonce 1696421781572
+:nonce 1696421781577
 :italic false
-:text "KUNG NAG WARM PA NA\nSILA, DI PANA PWEDE."}}
-:block/updated-at 1696421795760} 
+:text "KUNG NAG WARM UP PA NA\nSILA, DI PANA PWEDE."}}
+:block/updated-at 1696497387153} 
 {:block/created-at 1696421818690
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -267,18 +268,19 @@
 :nonce 1696421883372
 :isComplete true}}
 :block/updated-at 1696421908905} 
-{:block/created-at 1696421924653
+{:block/created-at 1696497546041
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "blue"
+:rotation 0
 :borderRadius 2
 :index 11
 :scale [1 1]
 :scaleLevel "md"
 :fill "blue"
 :type "box"
-:size [424 88]
+:size [424 48]
 :strokeType "dashed"
 :strokeWidth 2
 :opacity 1
@@ -286,13 +288,13 @@
 :id "1efbf920-62b0-11ee-96d0-ed4cfdc2cc8e"
 :fontWeight 400
 :noFill true
-:point [-144 152]
+:point [-112 136]
 :fontSize 20
 :parentId "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
-:nonce 1696421907055
+:nonce 1696421907219
 :italic false}}
-:block/updated-at 1696421924653} 
-{:block/created-at 1696422073647
+:block/updated-at 1696497546041} 
+{:block/created-at 1696497556393
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -313,15 +315,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [312 184]
+:point [352 160]
 :lineHeight 1.2
 :fontSize 20
 :parentId "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
-:nonce 1696421927999
+:nonce 1696421928043
 :italic false
 :text "pp. v. Araquel, 1959."}}
-:block/updated-at 1696422073647} 
-{:block/created-at 1696421953579
+:block/updated-at 1696497556393} 
+{:block/created-at 1696497554298
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -337,11 +339,11 @@
 :opacity 1
 :id "33d1d5e0-62b0-11ee-96d0-ed4cfdc2cc8e"
 :noFill true
-:point [288.8507239630959 170.47834481669466]
+:point [312 136]
 :parentId "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
-:nonce 1696421941924
+:nonce 1696421941992
 :isComplete true}}
-:block/updated-at 1696421953579} 
+:block/updated-at 1696497554298} 
 {:block/created-at 1696421990316
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -372,7 +374,7 @@
 :italic false
 :text "ABSOLUTORY CAUSE"}}
 :block/updated-at 1696421990316} 
-{:block/created-at 1696422012234
+{:block/created-at 1696497560199
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -393,14 +395,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-456 -104]
+:point [-464 -88]
 :lineHeight 1.2
 :fontSize 20
 :parentId "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
-:nonce 1696422005913
+:nonce 1696422005921
 :italic false
 :text "FIRST REQUISITE."}}
-:block/updated-at 1696422012234})
+:block/updated-at 1696497560199})
 :pages (
 {:block/uuid #uuid "651d56e8-a970-431f-b7a3-0ff39e0d63d6"
 :block/properties 
@@ -420,7 +422,7 @@
 :nonce 1
 :assets []
 :shapes-index ("731bbaa0-62af-11ee-96d0-ed4cfdc2cc8e" "c9dbd410-62af-11ee-96d0-ed4cfdc2cc8e" "d030c502-62af-11ee-96d0-ed4cfdc2cc8e" "d44589f0-62af-11ee-96d0-ed4cfdc2cc8e" "e8b021c0-62af-11ee-96d0-ed4cfdc2cc8e" "e9d23390-62af-11ee-96d0-ed4cfdc2cc8e" "ef40e330-62af-11ee-96d0-ed4cfdc2cc8e" "f6301850-62af-11ee-96d0-ed4cfdc2cc8e" "017e3ac0-62b0-11ee-96d0-ed4cfdc2cc8e" "048b53b0-62b0-11ee-96d0-ed4cfdc2cc8e" "10e6ee80-62b0-11ee-96d0-ed4cfdc2cc8e" "1efbf920-62b0-11ee-96d0-ed4cfdc2cc8e" "2b8de630-62b0-11ee-96d0-ed4cfdc2cc8e" "33d1d5e0-62b0-11ee-96d0-ed4cfdc2cc8e" "3e42b7b0-62b0-11ee-96d0-ed4cfdc2cc8e" "5a01d620-62b0-11ee-96d0-ed4cfdc2cc8e")}}
-:block/updated-at 1696422073647
+:block/updated-at 1696497560199
 :block/created-at 1696421608944
 :block/type "whiteboard"
 :block/name "wb_4oct_2023"
