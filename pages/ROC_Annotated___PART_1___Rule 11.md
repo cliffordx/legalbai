@@ -8,7 +8,9 @@ sys-category:: [[41]]
 
 # RULE 11 - When to File Responsive Pleadings
 - **SECTION 1.** *Answer to the complaint.*
+  id:: 651faf50-dea1-4ede-a879-3b4cdf82f0da
 	- The defendant shall file his <u>or her</u> answer to the complaint within ~~fifteen (15)~~  <u>thirty (30) calendar</u> days after service of summons, unless a different period is fixed by the court. (1a)
+	  id:: 651faf50-8db5-43df-92c1-029e327525b4
 - **SECTION 2.** *Answer of a defendant foreign private juridical entity.*
 	- Where the defendant is a foreign private juridical entity and service of summons is made on the government official designated by law to receive the same, the answer shall be filed within ~~thirty (30)~~ <u>sixty (60) calendar</u> days after receipt of summons by such entity. (2a)
 - **SECTION 3.** *Answer to amended complaint.*
