@@ -6,7 +6,7 @@ tags:: #codal/roc/civpro #ptmd
 status:: active
 sys-category:: [[41]]
 
-# RULE 14 - Summons
+- # RULE 14 - Summons
 - **SECTION 1.** *Clerk to issue summons.*
 	- ~~Upon the filing of the complaint and the payment of the requisite legal fees,~~ <ins>Unless the complaint is on its face dismissible under</ins> [Section 1, Rule 9](((4f441dbd-a613-4e1c-ad5f-a83024b4b0be))), <ins>the court shall, within five (5) calendar days from receipt of the initiatory pleading and proof of payment of the requisite legal fees, direct the</ins> clerk of court shall forthwith issue the corresponding summons to the defendants. (1a)
 - **SECTION 2.** *Contents.*
@@ -17,7 +17,6 @@ sys-category:: [[41]]
 		- (d) A notice that unless the defendant so answers, plaintiff will take judgment by default and may be granted the relief applied for.
 	- A copy of the complaint and order for appointment of guardian *ad litem*, if any, shall be attached to the original and each copy of the summons. (2a)
 - **SECTION 3.** *By whom served.*
-  collapsed:: true
 	- The summons may be served by the sheriff, his <u>or her</u> deputy, or other proper court officer, <u>and in case of failure of service of summons by them, the court may authorize the plaintiff — to serve the summons — together with the sheriff.</u>~~or for justifiable reasons by any suitable person authorized by the court issuing the summons. (5a)~~
 	- <u>In cases where summons is to be served outside the judicial region of the court where the case is pending, the plaintiff shall be authorized to cause the service of summons.</u>
 	- <u>If the plaintiff is a juridical entity, it shall notify the court, in writing, and name its authorized representative therein, attaching a board resolution or secretary's certificate thereto, as the case may be, stating that such representative is duly authorized to serve the summons on behalf of the plaintiff.</u>
@@ -32,13 +31,11 @@ sys-category:: [[41]]
 	- <ins>Substituted service should be in the manner provided under</ins> [Section 6](((467028ab-8859-428f-9417-5ba94d80d66d))) <ins>of this Rule.</ins>(5a)
 - **SECTION 5.** ~~Issuance of alias summons.~~ <u>Service in Person on Defendant.</u>
   id:: 42f59fa2-2943-4e1f-b9b3-e33eac4fb25b
-  collapsed:: true
 	- ~~If a summons is returned without being served on any or all of the defendants, the server shall also serve a copy of the return on the plaintiff's counsel, stating the reasons for the failure of service, within five (5) days therefrom. ~~
 	- ~~In such a case, or if the summons has been lost, the clerk, on demand of the plaintiff, may issue an alias summons. (4a)~~
 	- Whenever practicable, the summons shall be served by handing a copy thereof to the defendant in person <ins>and informing the defendant that he or she is being served</ins>, or, if he <ins>or she</ins> refuses to receive and sign for it, <ins>by leaving the summons within the view and in the presence of the defendant.</ins> (6a)
 - **SECTION 6.** ~~Service in person on defendant.~~ Substituted Service.
   id:: 467028ab-8859-428f-9417-5ba94d80d66d
-  collapsed:: true
 	- ~~Whenever practicable, the summons shall be served by handing a copy thereof to the defendant in person, or, if he refuses to receive and sign for it, by tendering it to him. (7a)~~
 	- If, for justifiable causes, the defendant cannot be served <u>personally after at least three (3) attempts on two (2) different dates</u>, service may be effected:
 		- (a) By leaving copies of the summons at the defendant's residence <ins>to a person at least eighteen (18) years of age and of sufficient discretion</ins> residing <ins>therein</ins>;
@@ -47,7 +44,6 @@ sys-category:: [[41]]
 		- (c) <u>By leaving copies of the summons, if refused entry upon making his or her authority and purpose known, with any of the officers of the homeowners' association or condominium corporation, or its chief security officer in charge of the community or the building where the defendant may be found; and</u>
 		- (d) <u>By sending an electronic mail to the defendant's electronic mail address, if allowed by the court.</u> (7a)
 - **SECTION 7.** *Service upon Entity without Juridical Personality*
-  collapsed:: true
 	- When persons associated in an entity without juridical personality are sued under the name by which they are generally or commonly known, service may be effected upon all the defendants by serving upon any one of them, or upon the person in charge of the office or place of business maintained in such name.
 	- But such service shall not bind individually any person whose connection with the entity has, upon due notice, been severed before the action was <ins>filed</ins>. (8a)
 - **SECTION 8.** *Service upon* <u>Prisoners</u> ~~entity without juridical personality~~.
@@ -56,7 +52,6 @@ sys-category:: [[41]]
 	- ~~But such service shall not bind individually any person whose connection with the entity has, upon due notice, been severed before the action was brought.~~ When the defendant is a prisoner confined in a jail or institution, service shall be effected upon him <u>or her</u> by the officer having the management of such jail or institution who is deemed as a special sheriff for said purpose.
 	- <u>The jail warden shall file a return within five (5) calendar days from service of summons to the defendant.</u>(9a)
 - **SECTION 9.** *Service* <u>Consistent with International Conventions.</u> ~~upon prisoners~~.
-  collapsed:: true
 	- ~~When the defendant is a prisoner confined in a jail or institution, service shall be effected upon him by the officer having the management of such jail or institution who is deemed deputized as a special sheriff for said purpose. (12a)~~
 	- <u>Service may be made through methods which are consistent with established international conventions to which the Philippines is a party.</u> (n)
 - **SECTION 10.** *Service upon minors and incompetents.*
