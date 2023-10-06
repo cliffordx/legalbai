@@ -13,7 +13,7 @@ sys-category:: [[41]]
 	- A party may amend his pleading once as a matter of right at any time before a responsive pleading is served or, in the case of a reply, at any time within ten (10) days after it is served. (2a)
 - **SECTION 3.** *Amendments by leave of court.*
 	- Except as provided in the next preceding section, substantial amendments may be made only upon leave of court.
-	- But such leave ~~may~~ <u>shall</u>  be refused if it appears to the court that the motion was made with intent to delay  <u>[or] confer jurisdiction on the court, or the pleading stated no cause of action from the beginning which could be amended</u>.
+	- But such leave ~~may~~ <u>shall</u>  be refused if it appears to the court that the motion was made with intent to delay [or] <ins>confer jurisdiction on the court, or the pleading stated no cause of action from the beginning which could be amended</ins>.
 	- Orders of the court upon the matters provided in this section shall be made upon motion filed in court, and after notice to the adverse party, and an opportunity to be heard. (3a)
 - **SECTION 4.** *Formal amendments.*
 	- A defect in the designation of the parties and other clearly clerical or typographical errors may be summarily corrected by the court at any stage of the action, at its initiative or on motion, provided no prejudice is caused thereby to the adverse party. (4a)
