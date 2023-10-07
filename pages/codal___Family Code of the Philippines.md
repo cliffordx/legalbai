@@ -12,4 +12,3 @@ status:: active
 	- [PROPERTY RELATIONS]([[codal/Family Code of the Philippines/Title 4]])
 - [THE FAMILY]([[codal/Family Code of the Philippines/Title 5]])
 - [LEGAL SEPARATION]([[codal/Family Code of the Philippines/Title 2]])
--
