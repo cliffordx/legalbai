@@ -41,7 +41,7 @@ tags:: paksiteer, paksitive, paksionate
 		- Some  to websites are , *for example*, Amazon. These are sponsored and/or affiliated websites, meaning that if you purchase something from them using my , I will earn a 'tiny' commission fee. It is necessary to disclose this information, as it is required nowadays.
 - ## Support or Contact
   id:: 635bc75b-4c3b-4b8f-9d92-f58f0d227fd2
-	- You may reach me at @cliffordx on these SOSYAL MEDYAS:
+	- You may reach me at @cliffordx in these SOSYAL MEDYAS:
 	  id:: de1311b9-7141-4a55-950c-2ffe17d350c0
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)
 		- [Spotify podcast](https://podcasters.spotify.com/pod/show/cliffordx/)
