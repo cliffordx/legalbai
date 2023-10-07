@@ -44,8 +44,9 @@ tags:: paksiteer, paksitive, paksionate
 	- You may reach me at @cliffordx on these SOSYAL MEDYAS:
 	  id:: de1311b9-7141-4a55-950c-2ffe17d350c0
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)
-		- [Twitter](https://twitter.com/cliffordx)
+		- [Spotify podcast](https://podcasters.spotify.com/pod/show/cliffordx/)
 		- [Youtube](https://youtube.com/CliffordEnoc)
+		- [Twitter](https://twitter.com/cliffordx)
 - #### Articles
 - [[Index_Cards]]
 - [[ROC_Annotated]]
