@@ -27,6 +27,7 @@
 			- Lex Loci Solutionis
 		- 3. Recognition and Enforcement of Foreign Judgment
 - ## II. HUMAN RELATIONS
+  collapsed:: true
 	- A. Abuse of Rights (Civil Code, Arts. 19-22)
 		- 1. Acts Contra Bonus Mores
 		- 2. Breach of Promise of Marriage
@@ -34,6 +35,7 @@
 	- C. Thoughtless Extravagance (Civil Code, Art. 25)
 	- D. Tortious Interference (Civil Code, Art. 1314)
 - ## III. PERSONS AND FAMILY RELATIONS
+  collapsed:: true
 	- A. Natural Persons
 		- 1. Capacity to Act; Restrictions (Civil Code, Arts. 37-39)
 		- 2. Commencement and End of Civil Personality (Civil Code, Arts. 40-42)
@@ -93,11 +95,13 @@
 	- H. Easements; Easement of Right of Way (Civil Code, Arts. 613, 649-657)
 	- I. Nuisance (Civil Code, Arts. 694-707
 - ## V. DIFFERENT MODES OF ACQUIRING OWNERSHIP
+  collapsed:: true
 	- A. Occupation (Civil Code, Art. 713-720) 
 	  id:: 6515209b-9161-41e1-ba2c-59892c40d06a
 	- B. Donation (Civil Code, Arts. 725-773)
 	- C. Prescription (Civil Code, Arts. 1106-1155)
 - ## VI. LAND TITLES AND DEEDS
+  collapsed:: true
 	- A. Regalian Doctrine (Const., Art. XII, Sec. 2)
 	- B. Nationality Restrictions on Land Ownership (Constitution, Art. XII, Sec. 7-8)
 	- C. Registry of Property (Civil Code, Arts. 708-711)
@@ -118,6 +122,7 @@
 	- J. Assurance Fund (P.D. No. 1529, Secs. 93-102)
 	- K. Reconstitution of Title (P.D. No. 1529, Sec. 110)
 - ## VII. WILLS AND SUCCESSION
+  collapsed:: true
 	- A. General Provisions (Civil Code, Arts. 774-782)
 	- B. Testamentary Succession
 		- 1. Wills (Civil Code, Arts. 783-795)
