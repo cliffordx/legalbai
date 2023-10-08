@@ -715,6 +715,7 @@ sys-category:: [[21]]
 				- Any person who shall assist another to commit suicide shall suffer the penalty of prision mayor; if such person leads his assistance to another to the extent of doing the killing himself, he shall suffer the penalty of reclusion temporal. However, if the suicide is not consummated, the penalty of arresto mayor in its medium and maximum periods, shall be imposed.
 				  id:: 633709ad-f600-486c-b5e4-f3552451e0b8
 			- **Art. 254.** *Discharge of firearms.*
+			  id:: 6520ff37-4734-4b73-a578-a8bae2fcc170
 			  collapsed:: true
 				- Any person who shall shoot at another with any firearm shall suffer the penalty of prision correccional in its minimum and medium periods, unless the facts of the case are such that the act can be held to constitute frustrated or attempted parricide, murder, homicide or any other crime for which a higher penalty is prescribed by any of the articles of this Code.
 		- ## Section Two. — Infanticide and abortion.  
