@@ -24,9 +24,10 @@ tags:: paksiteer paksitive paksionate
   collapsed:: true
 	- The views and opinions expressed in this page and all pages herein are those of the author. This Github page is for general informational and educational purposes, and not offered as, and does not constitute, legal advice or legal opinion.
 - ### Support or Contact
+  id:: 6520ff41-d265-4bb0-b310-a275329d81be
 	- You may reach me at @cliffordx on these Social Media:
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)
 		- [Twitter](https://twitter.com/cliffordx)
-## Articles
+- ## Articles
 - [[Index_Cards]]
 - [[ROC_Annotated]]
