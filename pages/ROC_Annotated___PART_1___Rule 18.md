@@ -14,6 +14,7 @@ sys-category:: [[41]]
 	- After the last <u>responsive</u> pleading has been served and filed, the branch clerk of court shall issue, within five (5) calendar days from filing, a notice of pre-trial which shall be set not later than sixty (60) calendar days from the filing of the last responsive pleading. (1a)
 - **SECTION 2.** Nature and [P]urpose.
   id:: 62bbdbd5-5a34-4eb1-9781-22a4d0d75ce2
+  collapsed:: true
 	- The pre-trial is mandatory <u>and should be terminated promptly.</u>
 		- The court shall consider:
 			- (a) The possibility of an amicable settlement or of a submission to alternative modes of dispute resolution;
@@ -21,9 +22,9 @@ sys-category:: [[41]]
 			- (c) The possibility of obtaining stipulations or admissions of facts and of documents to avoid unnecessary proof;
 			- (d) The limitation of the number <ins>and identification</ins> of witnesses <ins>and the setting of trial dates</ins>;
 			- (e) The advisability of a preliminary reference of issues to a commissioner;
-			- (f) The propriety of rendering judgment on the pleadings, or summary judgment, or of dismissing the action should a valid ground therefor be found to exist;
+			- (f) The propriety of rendering ==judgment on the pleadings==, or ==summary judgment==, or of dismissing the action should a valid ground therefor be found to exist;
+			  id:: 6520ff2a-59e8-46bd-848e-75bdb9767b26
 			- (g) <u>The requirement for the parties to:</u>
-			  collapsed:: true
 				- 1. Mark their respective evidence if not yet marked in the judicial affidavits of their witnesses;
 				- 2. Examine and make comparisons of the adverse parties' evidence *vis-a-vis* the copies to be marked;
 				- 3. Manifest for the record stipulations regarding the faithfulness of the reproductions and the genuineness and due execution of the adverse parties' evidence;
@@ -48,11 +49,12 @@ sys-category:: [[41]]
 	- <ins>A representative may appear on behalf of a party, but must be fully authorized in writing to enter into an amicable settlement, to submit to alternative modes of dispute resolution, and to enter into stipulations or admissions of facts and documents.</ins>
 - **SECTION 5.** Effect of failure to appear.
   id:: 630798b2-8951-49e9-aee3-5e8cc9d95172
-	- <ins>When duly notified</ins>, the failure of the plaintiff <ins>and counsel</ins> to appear without valid cause when so required, pursuant to the next preceding [S]ection, shall cause the dismissal of the action.
+	- When duly notified, the failure of the plaintiff <ins>and counsel</ins> to appear without valid cause when so required, pursuant to the next preceding [S]ection, shall cause the dismissal of the action.
 	- The dismissal shall be with prejudice, unless otherwise ordered by the court.
 	- A similar failure on the part of the defendant <ins>and counsel</ins> shall be cause to allow the plaintiff to present his <ins>or her</ins> evidence _ex parte_ <ins>within ten (10) calendar days from termination of the pre- trial</ins>, and the court to render judgment on the basis <ins>of the evidence offered</ins>. (5a)
 - **SECTION 6.** Pre-trial brief.
-	- The parties shall file with the court and serve on the adverse party, in such manner as shall ensure their receipt thereof at least three (3) <ins>calendar</ins> days before the date of the pre-trial, their respective pre-trial briefs which shall contain, among others:
+  id:: 6520ff2a-3f30-4114-9b78-708385ae01d8
+	- The parties shall file with the court and serve on the adverse party, in such manner as **shall** ensure their receipt thereof at least three (3) <ins>calendar</ins> days before the date of the pre-trial, their respective pre-trial briefs which shall contain, among others:
 		- (a) A concise statement of the case and the reliefs prayed for;
 		- (b) A summary of admitted facts and proposed stipulation of facts;
 		- (c) The main factual and legal issues to be tried or resolved;
@@ -60,7 +62,7 @@ sys-category:: [[41]]
 		- (e) The documents or other object evidence to be marked, stating the purpose thereof;
 		- (f) The names of the witnesses, and the summary of their respective testimonies; and
 		- (g) A brief statement of points of law and citation of authorities.
-	- Failure to file the pre-trial brief shall have the same effect as failure to appear at the pre-trial. (n)
+	- ==Failure to file the pre-trial brief shall have the same effect as failure to appear at the pre-trial.== (n)
 - **SECTION 7.** Pre-trial Order.
 	- Upon termination of the pre-trial, the court shall issue an order within ten (10) calendar days which shall recite in detail the matters taken up.
 	- *_The order shall include:_*
