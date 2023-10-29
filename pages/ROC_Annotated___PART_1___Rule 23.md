@@ -11,14 +11,13 @@ sys-category:: [[41]]
   heading:: true
   id:: 62bbdbd5-a9fe-466d-a00d-82b3a262ae33
 - **SECTION 1**. Depositions pending action, when may be taken.
-  collapsed:: true
   id:: 62c12fd7-028c-4c82-9070-bf192746d090
 	- **Upon ex parte motion of a party**, the testimony of any person, whether a party or not, may be taken **may be taken by deposition upon oral examination or written interrogatories**.
-	  collapsed:: true
-		- **1997 amendments was read as:**
+	  id:: 6520ff2a-842e-48de-86e2-d45596b88f70
+		- **1997 amendment was read as:**
 		  > By leave of court after jurisdiction has been obtained over any defendant or over property which is the subject of the action, or without such leave after an answer has been served the testimony of any person, whether a party or not, may be taken,  at the instance of any party, by deposition upon oral examination or written interrogatories.
 	- The attendance of witnesses may be compelled by the use of a subpoena as provided in Rule 21.
-	  collapsed:: true
+	  id:: 6520ff2a-1d44-42a7-84fb-dd2d6490060b
 		- #NOTE/codal/civpro/R23/1 Rule 21 {{embed ((01e336a3-3b6c-4906-8494-c64e62935490))}}
 		- Rule 23: {{embed ((54cd8a54-4be2-49d1-b2fd-2131c680bbb2))}}
 		- Rule 23: {{embed ((e6e473d1-de40-47d8-a79d-da6de9578629))}}
@@ -33,14 +32,12 @@ sys-category:: [[41]]
   collapsed:: true
 	- Examination and cross-examination of deponents may proceed as permitted at the trial under , Sections 3 to 18 of Rule 132. (3a, R24)
 - **SECTION 4.** Use of depositions.
-  collapsed:: true
   id:: 62c12fd7-cfc7-4ab0-9f95-bc7320169ba8
 	- At the trial or upon the hearing of a motion or an interlocutory proceeding, any part or all of a deposition, so far as admissible under the rules of evidence, may be used against any party who was present or represented at the taking of the deposition or who had due notice thereof, in accordance with any one of the following provisions:
 		- (a) Any deposition may be used by any party for the purpose of contradicting or impeaching the testimony of deponent as a witness;
 		- (b) The deposition of a party or of any one who at the time of taking the deposition was an officer, director, or managing agent of a public or private corporation, partnership, or association which is a party may be used by an adverse party for any purpose;
 		  id:: 42842a08-2758-470c-b773-032be61724dd
 		- (c) The deposition of a witness, whether or not a party, may be used by any party for any purpose if the court finds:
-		  collapsed:: true
 			- (1) that the witness is dead; or
 			- (2) that the witness resides at a distance more than one hundred (100) kilometers from the place of trial or hearing, or is out of the Philippines, unless it appears that his <ins>or her</ins> absence was procured by the party offering the deposition; or
 			- (3) that the witness is unable to attend or testify because of age, sickness, infirmity, or imprisonment; or
@@ -72,7 +69,7 @@ sys-category:: [[41]]
 		- (b) before such person or officer as may be appointed by commission or under letters rogatory; or
 		- (c) the person referred to in [Section 14](((b0d1df83-1080-4f77-8a19-11f18696ad21))) hereof. (11a, R24)
 - **SECTION 12.** Commission or letters rogatory.
-  collapsed:: true
+  id:: 6520ff2a-6227-4112-839a-b08f5f854352
 	- A commission or letters rogatory shall be issued only when necessary or convenient, on application and notice, and on such terms and with such direction as are just and appropriate.
 	- Officers may be designated in notices or commissions either by name or descriptive title and letters rogatory may be addressed to the appropriate judicial authority in the foreign country. (12a, R24)
 - **SECTION 13**. Disqualification by interest.
