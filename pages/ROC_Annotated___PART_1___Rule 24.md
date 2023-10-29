@@ -21,7 +21,6 @@ sys-category:: [[41]]
 		- (d) the names or a description of the persons he <ins>or she</ins> expects will be adverse parties and their addresses so far as known; and
 		- (e) the names and addresses of the persons to be examined and the substance of the testimony which he <ins>or her</ins> expects to elicit from each, and shall ask for an order authorizing the petitioner to take the depositions of the persons to be examined named in the petition for the purpose of perpetuating their testimony. (2, R134)
 - **SECTION 3.** Notice and service.
-  collapsed:: true
 	- The petitioner shall serve a notice upon each person named in the petition as an expected adverse party, together with a copy of the petition, stating that the petitioner will apply to the court, at a time and place named therein, for the order described in the petition.
 	- At least twenty (20) <ins>calendar</ins> days before the date of the hearing, the court shall cause notice thereof to be served on the parties and prospective deponents in the manner provided for service of summons. (3a, R134)
 	  background-color:: #497d46
@@ -36,7 +35,7 @@ sys-category:: [[41]]
   collapsed:: true
 	- If a deposition to perpetuate testimony is taken under this Rule, or if, although not so taken, it would be admissible in evidence, it may be used in any action involving the same subject matter subsequently brought in accordance with the provisions of Sections 4 and 5 of Rule 23. (6a, R134)
 - **SECTION 7.** Depositions pending appeal.
-  collapsed:: true
+  id:: 6520ff2a-9c68-46b4-9220-0ede5d37064e
 	- If an appeal has been taken from a judgment of a court, including the Court of Appeals in proper cases, or before the taking of an appeal if the time therefor has not expired, the court in which the judgment was rendered may allow the taking of depositions of witnesses to perpetuate their testimony for use in the event of further proceedings in the said court.
 	- In such case the party who desires to perpetuate the testimony may **make a motion** in the said court for leave to take the depositions, upon the same notice and service thereof as if the action was pending therein.
 	- The motion shall state:
