@@ -31,6 +31,7 @@ sys-category:: [[41]]
 	- In either case, the subpoena may be quashed on the ground that the witness fees and kilometrage allowed by these Rules were not tendered when the subpoena was served. (4a, R23)
 - **SECTION 5.** Subpoena for depositions.
   id:: 01e336a3-3b6c-4906-8494-c64e62935490
+  collapsed:: true
 	- Proof of service of a notice to take a deposition, as provided in Sections [15](((54cd8a54-4be2-49d1-b2fd-2131c680bbb2))) and [25](((e6e473d1-de40-47d8-a79d-da6de9578629))) of Rule 23, shall constitute sufficient authorization for the issuance of subpoenas for the persons named in said notice by the clerk of the court of the place in which the deposition is to be taken.
 	- The clerk shall not, however, issue a subpoena *duces tecum* to any such person without an order of the court. (5a, R23)
 - **SECTION 6.** Service.
