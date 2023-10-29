@@ -49,6 +49,7 @@ sys-category:: [[41]]
 	- <ins>A representative may appear on behalf of a party, but must be fully authorized in writing to enter into an amicable settlement, to submit to alternative modes of dispute resolution, and to enter into stipulations or admissions of facts and documents.</ins>
 - **SECTION 5.** Effect of failure to appear.
   id:: 630798b2-8951-49e9-aee3-5e8cc9d95172
+  collapsed:: true
 	- When duly notified, the failure of the plaintiff <ins>and counsel</ins> to appear without valid cause when so required, pursuant to the next preceding [S]ection, shall cause the dismissal of the action.
 	- The dismissal shall be with prejudice, unless otherwise ordered by the court.
 	- A similar failure on the part of the defendant <ins>and counsel</ins> shall be cause to allow the plaintiff to present his <ins>or her</ins> evidence _ex parte_ <ins>within ten (10) calendar days from termination of the pre- trial</ins>, and the court to render judgment on the basis <ins>of the evidence offered</ins>. (5a)
