@@ -70,7 +70,7 @@ status:: active
 			  query-properties:: [:title :alt-title]
 		- ### Pre-Trial and Mode of Discovery
 		  heading:: true
-		  collapsed:: true
+		  id:: 6520ff29-0e56-4994-8ae1-493af49e07ac
 			- {{query #ptmd}}
 			  query-table:: true
 			  query-properties:: [:title :alt-title]
