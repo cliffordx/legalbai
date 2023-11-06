@@ -56,7 +56,7 @@ icon:: 🏠
 	  But the end in sight gives me cheer.  
 	  To don the robes of the noble,  
 	  As counsel, the goal now feels near.[^1]
-		- [^1]: ^{This poem is ~~99%~~ 98% created by Generative AI and only ~~1%~~ 2% edited by Clifford Enoc. A carefully crafted prompts was made possible through **prompt engineer skills**.}
+		- [^1]: ^{This poem is ~~99%~~ 98% created by Generative AI and only ~~1%~~ 2% edited by Clifford Enoc. A carefully crafted prompts was made possible through **prompt engineering skills**.}
 - {{embed ((635bc75b-7730-4bdb-8246-0d43c3432cd3))}}
 - {{embed ((635bc75b-257f-4fc4-b4f3-8dece2332ef7))}}
 - ---
