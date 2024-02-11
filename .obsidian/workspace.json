@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "01661c9d3b62acfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7b79635441f05e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3e8bff7323037b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2023_12_31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2514a16a5cbfcf0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda508c8cbc735ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1ca4b660e09a63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbb56f0d4911b9f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfb29c22e6258e1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbe887fba8b1a94b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a57b62169886324f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178b774854aa10e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2023_12_31.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95abc556bbd8c720",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journals/2023_12_31.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05e450b6a739974f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2173ce171fe9eee7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journals/2023_12_31.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0e3e8bff7323037b",
+  "lastOpenFiles": [
+    "pages/ROC_Annotated___PART_4___Rule 128.md",
+    "journals/2023_12_31.md",
+    "journals/2022_07_28.md",
+    "logseq/bak/pages/CONSTI_REVALIDA_CONSTI_1_QUESTIONS_cards/2023-12-31T10_44_33.903Z.Desktop.md",
+    "pages/CIVIL CODE___BOOK 2___TITLE_7.md",
+    "pages/CIVIL CODE___BOOK 1___TITLE_3.md",
+    "pages/CIVIL CODE___BOOK 1___TITLE_2.md",
+    "pages/CIVIL CODE___BOOK 1___TITLE_1.md",
+    "pages/NIRC___TITLE_II.md",
+    "pages/capital assets.md",
+    "pages/Chess.md",
+    "pages/BarSyllabus2024___Civil Law.md",
+    "pages/BarSyllabus2024.md",
+    "pages/Affine.md",
+    "journals/2022_08_07.md"
+  ]
+}
