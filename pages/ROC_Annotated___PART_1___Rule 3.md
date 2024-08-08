@@ -5,14 +5,26 @@ law-subject:: remedial
 tags:: #codal/roc/civpro #caap
 status:: active
 sys-category:: [[41]]
-# RULE 3  - Parties to Civil Actions
+
+- # RULE 3  - Parties to Civil Actions
 - **SECTION 1.** *Who may be parties; plaintiff and defendant.*
 	- Only natural or juridical persons, or entities authorized by law may be parties in a civil action.
 	- The term "plaintiff" may refer to the claiming party, the counter-claimant, the cross-claimant, or the third (fourth, etc.) — party plaintiff.
 	- The term "defendant" may refer to the original defending party, the defendant in a counterclaim, the cross-defendant, or the third (fourth, etc.) — party defendant. (1a)
+	- **[Thursday, August 8, 2024; 14:12:06]**
+	  background-color:: yellow
+		- *Who are parties to a civil suit?*
+			- The parties in a civil case are natural or juridical persons, or entities authorized by law.
+				- The parties in the suit shall be prosecuted and defended in the name of the real party in interest.
+					- > {{embed ((66b46508-69b0-4fc4-8059-77c6b459a651))}}
+		- *Who are natural persons in a civil case?*
+			- Those are individuals that are plaintiffs and defendants in the case with physical body created by the biological intervention from their parents.
+		- *Who are juridical persons in a civil case?*
+			- They are persons created by fiction of law such as corporations or partnerships.
 - **SECTION 2.** *Parties in interest.*
 	- A real party in interest is the party who stands to be benefited or injured by the judgment in the suit, or the party entitled to the avails of the suit.
 	- Unless otherwise authorized by law or these Rules, every action must be prosecuted or defended in the name of the real party in interest. (2a)
+	  id:: 66b46508-69b0-4fc4-8059-77c6b459a651
 - **SECTION 3.** *Representatives as parties.*
 	- Where the action is allowed to be prosecuted or defended by a representative or someone acting in a fiduciary capacity, the beneficiary shall be included in the title of the case and shall be deemed to be the real party in interest.
 	- A representative may be a trustee of an express trust, a guardian, an executor or administrator, or a party authorized by law or these Rules.
