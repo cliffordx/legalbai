@@ -7,8 +7,13 @@ status:: active
 sys-category:: [[41]]
 
 - # RULE 14 - Summons
-- **SECTION 1.** *Clerk to issue summons.*
-	- ~~Upon the filing of the complaint and the payment of the requisite legal fees,~~ <ins>Unless the complaint is on its face dismissible under</ins> [Section 1, Rule 9](((4f441dbd-a613-4e1c-ad5f-a83024b4b0be))), <ins>the court shall, within five (5) calendar days from receipt of the initiatory pleading and proof of payment of the requisite legal fees, direct the</ins> clerk of court shall forthwith issue the corresponding summons to the defendants. (1a)
+- **SECTION 1.** *Clerk to issue summons.* #kanban
+	- 2019 Amendments
+	  background-color:: yellow
+		- Unless the complaint is on its face dismissible under [Section 1, Rule 9](((4f441dbd-a613-4e1c-ad5f-a83024b4b0be))), the court shall, within five (5) calendar days from receipt of the initiatory pleading and proof of payment of the requisite legal fees, direct the clerk of court shall forthwith issue the corresponding summons to the defendants. (1a)
+	- 1997 Rules
+	  background-color:: yellow
+		- Upon the filing of the complaint and the payment of the requisite legal fees, the clerk of court shall forthwith issue the corresponding summons to the defendants.^{_Before the amendments._}
 - **SECTION 2.** *Contents.*
 	- The summons shall be directed to the defendant, signed by the clerk of court under seal, and contain:
 		- (a) The name of the court and the names of the parties to the action;
@@ -29,11 +34,16 @@ sys-category:: [[41]]
 	- <ins>In case of loss or destruction of summons, the court may, upon motion, issue an alias summons.</ins>
 	- <ins>There is failure of service after unsuccessful attempts to personally serve the summons on the defendant in his or her address indicated in the complaint.</ins>
 	- <ins>Substituted service should be in the manner provided under</ins> [Section 6](((467028ab-8859-428f-9417-5ba94d80d66d))) <ins>of this Rule.</ins>(5a)
-- **SECTION 5.** ~~Issuance of alias summons.~~ <u>Service in Person on Defendant.</u>
+- **SECTION 5.** #kanban
   id:: 42f59fa2-2943-4e1f-b9b3-e33eac4fb25b
-	- ~~If a summons is returned without being served on any or all of the defendants, the server shall also serve a copy of the return on the plaintiff's counsel, stating the reasons for the failure of service, within five (5) days therefrom. ~~
-	- ~~In such a case, or if the summons has been lost, the clerk, on demand of the plaintiff, may issue an alias summons. (4a)~~
-	- Whenever practicable, the summons shall be served by handing a copy thereof to the defendant in person <ins>and informing the defendant that he or she is being served</ins>, or, if he <ins>or she</ins> refuses to receive and sign for it, <ins>by leaving the summons within the view and in the presence of the defendant.</ins> (6a)
+	- 2019 Amendments — **Service in Person on Defendant.**
+	  background-color:: yellow
+		- Whenever practicable, the summons shall be served by handing a copy thereof to the defendant in person and informing the defendant that he or she is being served, or, if he or she refuses to receive and sign for it, by leaving the summons within the view and in the presence of the defendant. (6a)
+	- 1997 Rules — **Issuance of alias summons.**
+	  background-color:: red
+		- If a summons is returned without being served on any or all of the defendants, the server shall also serve a copy of the return on the plaintiff's counsel, stating the reasons for the failure of service, within five (5) days therefrom.
+		- In such a case, or if the summons has been lost, the clerk, on demand of the plaintiff, may issue an alias summons. (4a)
+		- Whenever practicable, the summons shall be served by handing a copy thereof to the defendant in person, or, if he refuses to receive and sign for it. (6a)
 - **SECTION 6.** ~~Service in person on defendant.~~ Substituted Service.
   id:: 467028ab-8859-428f-9417-5ba94d80d66d
 	- ~~Whenever practicable, the summons shall be served by handing a copy thereof to the defendant in person, or, if he refuses to receive and sign for it, by tendering it to him. (7a)~~
@@ -46,11 +56,15 @@ sys-category:: [[41]]
 - **SECTION 7.** *Service upon Entity without Juridical Personality*
 	- When persons associated in an entity without juridical personality are sued under the name by which they are generally or commonly known, service may be effected upon all the defendants by serving upon any one of them, or upon the person in charge of the office or place of business maintained in such name.
 	- But such service shall not bind individually any person whose connection with the entity has, upon due notice, been severed before the action was <ins>filed</ins>. (8a)
-- **SECTION 8.** *Service upon* <u>Prisoners</u> ~~entity without juridical personality~~.
-  collapsed:: true
-	- ~~When persons associated in an entity without juridical personality are sued under the name by which they are generally or commonly known, service may be effected upon all the defendants by serving upon any one of them, or upon the person in charge of the office or place of business maintained in such name. ~~
-	- ~~But such service shall not bind individually any person whose connection with the entity has, upon due notice, been severed before the action was brought.~~ When the defendant is a prisoner confined in a jail or institution, service shall be effected upon him <u>or her</u> by the officer having the management of such jail or institution who is deemed as a special sheriff for said purpose.
-	- <u>The jail warden shall file a return within five (5) calendar days from service of summons to the defendant.</u>(9a)
+- **SECTION 8.** #kanban
+	- 2019 Amendments — *Service upon Prisoners*
+	  background-color:: yellow
+		- When the defendant is a prisoner confined in a jail or institution, service shall be effected upon him or her by the officer having the management of such jail or institution who is deemed as a special sheriff for said purpose.
+		- The jail warden shall file a return within five (5) calendar days from service of summons to the defendant.(9a)
+	- 1997 Rules — *Service upon entity without juridical personality.*
+	  background-color:: red
+		- When persons associated in an entity without juridical personality are sued under the name by which they are generally or commonly known, service may be effected upon all the defendants by serving upon any one of them, or upon the person in charge of the office or place of business maintained in such name.
+		- But such service shall not bind individually any person whose connection with the entity has, upon due notice, been severed before the action was brought. When the defendant is a prisoner confined in a jail or institution, service shall be effected upon him  by the officer having the management of such jail or institution who is deemed as a special sheriff for said purpose.
 - **SECTION 9.** *Service* <u>Consistent with International Conventions.</u> ~~upon prisoners~~.
 	- ~~When the defendant is a prisoner confined in a jail or institution, service shall be effected upon him by the officer having the management of such jail or institution who is deemed deputized as a special sheriff for said purpose. (12a)~~
 	- <u>Service may be made through methods which are consistent with established international conventions to which the Philippines is a party.</u> (n)
@@ -92,7 +106,6 @@ sys-category:: [[41]]
 	- In any action where the defendant is designated as an unknown owner, or the like, or whenever his <ins>or her</ins> whereabouts are unknown and cannot be ascertained by diligent inquiry, <ins>within ninety (90) calendar days from the commencement of the action<ins>, service may, by leave of court, be effected upon him <ins>or her</ins> by publication in a newspaper of general circulation and in such places and for such time as the court may order.
 	- <ins>Any order granting such leave shall specify a reasonable time, which shall not be less than sixty (60) calendar days after notice, within which the defendant must answer.</ins> (14a)
 - **SECTION 17.** *Extraterritorial Service.*
-  collapsed:: true
 	- When the defendant does not reside and is not found in the Philippines, and the action affects the personal status of the plaintiff or relates to, or the subject of which is, property within the Philippines, in which the defendant has or claims a lien or interest, actual or contingent, or in which the relief demanded consists, wholly or in part, in excluding the defendant from any interest therein, or the property of the defendant has been attached within the Philippines, service may, by leave of court, be effected out of the Philippines by personal service as under [Section 5](((42f59fa2-2943-4e1f-b9b3-e33eac4fb25b))); <ins>or as provided for in international conventions to which the Philippines is a party</ins>; or by publication in a newspaper of general circulation in such places and for such time as the court may order, in which case a copy of the summons and order of the court shall be sent by registered mail to the last known address of the defendant, or in any other manner the court may deem sufficient.
 	- Any order granting such leave shall specify a reasonable time, which shall not be less than sixty (60) <ins>calendar</ins> days after notice, within which the defendant must answer. (15a)
 - **SECTION 18.** *Residents Temporarily Out of the Philippines.*

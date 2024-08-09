@@ -6,9 +6,9 @@ tags:: #codal/roc/civpro #ptmd
 status:: active
 sys-category:: [[41]]
 
-# RULE 19 - Intervention
+- # RULE 19 - Intervention
 - **SECTION 1.** *Who may intervene.*
-	- A person who has a [legal interest](((62f13873-7f35-438b-83c7-3819c6617457))) in the matter in litigation, or in the success of either of the parties, or an interest against both, or is so situated as to be adversely affected by a distribution or other disposition of property in the custody of the court or of an officer thereof may, with leave of court, be allowed to intervene in the action.
+	- A person who has a legal interest in the matter in litigation, or in the success of either of the parties, or an interest against both, or is so situated as to be adversely affected by a distribution or other disposition of property in the custody of the court or of an officer thereof may, with leave of court, be allowed to intervene in the action.
 	- The court shall consider whether or not the intervention will unduly delay or prejudice the adjudication of the rights of the original parties, and whether or not the intervenor's rights may be fully protected in a separate proceeding. (1)
 - **SECTION 2.** *Time to intervene.*
 	- The motion to intervene may be filed at any time before rendition of judgment by the trial court.

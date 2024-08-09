@@ -6,13 +6,14 @@ tags:: #codal/roc/civpro #ptmd
 status:: active
 sys-category:: [[41]]
 
-# RULE 17 - Dismissal of Actions
+- # RULE 17 - Dismissal of Actions
 - **SECTION 1**. *Dismissal upon notice by plaintiff.*
   id:: 3aaf92c3-aa9a-4492-ba43-8625ace88297
 	- A complaint may be dismissed by the plaintiff by filing a notice of dismissal at any time before service of the answer or of a motion for summary judgment.
 	- Upon such notice being filed, the court shall issue an order confirming the dismissal.
 	- Unless otherwise stated in the notice, the dismissal is without prejudice, except that a notice operates as an adjudication upon the merits when filed by a plaintiff who has once dismissed in a competent court an action based on or including the same claim. (1a)
 - **SECTION 2.** *Dismissal upon motion of plaintiff.*
+  id:: 66b46021-21bf-4080-ba9c-873a83781bb8
 	- Except as provided in the preceding [S]ection, a complaint shall not be dismissed at the plaintiff's instance save upon approval of the court and upon such terms and conditions as the court deems proper.
 	- If a counterclaim has been pleaded by a defendant prior to the service upon him <ins>or her</ins> of the plaintiff's motion for dismissal, the dismissal shall be limited to the complaint.
 	- The dismissal shall be without prejudice to the right of the defendant to prosecute his counterclaim in a separate action unless within fifteen (15) <ins>calendar</ins> days from notice of the motion he <ins>or she</ins> manifests his <ins>or her </ins> preference to have his <ins>or her</ins> counterclaim resolved in the same action.

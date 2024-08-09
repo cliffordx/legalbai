@@ -33,6 +33,7 @@ sys-category:: [[41]]
 	- <u>h) Other similar motions.</u>
 	- <u>These motions shall not be set for hearing and shall be resolved by the court within five (5) calendar days from receipt thereof. (n)</u>
 - **SECTION 5.** Litigious Motions.
+  id:: 66b46021-f0f0-410a-87ec-daf81fde2584
   collapsed:: true
 	- (a) Litigious motions include:
 		- 1) Motion for bill of particulars;
@@ -51,14 +52,15 @@ sys-category:: [[41]]
 		- 13) Motion to declare defendant in default; and
 		- 14) Other similar motions.
 	- (b) All motions shall be served by personal service, accredited private courier or registered mail, or electronic means so as to ensure their receipt by the other party.
+	  id:: 66b46021-e7ab-4200-814b-5099287c9c12
 	- (c) The opposing party shall file his or her opposition to a litigious motion within five (5) calendar days from receipt thereof. No other submissions shall be considered by the court in the resolution of the motion.
 	- The motion shall be resolved by the court within fifteen (15) calendar days from its receipt of the opposition thereto, or upon expiration of the period to file such opposition. (n)
 - **SECTION 6.** Notice of Hearing on Litigious Motions; Discretionary.
   collapsed:: true
 	- <u>The court may, in the exercise of its discretion, and if deemed necessary for its resolution, call a hearing on the motion</u>. The notice of hearing shall be addressed to all parties concerned, and shall specify the time and date of the hearing. (5a)
 - **SECTION 7.** Proof of service necessary.
-  collapsed:: true
-	- No written motion <u>shall be acted upon</u> by the court without proof of service thereof, <u>pursuant to Section 5 (b) hereof.</u> (6a)
+  id:: 66b46021-bbfc-41e6-8d69-5dd764671831
+	- No written motion <u>shall be acted upon</u> by the court without proof of service thereof, pursuant to [Section 5 (b)](((66b46021-e7ab-4200-814b-5099287c9c12))) hereof. (6a)
 - **SECTION 8.** Motion day.
   collapsed:: true
 	- Except for motions requiring immediate action, <u>where the court decides to conduct hearing on a litigious motion, the same shall be set on a Friday.</u> (7a)
