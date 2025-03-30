@@ -34,6 +34,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 	- G. Jurisdiction vs. Exercise of Jurisdiction
 	- H. Venue in Criminal and Civil Actions
 - ## III. CIVIL PROCEDURE (1997 Rules on Civil Procedure as amended by A.M. No. 1910-20-SC)
+  collapsed:: true
 	- A. General Provisions (Rule 1)
 	- B. Kinds of Action
 		- Ordinary and Special
@@ -212,6 +213,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 	- N. Appeal (Rule 122)
 	- O. Provisional remedies (Rule 127)
 - ## VII. EVIDENCE (A.M. No. 19-08-15-SC)
+  collapsed:: true
 	- A. Key Concepts
 		- Factum Probandum vs. Factum Probans
 		- Proof vs. Evidence
@@ -243,6 +245,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 	- E. Rules on Electronic Evidence (A.M. No. 01-7-01-SC)
 	- F. Rules on the Use of Body-Worn Camera in the Execution of Warrants (AM No.21-06-08-SC)
 - ## VIII. LEGAL AND JUDICIAL ETHICS WITH PRACTICAL EXERCISES
+  collapsed:: true
 	- A. Basic Concepts on Admission to Practice
 	  collapsed:: true
 		- Supreme Court’s Administrative Supervision and Control over Members of the Philippine Bar (Constitution, Article VIII, Sec. 5 (5))
