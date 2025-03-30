@@ -1,1 +1,2 @@
-- Affine.ai is not Affine.pro, I still have to find out. — The [Paksiteer]([[Clifford Enoc]])
+- Affine.ai is not Affine.pro, I still have to figure that. — The [Paksiteer]([[Clifford Enoc]])
+	- > update as of 30 March 2025. I am no longer using this app. I have other preferred note-taking apps that I will showcase it here soon.
