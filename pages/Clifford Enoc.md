@@ -1,5 +1,4 @@
-
-
+- ![IMG_4642.JPG](../assets/IMG_4642_1743342510124_0.JPG){:height 222, :width 215}
 - Licensed Real Estate Broker
 - Law Student (JD -3)
 - Father
