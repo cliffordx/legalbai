@@ -1,6 +1,6 @@
 - ![IMG_4642.JPG](../assets/IMG_4642_1743342510124_0.JPG){:height 222, :width 215}
 - Licensed Real Estate Broker
-- Law Student (JD -3)
+- Law Student (JD -4)
 - Father
 - [Paksiteer]([[paksiteer]])
 - Life-long learner
@@ -8,3 +8,4 @@
 - A 'wannabe' computer geek
 - A hopeless astronomer-to-be
 - ... to be added soon. Stay golden!
+- updated: *[Sunday, March 30, 2025; 23:29:32]*
