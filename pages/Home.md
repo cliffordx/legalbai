@@ -28,6 +28,7 @@ icon:: 🏠
 - ---
 - ## The Long Road of Jurisprudence
   id:: 645447b1-515d-4ff6-b0a7-b115dccb9ef9
+	- ![The Long Road of Jurisprudence (1).mp3](../assets/The_Long_Road_of_Jurisprudence_(1)_1743342050972_0.mp3)^{via Mureka AI}
 	- ~~Eight vast~~ Six law subjects to conquer, 
 	  Commercial, political and tax.  
 	  Criminal, civil and remedial,   
@@ -37,7 +38,7 @@ icon:: 🏠
 	  The codal and cases to remember,  
 	  As I chase this ultimate joy.
 	- The bar looms ominous ahead, 
-	  Four Sundays, four hours each day.  
+	  Three days, eight hours each day.  
 	  Questions by the score unfold,  
 	  Exams I must analyze and evaluate.
 	- Twenty conundrums or more, 
