@@ -23,42 +23,31 @@ status:: active
 			- # [[Preliminary Considerations]]
 			- # ((62ea49dd-2425-4c44-bbd8-024534483990))
 			- Refers to the rules for the protection of rights, the prevention of the violation of such rights and the means of [redress](((62ea4fee-e39b-4605-b749-5d1a001e8958))) for such violation.
-			  collapsed:: true
 				- **redress**
 				  id:: 62ea4fee-e39b-4605-b749-5d1a001e8958
 				  item-type:: dictionary
 				  circa:: 14c
-				  collapsed:: true
-					- collapsed:: true
-					  1. Relief;
+					- 1. Relief;
 						- Remedy (money damages, as opposed to a equitable relief, is the only redress available)
-					- collapsed:: true
-					  2. A means of seeking relief or remedy <if the statute of limitations have run, the plantiff is without redress>. — ***redressable*** - adj.[^1]
+					- 2. A means of seeking relief or remedy <if the statute of limitations have run, the plantiff is without redress>. — ***redressable*** - adj.[^1]
 						- [^1]: _{Garner, Bryan A., and Henry Campbell Black, eds. Black’s Law Dictionary. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p. 1531.}
 				-
 			- Remedial Law (Statute)
 			  item-type:: dictionary
 			  circa:: 18c
 			  id:: 62ea51eb-06f7-4658-b519-ad18bb00fca5
-			  collapsed:: true
-				- collapsed:: true
-				  1. A law providing a means to enforce rights or redress injuries.
+				- 1. A law providing a means to enforce rights or redress injuries.
 					- William Blackstone defined the the term as follows:
-					  collapsed:: true
 						- "Remedial [statutes] are those which are made to supply defects, and abridge such superfluities, in the common law, as arise  either from the general imperfection of all human laws, from change of time and circumstances, from the mistakes and unadvised determinations of unlearned judges, or from any other cause whatsoever."[^2]
-						  collapsed:: true
 							- [^2]: _{ 1 William Blackstone, Commentaries on the Laws of England 86 (4th ed. 1770)}
-				- collapsed:: true
-				  2. A statute enacted to correct one or more defects, mistakes, or omissions.  — Also called beneficial statute; curative statute; remedial law.[^3]
+				- 2. A statute enacted to correct one or more defects, mistakes, or omissions.  — Also called beneficial statute; curative statute; remedial law.[^3]
 					- [^3]: [^1]: _{Garner, Bryan A., and Henry Campbell Black, eds. Black’s Law Dictionary. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p. 1705.}
 			- ((62ea54ad-df6c-454e-90bc-6052e4013a93))
 			- ((62ea54c7-7d25-4e6f-ac34-a1527d5c107c))
 			- ## ((62ea5540-fad4-4d79-8024-3919a0fb9167))
-			  collapsed:: true
 				- [[Substantive Law]]
 				- [[Remedial Law]]
 		- ### Causes of Action, Actions, And Parties
-		  collapsed:: true
 			- {{query #caap}}
 			  query-table:: true
 			  query-properties:: [:title :alt-title]
@@ -79,7 +68,6 @@ status:: active
 		- ### Trial, Demurrer to Evidence and Judgment
 		  heading:: true
 		  id:: 62c7222d-5164-4213-8b62-eb56d064d435
-		  collapsed:: true
 			- {{query #tdej}}
 			  query-table:: true
 			  query-properties:: [:title :alt-title]
@@ -91,7 +79,6 @@ status:: active
 		- ### Appeals / Procedure in the Court of Appeals
 		  background-color:: #533e7d
 		  id:: 63104e97-b18d-42b8-95e8-f63e948ee1e2
-		  collapsed:: true
 			- {{query #codal/roc/civpro/appeal}}
 			  query-table:: true
 			  query-properties:: [:title :alt-title]

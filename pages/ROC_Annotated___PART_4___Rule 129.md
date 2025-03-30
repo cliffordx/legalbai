@@ -9,12 +9,10 @@ sys-category:: [[44]]
 - # RULE 129 — What Need Not {{cloze Be Proved}}
 - **SECTION 1.**{{cloze Judicial notice}} , when {{cloze mandatory}}.
 	- A court shall take {{cloze judicial noti}}ce, without the {{cloze introduction of evide}}nce, of the {{cloze existence}} and {{cloze territorial extent of s}}tates, their {{cloze political histo}}ry, {{cloze forms}} of {{cloze government}} and {{cloze symbols of nationality}}, the law of {{cloze nations}}, the {{cloze admiralty}} and {{cloze maritime}} courts of the {{cloze world}} and their {{cloze seals}}, the {{cloze political}} constitution and {{cloze history of the Philipp}}ines, the {{cloze official acts of the legis}}lative, {{cloze executive and judicial departments of the National Government}} of the Philippines[^1], the {{cloze laws of}} nature, the {{cloze measure of tim}}e, and the {{cloze geographical divisi}}ons. (1a)
-	  collapsed:: true
 		- [^1]: _{As amended by A.M. No. 19-08-15-SC, 08 October, 2019.}
 		- A court shall take judicial notice, without the introduction of evidence, of the existence and territorial extent of states, their political history, forms of government and symbols of nationality, the law of nations, the admiralty and maritime courts of the world and their seals, the political constitution and history of the Philippines, the official acts of the legislative, executive and judicial departments of the [National Government of the] Philippines, the laws of nature, the measure of time, and the geographical divisions.
 		- > **NOTES:**
 			- ((63d5e978-b4eb-4f5a-bf30-71810a0c1312))
-			  collapsed:: true
 				- The term “judicial notice”, means no more the court will bring to its aid and consider, without proof of the facts, its knowledge of those matters of public concern which are known by all well-informed persons.[^q1]
 				  collapsed:: true
 					- [^q1]: _{State vs. Kelly,81 P.450,71 Kan.811,70 L.R.A.450,6 Ann. Cas.298.}
