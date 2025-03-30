@@ -11,7 +11,7 @@ sys-category:: [[41]]
   heading:: true
   id:: 6520ff2a-de47-4f18-8c00-a9326b2bd865
 - **SECTION 1**. Interrogatories to parties; service thereof.
-	- **Upon ex parte motion**, ~~Under the same conditions specified in [Section 1](logseq://graph/OBSIDIAN?block-id=62c12fd7-028c-4c82-9070-bf192746d090) of Rule 23~~ any party desiring to elicit material and relevant facts from any adverse parties shall file and serve upon the latter written interrogatories to be answered by the party served or, if the party served is a public or private corporation or a partnership or association, by any officer thereof competent to testify in its behalf. (1a)
+	- **Upon ex parte motion**, ~~Under the same conditions specified in [Section 1](((62c12fd7-028c-4c82-9070-bf192746d090))) of Rule 23~~ any party desiring to elicit material and relevant facts from any adverse parties shall file and serve upon the latter written interrogatories to be answered by the party served or, if the party served is a public or private corporation or a partnership or association, by any officer thereof competent to testify in its behalf. (1a)
 	  id:: 6520ff2a-c97c-45f2-b7ea-e1a7ed8e9737
 - **SECTION 2.** Answer to interrogatories.
   id:: 6520ff2a-579c-4ba6-bbe8-972dc91a8de8

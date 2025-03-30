@@ -12,13 +12,15 @@ sys-category:: [[41]]
   id:: 62bbdbd5-a9fe-466d-a00d-82b3a262ae33
 - **SECTION 1**. Depositions pending action, when may be taken.
   id:: 62c12fd7-028c-4c82-9070-bf192746d090
+  collapsed:: true
 	- **Upon ex parte motion of a party**, the testimony of any person, whether a party or not, may be taken **may be taken by deposition upon oral examination or written interrogatories**.
 	  id:: 6520ff2a-842e-48de-86e2-d45596b88f70
 		- **1997 amendment was read as:**
 		  > By leave of court after jurisdiction has been obtained over any defendant or over property which is the subject of the action, or without such leave after an answer has been served the testimony of any person, whether a party or not, may be taken,  at the instance of any party, by deposition upon oral examination or written interrogatories.
 	- The attendance of witnesses may be compelled by the use of a subpoena as provided in Rule 21.
 	  id:: 6520ff2a-1d44-42a7-84fb-dd2d6490060b
-		- #NOTE/codal/civpro/R23/1 Rule 21 {{embed ((01e336a3-3b6c-4906-8494-c64e62935490))}}
+		- #NOTE/codal/civpro/R23/1 Rule 21
+			- {{embed ((01e336a3-3b6c-4906-8494-c64e62935490))}}
 		- Rule 23: {{embed ((54cd8a54-4be2-49d1-b2fd-2131c680bbb2))}}
 		- Rule 23: {{embed ((e6e473d1-de40-47d8-a79d-da6de9578629))}}
 		-
@@ -33,11 +35,13 @@ sys-category:: [[41]]
 	- Examination and cross-examination of deponents may proceed as permitted at the trial under , Sections 3 to 18 of Rule 132. (3a, R24)
 - **SECTION 4.** Use of depositions.
   id:: 62c12fd7-cfc7-4ab0-9f95-bc7320169ba8
+  collapsed:: true
 	- At the trial or upon the hearing of a motion or an interlocutory proceeding, any part or all of a deposition, so far as admissible under the rules of evidence, may be used against any party who was present or represented at the taking of the deposition or who had due notice thereof, in accordance with any one of the following provisions:
 		- (a) Any deposition may be used by any party for the purpose of contradicting or impeaching the testimony of deponent as a witness;
 		- (b) The deposition of a party or of any one who at the time of taking the deposition was an officer, director, or managing agent of a public or private corporation, partnership, or association which is a party may be used by an adverse party for any purpose;
 		  id:: 42842a08-2758-470c-b773-032be61724dd
 		- (c) The deposition of a witness, whether or not a party, may be used by any party for any purpose if the court finds:
+		  collapsed:: true
 			- (1) that the witness is dead; or
 			- (2) that the witness resides at a distance more than one hundred (100) kilometers from the place of trial or hearing, or is out of the Philippines, unless it appears that his <ins>or her</ins> absence was procured by the party offering the deposition; or
 			- (3) that the witness is unable to attend or testify because of age, sickness, infirmity, or imprisonment; or
