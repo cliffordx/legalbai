@@ -6,9 +6,9 @@ tags:: #codal/roc/evidence
 status:: active
 sys-category:: [[44]]
 
-# RULE 132 - Presentation of Evidence
-## A. EXAMINATION OF WITNESSES
-collapsed:: true
+- # RULE 132 - Presentation of Evidence
+- ## A. EXAMINATION OF WITNESSES
+  collapsed:: true
 	- **SECTION 1.** *Examination to be Done in Open Court.*
 	  collapsed:: true
 		- The examination of witnesses presented in a trial or hearing shall be done in open court, and under oath or affirmation.
@@ -107,8 +107,8 @@ collapsed:: true
 	- **SECTION 18.** *Right to Inspect Writing Shown to Witness.*
 	  collapsed:: true
 		- Whenever a writing is shown to a witness, it may be inspected by the adverse party. (18)
-## B. AUTHENTICATION AND PROOF OF DOCUMENTS
-collapsed:: true
+- ## B. AUTHENTICATION AND PROOF OF DOCUMENTS
+  collapsed:: true
 	- **SECTION 19.** *Classes of Documents.*
 	  collapsed:: true
 		- For the purpose of their presentation in evidence, documents are either public or private.
@@ -184,7 +184,7 @@ collapsed:: true
 	  collapsed:: true
 		- Documents written in an unofficial language shall not be admitted as evidence, unless accompanied with a translation into English or Filipino.
 		- To avoid interruption of proceedings, parties or their attorneys are directed to have such translation prepared before trial. (33)
-## C. OFFER AND OBJECTION
+- ## C. OFFER AND OBJECTION
 	- **SECTION 34.** *Offer of Evidence.*
 	  collapsed:: true
 		- The court shall consider no evidence which has not been formally offered.
@@ -213,6 +213,7 @@ collapsed:: true
 		- Should a witness answer the question before the adverse party had the opportunity to voice fully its objection to the same, or where a question is not objectionable, but the answer is not responsive, or where a witness testifies without a question being posed or testifies beyond limits set by the court, or when the witness does a narration instead of answering the question, and such objection is found to be meritorious, the court shall sustain the objection and order such answer, testimony or narration to be stricken off the record.
 		- On proper motion, the court may also order the striking out of answers which are incompetent, irrelevant, or otherwise improper. (39a)
 	- **SECTION 40.** *Tender of Excluded Evidence.*
+	  id:: 6447bbd3-a616-4e6d-b68b-455d744bec78
 	  collapsed:: true
 		- If documents or things offered in evidence are excluded by the court, the offeror may have the same attached to or made part of the record.
 		- If the evidence excluded is oral, the offeror may state for the record the name and other personal circumstances of the witness and the substance of the proposed testimony. (40)

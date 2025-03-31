@@ -1,0 +1,154 @@
+-
+- {{embed ((65161f93-9f13-4094-898a-1e394f3deee2))}}
+- ## I. EFFECT AND APPLICATION OF LAWS
+  collapsed:: true
+	- A. When Law Takes Effect; Publication (Civil Code, Article 2)
+	- B. Ignorance of the Law; Ignorance of Fact (Civil Code, Art. 3)
+	- C. Retroactivity of Laws (Civil Code, Art. 4); Vested Rights Principle
+	- D. Mandatory, Prohibitory and Permissive Laws (Civil Code, Art. 5)
+	- E. Waiver of Rights (Civil Code, Art. 6)
+	- F. Repeal of Laws (Civil Code, Art. 7)
+	- G. Judicial Decision (Civil Code, Art. 8)
+	- H. Duty to Render Judgment (Civil Code, Art. 9)
+	- I. Interpretation of Doubtful Statutes (Civil Code, Art. 10)
+	- J. Custom (Civil Code, Arts. 11-12)
+	- K. Legal Periods (Civil Code, Art. 13, as amended by Book I, Sec. 31 of the Administrative Code of 1987 (E.O. No. 292))
+	- L. Generality Principle of Penal Laws (Civil Code, Art. 14)
+	- M. Conflict of Laws (Civil Code, Arts. 15-18)
+		- 1. Jurisdiction; Forum Non Conveniens
+		- 2. Choice of Law; Doctrine of Renvoi; Doctrine of Processual Presumption
+			- Lex Nationalii
+			- Lex Rei Sitae
+			- Lex Contractus
+			- Lex Loci Celebrationis
+			- Lex Domicilii
+			- Lex Fori
+			- Lex Loci Delicti
+			- Lex Loci Solutionis
+		- 3. Recognition and Enforcement of Foreign Judgment
+- ## II. HUMAN RELATIONS
+  collapsed:: true
+	- A. Abuse of Rights (Civil Code, Arts. 19-22)
+		- 1. Acts Contra Bonus Mores
+		- 2. Breach of Promise of Marriage
+	- B. Unjust Enrichment (Civil Code, Art. 23)
+	- C. Thoughtless Extravagance (Civil Code, Art. 25)
+	- D. Tortious Interference (Civil Code, Art. 1314)
+- ## III. PERSONS AND FAMILY RELATIONS
+  collapsed:: true
+	- A. Natural Persons
+		- 1. Capacity to Act; Restrictions (Civil Code, Arts. 37-39)
+		- 2. Commencement and End of Civil Personality (Civil Code, Arts. 40-42)
+		- 3. Proof of Death (Civil Code, Art. 43; Rules of Court, Rule 131, Sec. 3 (jj)
+	- B. Juridical Persons (Civil Code, Arts. 44-47)
+	- C. Domicile; Residence (Civil Code, Arts. 50-51)
+	- D. Surnames (Civil Code, Arts. 364-380; R.A. No. 9048; R.A. No. 10172)
+	- E. Absentees (Civil Code, Arts. 381-396)
+	- F. Marriage; General Principles (Family Code, Art. 1)
+	  id:: 651b8d76-3625-4a6e-83ae-11312d2089e6
+		- *Exclude: Muslim Code (PD 1083)*
+		- 1. Essential and Formal Requisites (Family Code, Art. 2-3, 5-11, 20-21, 26,31-35) *Exclude: Duties of a Civil Registrar (Family Code, Arts. 12-19, 23-25)*
+		- 2. Effects of Absence, Defect or Irregularity (Family Code, Art. 4)
+	- G. Mixed Marriages (Family Code, Art. 26)
+	- H. Void Marriages; Effects and Remedies (Family Code, Arts. 35-44, 50-54)
+	- I. Voidable Marriages; Effects and Remedies (Family Code, Arts. 45-54) *Exclude: A.M. No. 02-11-10-SC and R.A. No. 6955*
+	- J. Legal Separation (Family Code, Arts. 55-67) *Exclude: A.M. No. 02-11-11-SC*
+	- K. Property Relations Between Spouses (Family Code, Arts. 76-81)
+		- 1. Donation Propter Nuptias; Void Donations (Family Code, Art. 82-83, 8687, 43(3), 50)
+		- 2. Marriage Settlements (Family Code, Arts. 75-81)
+			- a. Absolute Community of Property Regime (Family Code, Arts. 7585, 88-104)
+			- b. Conjugal Partnership of Gains Regime (Family Code, Arts. 105133)
+			- c. Separation of Property Regime (Family Code, Arts. 143-146)
+		- 3. Judicial Separation of Property (Family Code, Arts. 134-142)
+		- 4. Property Regime of Unions Without Marriage (Family Code, Arts. 147148)
+	- L. Rights and Obligations Between Husband and Wife (Family Code, Arts. 68-73) *Exclude: R.A. No. 7192; R.A. No. 8187; R.A. 9710*
+	- M. The Family; Family Home (Family Code, Arts. 149-165)
+	- N. Paternity and Filiation
+		- 1. Concepts of Paternity, Filiation and Legitimacy (Family Code, Art. 163)
+		- 2. Legitimate and Illegitimate Children (Family Code, Arts. 164-165, 167169)
+			- a. Proof of Filiation (Family Code, Arts. 172, 173, 175)
+			- b. Rights of Legitimate Children (Family Code, Art. 174)
+			- c. Rights of Illegitimate Children (Family Code, Art. 176; R.A. No.9255)
+			- d. Action to Impugn Legitimacy (Family Code, Arts. 166, 170 and171)
+		- 3. Legitimated Children (Family Code, Arts. 177-182; R.A. No. 9858) *Exclude: A.M. No. 06-11-5-SC*
+			- a. Rights of Legitimated Children (Family Code, Art. 179) 
+			  -b.  Action to Impugn Legitimacy (Family Code, Art. 182)
+		- 4. Adopted Children
+			- a. Domestic Administrative Adoption and Alternative Child Care Act (R.A. No. 11642)
+			- b. Inter-Country Adoption Act (R.A. No. 8043)
+			- c. Simulated Birth Rectification Act (R.A. No. 11222)
+	- O. Support (Family Code, Arts. 194-208)
+	- P. Parental Authority (Family Code, Arts. 209-233) *Exclude: A.M. No. 03-02-05-SC; A.M. No. 03-04-04-SC; R.A. No. 8972; R.A. No.8980; R.A. No. 9231*
+- ## IV.  PROPERTY, OWNERSHIP, AND ITS MODIFICATIONS
+	- A. Classification of Property
+		- 1. Immovables and Movables (Civil Code, Arts. 414-418)
+		- 2. Public Dominion; Patrimonial; Private (Civil Code, Arts. 419-425)
+	- B. Ownership; Hidden Treasure (Civil Code, Arts. 427-439)
+	- C. Right of Accession; Movables and Immovable (Civil Code, Arts. 440-475)
+	- D. Quieting of Title (Civil Code, Arts. 476-481)
+	- E. Co-Ownership (Civil Code, Arts. 484-501); Condominium Act (R.A. No. 4726)
+	- F. Possession (Civil Code, Arts. 523-561)
+	- G. Actions to Recover Ownership and Possession of Real Property
+		- 1.  Accion Interdictal
+		- 2. Accion Publiciana
+		- 3. Accion Reivindicatoria
+	- H. Easements; Easement of Right of Way (Civil Code, Arts. 613, 649-657)
+	- I. Nuisance (Civil Code, Arts. 694-707
+- ## V. DIFFERENT MODES OF ACQUIRING OWNERSHIP
+  collapsed:: true
+	- A. Occupation (Civil Code, Art. 713-720) 
+	  id:: 6515209b-9161-41e1-ba2c-59892c40d06a
+	- B. Donation (Civil Code, Arts. 725-773)
+	- C. Prescription (Civil Code, Arts. 1106-1155)
+- ## VI. LAND TITLES AND DEEDS
+  collapsed:: true
+	- A. Regalian Doctrine (Const., Art. XII, Sec. 2)
+	- B. Nationality Restrictions on Land Ownership (Constitution, Art. XII, Sec. 7-8)
+	- C. Registry of Property (Civil Code, Arts. 708-711)
+	- D. Torrens System; Certificate of Title (P.D. No. 1529, Sec. 39, 44)
+	- E. Original Registration
+	  collapsed:: true
+		- 1. Who May Apply (P.D. No. 1529, Sec. 14, as amended by R.A. No. 11573; C.A. No. 141, as amended; R.A. No. 8371, Sec. 12)
+		- 2. Decree of Registration (P.D. No. 1529, Sec. 31)
+		- 3. Review of Decree of Registration (P.D. No. 1529, Sec. 32)
+		- 4. Innocent Purchaser for Value; Rights (P.D. No. 1529, Sec. 32)
+	- F. Confirmation of Imperfect Titles (R.A. No. 11573)
+	- G. Subsequent Registration (P.D. No. 1529, Secs. 51-53)
+	  collapsed:: true
+		- 1. Voluntary Dealings (P.D. No. 1529, Secs. 111-112)
+		- 2. Involuntary Dealings (P.D. No. 1529, Secs. 69, 74, 76); Adverse Claims and Notice of Lis Pendens (P.D. No. 1529, Secs. 70 and 77)
+	- H. Non-Registrable Properties (Civil Code, Art. 420)
+	- I. Dealings with Unregistered Lands (P.D. No. 1529, Sec. 113)
+	- J. Assurance Fund (P.D. No. 1529, Secs. 93-102)
+	- K. Reconstitution of Title (P.D. No. 1529, Sec. 110)
+- ## VII. WILLS AND SUCCESSION
+  collapsed:: true
+	- A. General Provisions (Civil Code, Arts. 774-782)
+	- B. Testamentary Succession
+		- 1. Wills (Civil Code, Arts. 783-795)
+		- 2. Testamentary Capacity (Civil Code, Arts, 796-803)
+		- 3. Notarial and Holographic Wills; Joint Will (Civil Code, Arts. 804-819)
+		- 4.  Witnesses to a Notarial Will; Qualifications and Disqualifications (Civil Code, Arts. 820-824)
+		- 5. Codicils and Incorporation by Reference (Civil Code, Arts. 825-827)
+		- 6. Conflict Rules (Civil Code, 2nd par. Art. 16 and Art. 17)
+		- 7. Revocation of Wills (Civil Code, Arts. 828-834)
+		- 8. Republication and Revival of Wills (Civil Code, Arts. 835-837)
+		- 9. Allowance and Disallowance of Wills (Civil Code, Arts. 838-839)
+		- 10. Institution and Substitution of Heirs (Civil Code, Arts 840-870)
+		- 11. Dispositions with a Condition or Term (Civil Code, Arts. 871-885)
+		- 12. Compulsory Heirs; Legitime (Civil Code, Arts. 886-914)
+		- 13. Disinheritance (Civil Code, Arts. 915-923)
+		- 14. Legacies and Devises (Civil Code, Arts. 924-959)
+	- C. Intestate Succession
+		- 1. Causes of Intestacy and Relationship (Civil Code, Arts. 960-969)
+		- 2. Right of Representation (Civil Code, Arts. 970-977)
+		  -3.  Order of Intestate Succession (Civil Code, Arts. 978-1014)
+	- D. Provisions Common to Testate and Intestate Succession (Civil Code, Arts. 10151105
+- ## VIII. OBLIGATIONS AND CONTRACTS
+- ## IX. CONTRACT OF SALE
+- ## X. CONTRACT OF LEASE
+- ## XI. AGENCY
+- ## XII. CREDIT TRANSACTIONS
+- ## XIII. COMPROMISE AGREEMENT
+- ## XIV. QUASI-CONTRACTS
+- ## XV. TORTS AND DAMAGES

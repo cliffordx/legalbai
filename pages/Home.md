@@ -1,9 +1,28 @@
 icon:: 🏠
 
-- query-sort-by:: created-at
+- #+BEGIN_QUERY
+  {:title [:h2 "Latest Entries"]
+   :query [:find (pull ?b [*])
+           :in $ ?startdate ?enddate
+           :where
+           [?b :block/journal-day ?journaldate]
+  ;[?page :block/journal-day ?journaldate]
+  [(>= ?journaldate ?startdate)]
+  [(<= ?journaldate ?enddate)]
+           ]
+   :inputs [:7d-before :today]
+   :result-transform (fn [result]
+                       (sort-by (fn [b]
+                                  (get b :block/updated-at))
+                                result))
+   :collapsed? false
+   :breadcrumb-show? true
+  }
+  #+END_QUERY
+- query-sort-by:: page
   query-table:: true
-  query-sort-desc:: false
-  query-properties:: [:page :created-at]
+  query-sort-desc:: true
+  query-properties:: [:page :updated-at]
   #+BEGIN_QUERY
   {:title [:h2 "📚 ⑦  Daily Journal"]
   :query [:find (pull ?page [*])
@@ -26,7 +45,7 @@ icon:: 🏠
 - {{embed ((635bc75b-10e9-4e0d-b8c1-b0b98d8ba016))}}
 	- *[Read more...]([[Welcome page]])*
 - ---
-- ## The Long Road of Jurisprudence
+- ## [The Long Road of Jurisprudence](https://x.com/i/grok/share/hPwEsh708VsLGTbUAdcZ9LzSj)
   id:: 645447b1-515d-4ff6-b0a7-b115dccb9ef9
 	- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2066791348&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cliffordx" title="cliffordx" target="_blank" style="color: #cccccc; text-decoration: none;">cliffordx</a> · <a href="https://soundcloud.com/cliffordx/the-long-road-of-jurisprudence" title="The Long Road of Jurisprudence (1)" target="_blank" style="color: #cccccc; text-decoration: none;">The Long Road of Jurisprudence (1)</a></div>
 	- ~~Eight vast~~ Six law subjects to conquer, 

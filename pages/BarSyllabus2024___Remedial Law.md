@@ -1,0 +1,321 @@
+id:: 65161f93-9f13-4094-898a-1e394f3deee2
+> **NOTE:** All Bar candidates should be guided that only laws, rules, issuances, and jurisprudence pertinent to the topics in this syllabus as of *June 30, 2023* are within the coverage of the 2024 Bar Examinations.
+
+- ![2024 Syllabus](../assets/Remedial-Law-and-Ethics-2024-Bar-Syllabus.pdf)
+- ## I. GENERAL PRINCIPLES
+  collapsed:: true
+	- A. Substantive Law vs. Adjective Law
+	- B. Rule-Making Power of the Supreme Court
+	- C. Hierarchy of Courts; Doctrine of Non-Interference and Judicial Stability
+	- D. Suppletory Application of the Rules of Court in Administrative Bodies
+	- E. Construction of the Rules of Court (Rule 1, Section 6)
+- ## II. JURISDICTION
+  collapsed:: true
+	- A. Aspects of Jurisdiction
+		- Over the Subject Matter
+		- Over the Parties
+		- Over the Issues
+	- B. Classification of Jurisdiction
+		- Original vs. Appellate
+		- General vs. Special
+		- Exclusive vs. Concurrent
+	- C. Jurisdiction of the Philippine Courts (BP 129, as amended)
+		- Supreme Court (Constitution, Article VIII, Section 5)
+		- Collegiate Courts
+			- Court of Appeals (BP 129, as amended by RA 7902)
+			- Sandiganbayan (PD 1606, as amended by RA 7975, RA 8249, RA10660)
+			- Court of Tax Appeals (RA 1125, as amended by RA 9282 and RA9503)
+		- Second-Level Courts (BP 129 as amended by RA 7691, RA 11576, R.A. 8369, A.M. No. 22-04-06-SC, A.M. No. 03-03-03-SC, November 9, 2021)
+		- First-Level Courts (BP 129 as amended by RA 7691, RA 11576)
+		- Inherent Powers and Means to Carry Jurisdiction (Sections 5 and 6, Rule135 of the Rules of Court)
+	- D. Revised Katarungang Pambarangay Law (RA 7160)
+	- E. Rules on Expedited Procedures in the First Level Courts (A.M. No. 08-8-7-SC, as amended, March 1, 2022)
+	- F. Doctrine of Adherence to Jurisdiction
+	- G. Jurisdiction vs. Exercise of Jurisdiction
+	- H. Venue in Criminal and Civil Actions
+- ## III. CIVIL PROCEDURE (1997 Rules on Civil Procedure as amended by A.M. No. 1910-20-SC)
+	- A. General Provisions (Rule 1)
+	- B. Kinds of Action
+		- Ordinary and Special
+		- Personal and Real
+		- Action [in personam]([[in personam]]), [[in rem]] , [[quasi in rem]]
+	- C. Cause of Action (Rule 2)
+		- Splitting
+		- Joinder and Misjoinder
+	- D. Parties to Civil Actions (Rule 3)
+	  id:: 64f20807-cbc2-4e50-9978-ff9d360758fb
+		- Kinds of parties
+		  id:: 64f20995-28de-4281-957e-96a7e2ee8e1d
+		- Joinder of parties
+			- Compulsory
+			- Permissive
+		- Third (Fourth, etc.) Parties
+		- Class Suit
+		- Death of a Party
+		- Transfer of Interest
+	- E. Pleadings
+	  id:: 65161f93-1c00-4214-922b-a32dd8627695
+		- Kinds (Rule 6)
+		  id:: 65179f13-c383-4fc4-a162-d7f56c0bb294
+		- Parts and Contents; Formal Requirements (Rule 7);
+		- Manner of Making Allegations (Rule 8)
+		- Effect of Failure to Plead (Rule 9)
+		- Amended and Supplemental Pleadings (Rule 10)
+		- Period to File Responsive Pleadings (Rule 11)
+		- Filing and Service (Rule 13);
+			- Rules on [Docket Fees]([[Docket Fees]]) and Effect of Non-Payment
+			- A.M. No. 10-3-7-SC, June 1, 2022 or the Revised Guidelines on Submission of Electronic Copies of Supreme Court-Bound Papers pursuant to the [Efficient Use of Paper Rule]([[Efficient Paper Rule]])
+	- F. Summons (Rule 14)
+		- Nature and Purpose
+		- Who May Serve
+		- Valid Service of Summons; Alias Summons
+		  id:: 64f2087c-7c1b-4efe-874d-131baec24595
+		- Service of Summons
+			- Personal Service
+			- Substituted Service
+			- Constructive Service
+			- Extraterritorial Service
+		- Proof of Service
+		- Voluntary Appearance
+	- G. . Motions (Rule 15)
+		- Litigious and Non-litigious Motions
+		- Prohibited Motions
+	- H. Dismissal of Actions (Rule 17)
+	- I. Pre-Trial (Rule 18 and A.M. 03-1-09-SC)
+	- J. Intervention (Rule 19)
+	- K. Subpoena (Rule 21)
+	- L. Computation of Time (Rule 22)
+	- M. Modes of Discovery (Rules 23-29)
+	- N. Trial (Rule 30)
+	- O. Consolidation and Severance (Rule 31)
+	- P. Demurrer to Evidence (Rule 33)
+	- Q. Judgments and Final Orders
+		- Judgment on the Pleadings (Rule 34)
+		- Summary Judgement (Rule 35)
+		- Rendition and Entry of Judgment and Final Orders (Rule 36)
+	- R: Remedies before Finality of Judgment
+		- Motion for New Trial or Reconsideration (Rule 37)
+		- Appeals and Other Modes of Review (Rules 40-45; Rule 64)
+	- S. Remedies after Judgment Becomes Final
+		- Petition for Relief from Judgment (Rule 38)
+		- Annulment of Judgment (Rule 47)
+		- Collateral Attack on Judgments
+	- T. Execution, Satisfaction, and Effects of Judgments (Rule 39)
+		- As a Matter Right and as a Matter of Discretion (Sections 1-4)
+		- By Motion or by Independent Action (Section 6)
+		- Execution of Money Judgment (Section 9)
+		- Execution of Judgment for Specific Act (Section 10)
+		- Remedies When Property of Third Person is Levied (Section 16)
+		- Examination of the Judgement Obligor (Sections 36-37)
+		- Effect of Judgment or Final Orders (Section 47)
+		- Effect of Foreign Judgment or Final Orders (Section 48)
+	- U. Provisional Remedies
+		- Preliminary Attachment (Rule 57)
+		- . Preliminary Injunction and Temporary Restraining Order (Rule 58)
+		- Replevin (Rule 60)
+- ## IV. SPECIAL CIVIL ACTIONS
+  collapsed:: true
+	- A. Interpleader (Rule 62)
+	- B. Declaratory Relief and Similar Remedies (Rule 63)
+	- C. Certiorari, Prohibition, and Mandamus (Rule 65)
+	- D. Quo Warranto (Rule 66)
+	- E. Expropriation (Rule 67)
+		- Two Stages in an Action for Expropriation
+		- Determination of Just Compensation
+		- Effect of Failure to Pay Just Compensation
+		- When to File Motion for Issuance of Writ of Possession
+		- RA 8974, Guidelines for Expropriation Proceedings of National Government Infrastructure Projects; RA 10752
+	- F. Foreclosure of Real Estate Mortgage (Rule 68)
+		- Judicial Foreclosure
+		- Extrajudicial Foreclosure (Act No. 3135, as amended)
+		- Banks (RA 8791, Section 47)
+	- G. Partition (Rule 69)
+	- H. [Forcible Entry and Unlawful Detainer]([[ROC_Annotated/PART_1/Rule 70]]) (Rule 70)
+	- I. Contempt (Rule 71)
+- ## V. SPECIAL PROCEEDINGS AND SPECIAL WRITS
+  collapsed:: true
+	- A. Settlement of Estate of Deceased Persons
+		- Venue and Process (Rule 73)
+		- Summary Settlement of Estates; Liability of Distributees and Estate (Rule74)
+		- Allowance or Disallowance of the Will (Rule 76)
+		- Letters Testamentary and Administration (Rule 78)
+		- Claims Against the Estate (Rule 86)
+		- Action by and against Executors and Administrators (Rule 87)
+		- Payment of the Debts of the Estate (Rule 88)
+		- Sales, Mortgages, and other Encumbrances of Property of Decedent (Rule89)
+		- Distribution and Partition of Estate (Rule 90)
+	- B. Guardianship
+		- Venue (Rule 92)
+		- Appointment of Guardians (Rule 93)
+		- General Powers and Duties of Guardians (Rule 96)
+		- Termination of Guardianship (Rule 97)
+		- Guardianship of Minors (A.M. No. 03-02-05)
+	- C. Adoption
+		- Domestic Administrative Adoption and Alternative Child Care Act (RA11642)
+		- Re: Rule on Adoption (A.M. No. 02-6-02-SC, June 20, 2022)
+	- D. Habeas Corpus (Rule 102); Custody of Minors (A.M. No. 03-04-04-SC)
+	- E. Writ of Amparo (A.M. No, 07-9-12-SC)
+	- F. Writ of Habeas Data (A.M. No. 08-1-16-SC)
+	- G. Change of Name (Rule 103)
+	- H. Cancellation or Correction in the Civil Registry (Rule 108; R.A. 9048, as amended by R.A. 10172)
+	- I. Rule of Procedure for Environmental Cases (A.M. No. 09-6-8-SC)
+- ## VI. CRIMINAL PROCEDURE
+  collapsed:: true
+	- A. Criminal Jurisdiction
+	- B. Prosecution of Offenses (Rule 110)
+		- Public vs. Private Crimes
+		- Role of Public Prosecutor (Section 5)
+		- Complaint and Information (Sections 1-4)
+		- Sufficency of Complaint or Information (Section 6-12)
+		- Duplicity of Offense (Section 13)
+		- Amendment or Substitution of Complaint or Information (Section 14)
+		- Venue of Criminal Actions (Section 15)
+		- Intervention of Offended Party (Section 16)
+		- Injunction in Criminal Cases (OCA Circular 79-2003, Item 14)
+	- C. Prosecution of Civil Action (Rule 111)
+		- Implied Institution of Civil Action arising from crime
+		- Independent Civil Actions (See also Civil Code, Article 31-34)
+		- Prior Reservation, Suspension, Waiver of Separate Civil Actions
+		- Survival and Extinction of Civil Liability Ex-delicto
+			- In cases of Acquittal (See also Article 29 of Civil Code)
+			- Death of the Accused
+		- Prejudicial Question (See also Article 36 of Civil Code)
+	- D. Preliminary Investigation (Rule 112)
+		- Authorized Officers; Determination of Probable Cause (Section 2-4)
+		- Cases Not Requiring Preliminary Investigation (Section 1)
+		- Motion to Re-open; Motion for Reinvestigation
+		- Modes of Review (DOJ Department Circular No. 027, Series of 2022)
+		- Inquest Proceedings; Waiver of Article 125 of the Revised Penal Code
+	- E. Arrest, Search and Seizures
+		- Warrant of Arrest
+			- Requisites
+			- Enforcement (Rule 113 Section 7)
+			- Lawful Warrantless Arrest (Rule 113, Section 5)
+		- Search Warrant (Rule 126)
+			- Requisites
+			- Enforcement (Sections 7-13)
+			- Lawful Warrantless Search
+		- Fruit of the Poisonous Tree
+	- F. Bail (Rule 114); Recognizance Act of 2012 (R.A. No, 10389)
+	- G. Rights of the Accused (Rule 115)
+	- H. Arraignment and Plea (Rule 116)
+	- I. Motion to Quash Information (Rule 117)
+		- Grounds (Sections 3 and 9)
+		- Double Jeopardy (Section 7)
+		- Provisional Dismissal (Section 8)
+	- J. Pre-trial (Rule 118)
+	- K. Trial (Rule 119)
+		- Revised Guidelines on Continuous Trial (A.M. No. 15-06-10-SC)
+		- Order of Trial
+	- L. Judgment (Rule 120)
+	- M. New Trial or Reconsideration (Rule 121)
+	- N. Appeal (Rule 122)
+	- O. Provisional remedies (Rule 127)
+- ## VII. EVIDENCE (A.M. No. 19-08-15-SC)
+	- A. Key Concepts
+		- Factum Probandum vs. Factum Probans
+		- Proof vs. Evidence
+		- Burden of Proof vs. Burden of Evidence
+		- Weight and Sufficiency of Evidence (Rule 133)
+		- Admissibility; Relevance and Competence (Rule 128)
+		- Judicial Notice; Mandatory and Discretionary (Rule 129, Sections 1-3)
+		- Judicial Admission (Rule 129, Section 4)
+		- Presumptions (Rule 131)
+	- B. Kinds
+		- Object Evidence (Rule 130, A)
+		- Documentary Evidence (Rule 130, B)
+			- Original Document Rule
+			- Secondary Evidence
+			- Parol Evidence
+		- Testimonial Evidence (Rule 130, C)
+			- Qualifications and Disqualifications of Witnesses (Sections 21-24)
+			- Testimonial Privilege (Sections 25-26)
+			- Admissions and Confession (Sections 27-34)
+			- Previous Conduct as Evidence (Sections 35-36)
+			- Hearsay; Exceptions (Sections 37-50)
+			- Opinion (Sections 51-53)
+			- Character Evidence (Section 54)
+	- C. Presentation of Evidence (Rule 132)
+		- Examination of Witnesses (Sections 1-18); Child Witness Rule (A.M. No.004-07-SC)
+		- Authentication and Proof; Public and Private Documents (Sections 19-33)
+		- Offer and Objection; Tender of Excluded Evidence (Sections 34-40)
+	- D. Judicial Affidavit Rule (A.M. No. 12-8-8-SC)
+	- E. Rules on Electronic Evidence (A.M. No. 01-7-01-SC)
+	- F. Rules on the Use of Body-Worn Camera in the Execution of Warrants (AM No.21-06-08-SC)
+- ## VIII. LEGAL AND JUDICIAL ETHICS WITH PRACTICAL EXERCISES
+	- A. Basic Concepts on Admission to Practice
+	  collapsed:: true
+		- Supreme Court’s Administrative Supervision and Control over Members of the Philippine Bar (Constitution, Article VIII, Sec. 5 (5))
+		- Requisites for Admission to the Practice of Law
+		- The Revised Lawyer’s Oath
+	- B. Code of Professional Responsibility and Accountability(A.M. No. 22-09-01-SC)
+	  collapsed:: true
+		- Canon 1 - Independence; Merit-Based Practice (Section 2)
+		- Canon 2 — Propriety 
+		  collapsed:: true
+			- Proper Conduct; Dignified Conduct (Sections 1, 2)
+			- Use of Dignified, Gender-Fair, and Child-and-CulturallySensitive Language (Section 4)
+			- Duty to correct false or inaccurate statements and information made in relation to an application for admission to the bar (Section11)
+			- Duty to Report dishonest, deceitful, or misleading conduct(Section 12)
+			- Duty to disclose relationship or connection (Section 20)
+			- Duty not to mislead the court, tribunal or other government agency on the existence or content of any document, argument, evidence, law, or other legal authority, or pass off as one’s own the ideas or words of another (Section 8)
+			- Duty not to solicit or advertise one’s legal service (Section 17)
+			- Duty not to use any forum or medium to comment or publicize opinion pertaining to a pending proceeding (Sub-Judice Rule; Section 19)
+			- Duty not to give gifts and donations to any court, tribunal or other government agency (Section 21)
+			- Duty not to institute multiple cases; Forum Shopping (Section 23)
+			- Duty not to encroach or interfere in another lawyer's engagement(Section 24)
+			- Responsible Use of Social Media
+		- Canon III — Fidelity 
+		  collapsed:: true
+			- Definition of the Practice of Law (Section 1)
+			- Definition of Lawyer-Client Relationship (Section 3)
+			- Conflict of interest (Sections 13-22)
+			- Limited Legal Services (Sections 35-40)
+			- Responsibility of a Solo Practitioner (Section 25 — Canon I)
+			- Responsibility of a Law Firm (Section 26 — Canon II)
+			- Responsibility of a Government Lawyer and those in the Prosecution Service (Section 28, 29 — Canon II)
+			- Responsibility of a Para-legal (Sections 34, 35 — Canon II)
+			- Responsibility of Lawyers in the Academe (Section 32, Canon IT)
+			- Responsibility of Law firms; Supervisory and Supervised Lawyers (Sections 10-12 - Canon III)
+			- Responsibility of a Legal Clinic (Section 39-40 — Canon III)
+			- Attorney’s Fees (Section 41)
+			- Attorney's Lien (Sections 47, 53, 54)
+			- Prohibition on Lending and Borrowing; Exceptions (Section 52)
+			- Prohibition against Acquiring Interest in the Object of Litigation or Transaction (Section 51; Article 1491)
+			- Termination of Engagement by the Lawyer (Section 53)
+			- Termination of Engagement by the Client (Section 54)
+			- Termination of Engagement upon Death (Section 55)
+			- Accounting and Turn-over of Funds and properties upon Termination of Engagement (Section 56)
+		- Canon IV- Competence and Diligence
+			- Duty to provide competent, efficient, and conscientious legal service (Section 1)
+			- Duty to diligently and seasonably act on any legal matter entrusted by the client (Sections 3, 4, 5, 6)
+			- Duty to engage in lifelong learning (Section 8)
+		- Canon V — Equality
+			- Duty to make representation on the basis of non-discrimination(Section 1)
+			- Duty to provide a higher standard of service to vulnerable persons and indigents (Sections 2, 3)
+			- Duty to provide the same standard of service (Section 4)
+		- Canon VI — Accountability 
+		  collapsed:: true
+			- How Instituted (Sections 2, 30)
+			- Proceedings against a government lawyer (Section 6)
+			- Proceedings against members of the judiciary (Section 2)
+			- Preventive Suspension (Section 31)
+			- Quantum and Burden of Proof (Sections 32)
+			- Executory nature of the decision or resolution (Section 43)
+			- Sworn statement after service of suspension (Sections 45, 46)
+			- Judicial Clemency (Sections 47, 48, 49, 50, 51)
+			- Prohibition against employment of disbarred or suspended lawyer (Section 52)
+	- C. The New Code of Conduct for the Philippine Judiciary
+	  collapsed:: true
+		- Independence, Integrity, Impartiality, Propriety, Equality, and Competence and Diligence
+		- Disqualification and Inhibition of Judicial Officers (Rule 137)
+		- Discipline of Members, Officials, Employees and Personnel of the Judiciary under Rule 140, further amended by A.M. No. 21-08-09-SC
+	- D. Practical Exercises
+		- Judicial Affidavit (incorporated with a motion to qualify a witness as an expert witness)
+		- Request for Subpoena (ad testificandum and/or duces tecum)
+		- Motion for Production and Inspection of Document (as a mode of discovery)
+		- Opposition to a motion for an inquiry of a bank deposit
+		- Special Power of Attorney
+		- Demand Letter
+		- Complaint for Ejectment
+- {{embed ((65161f93-9f13-4094-898a-1e394f3deee2))}}

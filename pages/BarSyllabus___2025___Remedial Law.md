@@ -533,11 +533,12 @@
 		- 1. Conclusive presumptions
 		- 2. Disputable presumptions
 	- K. Offer and Objection (RULE 132)
-	  collapsed:: true
+	  id:: 67ea5888-3a3c-46f8-a8e0-f28094355780
 		- 1. Offer of evidence
 		- 2. When to make an offer
 		- 3. Objection
-		- 4. Tender of excluded evidence
+		- id:: 67ea5888-9384-4813-b4d7-a1b058569347
+		  4. Tender of excluded evidence
 - # LEGAL ETHICS
 	- ### A. Practice of Law
 		- 1.  Basic Concepts

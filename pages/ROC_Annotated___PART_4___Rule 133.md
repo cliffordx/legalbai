@@ -8,6 +8,7 @@ sys-category:: [[44]]
 
 - # RULE 133 - Weight and Sufficiency of Evidence
 - **SECTION 1.** *Preponderance of evidence, how determined.*
+  id:: 6447bbd3-8268-4cfb-bfff-a9924bd8cc3b
 	- In civil cases, the party having the burden of proof must establish his or her case by a preponderance of evidence.
 	- In determining where the preponderance or superior weight of evidence on the issues involved lies, the court may consider all the facts and circumstances of the case, the witnesses' manner of testifying, their intelligence, their means and opportunity of knowing the facts to which they are testifying, the nature of the facts to which they testify, the probability or improbability of their testimony, their interest or want of interest, and also their personal credibility so far as the same may legitimately appear upon the trial.
 	- The court may also consider the number of witnesses, though the preponderance is not necessarily with the greater number. (1a)
