@@ -1,6 +1,7 @@
 icon:: 🏠
 
-- #+BEGIN_QUERY
+- query-table:: false
+  #+BEGIN_QUERY
   {:title [:h2 "Latest Entries"]
    :query [:find (pull ?b [*])
            :in $ ?startdate ?enddate
