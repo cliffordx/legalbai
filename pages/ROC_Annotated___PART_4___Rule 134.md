@@ -30,7 +30,7 @@ sys-category:: [[44]]
 	- For the purpose of applying Rule24 to depositions for perpetuating testimony, each reference therein to the court in which the action is pending shall be deemed to refer to the court in which the petition for such deposition was filed.
 - **SECTION 6.** *Use of deposition.*
   collapsed:: true
-	- If a deposition to perpetuate testimony is taken under this rule, or if, although not so taken, it would be admissible in evidence, it may be used in any action involving the same subject matter subsequently brought in accordance with the provisions of Sections [4](((63ca3a48-146f-400f-a452-09e68164aab3))) and [5](((63ca3a48-39e2-443f-8e3e-30565941ef27))) of Rule 24.
+	- If a deposition to perpetuate testimony is taken under this rule, or if, although not so taken, it would be admissible in evidence, it may be used in any action involving the same subject matter subsequently brought in accordance with the provisions of Sections [4](((6447bbc3-d543-4e41-9ca3-189e76639c6c))) and [5](((6447bbc3-ae32-41fc-ac6c-d66690fd24b2))) of Rule 24.
 - **SECTION 7.** *Depositions pending appeal.*
   collapsed:: true
 	- If an appeal has been taken from a judgment of the Regional Trial Court or before the taking of an appeal if the time therefor has not expired, the Regional Trial Court in which the judgment was rendered may allow the taking of depositions of witnesses to perpetuate their testimony for use in the event of further proceedings in the said court. In such case the party who desires to perpetuate the testimony may make a motion in the said Regional Trial Court for leave to take the depositions, upon the same notice and service thereof as if the action was pending therein. The motion shall show—

@@ -21,14 +21,17 @@ sys-category:: [[41]]
 		- (d) the names or a description of the persons he <ins>or she</ins> expects will be adverse parties and their addresses so far as known; and
 		- (e) the names and addresses of the persons to be examined and the substance of the testimony which he <ins>or her</ins> expects to elicit from each, and shall ask for an order authorizing the petitioner to take the depositions of the persons to be examined named in the petition for the purpose of perpetuating their testimony. (2, R134)
 - **SECTION 3.** Notice and service.
+  collapsed:: true
 	- The petitioner shall serve a notice upon each person named in the petition as an expected adverse party, together with a copy of the petition, stating that the petitioner will apply to the court, at a time and place named therein, for the order described in the petition.
 	- At least twenty (20) <ins>calendar</ins> days before the date of the hearing, the court shall cause notice thereof to be served on the parties and prospective deponents in the manner provided for service of summons. (3a, R134)
 	  background-color:: #497d46
 - **SECTION 4.** Order and examination.
+  id:: 6447bbc3-d543-4e41-9ca3-189e76639c6c
   collapsed:: true
 	- If the court is satisfied that the perpetuation of the testimony may prevent a failure or delay of justice, it shall make an order designating or describing the persons whose deposition may be taken and specifying the subject matter of the examination and whether the depositions shall be taken upon oral examination or written interrogatories.
 	- The depositions may then be taken in accordance with Rule 23 before the hearing. (4a, R134)
 - **SECTION 5.** Reference to court.
+  id:: 6447bbc3-ae32-41fc-ac6c-d66690fd24b2
   collapsed:: true
 	- For the purpose of applying Rule 23 to depositions for perpetuating testimony, each reference therein to the court in which the action is pending shall be deemed to refer to the court in which the petition for such deposition was filed. (5a, R134).
 - **SECTION 6.** Use of deposition.
