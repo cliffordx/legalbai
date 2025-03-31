@@ -44,11 +44,12 @@ icon:: 🏠
   }
   #+END_QUERY
 - {{embed ((635bc75b-10e9-4e0d-b8c1-b0b98d8ba016))}}
+  collapsed:: true
 	- *[Read more...]([[Welcome page]])*
 - ---
 - ## [The Long Road of Jurisprudence](https://x.com/i/grok/share/hPwEsh708VsLGTbUAdcZ9LzSj)
   id:: 645447b1-515d-4ff6-b0a7-b115dccb9ef9
-	- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2066791348&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cliffordx" title="cliffordx" target="_blank" style="color: #cccccc; text-decoration: none;">cliffordx</a> · <a href="https://soundcloud.com/cliffordx/the-long-road-of-jurisprudence" title="The Long Road of Jurisprudence (1)" target="_blank" style="color: #cccccc; text-decoration: none;">The Long Road of Jurisprudence (1)</a></div>
+	- <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2067595812&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cliffordx" title="cliffordx" target="_blank" style="color: #cccccc; text-decoration: none;">cliffordx</a> · <a href="https://soundcloud.com/cliffordx/the-long-road-of-1" title="The Long Road of Jurisprudence (5)" target="_blank" style="color: #cccccc; text-decoration: none;">The Long Road of Jurisprudence</a></div>
 	- ~~Eight vast~~ Six law subjects to conquer, 
 	  Commercial, political and tax.  
 	  Criminal, civil and remedial,   
