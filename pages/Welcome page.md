@@ -21,8 +21,8 @@ tags:: paksiteer, paksitive, paksionate
 				- Others are from law review pdfs floating around but it's already there,  no need to have it here.
 				- id:: 635f4491-7ba1-42f4-92ca-0759d89e45f9
 				  > NOTE: If you find a gibberish code something like this `((635a41f7-2049-491e-8838-b8d5119d291f)),` it means that the link reference is to some other annotated document, *i.e.,* PDF file, that no longer appear from this site because it was deleted but I'm sure it appear somewhere, *i.e.,* on my local machine (my laptop/phone).
-	- Since I am taking a hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I have studied and learned so far, here on Github."
-	- My original plan was to have it in one place on my website (CliffordX.com), but I wanted it here since I only have to commit the pages I have written on my PKM app ([[logseq]], FTW!) from my laptop, and they will be published with updates and shown here [instantly]([[publishing]]).
+	- Since I am taking a hybrid/multi-faceted approach to learning, my overarching goal is to write my own words and thoughts about what I have studied and learned so far, here on Github.
+	- My original plan was to consolidate everything on my website (CliffordX.com), but I opted to publish here instead. This way, I only need to commit the pages I’ve written in my PKM app ([[Logseq]], FTW!) from my laptop, and they will be updated and displayed here [instantly.]([[publishing]])
 	- **It makes my workflow much easier.**
 	- I do have handwritten outlines, notes on a 4"x6" [index card]([[Index_Cards]]) which I already plan to write simultaneously or concurrently with my typewritten notes here. I plan to upload also those handwritten notes if it so required. (But I'm busy, [here's my lazy alibi]([[26 Oct 2022]]))
 	- For those who want to engage in effective note-taking strategies, here is my list of recommended (e)Books on the subject of note-taking, in alphabetical order:
