@@ -39,6 +39,7 @@ sys-category:: [[41]]
 	- If a deposition to perpetuate testimony is taken under this Rule, or if, although not so taken, it would be admissible in evidence, it may be used in any action involving the same subject matter subsequently brought in accordance with the provisions of Sections 4 and 5 of Rule 23. (6a, R134)
 - **SECTION 7.** Depositions pending appeal.
   id:: 6520ff2a-9c68-46b4-9220-0ede5d37064e
+  collapsed:: true
 	- If an appeal has been taken from a judgment of a court, including the Court of Appeals in proper cases, or before the taking of an appeal if the time therefor has not expired, the court in which the judgment was rendered may allow the taking of depositions of witnesses to perpetuate their testimony for use in the event of further proceedings in the said court.
 	- In such case the party who desires to perpetuate the testimony may **make a motion** in the said court for leave to take the depositions, upon the same notice and service thereof as if the action was pending therein.
 	- The motion shall state:

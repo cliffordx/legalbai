@@ -11,7 +11,7 @@ icon:: 🏠
   [(>= ?journaldate ?startdate)]
   [(<= ?journaldate ?enddate)]
            ]
-   :inputs [:7d-before :today]
+   :inputs [:1d-before :today]
    :result-transform (fn [result]
                        (sort-by (fn [b]
                                   (get b :block/updated-at))
