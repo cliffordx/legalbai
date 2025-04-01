@@ -203,7 +203,7 @@
 
  :ref/linked-references-collapsed-threshold 5
 
- :favorites ["BarSyllabus/2025" "BarSyllabus2024" "RPC_Annotated" "NIRC" "CONSTI_1987_Annotated" "codal/Family Code of the Philippines" "CIVIL CODE" "ROC_Annotated" "codal/Special_Laws/The_Insurance_Code"]
+ :favorites ["barsyllabus/2025" "barsyllabus2024" "rpc_annotated" "nirc" "consti_1987_annotated" "codal/family code of the philippines" "civil code" "roc_annotated" "codal/special_laws/the_insurance_code" "errata page info" "errata"]
  ;;:journal/page-title-format "EEEE, MMM do, yyyy"
  ;; Wednesday, 12 April 2023; changed today to EEE, dd MMMM yyyy
  :journal/page-title-format "EEEE, dd MMMM yyyy"
