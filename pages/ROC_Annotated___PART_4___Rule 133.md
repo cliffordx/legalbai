@@ -17,6 +17,7 @@ sys-category:: [[44]]
 - **SECTION 3.** *Extrajudicial confession, not sufficient ground for conviction.*
 	- An extrajudicial confession made by an accused, shall not be sufficient ground for conviction, unless corroborated by evidence of *corpus delicti.* (3)
 - **SECTION 4.** *Circumstantial evidence, when sufficient.*
+  id:: 6447bbd3-0e06-4e83-b44b-cb696d77ee6a
 	- Circumstantial evidence is sufficient for conviction if;
 		- (a) There is more than one circumstance;
 		- (b) The facts from which the inferences are derived are proven; and
