@@ -1,4 +1,3 @@
-id:: 65161f93-9f13-4094-898a-1e394f3deee2
 > **NOTE:** All Bar candidates should be guided that only laws, rules, issuances, and jurisprudence pertinent to the topics in this syllabus as of *June 30, 2023* are within the coverage of the 2024 Bar Examinations.
 
 - ![2024 Syllabus](../assets/Remedial-Law-and-Ethics-2024-Bar-Syllabus.pdf)
@@ -44,9 +43,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 		- Splitting
 		- Joinder and Misjoinder
 	- D. Parties to Civil Actions (Rule 3)
-	  id:: 64f20807-cbc2-4e50-9978-ff9d360758fb
 		- Kinds of parties
-		  id:: 64f20995-28de-4281-957e-96a7e2ee8e1d
 		- Joinder of parties
 			- Compulsory
 			- Permissive
@@ -55,9 +52,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 		- Death of a Party
 		- Transfer of Interest
 	- E. Pleadings
-	  id:: 65161f93-1c00-4214-922b-a32dd8627695
 		- Kinds (Rule 6)
-		  id:: 65179f13-c383-4fc4-a162-d7f56c0bb294
 		- Parts and Contents; Formal Requirements (Rule 7);
 		- Manner of Making Allegations (Rule 8)
 		- Effect of Failure to Plead (Rule 9)
@@ -70,7 +65,6 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 		- Nature and Purpose
 		- Who May Serve
 		- Valid Service of Summons; Alias Summons
-		  id:: 64f2087c-7c1b-4efe-874d-131baec24595
 		- Service of Summons
 			- Personal Service
 			- Substituted Service
@@ -242,6 +236,7 @@ id:: 65161f93-9f13-4094-898a-1e394f3deee2
 		- Authentication and Proof; Public and Private Documents (Sections 19-33)
 		- Offer and Objection; Tender of Excluded Evidence (Sections 34-40)
 	- D. Judicial Affidavit Rule (A.M. No. 12-8-8-SC)
+	  id:: 67ea5887-c6ca-407f-9662-e425cc4d2043
 	- E. Rules on Electronic Evidence (A.M. No. 01-7-01-SC)
 	- F. Rules on the Use of Body-Worn Camera in the Execution of Warrants (AM No.21-06-08-SC)
 - ## VIII. LEGAL AND JUDICIAL ETHICS WITH PRACTICAL EXERCISES
