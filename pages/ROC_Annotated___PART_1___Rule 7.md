@@ -8,7 +8,6 @@ sys-category:: [[41]]
 
 - # RULE 7 - Parts <u>and Contents</u> of a Pleading
 - **SECTION 1.** *Caption.*
-  collapsed:: true
 	- The caption sets forth the name of the court, the title of the action, and the docket number if assigned.
 	- The title of the action indicates the names of the parties.
 	- They shall all be named in the original complaint or petition; but in subsequent pleadings, it shall be sufficient if the name of the first party on each side be stated with an appropriate indication when there are other parties.
@@ -52,14 +51,12 @@ sys-category:: [[41]]
 	- A pleading required to be verified ~~which~~ <u>that</u> contains a verification based on "information and belief", or upon "knowledge, information and belief," or lacks a proper verification, shall be treated as an unsigned pleading. (4a)[^1]
 		- [^1]: _{As amended by SC Circular No. 48-00, effective May 1, 2000; further amended by A.M. No. 19-10-20-SC.}
 - **SECTION 5.** *Certification against Forum Shopping.*
-  collapsed:: true
 	- The plaintiff or principal party shall certify under oath in the complaint or other initiatory pleading asserting a claim for relief, or in a sworn certification annexed thereto and simultaneously filed therewith: (a) that he <u>[or she]</u> has not theretofore commenced any action or filed any claim involving the same issues in any court, tribunal or quasi-judicial agency and, to the best of his <u>[or her]</u> knowledge, no such other action or claim is pending therein; (b) if there is such other pending action or claim, a complete statement of the present status thereof; and (c) if he <u>[or she]</u> should thereafter learn that the same or similar action or claim has been filed or is pending, he <u>[or she]</u> shall report that fact within five (5) <u>calendar</u> days therefrom to the court wherein his <u>[or her]</u> aforesaid complaint or initiatory pleading has been filed.
 	- <u>The authorization of the affiant to act on behalf of a party, whether in the form of a secretary's certificate or a special power of attorney, should be attached to the pleading.</u>
 	- Failure to comply with the foregoing requirements shall not be curable by mere amendment of the complaint or other initiatory pleading but shall be cause for the dismissal of the case without prejudice, unless otherwise provided, upon motion and after hearing.
 	- The submission of a false certification or non-compliance with any of the undertakings therein shall constitute indirect contempt of court, without prejudice to the corresponding administrative and criminal actions.
 	- If the acts of the party or his <u>[or her]</u> counsel clearly constitute willful and deliberate forum shopping, the same shall be ground for summary dismissal with prejudice and shall constitute direct contempt, as well as a cause for administrative sanctions. (5a)
 - **SECTION 6**. *Contents.*
-  collapsed:: true
 	- <ins>Every pleading stating a party's claims or defenses shall, in addition to those mandated by</ins> [Section 2](((f6acdf04-e215-4eb1-adf4-a74a5580efc5))), <ins>Rule 7, state the following:</ins>
 	- <u>(a) Names of witnesses who will be presented to prove a party's claim or defense;</u>
 	- <u>(b) Summary of the witnesses' intended testimonies, provided that the judicial affidavits of said witnesses shall be attached to the pleading and form an integral part thereof. Only witnesses whose judicial affidavits are attached to the pleading shall be presented by the parties during trial. Except if a party presents meritorious reasons as basis for the admission of additional witnesses, no other witness or affidavit shall be heard or admitted by the court; and</u>
