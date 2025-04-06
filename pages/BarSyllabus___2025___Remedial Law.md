@@ -489,6 +489,7 @@
 		- collapsed:: true
 		  6. Admissions and Confessions
 			- a. Res inter alios acta rule
+			  id:: 67ea5888-e147-4ef6-8031-766f639ab199
 			- b. Admission by a party
 			- c. Offer of Compromise
 			- d. Admission by a third party

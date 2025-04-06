@@ -8,7 +8,6 @@ sys-category:: [[44]]
 
 - # RULE 132 - Presentation of Evidence
 - ## A. EXAMINATION OF WITNESSES
-  collapsed:: true
 	- **SECTION 1.** *Examination to be Done in Open Court.*
 	  collapsed:: true
 		- The examination of witnesses presented in a trial or hearing shall be done in open court, and under oath or affirmation.
@@ -83,7 +82,6 @@ sys-category:: [[44]]
 		- He or she may also be impeached and cross-examined by the adverse party, but such cross-examination must only be on the subject matter of his or her examination-in-chief. (12a)
 	- **SECTION 14.** *How Witness Impeached by Evidence of Inconsistent Statements.*
 	  id:: 63ca3a52-9427-458c-9910-1674aad76018
-	  collapsed:: true
 		- Before a witness can be impeached by evidence that he or she has made at other times statements inconsistent with his or her present testimony, the statements must be related to him or her, with the circumstances of the times and places and the persons present, and he or she must be asked whether he or she made such statements, and if so, allowed to explain them. If the statements be in writing, they must be shown to the witness before any question is put to him or her concerning them. (13a)
 		  collapsed:: true
 			- > [   - SECTION 14. Evidence of Good Character of Witness. — (Incorporated in [Section 54](((63d5c8eb-2821-498c-822d-15f29cd53cd4))), Rule 130)]

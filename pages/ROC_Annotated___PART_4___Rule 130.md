@@ -139,6 +139,7 @@ sys-category:: [[44]]
 			- A plea of guilty later withdrawn, or an unaccepted offer of a plea of guilty to a lesser offense, is not admissible in evidence against the accused who made the plea or offer. Neither is any statement made in the course of plea bargaining with the prosecution, which does not result in a plea of guilty or which results in a plea of guilty later withdrawn, admissible.
 			- An offer to pay or the payment of medical, hospital or other expenses occasioned by an injury is not admissible in evidence as proof of civil or criminal liability for the injury.  (27a)
 		- **SECTION 29.** *Admission by third party.*
+		  id:: 6447bbd3-b217-435f-8c17-361fb48ee74c
 		  collapsed:: true
 			- The rights of a party cannot be prejudiced by an act, declaration, or omission of another, except as hereinafter provided. (28)
 		- **SECTION 30.** *Admission by co-partner or agent.*
