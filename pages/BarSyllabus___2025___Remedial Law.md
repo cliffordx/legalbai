@@ -1,5 +1,6 @@
 # CIVIL PROCEDURE
 	- #### I. GENERAL PRINCIPLES
+	  collapsed:: true
 		- A. Concept of Remedial or Procedural Law
 		- B. Nature of remedial law
 		- C. Substantive law vis-a-vis Remedial Law
@@ -12,6 +13,7 @@
 			- 3. Transcendental importance
 			- 4. Doctrine of non-interference or judicial stability
 	- #### II. JURISDICTION
+	  collapsed:: true
 		- A. Over the Parties
 		  collapsed:: true
 			- 1. Jurisdiction over the plaintiff
@@ -45,6 +47,7 @@
 		- H. Rule on Summary Procedure [A.M. No. 08-8-7-SC (Rules on Expedited Procedure)]
 		- I. Barangay conciliation
 	- #### III. CIVIL PROCEDURE A.M. No. 19-10-20-SC
+	  collapsed:: true
 		- A. Classification of Actions
 		  collapsed:: true
 			- 1. Ordinary civil actions
@@ -256,6 +259,7 @@
 				- b. Conclusiveness of judgment
 			- 8. Enforcement and effect of foreign judgments or final orders
 	- #### IV. PROVISIONAL REMEDIES
+	  collapsed:: true
 		- A. Nature and Purpose
 		- B. Preliminary Attachment (RULE 57)
 		  collapsed:: true
@@ -272,6 +276,7 @@
 		- D. Replevin (RULE 59)
 		- E. Support Pendente Lite (RULE 61)
 	- #### V. SPECIAL CIVIL ACTIONS
+	  collapsed:: true
 		- A. Ordinary Civil Actions and Special Civil Actions
 		- B. Interpleader (RULE 62)
 		- C. Declaratory Reliefs and Similar Remedies (RULE 63)
@@ -298,121 +303,123 @@
 			- 3. Where to file
 			- 4. Penalties and remedies against direct and indirect contempt
 			- 5. Contempt against quasi-judicial bodies
-	- #### VI. CRIMINAL PROCEDURE
-		- A.  General Matters
-		  collapsed:: true
-			- 1.  Criminal jurisdiction
-			- 2.  Jurisdiction over subject matter and jurisdiction over person of the accused
-			- 3.  When injunction may be issued to restrain criminal prosecution
-		- B. Prosecution of Offenses (RULE 110)
-		  collapsed:: true
-			- 1. Criminal actions, how instituted
-			- 2. Effect of the institution of the criminal action on the prescriptive period
-			- 3. Who may prosecute; crimes that cannot be prosecuted de officio
-			- 4. Intervention of private offended party
-			- 5. Control of prosecution
-			- 6. Complaint and Information; sufficiency
-			- 7. Date of commission of the offense
-			- 8. Designation of offense; qualifying and aggravating circumstances
-			- 9. Name of the accused; name of the offended party
-			- 10. Amendment and Substitution of complaint or information
-			- 11. Duplicity of the offense
-		- C. Prosecution of Civil Action (RULE 111)
-		  collapsed:: true
-			- 1. Implied institution of civil action with criminal action
-			- 2. Independent civil actions
-			- 3. No reservation of civil action in B.P. Blg. 22
-			- 4. Effect of death of the accused on civil action
-			- 5. Prejudicial Question
-			- 6. Effect of acquittal or extinguishment of criminal action on the civil liability
-		- D. Preliminary Investigation (RULE 112)
-		  collapsed:: true
-			- 1. Nature and purpose
-			- 2. Determination of existence of probable cause
-			- 3. Resolution of investigating prosecutor
-			- 4. Non-interference of the court in finding probable cause by prosecutor; exceptions
-			- 5. Right to bail pending preliminary investigation
-			- 6. Inquest proceedings
-			- 7. Effect of absence of preliminary investigation
-			- 8. Withdrawal of Information
-		- E. Arrest (RULE 113)
-		  collapsed:: true
-			- 1. Arrest, how made
-			- 2. Requisites for the issuance of a warrant of arrest
-			- 3. Arrest without warrant, when lawful
-			- 4. Method of arrest
-			- 5. Rules on the Use of Body-Worn Cameras in the Execution of Warrants [A.M. No. 21-06-08]
-			- 6. Waiver of objection on the irregularity of arrest
-		- F. Bail (RULE 114)
-		  collapsed:: true
-			- 1. When a matter of right; exceptions
-			- 2. When a matter of discretion
-			- 3. Where filed
-			- 4. Application for bail in capital offenses
-			- 5. Guidelines in fixing amount of bail
-			- 6. Bail-negating circumstances
-			- 7. Remedy when bail denied
-			- 8. Forfeiture of bail
-		- G. Rights of the Accused (RULE 115)
-		  collapsed:: true
-			- 1. Rights of accused at the trial
-			- 2. Rights of the persons under custodial investigation
-		- H. Arraignment and Plea (RULE 116)
-		  collapsed:: true
-			- 1. Purpose
-			- 2. Plea of guilty to a lesser offense
-			- 3. Plea of guilty to capital offense
-			- 4. Plea of guilty to a non-capital offense
-			- 5. Bill of particulars
-			- 6. Suspension of arraignment
-		- I. Motion to Quash (RULE 117)
-		  collapsed:: true
-			- 1. Grounds
-			- 2. Double jeopardy
-			- 3. Provisional dismissal
-		- J. Pre-trial (RULE 118)
-		  collapsed:: true
-			- 1. Pre-trial agreement
-			- 2. Non-appearance at pre-trial conference
-			- 3. Pre-trial order
-			- 4. Cases for mediation on the civil liability
-		- K. Trial (RULE 119)
-		  collapsed:: true
-			- 1. Trial in absentia
-			- 2. Remedy when accused is not brought to trial within the prescribed period
-			- 3. Conditional examination of witness for the prosecution/defense
-			- 4. Requisites for discharge of accused as state witness
-			- 5. Demurrer to evidence
-			- 6. Reopening of the proceedings
-		- L. Judgment (RULE 120)
-		  collapsed:: true
-			- 1. Requisites of a valid judgment
-			- 2. Rule if accused fails to appear at the promulgation of judgment
-			- 3. Promulgation of judgment; instances of promulgation of judgment in absentia
-		- M. New Trial or Reconsideration (RULE 121)
-		- N. Appeal (RULE 122)
-		- O. Search and Seizure (RULE 126)
-			- 1. Nature of search warrant
-			- 2. Requisites for the issuance of search warrant
-			- 3. Probable cause in search warrant
-			- 4. Extent of the search
-			- collapsed:: true
-			  5. Exceptions to search warrant requirement
-				- a. Search incidental to lawful arrest
-				- b. Search of moving vehicles
-				- c. Search of a passenger bus
-				- d. Check points
-				- e. Airportfrisking
-				- f. Buy bust operations
-				- g. Plain view
-				- h. Stop and frisk (Terry searches)
-				- i. Consented searches
-			- 6. Search of a Government-Controlled Detention Facility
-			- 7. Effect of an Illegal Search and Seizure
-			- 8. Quashing a Search Warrant
-			- 9. Rule on Cybercrime Warrants [A.M. No. 17-11-03-SC]
-			- 10. Rules on the Use of Body-Worn Cameras in the Execution of Warrants [A.M. No. 21-06-08-SC]
-		- P. Provisional Remedies in Criminal Cases (RULE 127)
+- # CRIMINAL PROCEDURE
+  collapsed:: true
+	- A.  General Matters
+	  collapsed:: true
+		- 1.  Criminal jurisdiction
+		- 2.  Jurisdiction over subject matter and jurisdiction over person of the accused
+		- 3.  When injunction may be issued to restrain criminal prosecution
+	- B. Prosecution of Offenses (RULE 110)
+	  collapsed:: true
+		- 1. Criminal actions, how instituted
+		- 2. Effect of the institution of the criminal action on the prescriptive period
+		- 3. Who may prosecute; crimes that cannot be prosecuted de officio
+		- 4. Intervention of private offended party
+		- 5. Control of prosecution
+		- 6. Complaint and Information; sufficiency
+		- 7. Date of commission of the offense
+		- 8. Designation of offense; qualifying and aggravating circumstances
+		- 9. Name of the accused; name of the offended party
+		- 10. Amendment and Substitution of complaint or information
+		- 11. Duplicity of the offense
+	- C. Prosecution of Civil Action (RULE 111)
+	  collapsed:: true
+		- 1. Implied institution of civil action with criminal action
+		- 2. Independent civil actions
+		- 3. No reservation of civil action in B.P. Blg. 22
+		- 4. Effect of death of the accused on civil action
+		- 5. Prejudicial Question
+		- 6. Effect of acquittal or extinguishment of criminal action on the civil liability
+	- D. Preliminary Investigation (RULE 112)
+	  collapsed:: true
+		- 1. Nature and purpose
+		- 2. Determination of existence of probable cause
+		- 3. Resolution of investigating prosecutor
+		- 4. Non-interference of the court in finding probable cause by prosecutor; exceptions
+		- 5. Right to bail pending preliminary investigation
+		- 6. Inquest proceedings
+		- 7. Effect of absence of preliminary investigation
+		- 8. Withdrawal of Information
+	- E. Arrest (RULE 113)
+	  collapsed:: true
+		- 1. Arrest, how made
+		- 2. Requisites for the issuance of a warrant of arrest
+		- 3. Arrest without warrant, when lawful
+		- 4. Method of arrest
+		- 5. Rules on the Use of Body-Worn Cameras in the Execution of Warrants [A.M. No. 21-06-08]
+		- 6. Waiver of objection on the irregularity of arrest
+	- F. Bail (RULE 114)
+	  collapsed:: true
+		- 1. When a matter of right; exceptions
+		- 2. When a matter of discretion
+		- 3. Where filed
+		- 4. Application for bail in capital offenses
+		- 5. Guidelines in fixing amount of bail
+		- 6. Bail-negating circumstances
+		- 7. Remedy when bail denied
+		- 8. Forfeiture of bail
+	- G. Rights of the Accused (RULE 115)
+	  collapsed:: true
+		- 1. Rights of accused at the trial
+		- 2. Rights of the persons under custodial investigation
+	- H. Arraignment and Plea (RULE 116)
+	  collapsed:: true
+		- 1. Purpose
+		- 2. Plea of guilty to a lesser offense
+		- 3. Plea of guilty to capital offense
+		- 4. Plea of guilty to a non-capital offense
+		- 5. Bill of particulars
+		- 6. Suspension of arraignment
+	- I. Motion to Quash (RULE 117)
+	  collapsed:: true
+		- 1. Grounds
+		- 2. Double jeopardy
+		- 3. Provisional dismissal
+	- J. Pre-trial (RULE 118)
+	  collapsed:: true
+		- 1. Pre-trial agreement
+		- 2. Non-appearance at pre-trial conference
+		- 3. Pre-trial order
+		- 4. Cases for mediation on the civil liability
+	- K. Trial (RULE 119)
+	  collapsed:: true
+		- 1. Trial in absentia
+		- 2. Remedy when accused is not brought to trial within the prescribed period
+		- 3. Conditional examination of witness for the prosecution/defense
+		- 4. Requisites for discharge of accused as state witness
+		- 5. Demurrer to evidence
+		- 6. Reopening of the proceedings
+	- L. Judgment (RULE 120)
+	  collapsed:: true
+		- 1. Requisites of a valid judgment
+		- 2. Rule if accused fails to appear at the promulgation of judgment
+		- 3. Promulgation of judgment; instances of promulgation of judgment in absentia
+	- M. New Trial or Reconsideration (RULE 121)
+	- N. Appeal (RULE 122)
+	- O. Search and Seizure (RULE 126)
+	  collapsed:: true
+		- 1. Nature of search warrant
+		- 2. Requisites for the issuance of search warrant
+		- 3. Probable cause in search warrant
+		- 4. Extent of the search
+		- collapsed:: true
+		  5. Exceptions to search warrant requirement
+			- a. Search incidental to lawful arrest
+			- b. Search of moving vehicles
+			- c. Search of a passenger bus
+			- d. Check points
+			- e. Airportfrisking
+			- f. Buy bust operations
+			- g. Plain view
+			- h. Stop and frisk (Terry searches)
+			- i. Consented searches
+		- 6. Search of a Government-Controlled Detention Facility
+		- 7. Effect of an Illegal Search and Seizure
+		- 8. Quashing a Search Warrant
+		- 9. Rule on Cybercrime Warrants [A.M. No. 17-11-03-SC]
+		- 10. Rules on the Use of Body-Worn Cameras in the Execution of Warrants [A.M. No. 21-06-08-SC]
+	- P. Provisional Remedies in Criminal Cases (RULE 127)
 - # SPECIAL PROCEEDINGS
 	- A. Settlement of Estate of Deceased Persons
 	  collapsed:: true
@@ -439,6 +446,7 @@
 	- H. Cancellation or Correction of Entries (Rule 108)
 	- I. Clerical Error Act and its Implementing Rules [R.A. No. 9048, as amended by R.A. No. 10172]
 	- J. Rules of Procedure for Environmental Cases [A.M. No. 09-6-8-SC]
+	  collapsed:: true
 		- 1. Temporary Environmental Protection Order (TEPO)
 		- 2. Writ of Continuing Mandamus
 		- 3. Writ of Kalikasan
@@ -541,7 +549,9 @@
 		- id:: 67ea5888-9384-4813-b4d7-a1b058569347
 		  4. Tender of excluded evidence
 - # LEGAL ETHICS
+  collapsed:: true
 	- ### A. Practice of Law
+	  collapsed:: true
 		- 1.  Basic Concepts
 			- a.  Definition
 			- b.  A mere privilege and not a right
