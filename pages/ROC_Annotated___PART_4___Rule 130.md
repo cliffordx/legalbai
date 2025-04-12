@@ -185,9 +185,8 @@ sys-category:: [[44]]
 				- (b) consistent with the declarant's testimony and is offered to rebut an express or implied charge against the declarant of recent fabrication or improper influence or motive; or
 				- (c) one of identification of a person made after perceiving him or her. (n)
 	- ### 6. Exceptions to the Hearsay Rule
-	  collapsed:: true
 		- **SECTION 38.** *Dying declaration.*
-		  collapsed:: true
+		  id:: 6447bbd3-2615-4c63-8d9b-9551a65cffdc
 			- The declaration of a dying person, made under the consciousness of an impending death, may be received in any case wherein his or her death is the subject of inquiry, as evidence of the cause and surrounding circumstances of such death.(37a)
 		- **SECTION 39.** *Statement of decedent or person of unsound mind.*
 		  collapsed:: true
