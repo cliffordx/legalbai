@@ -314,6 +314,8 @@ public:: false
 - [[Wednesday, 15 March 2023]] 08:33 #memos
   memo-id:: 71
 	- #idea What if I can make an app where the the pleading is a git-style editing and collaborating between two or numerous people. #git #collab
+		- > The Untold Story of Git
+			- {{video https://www.youtube.com/watch?v=Uq41qdjJ8Xs}}
 - [[Tuesday, 14 March 2023]] 19:24 #memos
   memo-id:: 70
 	- Waiting for our specpro class. Feeling sleepy while waiting.

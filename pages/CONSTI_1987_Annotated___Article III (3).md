@@ -14,6 +14,7 @@ status:: active
 	  id:: 6300757c-0985-4ac2-879b-b4d4b5244293
 		-
 - **SECTION 2.**
+  id:: 6447bbb3-0ecf-4811-9445-4392ab945b14
 	- The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures of whatever nature and for any purpose shall be inviolable, and no search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched and the persons or things to be seized.
 - **SECTION 3.**
   id:: 63370976-0ceb-4569-a55e-0ce7c6658389
