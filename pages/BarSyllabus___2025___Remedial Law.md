@@ -47,7 +47,7 @@
 		- H. Rule on Summary Procedure [A.M. No. 08-8-7-SC (Rules on Expedited Procedure)]
 		- I. Barangay conciliation
 	- #### III. CIVIL PROCEDURE A.M. No. 19-10-20-SC
-	  collapsed:: true
+	  id:: 67ea5888-7d6d-444a-bae9-3643f180eca2
 		- A. Classification of Actions
 		  collapsed:: true
 			- 1. Ordinary civil actions
@@ -68,7 +68,7 @@
 			- 5. Joinder and misjoinder of causes of action
 			- 6. Totality rule
 		- E. Parties to Civil Actions (RULE 3)
-		  collapsed:: true
+		  id:: 67ea5888-62c4-415a-b4f1-2b7055bf90cb
 			- 1. Real party-in-interest
 			- 2. Locus standi
 			- 3. Indispensable party
@@ -77,7 +77,8 @@
 			- 6. Indigent party
 			- 7. Alternative defendants
 			- 8. Compulsory and permissive joinder of parties
-			- 9. Misjoinder and non-joinder of parties
+			- id:: 67ea5888-d222-469f-8e62-bcfc77cd9aee
+			  9. Misjoinder and non-joinder of parties
 			- 10. Class suit
 			- 11. Suits against entities without juridical personality
 			- 12. Effect of death of party-litigant
