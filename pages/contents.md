@@ -1,4 +1,3 @@
-- ((645447b1-515d-4ff6-b0a7-b115dccb9ef9))
 - ![IMG_4642.JPG](../assets/IMG_4642_1743342510124_0.JPG){:height 222, :width 215}
 - #### 🙌 **[[Clifford Enoc]]**
 	- ***Licensed Real Estate Broker***
