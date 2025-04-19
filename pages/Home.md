@@ -1,6 +1,7 @@
 icon:: 🏠
 
 - query-table:: false
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "Latest Entries"]
    :query [:find (pull ?b [*])
