@@ -45,6 +45,7 @@ tags:: #rccp
 	- Notwithstanding any provision of the articles of incorporation or bylaws to the contrary, the shares of stock or membership represented at such meeting and entitled to vote shall constitute a quorum for purposes of conducting an election under this section.
 	- Should a director, trustee or officer die, resign or in any manner cease to hold office, the secretary, or the director, trustee or officer of the corporation, shall, within seven (7) days from knowledge thereof, report in writing such fact to the Commission.
 - ## SEC. 26. Disqualification of Directors, Trustees or Officers.
+  id:: 6803db9a-476f-44ce-9b5d-3519ef2f20bd
 	- A person shall be disqualified from being a director, trustee or officer of any corporation if, within five (5) years prior to the election or appointment as such, the person was:
 	- (a) Convicted by final judgment:
 		- (1) Of an offense punishable by imprisonment for a period exceeding six (6) years;

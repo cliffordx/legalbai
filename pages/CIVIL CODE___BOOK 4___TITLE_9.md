@@ -233,8 +233,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) A partner’s right in specific partnership property is not assignable except in connection with the assignment of rights of all the partners in the same property;
 				- (3) A partner’s right in specific partnership property is not subject to attachment or execution, except on a claim against the partnership.
 					- When partnership property is attached for a partnership debt the partners, or any of them, or the representatives of a deceased partner, cannot claim any right under the homestead or exemption laws;
-				- (4) A partner’s right in specific partnership property is not subject to legal support under [[09 - TITLE IX* - SUPPORT#ARTICLE 291|article 291]].[^1] (n)
-					- [^1]: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 195]], Family Code of the Philippines.
+				- (4) A partner’s right in specific partnership property is not subject to legal support under article 291.[^1] (n)
+					- [^1]: This is superseded by ARTICLE 195, Family Code of the Philippines.
 		- **ARTICLE 1812.**
 			- A partner’s interest in the partnership is his share of the profits and surplus. (n)
 		- **ARTICLE 1813.**

@@ -1,4 +1,4 @@
-- # Constitutional Law Q&As
+# Constitutional Law Q&As
 	- > NOTE: These are collated Q&As from our class. Use this only as your reference or you may wish to add/edit/correct any of them, just inform me. Use at your own risk.
 	- ## **INTRODUCTION:**
 		- **Discuss the doctrine of constitutional supremacy.** #card
@@ -110,7 +110,7 @@
 				- This delegation is based on the principle that the local government is in better position than the national government to act on purely local concerns. Legislative power is therefore given to them for effective local legislation.
 			- **_(5) Delegation to administrative bodies._**
 				- The Congress delegates the so called “power of subordinate legislation” to administrative bodies. Due to the growing complexity of modern society, it has become necessary to allow specialized administrative bodies to promulgate supplementary rules, so that they can deal with technical problems with more expertise and dispatch than the Congress or the courts. Regulations or supplementary rules passed by the administrative bodies are intended to fill-in the gaps and provide details to what is otherwise a broad statute passed by Congress. For the rules and regulations to be valid and binding, they must be in accordance with the statute on which they are based, complete in themselves, and fix sufficient standards. If any of the requirements is not satisfied, the regulation will not be allowed to affect private rights
-			- [[Delegation of Powers#Permissible Delegation]]
+			- [[Permissible Delegation]]
 	- **Explain the concept of flexible tariff clause** #card
 	  collapsed:: true
 		- Article VI "Sec. 28(2) of the Constitution states that the Congress may by law authorize the President to fix within specified limits, and subject to such limitations and restrictions as it may impose, tariff rates, import and export quotas, tonnage and wharfage dues, and other duties or imposts, within the framework of the national development program of the Government."

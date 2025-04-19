@@ -6,7 +6,7 @@ tags:: #codal/funeral
 status:: active
 date-uploaded:: 16:03; Thursday, 27th October 2022
 
-# TITLE X - Funerals
+- # TITLE X - Funerals
 	- **ARTICLE 305.**
 	  id:: 424c3af1-8c03-4242-b9db-d8f8c8f9b687
 	  collapsed:: true
@@ -21,7 +21,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In case of doubt, the form of the funeral shall be decided upon by the person obliged to make arrangements for the same, after consulting the other members of the family.
 	- **ARTICLE 308.**
 	  collapsed:: true
-		- No human remains shall be retained, interred, disposed of or exhumed without the consent of the persons mentioned in articles [[09 - TITLE IX* - SUPPORT#ARTICLE 294|294]] and [[#ARTICLE 305|305]].
+		- No human remains shall be retained, interred, disposed of or exhumed without the consent of the persons mentioned in articles [294](((4f2468ed-7832-4e40-abd0-36e6e92bf03b)))  and [305](((424c3af1-8c03-4242-b9db-d8f8c8f9b687))).
 	- **ARTICLE 309.**
 	  collapsed:: true
 	  id:: 635bc737-fcc9-4a2e-b98f-ebd6acac152d

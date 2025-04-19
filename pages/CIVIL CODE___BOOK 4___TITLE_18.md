@@ -53,7 +53,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The amount of damages for death caused by a crime or quasi-delict shall be at least three thousand pesos[^1], even though there may have been mitigating circumstances.
 		- In addition:
 			- (1) The defendant shall be liable for the loss of the earning capacity of the deceased, and the indemnity shall be paid to the heirs of the latter; such indemnity shall in every case be assessed and awarded by the court, unless the deceased on account of permanent physical disability not caused by the defendant, had no earning capacity at the time of his death;
-			- (2) If the deceased was obliged to give support according to the provisions of [[07 - TITLE VII* - THE FAMILY#ARTICLE 219|article 291]], the recipient who is not an heir called to the decedent’s inheritance by the law of testate or intestate succession, may demand support from the person causing the death, for a period not exceeding five years, the exact duration to be fixed by the court;
+			- (2) If the deceased was obliged to give support according to the provisions of [article 291,](((9394ae3c-6bc2-4f47-a973-8020c8e96b51))) the recipient who is not an heir called to the decedent’s inheritance by the law of testate or intestate succession, may demand support from the person causing the death, for a period not exceeding five years, the exact duration to be fixed by the court;
 			- (3) The spouse, legitimate and illegitimate descendants and ascendants of the deceased may demand moral damages for mental anguish by reason of the death of the deceased.
 				- [^1]: _{(now 50,000 pesos.)}
 	- **ARTICLE 2207.**

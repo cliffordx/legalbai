@@ -5,7 +5,7 @@ law-subject:: civil
 tags:: #codal/support
 status:: active
 
-# TITLE VIII - SUPPORT
+- # TITLE VIII - SUPPORT
 - **ARTICLE 194.**
   id:: cf08893c-3a8c-4d28-ad56-757a94308e45
 	- Support comprises everything indispensable for sustenance, dwelling, clothing, medical attendance, education and transportation, in keeping with the financial capacity of the family.

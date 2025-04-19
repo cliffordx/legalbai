@@ -20,7 +20,7 @@ status:: inactive, superseded
 - **ARTICLE 291.**
   id:: 9394ae3c-6bc2-4f47-a973-8020c8e96b51
   collapsed:: true
-	- > Note: This is superseded by [[08 - TITLE VIII - SUPPORT#ARTICLE 195]], Family Code of the Philippines.
+	- > Note: This is superseded by [Article 195,](((ad404461-436a-4a88-85ac-211ceae86f99))) Family Code of the Philippines.
 	- The following are obliged to support each other to the whole extent set forth in the preceding article:
 	  collapsed:: true
 		- (1) The spouses;

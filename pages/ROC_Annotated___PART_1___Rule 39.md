@@ -6,6 +6,7 @@ tags:: #codal/roc/civpro #pjr
 status:: active
 sys-category:: [[41]]
 {{embed ((62c2d9f3-2c2e-4bdb-a3d1-0c191ba523ca))}}
+
 - # RULE 39 - Execution, Satisfaction and Effect of Judgments
   heading:: true
 - ## Flowchart / Diagram:
@@ -82,7 +83,7 @@ sys-category:: [[41]]
 	- (a) Execution of a judgment or final order pending appeal.
 		- On motion of the prevailing party with notice to the adverse party filed in the trial court while it has jurisdiction over the case and is in possession of either the original record or the record on appeal, as the case may be, at the time of the filing of such motion, said court may, in its discretion, order execution of a judgment or final order ==even before the expiration of the period to appeal==.
 			- #NOTE/codal/civpro/R39/2
-				- > [[2022-06-27 Monday]]
+				- >  [[Monday, 27 June 2022]]
 		- After the trial court has lost jurisdiction, the motion for execution pending appeal may be filed in the appellate court.
 		- Discretionary execution may only issue upon good reasons to be stated in a special order after due hearing.
 	- (b) Execution of several, separate or partial judgments.
@@ -192,7 +193,7 @@ sys-category:: [[41]]
 			- #NOTE/codal/civpro/R39/13 No one can go homeless, except: Art.  155 of the Family Code #bar
 			- #+BEGIN_NOTE
 			  The family home shall be exempt from execution, forced sale or attachment except:
-
+			  
 			  (1) For nonpayment of taxes;
 			  (2) For debts incurred prior to the constitution of the family home;
 			  (3) For debts secured by mortgages on the premises before or after such constitution; and
@@ -210,7 +211,7 @@ sys-category:: [[41]]
 		- (k) Monies, benefits, privileges, or annuities accruing or in any manner growing out of any [life insurance]([[life insurance]]);
 		- (l) The right to receive legal support, or money or property obtained as such support, or any pension or gratuity from the Government;
 		- (m) Properties specially exempted by law.  
-
+		  
 		  But no article or species of property mentioned in this section shall be exempt from execution issued upon a judgment recovered for its price or upon a judgment of foreclosure of a mortgage thereon. (12a)
 - **SECTION 14.** Return of writ of execution.
   collapsed:: true

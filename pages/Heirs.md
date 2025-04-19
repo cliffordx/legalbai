@@ -1,4 +1,4 @@
-- # Blacks Law
+# Blacks Law
 	- **Heir:**  (air). (13c)
 	- collapsed:: true
 	  1. Someone who, under the laws of intestacy, is entitled to receive an intestate decedent’s property. — Also termed/called legal heir, heir at law, lawful heir, heir general; legitimate heir. Cf. ANCESTOR.[^bl]

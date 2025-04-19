@@ -6,7 +6,7 @@ id:: 631d7215-4e73-49ac-bbab-3594c0b1b677
 - **EXCISE TAXES ON CERTAIN GOODS** [(fn4)](((631a19be-48f2-40f2-9615-be81978dc880)))
 - **CHAPTER I**
 	- **GENERAL PROVISIONS**
-	- **SEC.129. _Goods and Services Subject to Excise Taxes_.** - Excise taxes apply to goods manufactured or produced in the Philippines for domestic sales or consumption or for any other disposition and to things imported as well as services performed in the Philippines.[[127](#fn127)] The excise tax imposed herein shall be in addition to the value-added tax imposed under [Title IV]([[NIRC/TITLE_IV]]).
+	- **SEC.129. _Goods and Services Subject to Excise Taxes_.** - Excise taxes apply to goods manufactured or produced in the Philippines for domestic sales or consumption or for any other disposition and to things imported as well as services performed in the Philippines.[(fn127)](((6803db72-ed64-4865-8136-8895f17178b7))) The excise tax imposed herein shall be in addition to the value-added tax imposed under [Title IV]([[NIRC/TITLE_IV]]).
 	- For purposes of this Title, excise taxes herein imposed and based on weight or volume capacity or any other physical unit of measurement shall be referred to as 'specific tax' and an excise tax herein imposed and based on selling price or other specified value of the good or service performed [[127](#fn127)] shall be referred to as 'ad valorem tax.'
 		- ![image.png](../assets/image_1665053586975_0.png)
 	- **SEC. 130. _Filing of Return and Payment of Excise Tax on Domestic Products_.** –

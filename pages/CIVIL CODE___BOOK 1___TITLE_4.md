@@ -46,7 +46,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- The decree of legal separation shall have the following effects:
 	  collapsed:: true
 		- (1) The spouses shall be entitled to live separately from each other, but the marriage bonds shall not be severed;
-		- (2) The conjugal partnership of gains or the absolute conjugal community of property shall be dissolved and liquidated, but the offending spouse shall have no right to any share of the profits earned by the partnership or community, without prejudice to the provisions of [[06 - TITLE VI* - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE#ARTICLE 176|article 176]];
+		- (2) The conjugal partnership of gains or the absolute conjugal community of property shall be dissolved and liquidated, but the offending spouse shall have no right to any share of the profits earned by the partnership or community, without prejudice to the provisions of [article 176;](((ba460d88-7946-420d-bf0e-c25f54e6cae8)))
 		- (3) The custody of the minor children shall be awarded to the innocent spouse, unless otherwise directed by the court in the interest of said minors, for whom said court may appoint a guardian;
 		- (4) The offending spouse shall be disqualified from inheriting from the innocent spouse by intestate succession. Moreover, provisions in favor of the offending spouse made in the will of the innocent one shall be revoked by operation of law. (n)
 		  id:: 634fba69-b25a-4252-8139-218f14a303cb
@@ -58,4 +58,4 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - **ARTICLE 108.**
   collapsed:: true
 	- Reconciliation stops the proceedings for legal separation and rescinds the decree of legal separation already rendered.
-	- The revival of the conjugal partnership of gains or of the absolute conjugal community of property shall be governed by [[06 - TITLE VI* - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE#ARTICLE 195|article 195]]. (10a, Act 2710)
+	- The revival of the conjugal partnership of gains or of the absolute conjugal community of property shall be governed by [article 195.](((6803db69-7599-44e2-9b3d-97e9afc4bea6))) (10a, Act 2710)

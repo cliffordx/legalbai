@@ -445,7 +445,7 @@ public:: false
 	- https://lawphil.net/judjuris/juri2022/mar2022/pdf/ac_11219_2022.pdf #app/memos
 - [[Friday, 10 March 2023]] 23:56 #memos
   memo-id:: 56
-	- Updated the [[app/logseq]] memos [[pllugin]] atm. Let's see if it sync. #app/memos
+	- Updated the [[app/logseq]] memos [[plugin]] atm. Let's see if it sync. #app/memos
 - [[Friday, 10 March 2023]] 21:53 #memos
   memo-id:: 55
 	- https://poe.com/s/GeFOA7kWMUNPO3hJnTnR #shortcut #iPhone

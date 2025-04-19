@@ -81,8 +81,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The action to claim his legitimacy may be brought by the child during all his lifetime, and shall be transmitted to his heirs if he should die during his minority or in a state of insanity. In these cases the heirs shall have a period of five years within which to institute the action.
 		- The action already commenced by the child is transmitted upon his death to the heirs, if the proceeding has not yet lapsed. (118)
-## CHAPTER 3 - Legitimated Children
-collapsed:: true
+- ## CHAPTER 3 - Legitimated Children
+  collapsed:: true
 	- **ARTICLE 269.**
 	  id:: 6e6a0372-aa07-4d5e-a9fa-78bfa4340446
 	  collapsed:: true
@@ -109,7 +109,7 @@ collapsed:: true
 	- **ARTICLE 275.**
 	  collapsed:: true
 		- Legitimation may be impugned by those who are prejudiced in their rights, when it takes place in favor of those who do not have the legal condition of natural children or when the requisites laid down in this Chapter are not complied with. (128a)
-## CHAPTER 4 - Illegitimate Children
+- ## CHAPTER 4 - Illegitimate Children
 	- ### SECTION 1. Recognition of Natural Children
 		- **ARTICLE 276.**
 		  id:: 635bc739-a8bb-4bc3-a987-2f29de954c70

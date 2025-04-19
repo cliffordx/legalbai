@@ -5,7 +5,7 @@ law-subject:: civil
 tags:: #codal/family #codal/property/relations 
 status:: active
 
-# TITLE IV - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE
+- # TITLE IV - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE
 - # [[🔴 Chapter 1 - General Provisions]]
   heading:: true
   collapsed:: true
@@ -70,6 +70,7 @@ status:: active
 		- The prohibition shall also apply to persons living together as husband and wife without a valid marriage. (133a)
 - # [[🔴 Chapter 3 - System of Absolute Community]]
   heading:: true
+  id:: 6803db9a-7138-47d4-af35-6cb5effb9752
   collapsed:: true
 	- Compare: [CHAPTER 4 - Conjugal Partnership of Gains|Conjugal Partnership of Gains](((631d71f1-3e7a-4587-a7a4-cd86e4aec5d6)))[^1]
 	- [^1]: See Table Comparison: [[Conjugal Property vs. Absolute Community Property]]

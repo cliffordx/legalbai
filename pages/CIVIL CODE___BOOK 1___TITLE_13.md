@@ -21,7 +21,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- Natural children by legal fiction shall principally employ the surname of the father.
 - **ARTICLE 368.**
   collapsed:: true
-	- Illegitimate children referred to in [[08 - TITLE VIII* - PATERNITY AND FILIATION#ARTICLE 287|article 287]] shall bear the surname of the mother.
+	- Illegitimate children referred to in [article 287](((2ba77fad-69f6-4a99-9ab6-8b8052760c5f))) shall bear the surname of the mother.
 - **ARTICLE 369.**
   collapsed:: true
 	- Children conceived before the decree annulling a voidable marriage shall principally use the surname of the father.

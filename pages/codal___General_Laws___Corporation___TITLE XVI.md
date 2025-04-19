@@ -1,7 +1,7 @@
 long-title:: TITLE XVI - INVESTIGATIONS, OFFENSES, AND PENALTIES
 tags:: rccp
 
-# TITLE XVI - INVESTIGATIONS, OFFENSES, AND PENALTIES
+- # TITLE XVI - INVESTIGATIONS, OFFENSES, AND PENALTIES
 - ## SEC. 154. Investigation and Prosecution of Offenses.
 	- The Commission may investigate an alleged violation of this Code, or of rule, regulation, or order of the Commission.
 	- The Commission may publish its findings, orders, opinions, advisories, or information concerning any such violation, as may be relevant to the general public or to the parties concerned, subject to the provisions of Republic Act No. 10173, otherwise known as the “Data Privacy Act of 2012”, and other pertinent laws.
@@ -23,7 +23,7 @@ tags:: rccp
 - ## SEC. 159. Unauthorized Use of Corporate Name; Penalties.
 	- The unauthorized use of a corporate name shall be punished with a fine ranging from Ten thousand pesos (P10,000.00) to Two hundred thousand pesos (P200,000.00).
 - ## SEC. 160. Violation of Disqualification Provision; Penalties.
-	- When, despite the knowledge of the existence of a ground for disqualification as provided in [[3 - TITLE III#SEC 26 Disqualification of Directors Trustees or Officers|Section 26]] of this Code, a director, trustee or officer willfully holds office, or willfully conceals such disqualification, such director, trustee or officer shall be punished with a fine ranging from Ten thousand pesos (P10,000.00) to Two hundred thousand pesos (P200,000.00) at the discretion of the court, and shall be permanently disqualified from being a director, trustee or officer of any corporation. When the violation of this provision is injurious or detrimental to the public, the penalty shall be a fine ranging from Twenty thousand pesos (P20,000.00) to Four hundred thousand pesos (P400,000.00).
+	- When, despite the knowledge of the existence of a ground for disqualification as provided in [Section 26](((6803db9a-476f-44ce-9b5d-3519ef2f20bd))) of this Code, a director, trustee or officer willfully holds office, or willfully conceals such disqualification, such director, trustee or officer shall be punished with a fine ranging from Ten thousand pesos (P10,000.00) to Two hundred thousand pesos (P200,000.00) at the discretion of the court, and shall be permanently disqualified from being a director, trustee or officer of any corporation. When the violation of this provision is injurious or detrimental to the public, the penalty shall be a fine ranging from Twenty thousand pesos (P20,000.00) to Four hundred thousand pesos (P400,000.00).
 - ## SEC. 161. Violation of Duty to Maintain Records, to Allow their Inspection or Reproduction; Penalties.
 	- The unjustified failure or refusal by the corporation, or by those responsible for keeping and maintaining corporate records, to comply with Sections 45, 73, 92, 128, 177 and other pertinent rules and provisions of this Code on inspection and reproduction of records shall be punished with a fine ranging from Ten thousand pesos (P10,000.00) to Two hundred thousand pesos (P200,000.00), at the discretion of the court, taking into consideration the seriousness of the violation and its implications. When the violation of this provision is injurious or detrimental to the public, the penalty is a fine ranging from Twenty thousand pesos (P20,000.00) to Four hundred thousand pesos (P400,000.00).
 	- The penalties imposed under this section shall be without prejudice to the Commission’s exercise of its contempt powers under Section 157 hereof.

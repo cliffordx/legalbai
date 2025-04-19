@@ -114,7 +114,9 @@ icon:: 
   id:: 635122de-d511-4a26-af41-8d7f83e58695
 	- #stopped
 - [53] Under RA 9994, otherwise known as the “Senior Citizens Act of 2010,” which took effect on February 15, 2010, senior citizens who are considered to be minimum wage earners in accordance with RA 9504 shall also be treated as exempt from the payment of individual income tax.
+  id:: 6803db72-02eb-438d-b6b4-7d364dc192a9
 - [54] As amended by RA 9504,supra.
+  id:: 6803db72-a7e6-4d9d-9b10-f6a2d85ad396
 - [55] RA 337, otherwise known as the “General Banking Act,” had been amended by RA 8791, otherwise known as the “General Banking Law of 2000.”
 - [56] Introduced by [Sec. 13](((635407f6-05b8-41d9-b7d6-e56b9baaa3f7))) of the TRAIN.
 - [57] Introduced by Sec. 14 of the TRAIN.
@@ -129,6 +131,7 @@ icon:: 
 - [65] As inserted by RA 10021,supra.
 - [66] As amended by Sec. 20 of the TRAIN. Previous deadline for the first quarterly income tax declaration was April 15 of the same taxable year.
 - [67] As amended by Sec. 20 of the TRAIN. Previous deadline for the fourth installment was April 15 of the following calendar year. To clarify, the deadline for filing the annual income tax return and payment of the income tax payable therein is still April 15 of the succeeding calendar year pursuant to Sec 51 (C)(1) of this Code.
+  id:: 6803db72-400d-405f-a73b-05741680e759
 - [68] As amended by Sec. 21 of the TRAIN. Subsections (D) (Personal Exemptions) and (F) (Husband and Wife) were removed.
 - [69] As amended by [Sec. 22](((63ddde76-0840-40d9-a3f9-339af31dc77d))) of the TRAIN.
   id:: 63ca3a28-edfc-4417-a6b8-d2e7e990f820
@@ -222,6 +225,7 @@ icon:: 
 - [125] As amended by Sec. 39 of the TRAIN. Previous rate was ½ of 1%.
 - [126] As amended by Sec. 40 of the TRAIN. Original Subsection (A)(3)(Exceptions) - authorizing the BIR Commissioner to provide the time for filing the return at intervals other than the time prescribed by law and the manner and time of payment of percentage taxes other than as prescribed by law - was removed/deleted.
 - [127] Introduced by Sec. 41 of the TRAIN.
+  id:: 6803db72-ed64-4865-8136-8895f17178b7
 - [128] Introduced by Sec. 2 of RA 11346. Effective 1 January 2020.
 - [129] As amended by Sec. 3 of RA 11346. Previous rate was 4%.
 - [130] Introduced by Sec. 3 of RA 11346. Effective 1 January 2020.

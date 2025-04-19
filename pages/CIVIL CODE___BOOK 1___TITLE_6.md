@@ -108,8 +108,8 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - # 🔴 CHAPTER 4 - Conjugal Partnership of Gains
   id:: 631d71f1-3e7a-4587-a7a4-cd86e4aec5d6
   collapsed:: true
-	- Compare: [[04 - TITLE IV - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE#Chapter 3 - System of Absolute Community|System of Absolute Community]][^3]
-	  [^3]: See Table Comparison: [[Conjugal Property vs. Absolute Community Property]]
+	- Compare: [System of Absolute Community.](((6803db9a-7138-47d4-af35-6cb5effb9752)))[^3]
+		- [^3]: See Table Comparison: [[Conjugal Property vs. Absolute Community Property]]
 	- ### SECTION 1. General Provisions
 	  collapsed:: true
 		- **ARTICLE 142.**
@@ -253,7 +253,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- **ARTICLE 175.**
 		  id:: 333f3c04-587e-4114-82d6-837e10800bcb
-		  collapsed:: true
 			- The The conjugal partnership of gains terminates:
 			  collapsed:: true
 				- (1) Upon the death of either spouse;
@@ -262,7 +261,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (4) In case of judicial separation of property under [article 191](((baad8e66-7b95-4327-95b9-264a2a5db339))). (1417a)
 		- **ARTICLE 176.**
 		  id:: ba460d88-7946-420d-bf0e-c25f54e6cae8
-		  collapsed:: true
 			- In case of legal separation, the guilty spouse shall forfeit his or her share of the conjugal partnership profits, which shall be awarded to the children of both, and the children of the guilty spouse had by a prior marriage.
 			- However, if the conjugal partnership property came mostly or entirely from the work or industry, or from the wages and salaries, or from the fruits of the separate property of the guilty spouse, this forfeiture shall not apply.
 			- In case there are no children, the innocent spouse shall be entitled to all the net profits. (n)
@@ -345,6 +343,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- The separation of property shall not prejudice the rights previously acquired by creditors. (1438)
 	- **ARTICLE 195.**
+	  id:: 6803db69-7599-44e2-9b3d-97e9afc4bea6
 	  collapsed:: true
 		- The separation of property ceases:
 		  collapsed:: true

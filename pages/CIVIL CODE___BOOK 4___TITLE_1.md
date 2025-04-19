@@ -368,7 +368,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Other causes of extinguishment of obligations, such as annulment, rescission, fulfillment of a resolutory condition, and prescription, are governed elsewhere in this Code.[^2] (1156a)
 			- _Footnote_:
 				- [^2]: Compromise under Art. 2028 of the Civil Code; Impossibility of fulfillment under ((177c6213-853e-42db-929a-dcff7d26dde7)) of the New Civil Code; Happening of a fortuitous event under ((d741e29e-cd2e-4df3-9930-d288bdd00d25)) of the New Civil Code.
-					- [^3]: See [[payment#How Payment or Performance Is Made|How Payment or Performance Is Made]].
+					- [^3]: See *How Payment or Performance Is Made.*
 	- ### SECTION 1 - Payment or Performance
 		- **ARTICLE 1232.**
 		  collapsed:: true
