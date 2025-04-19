@@ -1,7 +1,7 @@
 long-title:: TITLE IV - POWERS OF CORPORATIONS
 tags:: #rccp
 
-# TITLE IV - POWERS OF CORPORATIONS
+- # TITLE IV - POWERS OF CORPORATIONS
 - ## SEC. 35. Corporate Powers and Capacity.
   id:: 64408c45-fedf-444c-8e06-ac2b205066c0
 	- Every corporation incorporated under this Code has the power and capacity:

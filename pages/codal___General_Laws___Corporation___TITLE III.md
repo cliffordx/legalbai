@@ -1,7 +1,7 @@
 long-title:: TITLE III - BOARD OF DIRECTORS/TRUSTEES AND OFFICERS
 tags:: #rccp
 
-# TITLE III - BOARD OF DIRECTORS/TRUSTEES AND OFFICERS
+- # TITLE III - BOARD OF DIRECTORS/TRUSTEES AND OFFICERS
 - ## SEC. 22. The Board of Directors or Trustees of a Corporation; Qualification and Term.
   id:: 64408c45-773f-46b4-b5ca-448673bd61ec
   collapsed:: true

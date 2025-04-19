@@ -9,11 +9,9 @@ sys-category:: [[41]]
 - # CIVIL ACTIONS - Ordinary Civil Actions
 	- ## RULE 2 - Cause of Action
 	- **SECTION 1.** *Ordinary civil actions, basis of.*
-	  collapsed:: true
 		- Every ordinary civil action must be based on a cause of action. (n)
 	- **SECTION 2.** *Cause of action, defined.*
 	  id:: 630798ad-a511-4eed-9243-dd791c1bf9db
-	  collapsed:: true
 		- A cause of action is the act or omission by which a party violates a right of another. (n)
 	- **SECTION 3.** *One suit for a single cause of action.*
 	  collapsed:: true

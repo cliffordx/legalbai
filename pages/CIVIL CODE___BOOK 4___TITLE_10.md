@@ -237,7 +237,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  id:: 6337096e-1240-433f-b90e-d409d8e1c6ca
 	  collapsed:: true
 		- The principal must comply with all the obligations which the agent may have contracted **within the scope of his authority.**
-		- As for any obligation wherein the agent has exceeded his power, the principal is not bound [[$red]]==except when he ratifies it expressly or tacitly.== (1727)
+		- As for any obligation wherein the agent has exceeded his power, the principal is not bound ==except when he ratifies it expressly or tacitly.== (1727)
 		  collapsed:: true
 			- *ratification*
 			  background-color:: #264c9b

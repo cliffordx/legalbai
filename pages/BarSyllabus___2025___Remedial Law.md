@@ -49,18 +49,16 @@
 	- #### III. CIVIL PROCEDURE A.M. No. 19-10-20-SC
 	  id:: 67ea5888-7d6d-444a-bae9-3643f180eca2
 		- A. Classification of Actions
-		  collapsed:: true
 			- 1. Ordinary civil actions
 			- 2. Special civil actions
 			- 3. Criminal actions
 			- 4. Special proceedings
 		- B. Kinds of Actions
-		  collapsed:: true
 			- 1. Personal actions and real actions
 			- 2. Actions in rem, in personam and quasi in rem
 		- C. Payment of Docket Fees
 		- D. Cause of Action (RULE 2)
-		  collapsed:: true
+		  id:: 67ea5888-a029-4282-a8cf-0950c7290475
 			- 1. Elements of cause of action
 			- 2. Failure to state a cause of action
 			- 3. Test of sufficiency of a cause of action
@@ -85,16 +83,13 @@
 			- 13. Substitution of parties
 			- 14. Transfer of interest
 		- F. Venue (RULE 4)
-		  collapsed:: true
 			- 1. Venue vs. jurisdiction
 			- 2. Venue of real actions
 			- 3. Venue of personal actions
 			- 4. Venue of actions against non-residents
 			- 5. When the rules on venue do not apply
 		- G. Pleadings
-		  collapsed:: true
-			- collapsed:: true
-			  1. Kinds of pleadings (RULE 6)
+			- 1. Kinds of pleadings (RULE 6)
 				- a. Complaint
 				- b. Answer
 				- c. Defenses (Negative defenses, Affirmative defenses, negative pregnant)
@@ -103,8 +98,7 @@
 				- f. Reply
 				- g. Third (fourth, etc.) party complaints
 			- 2. Parts and Contents of a Pleading (RULE 7)
-			- collapsed:: true
-			  3. Allegations in a Pleading (RULE 8)
+			- 3. Allegations in a Pleading (RULE 8)
 				- a. Manner of making allegations
 				- b. Ultimate facts including the evidence
 				- c. Alternative causes of action or defenses
@@ -116,8 +110,7 @@
 				- i. Specific denials
 				- j. Affirmative defenses in relation to Sec. 5(b), Rule 6 and Sec. 12, Rule 8
 			- 4. Effect of Failure to Plead and Default (RULE 9)
-			- collapsed:: true
-			  5. Amended and Supplemental Pleadings (RULE 10)
+			- 5. Amended and Supplemental Pleadings (RULE 10)
 				- a. Amendment as a matter of right
 				- b. Amendments by leave of court
 				- c. Formal amendment
@@ -126,20 +119,17 @@
 				- f. No amendments necessary to conform to or authorize presentation of evidence
 				- g. Supplemental pleadings
 			- 6. Filing of responsive pleadings (RULE 11)
-			- collapsed:: true
-			  7. Bill of particulars (RULE 12)
+			- 7. Bill of particulars (RULE 12)
 				- a. Purpose and when applied for
 				- b. Actions of the court
 				- c. Compliance with the order and effect of non-compliance
-			- collapsed:: true
-			  8. Filing and service of pleadings (RULE 13)
+			- 8. Filing and service of pleadings (RULE 13)
 				- a. Periods of filing pleadings
 				- b. Manner of filing
 				- c. Papers required to be filed
 				- d. Modes of service of pleadings
 				- e. A.M. No. 10-3-7-SC (The Revised Guidelines on submission of Electronic Copies of SC-Bound Papers pursuant to the Efficient Use of Paper Rule)
 		- H. Summons (RULE 14)
-		  collapsed:: true
 			- 1. Issuance of summons and its contents
 			- 2. By whom served
 			- 3. Validity of summons and issuance of alias summons
@@ -147,8 +137,7 @@
 			- 5. Voluntary appearance
 			- 6. Service in person of defendant
 			- 7. Substituted service
-			- collapsed:: true
-			  8. Service upon
+			- 8. Service upon
 				- a. Entity without juridical personality
 				- b. Prisoners
 				- c. Consistent with international conventions[The Service Abroad of Judicial and Extrajudicial Documents in Civil and Commercial Matters]
@@ -164,7 +153,6 @@
 			- 11. Service by publication
 			- 12. Return
 		- I. Motions (RULE 15)
-		  collapsed:: true
 			- 1. Motions vs. pleadings
 			- 2. Non-litigious motions
 			- 3. Litigious motions
@@ -172,12 +160,10 @@
 			- 5. Omnibus motion
 			- 6. Dismissal with prejudice
 		- J. Dismissal of Actions (RULE 17)
-		  collapsed:: true
 			- 1. Dismissal upon notice by plaintiff; two-dismissal rule
 			- 2. Dismissal upon motion by plaintiff; effect on existing counterclaim
 			- 3. Dismissal due to fault of plaintiff
 		- K. Pre-trial (RULE 18)
-		  collapsed:: true
 			- 1. When conducted
 			- 2. Nature and purpose
 			- 3. Notice of pre-trial
@@ -192,7 +178,6 @@
 		- M. Calendar of Cases (RULE 20)
 		- N. Subpoena (RULE 21)
 		- O. Modes of Discovery
-		  collapsed:: true
 			- 1. Depositions pending action (RULE 23)
 			- 2. Depositions before action or pending appeal (RULE 24)
 			- 3. Interrogatories to parties (RULE 25)
@@ -201,14 +186,12 @@
 			- 6. Physical and mental examination of persons (RULE 28)
 			- 7. Consequences of refusal to comply with modes of discovery (RULE 29)
 		- P. Trial (RULE 30)
-		  collapsed:: true
 			- 1. Continuous trial
 			- 2. Adjournments and postponements
 			- 3. Order of trial
 			- 4. Oral offer of exhibits
 		- Q. Consolidation or Severance of Trial (RULE 31)
 		- R. Demurrer to Evidence (RULE 33)
-		  collapsed:: true
 			- 1. Effect of denial or grant of demurrer
 			- 2. Denial of demurrer not subject to appeal or petition for certiorari
 			- 3. Effect of reversal of demurrer on appeal;Waiver of right to present evidence
@@ -216,14 +199,11 @@
 		- S. Judgment on the Pleadings (RULE 34)
 		- T. Summary Judgments (RULE 35)
 		- U. Post-judgment Remedies
-		  collapsed:: true
 			- 1. Motion for new trial (RULE 37)
-			- collapsed:: true
-			  2. Motion for reconsideration (RULE 37)
+			- 2. Motion for reconsideration (RULE 37)
 				- a. Remedy when motion for new trial or reconsideration is denied
 				- b. Fresh period rule
-			- collapsed:: true
-			  3. Appeal
+			- 3. Appeal
 				- a. Judgments and Final Orders appealable
 				- b. Matters not appealable
 				- c. Modes of appeal
@@ -240,11 +220,9 @@
 			- 5. Annulment of Judgment (Rule 47)
 			- 6. Collateral Attack on Judgments
 		- V. Execution, Satisfaction, and Effect of Judgments (RULE 39)
-		  collapsed:: true
 			- 1. Difference between finality of judgment for purposes of appeal; for purposes of execution
 			- 2. When execution shall issue
-			- collapsed:: true
-			  3. How a judgment is executed
+			- 3. How a judgment is executed
 				- a. By motion or independent action
 				- b. Execution of judgments for money
 				- c. Execution of judgments for specific acts
@@ -254,8 +232,7 @@
 			- 4. Properties exempt from execution
 			- 5. Proceedings where property is claimed by third persons
 			- 6. Effect of judgment or final orders
-			- collapsed:: true
-			  7. Aspects of res judicata
+			- 7. Aspects of res judicata
 				- a. Bar by prior judgment
 				- b. Conclusiveness of judgment
 			- 8. Enforcement and effect of foreign judgments or final orders

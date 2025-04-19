@@ -18,7 +18,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 		- Every corporation, partnership, or association, duly authorized to transact insurance business as elsewhere provided in this Code, [[#red]]==may be an insurer.==
 	- **SECTION 7.**
 	  id:: 631d7240-92d5-4749-8781-d62aca893056
-		- [[#blue]]==Anyone== [[$red]]==except a public enemy== [[#green]]==may be insured==.
+		- [[#blue]]==Anyone== ==except a public enemy== [[#green]]==may be insured==.
 			- Minors -  R.A. 6809 (Age of majority is18 years)
 			- Married women – R.A. 6809
 	- **SECTION 8.**
@@ -165,7 +165,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 		- The Commissioner may promulgate rules and regulations governing such extensions for the purpose of preventing such violations and may by such rules and regulations dispense with the requirement of written approval by him in the case of extension in compliance with such rules and regulations.
 	- **SECTION 53.**
 	  id:: 631d7240-ca8e-46cb-a29c-e19dc107cefb
-		- The insurance proceeds shall be applied exclusively to the proper [[$red]]==interest== of the person in whose name or for whose benefit it is made [[#red]]==unless otherwise specified in the policy.==
+		- The insurance proceeds shall be applied exclusively to the proper ==interest== of the person in whose name or for whose benefit it is made [[#red]]==unless otherwise specified in the policy.==
 		- Commentaries:
 			- Pursuant thereto, it is obvious that the only persons entitled to claim the insurance proceeds are either the insured, if still alive; or the beneficiary, if the insured is already deceased, upon the maturation of the policy. 20 The exception to this rule is a situation where the insurance contract was intended to benefit third persons who are not parties to the same in the form of favorable stipulations or indemnity. In such a case, third parties may directly sue and claim from the insurer. [^21]
 				- [^21]: _{Coquila v. Fieldmen's Insurance Co., Inc., No. L-23276, November 29, 1968,26 SCRA 178, 181; Guingon v. Del Monte, No. L-22042, August 17, 1967, 20 SCRA 1043.}
@@ -246,7 +246,7 @@ title:: codal/Special_Laws/The_Insurance_Code/CH_1
 	- **SECTION 77.**
 	  id:: 631d7240-133f-4971-b88b-25c83feb1abd
 		- An insurer is entitled to payment of the premium as soon as the thing insured is exposed to the peril insured against.
-		- Notwithstanding any agreement to the contrary, [[$red]]==no policy or contract of insurance issued by an insurance company is valid and binding unless== and [[#red]]==until the premium thereof has been paid==, except in the case of a life or an industrial life policy whenever the grace period provision applies, *or whenever under the broker and agency agreements with duly licensed intermediaries, a ninety (90)-day credit extension is given.*
+		- Notwithstanding any agreement to the contrary, ==no policy or contract of insurance issued by an insurance company is valid and binding unless== and [[#red]]==until the premium thereof has been paid==, except in the case of a life or an industrial life policy whenever the grace period provision applies, *or whenever under the broker and agency agreements with duly licensed intermediaries, a ninety (90)-day credit extension is given.*
 		- *No credit extension to a duly licensed intermediary should exceed ninety (90) days from date of issuance of the policy.*
 	- **SECTION 78.**
 		- Employees of the Republic of the Philippines, including its political subdivisions and instrumentalities, and government-owned or -controlled corporations, may pay their insurance premiums and loan obligations through salary deduction: **Provided**, *That* the treasurer, cashier, paymaster or official of the entity employing the government employee is authorized, notwithstanding the provisions of any existing law, rules and regulations to the contrary, to make deductions from the salary, wage or income of the latter pursuant to the agreement between the insurer and the government employee and to remit such deductions to the insurer concerned, and collect such reasonable fee for its services.

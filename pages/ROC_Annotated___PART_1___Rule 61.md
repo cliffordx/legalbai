@@ -9,7 +9,7 @@ sys-category:: [[41.1]]
 - {{embed ((631462c7-84e6-41fc-a7d1-30cb32a82c68))}}
 # RULE 61 - Support Pendente Lite
 - **SECTION 1.** *Application.*
-	- At the commencement of the proper action or proceeding, or at any time prior to the judgment or final order, a verified application for support *pendente lite* [[$blue]]==may be filed by any party== stating the [[#red]]==grounds for the claim== and [[#blue]]==the financial conditions of both parties==, and accompanied by affidavits, depositions or other authentic documents in support thereof. (1a)
+	- At the commencement of the proper action or proceeding, or at any time prior to the judgment or final order, a verified application for support *pendente lite* ==may be filed by any party== stating the [[#red]]==grounds for the claim== and [[#blue]]==the financial conditions of both parties==, and accompanied by affidavits, depositions or other authentic documents in support thereof. (1a)
 - **SECTION 2.** *Comment.*
 	- A copy of the application and all supporting documents shall be served upon the adverse party, who shall have five (5) days to comment thereon unless a different period is fixed by the court upon his motion.
 	- The comment shall be verified and shall be accompanied by affidavits, depositions or other authentic documents in support thereof. (2a, 3a)

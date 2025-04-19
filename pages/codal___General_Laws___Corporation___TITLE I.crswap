@@ -1,13 +1,12 @@
 long-title:: TITLE I - GENERAL PROVISIONS DEFINITIONS AND CLASSIFICATIONS
 tags:: #rccp
 
-# TITLE I - GENERAL PROVISIONS DEFINITIONS AND CLASSIFICATIONS
+- # TITLE I - GENERAL PROVISIONS DEFINITIONS AND CLASSIFICATIONS
 - ## SECTION. 1. Title of the Code.
 	- This Code shall be known as the “**Revised Corporation Code of the Philippines**”.
 - ## SEC. 2. Corporation Defined.
   id:: 6390c056-c05c-4bad-a93a-0c4cbc10e68b
-	- A corporation is  an {{cloze  artificial bein}}g created by {{cloze operation of l}}aw, having the {{cloze right of succession}} and the  {{cloze powers}}, {{cloze attribute}}s, and {{cloze properti}}es {{cloze expressly autho}}rized by law or {{cloze incidental}} to its {{cloze existen}}ce.
-	-
+	- A corporation is  an artificial being created by operation of law, having the right of succession and the  powers, attributes, and properties expressly authorized by law or incidental}} to its existence.
 - ## SEC. 3. Classes of Corporations.
   id:: 64408c45-abb7-42fe-b385-fcf015697636
 	- Corporations formed or organized under this Code may be [stock] or [nonstock corporations](((6447de7b-4422-4672-a9ae-74d7e20341e9))). Stock corporations are those which have [capital stock](((64377f63-6c41-46bd-bced-881319d95ff6))) divided into [shares](((64408c45-998c-4ba2-b5c1-5bf1d72f621b))) and are authorized to distribute to the holders of such shares, dividends, or allotments of the [surplus profits]([[unrestricted retained earnings]]) on the basis of the shares held. All other corporations are nonstock corporations.

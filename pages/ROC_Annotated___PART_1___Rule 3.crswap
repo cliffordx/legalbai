@@ -34,6 +34,7 @@ sys-category:: [[41]]
 	- A necessary party is one who is not indispensable but who ought to be joined as a party if complete relief is to be accorded as to those already parties, or for a complete determination or settlement of the claim subject of the action. (8a)
 - **SECTION 9.** *Non-joinder of necessary parties to be pleaded.*
   id:: 6447bbc3-5ed4-416c-9502-5a52df4600d7
+  collapsed:: true
 	- Whenever in any pleading in which a claim is asserted a necessary party is not joined, the pleader shall set forth his name, if known, and shall state why he is omitted.
 	- Should the court find the reason for the omission unmeritorious, it may order the inclusion of the omitted necessary party if jurisdiction over his person may be obtained.
 	- The failure to comply with the order for his inclusion, without justifiable cause, shall be deemed a waiver of the claim against such party.
@@ -53,6 +54,7 @@ sys-category:: [[41]]
 - **SECTION 14.** *Unknown identity or name of defendant.*
 	- Whenever the identity or name of a defendant is unknown, he may be sued as the unknown owner, heir, devisee, or by such other designation as the case may require; when his identity or true name is discovered, the pleading must be amended accordingly. (14)
 - **SECTION 15.** *Entity without juridical personality as defendant.*
+  id:: 6447bbc3-b125-40e3-a051-615cd7ad189f
 	- When two or more persons not organized as an entity with juridical personality enter into a transaction, they may be sued under the name by which they are generally or commonly known.
 	- In the answer of such defendant, the names and addresses of the persons composing said entity must all be revealed. (15a)
 - **SECTION 16.** *Death of party; duty of counsel.*

@@ -88,7 +88,7 @@ title:: Legitime
 	- # No Right of Compulsory Heirs To Insist That the Legitimes Be Given in the Form of Property
 	  background-color:: pink
 	  collapsed:: true
-		- While compulsory heirs have a right to the legitime, **they cannot insist that they be paid in the form of property**, whether real or personal, [[$red]]==when they are NOT AVAILABLE,== as [[#blue]]==when the will itself contains a partition of the estate,== specifically assigning the property to various heirs. In a case like this, [[#red]]==the legitimes may be satisfied by paying CASH.== ^{(Marina DizonRivera v. Estela Dizon, et al., L-24561, June 30, 1970).}
+		- While compulsory heirs have a right to the legitime, **they cannot insist that they be paid in the form of property**, whether real or personal, ==when they are NOT AVAILABLE,== as [[#blue]]==when the will itself contains a partition of the estate,== specifically assigning the property to various heirs. In a case like this, [[#red]]==the legitimes may be satisfied by paying CASH.== ^{(Marina DizonRivera v. Estela Dizon, et al., L-24561, June 30, 1970).}
 	-
 	- # Right of Completion of Legitime
 	  background-color:: blue

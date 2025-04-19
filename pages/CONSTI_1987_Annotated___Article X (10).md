@@ -32,7 +32,7 @@ status:: active
 		- Such taxes, fees, and charges shall accrue exclusively to the local governments.
 	- **SECTION 6.**
 	  id:: 6325f7d1-c064-4372-8c38-071259ff64ba
-		- Local government units shall have a [[$red]]==just share,== as [[#blue]]==determined by law==, in the national taxes which shall be automatically released to them.
+		- Local government units shall have a ==just share,== as [[#blue]]==determined by law==, in the national taxes which shall be automatically released to them.
 	- **SECTION 7.**
 	  id:: 63370976-7778-4658-98ba-fe95f0503f3d
 		- Local governments shall be entitled to an equitable share in the proceeds of the utilization and development of the national wealth within their respective areas, in the manner provided by law, including sharing the same with the inhabitants by way of direct benefits.

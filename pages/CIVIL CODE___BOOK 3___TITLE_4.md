@@ -202,7 +202,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				  collapsed:: true
 					- ((632fc3aa-07cb-4908-ae9e-06dc32f5d24f))
 				- Vitug: ((632497e1-e7c3-4940-bc48-5b6eeb953f69))
-				- [[$red]]==Sempio Dy:==[Renvoi Case Digest: Christensen v. Christensen Garcia](((632be3c9-31cc-47a1-ae6e-c101e5575ee6)))
+				- ==Sempio Dy:==[Renvoi Case Digest: Christensen v. Christensen Garcia](((632be3c9-31cc-47a1-ae6e-c101e5575ee6)))
 				  background-color:: #533e7d
 				- ![Screen Shot 2022-09-22 at 12.44.36 PM.png](../assets/Screen_Shot_2022-09-22_at_12.44.36_PM_1663821897100_0.png){:height 332, :width 466}
 				  id:: 632c0335-c60d-4c8c-933e-88eef4360562
@@ -277,9 +277,9 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 805.**
 			  id:: d8e378d4-0596-4e0d-9686-5c590efcfde6
 			  collapsed:: true
-				- Every will, [[$blue]]==other than a holographic will==, must be ^^subscribed at the end thereof by the testator himself^^ or [[#green]]==by the testator’s name written by some other person in his presence==, and by his express direction, and attested and subscribed by [[#red]]==three or more credible witnesses in the presence of the testator and of one another==.
+				- Every will, ==other than a holographic will==, must be ^^subscribed at the end thereof by the testator himself^^ or [[#green]]==by the testator’s name written by some other person in his presence==, and by his express direction, and attested and subscribed by [[#red]]==three or more credible witnesses in the presence of the testator and of one another==.
 				  id:: 632c0335-23ea-44e5-8f22-35a5b1e1624f
-				- The testator or the person requested by him to write his name and the instrumental witnesses of the will, shall also sign, as aforesaid, each and every page thereof, except the last, on the left margin, and all the pages [[$red]]==shall be numbered correlatively in letters== placed on the upper part of each page.
+				- The testator or the person requested by him to write his name and the instrumental witnesses of the will, shall also sign, as aforesaid, each and every page thereof, except the last, on the left margin, and all the pages ==shall be numbered correlatively in letters== placed on the upper part of each page.
 				- The attestation shall state the number of pages used upon which the will is written, and the fact that the testator signed the will and every page thereof, or caused some other person to write his name, under his express direction, in the presence of the instrumental witnesses, and that the latter witnessed and signed the will and all the pages thereof in the presence of the testator and of one another.
 				- If the attestation clause is in a language not known to the witnesses, it shall be interpreted to them. (n)
 				- #### Commentaries:
@@ -372,7 +372,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 					- ((6331b006-3312-4872-9c6c-c8aba4961eae))
 			- **ARTICLE 809.**
 			  collapsed:: true
-				- In the absence of bad faith, forgery, or fraud, or undue and improper pressure and influence, defects and imperfections in the form of attestation or in the language used therein shall not render the will invalid if it is proved that the will was in fact executed and attested in [[$blue]]==substantial compliance== with all the requirements of [article 805](((d8e378d4-0596-4e0d-9686-5c590efcfde6))). (n)
+				- In the absence of bad faith, forgery, or fraud, or undue and improper pressure and influence, defects and imperfections in the form of attestation or in the language used therein shall not render the will invalid if it is proved that the will was in fact executed and attested in ==substantial compliance== with all the requirements of [article 805](((d8e378d4-0596-4e0d-9686-5c590efcfde6))). (n)
 				- #### Commentaries:
 				- [Paras](((63272e7b-6061-4ae9-a905-389d6a145a7b)));
 				  collapsed:: true

@@ -21,7 +21,7 @@ icon:: 
 				- (c) The right or the privilege to use in the Philippines of any industrial, commercial or scientific equipment;
 				- (d) The right or the privilege to use motion picture films, tapes and discs; and
 				- (e) Radio, television, satellite transmission and cable television time.
-				- The term “**gross selling price**” means the total amount of money or its equivalent which the purchaser pays or is obligated to pay to the seller in consideration of the sale, barter or exchange of the goods or properties, [[$red]]==excluding the value-added tax.==
+				- The term “**gross selling price**” means the total amount of money or its equivalent which the purchaser pays or is obligated to pay to the seller in consideration of the sale, barter or exchange of the goods or properties, ==excluding the value-added tax.==
 				- The [[excise tax]], if any, on such goods or properties shall form part of the gross selling price.
 			- (2) The following sales by VAT-registered persons shall be subject to zero percent (0%) rate:[(fn85)](((6422cd5d-5d8e-44fc-b25a-13443c8389a0)))
 			  id:: 6422cd5f-578f-427c-9990-334d9d467eb4
