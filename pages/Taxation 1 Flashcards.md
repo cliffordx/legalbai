@@ -2,14 +2,14 @@ law-subject:: taxation
 type:: flashcards
 item-type:: card
 tags:: flashcards
-public:: false
+public:: true
 
 - #Q Which tax principle dictates that the government must maintain an ideal budgetary system?
   * [ ] a. Fiscal adequacy
   * [ ] b. Theoretical justice
   * [ ] c. Administrative feasibility
   * [ ] d. Economic efficiency #card
-  - Answer: Fiscal adequacy
+	- Answer: Fiscal adequacy
 - #Q Due process is usually violated where the tax imposed is for a private purpose as distinguished from a public purpose.
   * [ ] True
   * [ ] False #card
