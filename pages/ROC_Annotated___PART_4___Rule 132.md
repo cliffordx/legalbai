@@ -212,6 +212,5 @@ sys-category:: [[44]]
 		- On proper motion, the court may also order the striking out of answers which are incompetent, irrelevant, or otherwise improper. (39a)
 	- **SECTION 40.** *Tender of Excluded Evidence.*
 	  id:: 6447bbd3-a616-4e6d-b68b-455d744bec78
-	  collapsed:: true
 		- If documents or things offered in evidence are excluded by the court, the offeror may have the same attached to or made part of the record.
 		- If the evidence excluded is oral, the offeror may state for the record the name and other personal circumstances of the witness and the substance of the proposed testimony. (40)
