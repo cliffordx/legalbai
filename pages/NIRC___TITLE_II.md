@@ -334,7 +334,8 @@ icon:: 龎
 			- (I) Government educational institution;
 			- (J) Farmers' or other mutual typhoon or fire insurance company, mutual ditch or irrigation company, mutual or cooperative telephone company, or like organization of a purely local character, the income of which consists solely of assessments, dues, and fees collected from members for the sole purpose of meeting its expenses; and
 			- (K) Farmers', fruit growers', or like association organized and operated as a sales agent for the purpose of marketing the products of its members and turning back to them the proceeds of sales, less the necessary selling expenses on the basis of the quantity of produce finished by them;
-			- [[#green]]==Notwithstanding the provisions in the preceding paragraphs, the income of whatever kind and character of the foregoing organizations from any of their properties, real or personal, or from any of their activities conducted for profit regardless of the disposition made of such income, shall be subject to tax imposed under this Code==.
+			- Notwithstanding the provisions in the preceding paragraphs, the income of whatever kind and character of the foregoing organizations from any of their properties, real or personal, or from any of their activities conducted for profit regardless of the disposition made of such income, shall be subject to tax imposed under this Code.
+			  background-color:: yellow
 - ## CHAPTER V - COMPUTATION OF TAXABLE INCOME
 	- **SEC. 31. _Taxable Income Defined_**. 
 	  id:: 631a20a6-5723-462c-b581-37ed06a53f6d

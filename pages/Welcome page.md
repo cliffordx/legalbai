@@ -9,11 +9,13 @@ tags:: paksiteer, paksitive, paksionate
 	- Law school is tough, but "I am tougher." — The [Paksiteer]([[Clifford Enoc]])
 - ## How to navigate this site?
   id:: 635bc75b-7730-4bdb-8246-0d43c3432cd3
+  collapsed:: true
 	- You can collapse or expand headings to show or hide subgroups. Next to the title `What can you expect from my GitHub page`, there is a `.` on the left. **Do not click on it yet, as it will open a separate page.** If you hover over it, you will see a drop-down arrow, depending on whether the page is hidden or already shown. **Try it out!**
 	- Next, there are left and right side menu bars. **Explore them and let me know if you find anything interesting.** ;)
 		- *If you are [new to Logseq /PKM](((636f3032-e2ba-47fb-ab19-654d489423f0))), here is a [video for you](((636f3032-e2ba-47fb-ab19-654d489423f0))).*
 - ### What can you expect from my Github page?
   id:: 635bc75b-257f-4fc4-b4f3-8dece2332ef7
+  collapsed:: true
 	- A lot. For starters, I have created and collected #[[flashcards]] from exams and quizzes.
 	- I have also uploaded the fundamental codals here, with [my]([[Clifford Enoc]]) annotations and comments, as well as some from law book authors.
 		- ~~But don't expect too much. Some are not meant to be shared.~~
@@ -34,7 +36,7 @@ tags:: paksiteer, paksitive, paksionate
 	- The author is *Clifford Enoc*, a licensed real estate broker and a law student from the best law school in Carbon, USJ-R School of Law. His favorite tagline is "Be paksionate, Be Paksitive!" `#AdAstra`
 	- ### Disclaimer
 	  id:: 635b3d4a-3926-469b-8dd5-980f6f7c1721
-		- The views and opinions expressed herein, including all pages are those of the author. This Github page is for general information and educational purposes [only]([[Grammar Nazi]]). It is not offered as, and does not constitute, legal advice.
+		- The views and opinions expressed herein, including all pages are those of the author. This Github page is for general information and educational purposes [only.]([[Grammar Nazi]]) It is not offered as, and does not constitute, [[legal advice]].
 		  id:: f58f3bdc-7e2d-4e84-a836-45daaad58780
 	- #### Affiliate Links
 	  id:: 6358df01-20ef-4b83-9569-7742d7622398

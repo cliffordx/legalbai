@@ -83,7 +83,5 @@ icon:: 🏠
 - {{embed ((635bc75b-7730-4bdb-8246-0d43c3432cd3))}}
 - {{embed ((635bc75b-257f-4fc4-b4f3-8dece2332ef7))}}
 - ---
+	- ##### [Submit an Errata/Correction/Typo Error here…](https://forms.gle/1ARxB1PNKot8Cr1P7) | [Site Disclaimer](((635b3d4a-3926-469b-8dd5-980f6f7c1721)))
 - {{embed ((635bc75b-4c3b-4b8f-9d92-f58f0d227fd2))}}
-	- ###### ((635b3d4a-3926-469b-8dd5-980f6f7c1721))
-	  id:: 67ea58cf-bd40-4304-b0c4-36592ce2d74a
-	- ###### [Submit an Errata/Correction/Typo Error here…](https://forms.gle/1ARxB1PNKot8Cr1P7)

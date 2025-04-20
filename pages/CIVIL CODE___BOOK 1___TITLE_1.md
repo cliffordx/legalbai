@@ -51,7 +51,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 41.**
 	  id:: 62c2d9e7-6962-4f17-937b-6ffdda9e3328
 	  collapsed:: true
-		- For civil purposes, the foetus is considered born if it is alive at the time it is [[#red]]==completely delivered from the mother’s womb.== However, if the foetus [[#green]]==had an intra-uterine life of less than seven months==, ==it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.== (30a)
+		- For civil purposes, the foetus is considered born if it is alive at the time it is ==completely delivered from the mother’s womb.== However, if the foetus ==had an intra-uterine life of less than seven months==, ==it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.== (30a)
 	- **ARTICLE 42.**
 	  collapsed:: true
 		- Civil personality is extinguished by death.

@@ -257,7 +257,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- background-color:: #264c9b
 				  id:: 633fc124-bd7e-4e21-a60f-731c7d272a7a
 				  collapsed:: true
-				  3. **Contracts.** [[#green]]==A person’s binding adoption of an act already completed but either not done in a way that originally produced a legal obligation or done by a third party having at the time no authority to act as the person’s agent== [[#red]]==<an adult’s ratifi­cation of a contract signed during childhood is necessary to make the contract enforceable>==. [^1]
+				  3. **Contracts.** ==A person’s binding adoption of an act already completed but either not done in a way that originally produced a legal obligation or done by a third party having at the time no authority to act as the person’s agent== ==<an adult’s ratifi­cation of a contract signed during childhood is necessary to make the contract enforceable>==. [^1]
 					- [^1]: _{Garner, Bryan A., and Henry Campbell Black, eds. *Black’s Law Dictionary*. Eleventh edition. St. Paul, MN: Thomson Reuters, 2019., p. 1513.}
 			- tacit
 			  collapsed:: true
@@ -272,7 +272,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1911.**
 	  id:: 6337096e-bc45-43e8-b3a6-3f38f584b876
 	  collapsed:: true
-		- Even when the agent has exceeded his authority, the principal is solidarily liable with the agent [[#blue]]==if the former allowed the latter to act as though he had full powers.== (n)
+		- Even when the agent has exceeded his authority, the principal is solidarily liable with the agent ==if the former allowed the latter to act as though he had full powers.== (n)
 	- **ARTICLE 1912.**
 	  collapsed:: true
 		- The principal must advance to the agent, should the latter so request, the sums necessary for the execution of the agency.

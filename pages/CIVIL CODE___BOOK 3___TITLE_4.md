@@ -195,7 +195,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 795.**
 			  id:: 632c0335-4f2c-4ee6-9df5-d4d83c83f052
 			  collapsed:: true
-				- The validity of a will as to its form depends upon the observance of the law in force [[#blue]]==at the time it is made==. (n)
+				- The validity of a will as to its form depends upon the observance of the law in force ==at the time it is made==. (n)
 				- #### Commentaries:
 				- [Paras](((63271f22-3b6b-411a-93bc-001f5d304909))); [De Leon](((63272359-398e-4a71-86ce-22e15b0fe019))); [Bueno Mison](((632725f8-723d-4d91-8e5f-cbe0a89feea6))); [Jurado](((6328405a-be1a-4be0-a596-f563be0329b8)))
 				- Paras: ((6329b3af-2793-4ee2-a22b-6d36c81f51bb))
@@ -277,7 +277,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- **ARTICLE 805.**
 			  id:: d8e378d4-0596-4e0d-9686-5c590efcfde6
 			  collapsed:: true
-				- Every will, ==other than a holographic will==, must be ^^subscribed at the end thereof by the testator himself^^ or [[#green]]==by the testator’s name written by some other person in his presence==, and by his express direction, and attested and subscribed by [[#red]]==three or more credible witnesses in the presence of the testator and of one another==.
+				- Every will, ==other than a holographic will==, must be ^^subscribed at the end thereof by the testator himself^^ or ==by the testator’s name written by some other person in his presence==, and by his express direction, and attested and subscribed by ==three or more credible witnesses in the presence of the testator and of one another==.
 				  id:: 632c0335-23ea-44e5-8f22-35a5b1e1624f
 				- The testator or the person requested by him to write his name and the instrumental witnesses of the will, shall also sign, as aforesaid, each and every page thereof, except the last, on the left margin, and all the pages ==shall be numbered correlatively in letters== placed on the upper part of each page.
 				- The attestation shall state the number of pages used upon which the will is written, and the fact that the testator signed the will and every page thereof, or caused some other person to write his name, under his express direction, in the presence of the instrumental witnesses, and that the latter witnessed and signed the will and all the pages thereof in the presence of the testator and of one another.
@@ -503,7 +503,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [Paras](((63273070-2553-4ea1-8305-cb143a081fb1)))
 			- **ARTICLE 827.**
 			  collapsed:: true
-				- If a will, executed as required by this Code, [[#green]]==incorporates into itself by reference== any document or paper, such document or paper shall not be considered a part of the will unless the following requisites are present:
+				- If a will, executed as required by this Code, ==incorporates into itself by reference== any document or paper, such document or paper shall not be considered a part of the will unless the following requisites are present:
 				  collapsed:: true
 					- (1) The document or paper referred to in the will must be in existence at the time of the execution of the will;
 					- (2) The will must clearly describe and identify the same, stating among other things the number of pages thereof;

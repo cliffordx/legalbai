@@ -51,7 +51,8 @@
 			- As a rule, adopted children are entitled to the same successional rights as [[legitimate children]].^{*Ibid.*}
 			- **There are, however, two well-known exceptions.** Thus, if the adopter is survived by his legitimate parents or ascendants and by his adopted child, the latter shall not have more successional rights than an acknowledged natural child.^{*Ibid.*} Furthermore, if the adopter dies before his legitimate parent or ascendant, or is incapacitated to inherit from such parent or ascendant, or is disinherited by such parent or ascendant, unlike a legitimate child, the adopted child cannot inherit by right of representation from the parent or ascendant.
 			- *The basis of this exception is evident.*
-			- [[#blue]]==Adoption merely creates a relationship similar to that of legitimate paternity and filiation between adopter and adopted child. It does not create any relationship between the adopted child and the legitimate relatives of the adopter.==
+			- Adoption merely creates a relationship similar to that of legitimate paternity and filiation between adopter and adopted child. It does not create any relationship between the adopted child and the legitimate relatives of the adopter.
+			  background-color:: yellow
 				- [^8]: Article [264](((634fba6a-78a8-43ee-825e-13470307265a))), Civil Code.
 				- [^9]: Article [272](((634fba6a-1b42-415d-a537-5dd73eee5624))), Civil Code.
 				- [^10]: _{See Art. 39, Child and Youth Welfare Code (P.D. No. 603).}
@@ -91,7 +92,7 @@
 		- (5) The widow or widower.
 	- ((63575ab4-0e81-4f66-81ba-20587331c09a))
 	  id:: 635757a3-50f5-4e27-a3f2-5b43e7c64af0
-		- ### [[#red]]==Under the New Civil Code==
+		- ### Under the New Civil Code
 		  collapsed:: true
 			- There are **three kinds of illegitimate children** under the Civil Code who are classified as primary compulsory heirs.
 				- **They are:**
@@ -116,8 +117,8 @@
 						  collapsed:: true
 							- [^14]: _{Prior to the effectivity of the Family Code, the term ‘spurious children’ is still used, although it is not exactly accurate because the other kinds of spurious children recognised under the old Code are no longer recognized under the new. That is why the law calls such children “other illegitimate children referred to in Art. 287’’ (Art.887) and the Supreme Court, in recent cases, calls them illegitimate children not natural.”}
 							- [^22]: _{Paulino vs. Paulino, 3 SCRA 730; Rep. of the Philippines vs. Workmen’s Compensation Commission, 13 SCRA 272; Noble vs. Noble, 18 SCRA 1104; Divinagracia vs. Rovira, 72 SCRA 307. See also Vda. de Clemena vs. Clemena, 24 SCRA 720.}
-		- ### [[#red]]==Under the Family Code:==
-			- ^^Contrary to the provisions of the New Civil Code^^, **[[#green]]==the Family Code provisions limit the classification of children== to only the legitimate and the illegitimate children.** Thus, the further classification of illegitimate children to (1) acknowledged natural children; (2) natural children by legal fiction; and (3) acknowledged illegitimate children who are not natural; was thereby eliminated.
+		- ### Under the Family Code:
+			- ^^Contrary to the provisions of the New Civil Code^^, **==the Family Code provisions limit the classification of children== to only the legitimate and the illegitimate children.** Thus, the further classification of illegitimate children to (1) acknowledged natural children; (2) natural children by legal fiction; and (3) acknowledged illegitimate children who are not natural; was thereby eliminated.
 			- ##### ^^Now, all illegitimate children are simply referred to as illegitimate children.^^
 			- Under the Family Code, illegitimate children, like legitimate children, are given their status as such from the moment of birth.Hence, there is no need for illegitimate children to file the action for recognition if they have been recognized by their parents by any of the evidences enumerated in Art. 172 of the Family Code.
 			- Where the illegitimate children are required to establish their illegitimate filiation, they can do so in the same way and by the said evidences.

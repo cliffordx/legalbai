@@ -30,7 +30,7 @@ status:: active
 	- In case of legitimate ascendants; descendants, whether legitimate or illegitimate; and brothers and sisters, whether legitimately or illegitimately related, only the separate property of the person obliged to give support shall be answerable provided that in case the [obligor]([[Passive subject]]) has no separate property, the absolute community or the conjugal partnership, if financially capable, shall advance the support, which shall be deducted from the share of the spouse obliged upon the liquidation of the absolute community or of the conjugal partnership. (n)
 - **ARTICLE 198.**
   id:: 631d723e-b35e-4e8d-bc0f-a7245570721a
-	- During the proceedings for ==legal separation== or for [[#red]]==annulment of marriage==, and for [[#blue]]==declaration of nullity of marriage==, the spouses and their children shall be supported from the properties of the absolute community or the conjugal partnership.
+	- During the proceedings for ==legal separation== or for ==annulment of marriage==, and for ==declaration of nullity of marriage==, the spouses and their children shall be supported from the properties of the absolute community or the conjugal partnership.
 	- After the final judgment granting the petition, the obligation of mutual support between the spouses ceases.
 	- **However,** in case of ^^legal separation^^, the court may order that the guilty spouse shall give support to the innocent one, specifying the terms of such order. (292a)
 - **ARTICLE 199.**
