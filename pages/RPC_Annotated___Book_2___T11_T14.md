@@ -3,10 +3,10 @@ type:: codal
 law-subject:: Criminal Law
 sys-category:: [[21]]
 
-- # Title Eleven - CRIMES AGAINST CHASTITY
+- ## Title Eleven - CRIMES AGAINST CHASTITY
   id:: 6488844b-9132-48dc-b92c-17c8552bb641
-  collapsed:: true
-	- ## Chapter One - ADULTERY AND CONCUBINAGE
+	- ### Chapter One - ADULTERY AND CONCUBINAGE
+	  collapsed:: true
 		- **Art. 333.** *Who are guilty of adultery.*
 		  id:: 8e225ee9-826f-4248-b802-223f8c9a0bc9
 			- Adultery is committed by any married woman who shall have sexual intercourse with a man not her husband and by the man who has carnal knowledge of her knowing her to be married, even if the marriage be subsequently declared void.
@@ -15,7 +15,7 @@ sys-category:: [[21]]
 		- **Art. 334.** *Concubinage.*
 			- Any husband who shall keep a mistress in the conjugal dwelling, or shall have sexual intercourse, under scandalous circumstances, with a woman who is not his wife, or shall cohabit with her in any other place, shall be punished by *prision correccional* in its minimum and medium periods.
 			- The concubine shall suffer the penalty of *destierro.*
-	- ## Chapter Two - RAPE AND ACTS OF LASCIVIOUSNESS
+	- ### Chapter Two - RAPE AND ACTS OF LASCIVIOUSNESS
 		- ~~**Art. 335.** *When and how rape is committed.*~~[^A335]
 		  id:: 64646b4d-0a1d-4837-8464-59e4522af322
 			- ~~Rape is committed by having carnal knowledge of a woman under any of the following circumstances:~~
@@ -33,7 +33,7 @@ sys-category:: [[21]]
 		  id:: 64646b4d-3d03-4889-88c6-bf8f7bcdcbf4
 			- Any person who shall commit any act of lasciviousness upon other persons of either sex, under any of the circumstances mentioned in the preceding article, shall be punished by *prision correccional*.
 			- [^A336]: _{See Section 5 of R.A. No. 7610 on sexual abuse.}
-	- ## Chapter Three - SEDUCTION, CORRUPTION OF MINORS AND WHITE SLAVE TRADE
+	- ### Chapter Three - SEDUCTION, CORRUPTION OF MINORS AND WHITE SLAVE TRADE
 		- **Art. 337.** *Qualified seduction.*
 		  id:: f63c750c-066e-466b-91b7-5c7e97a25efb
 			- The seduction of a ~~virgin~~ minor, sixteen and over ~~twelve years and~~ but under eighteen years of age, committed by any person in public authority, priest, home-servant, domestic, guardian, teacher, or any person who, in any capacity, shall be entrusted with the education or custody of the ~~woman~~ minor seduced, shall be punished by *prision correccional* in its minimum and medium periods.[^1]
@@ -52,8 +52,7 @@ sys-category:: [[21]]
 		- **Art. 341.** *White slave trade.*
 		  collapsed:: true
 			- The penalty of prision mayor in its medium and maximum period shall be imposed upon any person who, in any manner, or under any pretext, shall engage in the business or shall profit by prostitution or shall enlist the services of any other for the purpose of prostitution ^[As amended by Batas Pambansa Blg. 186.]
-	- ## Chapter Four - ABDUCTION
-	  collapsed:: true
+	- ### Chapter Four - ABDUCTION
 		- **Art. 342.** *Forcible abduction.*
 		  id:: 6488844b-ca3c-4698-9328-8039df7cd09a
 		  collapsed:: true
@@ -61,8 +60,7 @@ sys-category:: [[21]]
 		- **Art. 343.** *Consented abduction.*
 		  collapsed:: true
 			- The abduction of a virgin over twelve years and under eighteen years of age, carried out with her consent and with lewd designs, shall be punished by the penalty of *prision correccional* in its minimum and medium periods.
-	- ## Chapter Five - PROVISIONS RELATIVE TO THE PRECEDING CHAPTERS OF TITLE ELEVEN
-	  collapsed:: true
+	- ### Chapter Five - PROVISIONS RELATIVE TO THE PRECEDING CHAPTERS OF TITLE ELEVEN
 		- **Art. 344.** Prosecution of the crimes of adultery, concubinage, seduction, abduction, rape and acts of lasciviousness.
 		  id:: 84614269-bb93-43e1-b065-62a675ab8255
 		  collapsed:: true
@@ -84,10 +82,9 @@ sys-category:: [[21]]
 			- The ascendants, guardians, curators, teachers and any person who, by abuse of authority or confidential relationships, shall cooperate as accomplices in the perpetration of the crimes embraced in chapters, second, third and fourth, of this title, shall be punished as principals.
 			- Teachers or other persons in any other capacity entrusted with the education and guidance of youth, shall also suffer the penalty of temporary special disqualification in its maximum period to perpetual special disqualification.
 			- Any person falling within the terms of this article, and any other person guilty of corruption of minors for the benefit of another, shall be punished by special disqualification from filling the office of guardian.
-- # Title Twelve - CRIMES AGAINST THE CIVIL STATUS OF PERSONS
+- ## Title Twelve - CRIMES AGAINST THE CIVIL STATUS OF PERSONS
   id:: 6488844b-38bc-4e82-859f-a2d5d9876ef5
-	- ## Chapter One - SIMULATION OF BIRTHS AND USURPATION OF CIVIL STATUS
-	  collapsed:: true
+	- ### Chapter One - SIMULATION OF BIRTHS AND USURPATION OF CIVIL STATUS
 		- **Art. 347.** *Simulation of births, substitution of one child for another and concealment or abandonment of a legitimate child.*
 			- The simulation of births and the substitution of one child for another shall be punished by *prision mayor* and a fine of not exceeding Two hundred thousand pesos (P200,000).
 			- The same penalties shall be imposed upon any person who shall conceal or abandon any legitimate child with intent to cause such child to lose its civil status.
@@ -96,8 +93,7 @@ sys-category:: [[21]]
 		- **Art. 348.** *Usurpation of civil status.*
 		  collapsed:: true
 			- The penalty of *prision mayor* shall be imposed upon any person who shall usurp the civil status of another, should he do so for the purpose of defrauding the offended part or his heirs; otherwise, the penalty of *prision correccional* in its medium and maximum periods shall be imposed.
-	- ## Chapter Two - ILLEGAL MARRIAGES
-	  collapsed:: true
+	- ### Chapter Two - ILLEGAL MARRIAGES
 		- **Art. 349.** *Bigamy.*
 		  collapsed:: true
 			- The penalty of *prision mayor* shall be imposed upon any person who shall contract a second or subsequent marriage before the former marriage has been legally dissolved, or before the absent spouse has been declared presumptively dead by means of a judgment rendered in the proper proceedings.
@@ -113,10 +109,10 @@ sys-category:: [[21]]
 			- [^A351]: _{Article 351 of the Revised Penal Code on premature marriages was repealed by R.A. No. 10655, approved on March 13, 2015.}
 		- **Art. 352.** *Performance of illegal marriage ceremony.*
 			- Priests or ministers of any religious denomination or sect, or civil authorities who shall perform or authorize any illegal marriage ceremony shall be punished in accordance with the provisions of the Marriage Law.
-- # Title Thirteen - CRIMES AGAINST HONOR
+- ## Title Thirteen - CRIMES AGAINST HONOR
   id:: 6488844b-a6d2-4fdf-b979-2cadccd05a46
-	- ## Chapter One - LIBEL
-		- ## Section One. — Definitions, forms, and punishment of this crime.[^T13S1]
+	- ### Chapter One - LIBEL
+		- #### Section One. — Definitions, forms, and punishment of this crime.[^T13S1]
 		  id:: 63e79f01-29ec-4b5c-8f3c-c2a50b6b4ee3
 			- **Art. 353.** *Definition of libel.*
 			  id:: 63e79f01-4f64-4057-8e9e-9256cab23aa1
@@ -138,7 +134,7 @@ sys-category:: [[21]]
 			- **Art. 359.** *Slander by deed.*
 				- The penalty of *arresto mayor* in its maximum period to *prision correccional* in its minimum period or a fine ranging from Twenty thousand pesos (P20,000) to One hundred thousand pesos (P100,000) shall be imposed upon any person who shall perform any act not included and punished in this title, which shall cast dishonor, discredit or contempt upon another person. If said act is not of a serious nature, the penalty shall be *arresto menor* or a fine not exceeding Twenty thousand pesos (P20,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
 			- [^T13S1]: See Adm. Circular No. 08-2008, Guidelines in the observance of a Rule of Preferences in the Imposition of Penalties in Lbel Cases.
-		- ## Section Two. — General provisions
+		- #### Section Two. — General provisions
 			- **Art. 360.** *Persons responsible.*
 			  collapsed:: true
 			  id:: 635f50c0-57bf-4d6d-8e8a-a05b7b1d2750
@@ -155,13 +151,13 @@ sys-category:: [[21]]
 			- **Art. 362.** *Libelous remarks.*
 			  collapsed:: true
 				- Libelous remarks or comments connected with the matter privileged under the provisions of [Article 354](((c6d7d213-2de7-48c7-87b6-ea39ee0d87cf))), if made with malice, shall not exempt the author thereof nor the editor or managing editor of a newspaper from criminal liability.
-	- ## Chapter Two - INCRIMINATORY MACHINATIONS
+	- ### Chapter Two - INCRIMINATORY MACHINATIONS
 		- **Art. 363.** *Incriminating innocent person.* 
 		  Any person who, by any act not constituting perjury, shall directly incriminate or impute to an innocent person the commission of a crime, shall be punished by *arresto menor*.
 		- **Art. 364.** *Intriguing against honor.* 
 		  The penalty of *arresto menor* or fine not exceeding Twenty thousand pesos (P20,000) shall be imposed for any intrigue which has for its principal purpose to blemish the honor or reputation of a person.^{(As amended by R.A. No. 10951, August 29, 2017)}
-- # Title Fourteen - QUASI-OFFENSES
-	- ## Sole Chapter - CRIMINAL NEGLIGENCE
+- ## Title Fourteen - QUASI-OFFENSES
+	- ### Sole Chapter - CRIMINAL NEGLIGENCE
 	  id:: 6488844b-2aca-47d3-b657-c62a9ac7046d
 		- **Art. 365.** *Imprudence and negligence.*
 		  id:: 6488844b-3afc-4f1b-8aa4-962f766f2f12
@@ -177,47 +173,48 @@ sys-category:: [[21]]
 			- Simple imprudence consists in the lack of precaution displayed in those cases in which the damage impending to be caused is not immediate nor the danger clearly manifest.
 			- The penalty next higher in degree to those provided for in this article shall be imposed upon the offender who fails to lend on the spot to the injured parties such help as may be in this hand to give.[^A365]^{(As amended by R.A. No. 10951, August 29, 2017)}
 				- [^A365]: _{See R.A. No. 10586 otherwise known as Anti-Drunk and Drugged Driving Act of 2013}
-	- ## FINAL PROVISIONS
-		- **Art. 366.** *Application of laws enacted prior to this Code.*
-			- Without prejudice to the provisions contained in Article 22 of this Code, felonies and misdemeanors, committed prior to the date of effectiveness of this Code shall be punished in accordance with the Code or Acts in force at the time of their commission.
-		- Art. 367. Repealing Clause.
-			- Except as is provided in the next preceding article, the present Penal Code, the Provisional Law for the application of its provisions, and Acts Nos. 277, 282 ,480, 518, 519, 899, 1121, 1438, 1523, 1559, 1692, 1754, 1955, 1773, 2020, 2036, 2071, 2142, 2212, 2293, 2298, 2300, 2364, 2549, 2557, 2595, 2609, 2718, 3103, 3195, 3244, 3298, 3309, 3313, 3397, 3559, and 3586, are hereby repealed.
-			- The provisions of the Acts which are mentioned hereunder are also repealed, namely:
-				- Act 666, Sections 6 and 18. Act 1508, Sections 9, 10, 11, and 12. Act 1524, Sections 1, 2, and 6.
-				- Act 1697, Sections 3 and 4.
-				- Act 1757, Sections 1, 2, 3, 4, 5, 6, 7, (first clause), 11, and 12. Act 2381, Sections 2, 3, 4, 6, 8, and 9.
-				- Act 2711, Sections 102, 2670, 2671, and 2672.
-				- Act 3247, Sections 1, 2, 3, and 5; and General Order, No. 58, series of 1900, Section 106.
-				- And all laws and parts of laws which are contrary to the provisions of this Code are hereby repealed.
-				- Approved: December 8, 1930
-			- Title of acts repealed by the Revised Penal Code are:
-				- 1. Act No. 277. Law on Libel and threats to publish libel, etc., now provided for in Arts. 353, 362.
-				- 2. Act No. 292, amended by Act No. 1692. Law defining and penalizing the crimes of treason, insurrection, sedition, etc., now provided for in Arts. 114-116 and Arts 134-142.
-				- 3. Act No. 480. Law governing cockfighting and cockpits, now governed by Art. 199 and special laws.
-				- 4. Act No. 518, amended by Act Nos. 1121 and 2036. Law defining and penalizing highway robbery or brigandage, now covered by Arts. 306-307.
-				- 5. Act No. 519. Law on vagrancy now penalized by Art. 202.
-				- 6. Act No. 666, Secs. and 6 and 18. Law on trademarks and tradenames now provided for in Arts. 188-189.
-				- 7. Act No. 899, Law regarding suspension on sentence, etc., upon U.S. citizens.
-				- 8. Act No. 1438, amended by Act Nos. 3203, 3309, and 3559, provisions governing juvenile offenders and delinquent children, their care and custody, now governed by Art. 80.
-				- 9. Act No. 1508, Secs. 9, 10, 11, and 12. The Chattel Mortgage Law, now penalized in Art. 319.
-				- 10. Act No. 1523. Law prohibiting importation, sale etc., of lottery tickets and lottery, now penalized in Arts. 195-196.
-				- 11. Act No. 1524. Sec. 4. Law governing discretion of Governor-General in granting conditional pardons, now covered by Art. 159.
-				- 12. Act No. 15533, Secs. 1, 2, and 6 amended by Act No. 1559. Law providing for diminution of sentences by reason of good conduct and diligence, now governed by Art. 97.
-				- 13. Act No. 1697, Secs. 3 and 4. Act for the punishment of perjury in official investigations, now provided for in Arts. 180-183.
-				- 14. Act No. 1754. Law on counterfeiting and forgery, now defined and penalized in Arts. 160-169.
-				- 15. Act No. 1775. Act penalizing crimes against legislative bodies, now provided for in Arts. 143-145.
-				- 16. Act No. 1757. Secs. 1, 2, 3, 4, 5, 6, 7, (first clause), 11 and 12 amended by Act No. 3242. Act prohibiting gambling, now provided for in Arts. 195-199.
-				- 17. Act No. 1173. Law on the crime of adulterio, estupro, rapto, violacion, calumnia, injuria, etc., now governed by Arts. 333-346.
-				- 18. Act Nos. 2071 and 2300. Act governing slavery, involuntary servitude, peonage, and the sale or purchase of human beings, now penalized in Arts. 272- 274.
-				- 19. Act No. 2212. Act providing for the confiscation and disposition of money, articles, instruments, appliances and devices in gambling, now provided for in Art. 45.
-				- 20. Act No. 293. Act penalizing willful destruction, injury, or taking or carrying away any property of the Philippine Library, now provided for in Art. 311.
-				- 21. Act No. 2364. Act penalizing infidelity in the custody of prisoners detained for or a convicted of a crime, now governed by Arts. 223-225.
-				- 22. Act No. 2381. Secs. 2, 3, 4, 5, 6, 8, and 9. Act restricting the use of opium, etc., now provided for in Arts. 190-194.
-				- 23. Act No. 2549. Act prohibiting the forcing, compelling, or obliging of any laborer or other employee to purchase merchandise, commodities, or personal property under certain conditions, and the payment of wages of a laborer or employee by means of tokens or objects other than legal tender currency, now penalized by Art. 288, and also governed by Com. Act No. 303 and the Minimum Wage Law, Rep. Act No. 602, as amended by Rep. Act. No. 812.
-				- 24. Act No. 2557. Act providing for the allowance to persons convicted of preventive imprisonment, etc., now embodied in Art. 29.
-				- 25. Act No. 2595. Law fixing prescription of the crime of libel and of a civil action arising therefrom, now provided in Art. 90.
-				- 26. Act No. 2711, Secs. 102, 2670, 2671, and 2672. Act amending the Revised Administrative Code.
-				- 27. Act No. 3104 amending Acts 2726. Law governing manner in which the death penalty shall be executed, now embodied in Arts. 18-85.
-				- 28. Act No. 3586 and 3397. Law governing habitual delinquency, now provided in Art. 62, par. 5.
-				- 29. General Orders No. 58, series of 1900, Sec. 106. Code of Criminal Procedure.
-				- 30. Other laws repealed by the Revised Penal Code are Acts Nos. 2030, 2142, 2298, 2712, 3195, 3244, 3298, and 3313, which are merely amendatory laws on the old Penal Code.
+- ## FINAL PROVISIONS
+  collapsed:: true
+	- **Art. 366.** *Application of laws enacted prior to this Code.*
+		- Without prejudice to the provisions contained in Article 22 of this Code, felonies and misdemeanors, committed prior to the date of effectiveness of this Code shall be punished in accordance with the Code or Acts in force at the time of their commission.
+	- Art. 367. Repealing Clause.
+		- Except as is provided in the next preceding article, the present Penal Code, the Provisional Law for the application of its provisions, and Acts Nos. 277, 282 ,480, 518, 519, 899, 1121, 1438, 1523, 1559, 1692, 1754, 1955, 1773, 2020, 2036, 2071, 2142, 2212, 2293, 2298, 2300, 2364, 2549, 2557, 2595, 2609, 2718, 3103, 3195, 3244, 3298, 3309, 3313, 3397, 3559, and 3586, are hereby repealed.
+		- The provisions of the Acts which are mentioned hereunder are also repealed, namely:
+			- Act 666, Sections 6 and 18. Act 1508, Sections 9, 10, 11, and 12. Act 1524, Sections 1, 2, and 6.
+			- Act 1697, Sections 3 and 4.
+			- Act 1757, Sections 1, 2, 3, 4, 5, 6, 7, (first clause), 11, and 12. Act 2381, Sections 2, 3, 4, 6, 8, and 9.
+			- Act 2711, Sections 102, 2670, 2671, and 2672.
+			- Act 3247, Sections 1, 2, 3, and 5; and General Order, No. 58, series of 1900, Section 106.
+			- And all laws and parts of laws which are contrary to the provisions of this Code are hereby repealed.
+			- Approved: December 8, 1930
+		- Title of acts repealed by the Revised Penal Code are:
+			- 1. Act No. 277. Law on Libel and threats to publish libel, etc., now provided for in Arts. 353, 362.
+			- 2. Act No. 292, amended by Act No. 1692. Law defining and penalizing the crimes of treason, insurrection, sedition, etc., now provided for in Arts. 114-116 and Arts 134-142.
+			- 3. Act No. 480. Law governing cockfighting and cockpits, now governed by Art. 199 and special laws.
+			- 4. Act No. 518, amended by Act Nos. 1121 and 2036. Law defining and penalizing highway robbery or brigandage, now covered by Arts. 306-307.
+			- 5. Act No. 519. Law on vagrancy now penalized by Art. 202.
+			- 6. Act No. 666, Secs. and 6 and 18. Law on trademarks and tradenames now provided for in Arts. 188-189.
+			- 7. Act No. 899, Law regarding suspension on sentence, etc., upon U.S. citizens.
+			- 8. Act No. 1438, amended by Act Nos. 3203, 3309, and 3559, provisions governing juvenile offenders and delinquent children, their care and custody, now governed by Art. 80.
+			- 9. Act No. 1508, Secs. 9, 10, 11, and 12. The Chattel Mortgage Law, now penalized in Art. 319.
+			- 10. Act No. 1523. Law prohibiting importation, sale etc., of lottery tickets and lottery, now penalized in Arts. 195-196.
+			- 11. Act No. 1524. Sec. 4. Law governing discretion of Governor-General in granting conditional pardons, now covered by Art. 159.
+			- 12. Act No. 15533, Secs. 1, 2, and 6 amended by Act No. 1559. Law providing for diminution of sentences by reason of good conduct and diligence, now governed by Art. 97.
+			- 13. Act No. 1697, Secs. 3 and 4. Act for the punishment of perjury in official investigations, now provided for in Arts. 180-183.
+			- 14. Act No. 1754. Law on counterfeiting and forgery, now defined and penalized in Arts. 160-169.
+			- 15. Act No. 1775. Act penalizing crimes against legislative bodies, now provided for in Arts. 143-145.
+			- 16. Act No. 1757. Secs. 1, 2, 3, 4, 5, 6, 7, (first clause), 11 and 12 amended by Act No. 3242. Act prohibiting gambling, now provided for in Arts. 195-199.
+			- 17. Act No. 1173. Law on the crime of adulterio, estupro, rapto, violacion, calumnia, injuria, etc., now governed by Arts. 333-346.
+			- 18. Act Nos. 2071 and 2300. Act governing slavery, involuntary servitude, peonage, and the sale or purchase of human beings, now penalized in Arts. 272- 274.
+			- 19. Act No. 2212. Act providing for the confiscation and disposition of money, articles, instruments, appliances and devices in gambling, now provided for in Art. 45.
+			- 20. Act No. 293. Act penalizing willful destruction, injury, or taking or carrying away any property of the Philippine Library, now provided for in Art. 311.
+			- 21. Act No. 2364. Act penalizing infidelity in the custody of prisoners detained for or a convicted of a crime, now governed by Arts. 223-225.
+			- 22. Act No. 2381. Secs. 2, 3, 4, 5, 6, 8, and 9. Act restricting the use of opium, etc., now provided for in Arts. 190-194.
+			- 23. Act No. 2549. Act prohibiting the forcing, compelling, or obliging of any laborer or other employee to purchase merchandise, commodities, or personal property under certain conditions, and the payment of wages of a laborer or employee by means of tokens or objects other than legal tender currency, now penalized by Art. 288, and also governed by Com. Act No. 303 and the Minimum Wage Law, Rep. Act No. 602, as amended by Rep. Act. No. 812.
+			- 24. Act No. 2557. Act providing for the allowance to persons convicted of preventive imprisonment, etc., now embodied in Art. 29.
+			- 25. Act No. 2595. Law fixing prescription of the crime of libel and of a civil action arising therefrom, now provided in Art. 90.
+			- 26. Act No. 2711, Secs. 102, 2670, 2671, and 2672. Act amending the Revised Administrative Code.
+			- 27. Act No. 3104 amending Acts 2726. Law governing manner in which the death penalty shall be executed, now embodied in Arts. 18-85.
+			- 28. Act No. 3586 and 3397. Law governing habitual delinquency, now provided in Art. 62, par. 5.
+			- 29. General Orders No. 58, series of 1900, Sec. 106. Code of Criminal Procedure.
+			- 30. Other laws repealed by the Revised Penal Code are Acts Nos. 2030, 2142, 2298, 2712, 3195, 3244, 3298, and 3313, which are merely amendatory laws on the old Penal Code.
