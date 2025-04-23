@@ -2,7 +2,8 @@ title:: RPC_Annotated/Book_1
 type:: codal
 law-subject:: Criminal Law
 sys-category:: [[21]]
-- # PRELIMINARY TITLE
+
+- ## PRELIMINARY TITLE
   id:: 63031873-51a1-41cc-8971-7582b72a5b26
 	- **Date of Effectiveness and Application of the Provisions of This Code**
 	- **ARTICLE 1.** *Time When Act Takes Effect.*
@@ -16,10 +17,9 @@ sys-category:: [[21]]
 			- 3. Should be liable for acts connected with the introduction into these islands of the obligations and securities mentioned in the preceding number;
 			- 4. While being public officers or employees, should commit an offense in the exercise of their functions; or
 			- 5. Should commit any of the crimes against national security and the law of nations, defined in [Title One of Book Two](((6303188d-cdc0-41d2-8cfc-18d841ea0c40))) of this Code.
-- # TITLE ONE  Felonies and Circumstances Which Affect Criminal Liability
+- ## TITLE ONE  Felonies and Circumstances Which Affect Criminal Liability
   id:: 630319a9-ae95-44fb-b4e8-e2a3c2a974d1
-  collapsed:: true
-	- ## CHAPTER ONE  Felonies
+	- ### CHAPTER ONE  Felonies
 		- **ARTICLE 3.** *Definition.*
 		  id:: 649990c9-9f3f-456f-98c4-7c50a56bc714
 			- Acts and omissions punishable by law are felonies (*delitos*).
@@ -66,7 +66,7 @@ sys-category:: [[21]]
 		- **ARTICLE 10.** *Offenses Not Subject to the Provisions of this Code.*
 		  id:: 64bd037a-d1ce-48c8-bb7d-2baec1afe828
 			- Offenses which are or in the future may be punishable under special laws are not subject to the provisions of this Code. This Code shall be [supplementary]([[suppletory laws]]) to such laws, unless the latter should specially provide the contrary.
-	- ## CHAPTER TWO  Justifying Circumstances and Circumstances which Exempt from Criminal Liability
+	- ### CHAPTER TWO  Justifying Circumstances and Circumstances which Exempt from Criminal Liability
 		- **ARTICLE 11.** *Justifying Circumstances.*
 		  id:: c4ff2201-eeda-4c18-bfdb-2eed9796c9e2
 		  collapsed:: true
@@ -109,7 +109,7 @@ sys-category:: [[21]]
 					- [^100]: Paragraphs 2 and 3 on the exempting circumstance of minority is deemed repealed by R.A. No. 9344, otherwise known as [Juvenile Justice and Welfare Law]([[Juvenile Justice and Welfare Act]]). Minority as an exempting circumstance is now found in Section 6 of R.A. No. 9344.
 			- ## COMMENTS:
 				-
-	- ## CHAPTER THREE  Circumstances Which Mitigate Criminal Liability
+	- ### CHAPTER THREE  Circumstances Which Mitigate Criminal Liability
 		- **ARTICLE 13.** *Mitigating Circumstances.*
 		  id:: 64888449-dd08-4c8e-9ea2-39b6cccda0ee
 			- The following are [[mitigating circumstances]]:
@@ -128,7 +128,7 @@ sys-category:: [[21]]
 				- 8. That the offender is deaf and dumb, blind or otherwise suffering some physical defect which thus restricts his means of action, defense, or communication with his fellow beings.
 				- 9. Such illness of the offender as would diminish the exercise of the willpower of the offender without however depriving him of consciousness of his acts.
 				- 10. And, finally, any other circumstance of a similar nature and analogous to those above mentioned.
-	- ## CHAPTER FOUR  Circumstances Which Aggravate Criminal Liability
+	- ### CHAPTER FOUR  Circumstances Which Aggravate Criminal Liability
 		- **ARTICLE 14.** *[Aggravating Circumstances.]([[Aggravating Circumstances]])*
 		  id:: 649990c9-844d-4ce7-b5a6-33f041cd0833
 			- The following are aggravating circumstances:
@@ -158,14 +158,14 @@ sys-category:: [[21]]
 				- (19) That as a means to the commission of a crime a wall, roof, floor, door, or window be broken.
 				- (20) That the crime be committed with the aid of persons under fifteen years of age or by means of motor vehicles, airships, or other similar means.
 				- (21) That the wrong done in the commission of the crime be deliberately augmented by causing other wrong not necessary for its commission.
-	- ## CHAPTER FIVE  Alternative Circumstances
+	- ### CHAPTER FIVE  Alternative Circumstances
 		- **ARTICLE 15.** *Their Concept.*
 		  id:: 64bd037a-b05c-4434-859f-aeb9aace0f0d
 			- Alternative circumstances are those which must be taken into consideration as aggravating or mitigating according to the nature and effects of the crime and the other conditions attending its commission.
 			- They are the relationship, intoxication and the degree of instruction and education of the offender.
 			- The alternative circumstance of relationship shall be taken into consideration when the offended party is the spouse, ascendant, descendant, legitimate, natural, or adopted brother or sister, or relative by affinity in the same degrees of the offender.
 			- The intoxication of the offender shall be taken into consideration as a mitigating circumstance when the offender has committed a felony in a state of intoxication, if the same is not habitual or subsequent to the plan to commit said felony; but when the intoxication is habitual or intentional it shall be considered as an aggravating circumstance.
-- # TITLE TWO - Persons Criminally Liable for Felonies
+- ## TITLE TWO - Persons Criminally Liable for Felonies
   id:: 63031fda-7b0d-4f88-b341-10d0a0a583b4
 	- **ARTICLE 16.** *Who are Criminally Liable.*
 	  id:: 64bd037a-b78d-496d-890c-d02f4201f4f9
@@ -207,9 +207,9 @@ sys-category:: [[21]]
 	  id:: 64bd037a-5302-459d-a01b-40999f4fd867
 	  collapsed:: true
 		- The penalties prescribed for accessories shall not be imposed upon those who are such with respect to their spouses, ascendants, descendants, legitimate, natural, and adopted brothers and sisters, or relatives by affinity within the same degrees, with the single exception of accessories falling within the provisions of paragraph 1 of the next preceding article.
-- # TITLE THREE - Penalties
+- ## TITLE THREE - Penalties
   id:: 6303217d-53a4-4c0e-ae05-3f32a3fa5221
-	- ## CHAPTER ONE - Penalties in General
+	- ### CHAPTER ONE - Penalties in General
 	  id:: 1f0c7450-b33e-4222-b838-970d93f6426b
 		- **ARTICLE 21.** *Penalties that May Be Imposed.*
 		  id:: 3a723e5f-aaee-43ca-bef8-18d90082df98
@@ -234,7 +234,7 @@ sys-category:: [[21]]
 				- 3. Suspension from the employment or public office during the trial or in order to institute proceedings.
 				- 4. Fines and other corrective measures which, in the exercise of their administrative or disciplinary powers, superior officials may impose upon their subordinates.
 				- 5. Deprivation of rights and the reparations which the civil laws may establish in penal form.
-	- ## CHAPTER TWO - Classification of Penalties
+	- ### CHAPTER TWO - Classification of Penalties
 	  id:: e2201bc0-f128-472b-a104-6fdfbf4d547d
 		- **ARTICLE 25.** *Penalties Which May Be Imposed.*
 		  id:: 513609b9-8883-4407-b69d-92b98afce0a4
@@ -280,9 +280,10 @@ sys-category:: [[21]]
 		  id:: 64bd037a-ca40-47e9-a578-c9342b1afa15
 		  collapsed:: true
 			- A fine, whether imposed as a single or as an alternative penalty, shall be considered an afflictive penalty, if it exceeds One million two hundred thousand pesos (P1,200,000); a correctional penalty, if it does not exceed One  million two hundred thousand pesos (P1,200,000) but is not less than Forty thousand pesos (P40,000); and a light penalty, if it be less than Forty thousand pesos (P40,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## CHAPTER THREE - Duration and Effect of Penalties
+	- ### CHAPTER THREE - Duration and Effect of Penalties
 	  id:: 66293774-89b1-4b80-9fbb-6c392d440e7c
-		- ### SECTION ONE - Duration of Penalties
+		- #### SECTION ONE - Duration of Penalties
+		  collapsed:: true
 			- **ARTICLE 27.** *Reclusión Perpetua.*
 			  id:: 649990c9-e532-44c3-8442-f04156736d00
 			  collapsed:: true
@@ -311,7 +312,8 @@ sys-category:: [[21]]
 					- Whenever an accused has undergone preventive imprisonment for a period equal to the possible maximum imprisonment of the offense charged to which he may be sentenced and his case is not yet terminated, he shall be released immediately without prejudice to the continuation of the trial thereof or the proceeding on appeal, if the same is under review.
 					- Computation of preventive imprisonment for purposes of immediate release under this paragraph shall be the actual period of detention with good conduct time allowance: *Provided, however,* That if the accused is absent without justifiable cause at any stage of the trial, the court may *motu proprio* order the rearrest of the accused: *Provided, finally,* That recidivists, habitual delinquents, escapees and persons charged with heinous crimes are excluded from the coverage of this Act.
 					- In case the maximum penalty to which the accused may be sentenced is *destierro*, he shall be released after thirty (30) days of preventive *imprisonment*. ^{(As amended by R.A. No. 10592, May 29, 2013).}
-		- ### SECTION TWO - Effects of the Penalties According to Their Respective Nature
+		- #### SECTION TWO - Effects of the Penalties According to Their Respective Nature
+		  collapsed:: true
 			- **ARTICLE 30.** *Effects of the Penalties of Perpetual or Temporary Absolute Disqualification.*
 			  id:: 64bd037a-900a-4968-8e25-d406a3366d54
 			  collapsed:: true
@@ -378,8 +380,9 @@ sys-category:: [[21]]
 					- 3. When the principal penalty imposed is higher than *prisión correccional* no subsidiary imprisonment shall be imposed upon the culprit.
 					- 4. If the principal penalty imposed is not to be executed by confinement in a penal institution, but such penalty is of fixed duration, the convict, during the period of time established in the preceding rules, shall continue to suffer the same deprivations as those of which the principal penalty consists.
 					- 5. The subsidiary personal liability which the convict may have suffered by reason of his insolvency shall not relieve him from the fine in case his financial circumstances should improve.^{As amended by R.A. No. 10159, April 10, 2012.}
-		- ### SECTION THREE - Penalties in Which Other Accessory Penalties are Inherent
+		- #### SECTION THREE - Penalties in Which Other Accessory Penalties are Inherent
 		  id:: 0604400e-e683-4847-89b4-53ed374095ec
+		  collapsed:: true
 			- **ARTICLE 40.** *Death — Its Accessory Penalties.*
 			  id:: 79116cc4-637c-48d1-a501-11cabf5f7bc7
 			  collapsed:: true
@@ -406,9 +409,10 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- Every penalty imposed for the commission of a felony shall carry with it the forfeiture of the proceeds of the crime and the instruments or tools with which it was committed.
 				- Such proceeds and instruments or tools shall be confiscated and forfeited in favor of the Government, unless they be the property of a third person not liable for the offense, but those articles which are not subject of lawful commerce shall be destroyed.
-	- ## CHAPTER FOUR - Application of Penalties
-		- ### SECTION ONE - Rules for the Application of Penalties to the Persons Criminally Liable and for the Graduation of the Same
+	- ### CHAPTER FOUR - Application of Penalties
+		- #### SECTION ONE - Rules for the Application of Penalties to the Persons Criminally Liable and for the Graduation of the Same
 		  id:: c5d2701d-a8e9-4f3a-8e19-dc96237cc911
+		  collapsed:: true
 			- **ARTICLE 46.** *Penalty to be Imposed Upon Principals in General.*
 			  id:: 64bd037a-2118-44cb-8382-3b3e89455afa
 			  collapsed:: true
@@ -475,7 +479,8 @@ sys-category:: [[21]]
 					- 3. When the penalty prescribed for the crime is composed of one or two indivisible penalties and the maximum period of another divisible penalty, the penalty next lower in degree shall be composed of the medium and minimum periods of the proper divisible penalty and the maximum period of that immediately following in said scale.
 					- 4. When the penalty prescribed for the crime is composed of several periods, corresponding to different divisible penalties, the penalty next lower in degree shall be composed of the period immediately following the minimum prescribed and of the two next following, which shall be taken from the penalty prescribed, if possible; otherwise, from the penalty immediately following in the above mentioned scale.
 					- 5. When the law prescribes a penalty for a crime in some manner not specially provided for in the four preceding rules, the courts, proceeding by analogy, shall impose corresponding penalties upon those guilty as principals of the frustrated felony, or of attempt to commit the same, and upon accomplices and accessories.
-		- ### SECTION TWO - Rules for the Application of Penalties with Regard to the Mitigating and Aggravating Circumstances, and Habitual Delinquency
+		- #### SECTION TWO - Rules for the Application of Penalties with Regard to the Mitigating and Aggravating Circumstances, and Habitual Delinquency
+		  collapsed:: true
 			- **TABULATION OF THE PROVISIONS OF THE CHAPTER**
 			  collapsed:: true
 				- ![IMG_4231.JPG](../assets/IMG_4231_1661170024052_0.JPG)
@@ -485,19 +490,13 @@ sys-category:: [[21]]
 				- Mitigating or aggravating circumstances and habitual delinquency shall be taken into account for the purpose of diminishing or increasing the penalty in conformity with the following rules:
 				  collapsed:: true
 					- Aggravating circumstances which in themselves constitute a crime specially punishable by law or which are included by the law in defining a crime and prescribing the penalty therefor shall not be taken into account for the purpose of increasing the penalty.
-	
 						- When in the commission of the crime, advantage was taken by the offender of his public position, the penalty to be imposed shall be in its maximum regardless of [[mitigating circumstances]].
-		
 							- The maximum penalty shall be imposed if the offense was committed by any person who belongs to an organized/syndicated crime group.
 							- An organized/syndicated crime group means a group of two or more persons collaborating, confederating or mutually helping one another for purposes of gain in the commission of any crime.^{(As amended by R.A. No. 7659, December 13, 1993.)}
 					- The same rule shall apply with respect to any aggravating circumstances inherent in the crime to such a degree that it must of necessity accompany the commission thereof.
-	
 					- Aggravating or [[mitigating circumstances]] which arise from the moral attributes of the offender, or from his private relations with the offended party, or from any other personal cause, shall only serve to aggravate or mitigate the liability of the principals, accomplices and accessories as to whom such circumstances are attendant.
-	
 					- The circumstances which consist in the material execution of the act, or in the means employed to accomplish it, shall serve to aggravate or mitigate the liability of those persons only who had knowledge of them at the time of the execution of the act or their cooperation therein.
-	
 					- Habitual delinquency shall have the following effects:
-	
 						- (a) Upon a third conviction the culprit shall be sentenced to the penalty provided by law for the last crime of which he be found guilty and to the additional penalty of *prisión correccional* in its medium and maximum periods;
 						- (b) Upon a fourth conviction the culprit shall be sentenced to the penalty provided for the last crime of which he be found guilty and to the additional penalty of *prisión mayor* in its minimum and medium periods; and
 						- (c) Upon a fifth or additional conviction, the culprit shall be sentenced to the penalty provided for the last crime of which he be found guilty and to the additional penalty of *prisión mayor* in its maximum period to *reclusión temporal* in its minimum period.
@@ -536,10 +535,8 @@ sys-category:: [[21]]
 				- When the offender is a minor under eighteen years and his case is one coming under the provisions of the paragraph [next to the last of article 80 of this Code](((63032f74-40e8-42dc-9bce-60d09a7ff3f3))), the following rules shall be observed:
 				  collapsed:: true
 					- Upon a person under fifteen but over nine years of age, who is not exempted from liability by reason of the court having declared that he acted with discernment, a discretionary penalty shall be imposed, but always lower by two degrees at least than that prescribed by law for the crime which he committed.[^68a]
-	
 						- [^68a]: This provision is rendered inoperative by Section 6 of R.A. No. 9344 since a child 15 years or under is exempt from criminal liability.
 					- Upon a person over fifteen and under eighteen years of age the penalty next lower than that prescribed by law shall be imposed, but always in the proper period.
-	
 						- [^A68]: Suspension of sentence shall still be applied even if the juvenile is already eighteen (18) years of age or more at the time of the pronouncement of his/her guilt.(Sec. 38, R.A. No. 9344). If said [[child in conflict with the law]] has reached eighteen (18) years of age while under suspended sentence, the court shall determine whether to discharge the child in accordance with R.A. No. 9344, to order execution of sentence or to extend the suspended sentence for a certain specified period or until the child reaches the maximum age of twenty-one (21) years. (Second sentence of Sec. 40, R.A. No. 9344.)
 			- **ARTICLE 69.** *Penalty to Be Imposed When the Crime Committed is Not Wholly Excusable.*
 			  collapsed:: true
@@ -593,7 +590,8 @@ sys-category:: [[21]]
 			- **ARTICLE 72.** *Preference in the Payment of the Civil Liabilities.*
 			  collapsed:: true
 				- The civil liabilities of a person found guilty of two or more offenses shall be satisfied by following the chronological order of the dates of the final judgments rendered against him, beginning with the first in order of time.
-		- ### SECTION THREE - Provision Common to the Last Two Preceding Sections
+		- #### SECTION THREE - Provision Common to the Last Two Preceding Sections
+		  collapsed:: true
 			- **ARTICLE 73.** *Presumption in Regard to the Imposition of Accessory Penalties.*
 			  collapsed:: true
 				- Whenever the courts shall impose a penalty which, by provision of law, carries with it other penalties, according to the provisions of articles [40, 41, 42, 43, 44, and 45 of this Code](((0604400e-e683-4847-89b4-53ed374095ec))), it must be understood that the accessory penalties are also imposed upon the convict.
@@ -615,8 +613,9 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- In cases in which the law prescribes a penalty composed of three distinct penalties, each one shall form a period; the lightest of them shall be the minimum, the next the medium, and the most severe the maximum period.
 				- Whenever the penalty prescribed does not have one of the forms specially provided for in this book, the periods shall be distributed, applying by analogy the prescribed rules.
-	- ## CHAPTER FIVE - Execution and Service of Penalties
-		- ### SECTION ONE - General Provisions
+	- ### CHAPTER FIVE - Execution and Service of Penalties
+		- #### SECTION ONE - General Provisions
+		  collapsed:: true
 			- **ARTICLE 78.** *When and How a Penalty is to Be Executed.*
 			  collapsed:: true
 				- No penalty shall be executed except by virtue of a final judgment.
@@ -642,7 +641,8 @@ sys-category:: [[21]]
 				  id:: 63032f74-40e8-42dc-9bce-60d09a7ff3f3
 				- The expenses for the maintenance of a minor delinquent confined in the institution to which he has been committed, shall be borne totally or partially by his parents or relatives or those persons liable to support him, if they are able to do so, in the discretion of the court.
 				- [^1]: Article 80 of the RPC has been repealed by Chapter Three of P.D. No. 603 (The Child and Youth Welfare Code), and by R.A. No. 9344 ([[Juvenile Justice and Welfare Act]] of 2006), as amended by R.A. No. 10630 (An Act Strengthening the Juvenile Justice System in the Philippines).
-		- ### SECTION TWO - Execution of Principal Penalties [^DPP]
+		- #### SECTION TWO - Execution of Principal Penalties [^DPP]
+		  collapsed:: true
 			- ~~**ARTICLE 81.** *When and How the Death Penalty is to Be Executed.*~~
 				- The death sentence shall be executed with preference to any other and shall consist in putting the person under sentence to death by electrocution.
 				- The death sentence shall be executed under the authority of the Director of Prisons, endeavoring so far as possible to mitigate the sufferings of the persons under sentence during electrocution as well as during the proceedings prior to the execution.
@@ -676,11 +676,10 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- The penalty of *arresto menor* shall be served in the municipal jail, or in the house of the defendant himself under the surveillance of an officer of the law, when the court so provides in its decision, taking into consideration the health of the offender and other reasons which may seem satisfactory to it.
 		- [^DPP]: _{Articles 81 to 85 on the execution of the penalty of death are rendered inoperative by R.A. No. 9346. Death penalty is now prohibited under R.A. No. 9346.}
-- # TITLE FOUR - Extinction of Criminal Liability and of Civil Liability Resulting from Crime
-	- ## CHAPTER ONE - Extinction of Criminal Liability
-		- ### SECTION ONE - Total Extinction of Criminal Liability
+- ## TITLE FOUR - Extinction of Criminal Liability and of Civil Liability Resulting from Crime
+	- ### CHAPTER ONE - Extinction of Criminal Liability
+		- #### SECTION ONE - Total Extinction of Criminal Liability
 			- **ARTICLE 89.** *How Criminal Liability is Totally Extinguished.*
-			  collapsed:: true
 				- Criminal liability is totally extinguished:[^A89]
 				  collapsed:: true
 					- 1. By the death of the convict, as to the personal penalties; and as to pecuniary penalties, liability therefor is extinguished only when the death of the offender occurs before final judgment.
@@ -717,8 +716,7 @@ sys-category:: [[21]]
 			- **ARTICLE 93.** *Computation of the Prescription of Penalties.*
 			  collapsed:: true
 				- The period of prescription of penalties shall commence to run from the date when the culprit should evade the service of his sentence, and it shall be interrupted if the defendant should give himself up, be captured, should go to some foreign country with which this Government has no extradition treaty, or should commit another crime before the expiration of the period of prescription.
-		- ### SECTION TWO - Partial Extinction of Criminal Liability
-		  collapsed:: true
+		- #### SECTION TWO - Partial Extinction of Criminal Liability
 			- **ARTICLE 94.** *Partial Extinction of Criminal Liability.*
 			  collapsed:: true
 				- Criminal liability is extinguished partially:
@@ -753,9 +751,8 @@ sys-category:: [[21]]
 				- Whenever lawfully justified the Director of Bureau of Corrections, the Chief of the Bureau of Jail Management and Penology and/or the Warden of a provincial, district, municipal or city jail shall grant allowances for good conduct.
 				- Such allowances once granted shall not be revoked.^{(As amended by R.A. No. 10592, approved May 29, 2013.)}
 		-
-- # TITLE FIVE - Civil Liability
-	- ## CHAPTER ONE - Persons Civilly Liable for Felonies
-	  collapsed:: true
+- ## TITLE FIVE - Civil Liability
+	- ### CHAPTER ONE - Persons Civilly Liable for Felonies
 		- **ARTICLE 100.** *Civil Liability of Person Guilty of Felony.*
 		  id:: 074c441f-a9b2-445e-a34f-9374a52ca5c9
 		  collapsed:: true
@@ -784,8 +781,7 @@ sys-category:: [[21]]
 		  id:: 8746fbf4-d28b-4ed8-aeab-d1107e1228c9
 		  collapsed:: true
 			- The subsidiary liability established in the next preceding article shall also apply to employers, teachers, persons, and corporations engaged in any kind of industry for felonies committed by their servants, pupils, workmen, apprentices, or employees in the discharge of their duties.
-	- ## CHAPTER TWO - What Civil Liability Includes
-	  collapsed:: true
+	- ### CHAPTER TWO - What Civil Liability Includes
 		- **ARTICLE 104.** *What is Included in Civil Liability.*
 		  collapsed:: true
 			- The civil liability established in articles [100](((074c441f-a9b2-445e-a34f-9374a52ca5c9))), [101](((7eb989c5-b7d2-435f-9b2e-3d4ae6049876))), [102](((51b1a6dc-fce0-4288-ba3d-f2c2f9add4eb))), and [103](((8746fbf4-d28b-4ed8-aeab-d1107e1228c9))) of this Code includes:
@@ -819,7 +815,7 @@ sys-category:: [[21]]
 		- **ARTICLE 111.** *Obligation to Make Restitution in Certain Cases.*
 		  collapsed:: true
 			- Any person who has participated gratuitously in the proceeds of a felony shall be bound to make restitution in an amount equivalent to the extent of such participation.
-	- ## CHAPTER THREE - Extinction and Survival of Civil Liability
+	- ### CHAPTER THREE - Extinction and Survival of Civil Liability
 		- **ARTICLE 112.** *Extinction of Civil Liability.*
 		  id:: 649990c8-bd95-46b4-a3b8-ad14594eba5d
 		  collapsed:: true
