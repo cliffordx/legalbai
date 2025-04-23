@@ -3,12 +3,12 @@ type:: codal
 law-subject:: Criminal Law
 sys-category:: [[21]]
 
-- # TITLE ONE - CRIMES AGAINST NATIONAL SECURITY AND THE LAW OF NATIONS
+- ## TITLE One - CRIMES AGAINST NATIONAL SECURITY AND THE LAW OF NATIONS
   id:: 6303188d-cdc0-41d2-8cfc-18d841ea0c40
-	- ## Chapter One - CRIMES AGAINST NATIONAL SECURITY
+	- ### Chapter One - CRIMES AGAINST NATIONAL SECURITY
 	  id:: 9d0b5fb8-85d3-42eb-ba7e-c106a16e7a0c
-	  collapsed:: true
-		- ### Section One. — Treason and espionage
+		- #### Section One. — Treason and espionage
+		  collapsed:: true
 			- **Art. 114.** *Treason.*
 			  id:: 6488844b-f940-45b7-ad81-fa8da081bdd0
 				- Any Filipino citizen who levies war against the Philippines or adheres to her enemies, giving them aid or comfort within the Philippines or elsewhere, shall be punished by *reclusion perpetua* to death and shall pay a fine not to exceed Four million pesos (P4,000,000).
@@ -28,7 +28,7 @@ sys-category:: [[21]]
 					- 2. Being in possession, by reason of the public office he holds, of the articles, data, or information referred to in the preceding paragraph, discloses their contents to a representative of a foreign nation.
 					  3. The penalty next higher in degree shall be imposed if the offender be a public officer or employee.
 				- [^1]: See Espionage Law (CA No. 616)
-		- ### Section Two. — Provoking war and disloyalty in case of war
+		- #### Section Two. — Provoking war and disloyalty in case of war
 		  collapsed:: true
 			- **Art. 118.** *Inciting to war or giving motives for reprisals.*
 			  collapsed:: true
@@ -48,7 +48,7 @@ sys-category:: [[21]]
 			- **Art. 121.** *Flight to enemy country.*
 			  collapsed:: true
 				- The penalty of arresto mayor shall be inflicted upon any person who, owing allegiance to the Government, attempts to flee or go to an enemy country when prohibited by competent authority.
-		- ### Section Three. — Piracy and mutiny on the high seas
+		- #### Section Three. — Piracy and mutiny on the high seas
 			- **Art. 122.** *Piracy in general and mutiny on the high seas or in Philippine waters.*[^2]
 			  collapsed:: true
 				- The penalty of *reclusion perpetua* shall be inflicted upon any person who, on the high seas, shall attack or seize a vessel or, not being a member of its complement nor a passenger, shall seize the whole or part of the cargo of said vessel, its equipment, or personal belongings of its complement or passengers.
@@ -62,11 +62,12 @@ sys-category:: [[21]]
 					- 3. Whenever the crime is accompanied by murder, homicide, physical injuries or rape.^{As amended by R.A. No. 7659, December 13, 1993}
 				- [^3]: _{Piracy is a predicate of terrorism (R.A. No. 9372).}
 				- [^4]: _{Imposition of death penalty is prohibited by R.A. No. 9346.}
-- # Title Two - CRIMES AGAINST THE FUNDAMENTAL LAWS OF THE STATE
+- ## Title Two - CRIMES AGAINST THE FUNDAMENTAL LAWS OF THE STATE
   id:: 6488844b-3ae1-4d37-89e0-c89550fb9679
   collapsed:: true
-	- ## Chapter One - ARBITRARY DETENTION OR EXPULSION, VIOLATION OF DWELLING, PROHIBITION, INTERRUPTION, AND DISSOLUTION OF PEACEFUL MEETINGS AND CRIMES AGAINST RELIGIOUS WORSHIP
-		- ## Section One. — Arbitrary detention and expulsion
+	- ### Chapter One - ARBITRARY DETENTION OR EXPULSION, VIOLATION OF DWELLING, PROHIBITION, INTERRUPTION, AND DISSOLUTION OF PEACEFUL MEETINGS AND CRIMES AGAINST RELIGIOUS WORSHIP
+		- #### Section One. — Arbitrary detention and expulsion
+		  collapsed:: true
 			- **Art. 124.** *Arbitrary detention.*
 			  id:: e4e2629b-8fb7-43d3-a0ea-3eed6c90181e
 				- Any public officer or employee who, without legal grounds, detains a person, shall suffer;
@@ -85,7 +86,8 @@ sys-category:: [[21]]
 			- **Art. 127.** *Expulsion.*
 			  collapsed:: true
 				- The penalty of *prision correccional* shall be imposed upon any public officer or employee who, not being thereunto authorized by law, shall expel any person from the Philippine Islands or shall compel such person to change his residence.
-		- ## Section Two. — Violation of domicile
+		- #### Section Two. — Violation of domicile
+		  collapsed:: true
 			- **Art. 128.** *Violation of domicile.*
 			  collapsed:: true
 				- The penalty of *prision correccional* in its minimum period shall be imposed upon any public officer or employee who, not being authorized by judicial order, shall enter any dwelling against the will of the owner thereof, search papers or other effects found therein without the previous consent of such owner, or having surreptitiously entered said dwelling, and being required to leave the premises, shall refuse to do so.
@@ -95,14 +97,16 @@ sys-category:: [[21]]
 			- **Art. 130.** *Searching domicile without witnesses.*
 			  collapsed:: true
 				- The penalty of *arresto mayor* in its medium and maximum periods shall be imposed upon a public officer or employee who, in cases where a search is proper, shall search the domicile, papers or other belongings of any person, in the absence of the latter, any member of his family, or in their default, without the presence of two witnesses residing in the same locality.
-		- ## Section Three. — Prohibition, interruption and dissolution of peaceful meetings
+		- #### Section Three. — Prohibition, interruption and dissolution of peaceful meetings
+		  collapsed:: true
 			- **Art. 131.** *Prohibition, interruption and dissolution of peaceful meetings.*[^A131]
 			  id:: a0d81783-23f6-4b79-9c0c-66f273e581bc
 				- The penalty of *prision correccional* in its minimum period shall be imposed upon any public officer or employee who, without legal ground, shall prohibit or interrupt the holding of a peaceful meeting, or shall dissolve the same.
 				- The same penalty shall be imposed upon a public officer or employee who shall hinder any person from joining any lawful association or from attending any of its meetings.
 				- The same penalty shall be imposed upon any public officer or employee who shall prohibit or hinder any person from addressing, either alone or together with others, any petition to the authorities for the correction of abuses or redress of grievances.
 					- [^A131]: _{See B.P. Blg. 880, otherwise known as Public Assembly Act of 1985.}
-		- ## Section Four. — Crimes against religious worship
+		- #### Section Four. — Crimes against religious worship
+		  collapsed:: true
 			- **Art. 132.** *Interruption of religious worship.*
 			  id:: 16410a57-78c7-4226-91a5-99eb843d7b78
 			  collapsed:: true
@@ -111,10 +115,10 @@ sys-category:: [[21]]
 			- **Art. 133.** *Offending the religious feelings.*
 			  collapsed:: true
 				- The penalty of *arresto mayor* in its maximum period to *prision correccional* in its minimum period shall be imposed upon anyone who, in a place devoted to religious worship or during the celebration of any religious ceremony shall perform acts notoriously offensive to the feelings of the faithful.
-- # Title Three - CRIMES AGAINST PUBLIC ORDER
+- ## Title Three - CRIMES AGAINST PUBLIC ORDER
   id:: 6488844b-25c7-4569-8fd3-83c98fe2c3de
   collapsed:: true
-	- ## Chapter One - REBELLION, SEDITION AND DISLOYALTY
+	- ### Chapter One - REBELLION, SEDITION AND DISLOYALTY
 	  id:: 613f528e-9e2f-4903-9492-5d9b4b9f16ff
 	  collapsed:: true
 		- **Art. 134.** *Rebellion or insurrection;*[^A134]
@@ -159,9 +163,9 @@ sys-category:: [[21]]
 		- **Art. 142.** *Inciting to sedition.*
 		  collapsed:: true
 			- The penalty of *prision correccional* in its maximum period and a fine not exceeding Four hundred thousand pesos (P400,000) shall be imposed upon any person who, without taking any direct part in the crime of sedition, should incite others to the accomplishment of any of the acts which constitute sedition, by means of speeches, proclamations, writings, emblems, cartoons, banners, or other representations tending to the same end, or upon any person or persons who shall utter seditious words or speeches, write, publish, or circulate scurrilous libels against the Government, or any of the duly constituted authorities thereof, or which tend to disturb or obstruct any lawful officer in executing the functions of his office, or which tend to instigate others to cabal and meet together for unlawful purposes, or which suggest or incite rebellious conspiracies or riots, or which lead or tend to stir up the people against the lawful authorities or to disturb the peace of the community, the safety and order of the Government, or who shall knowingly conceal such evil practices.^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## Chapter Two - CRIMES AGAINST POPULAR REPRESENTATION
+	- ### Chapter Two - CRIMES AGAINST POPULAR REPRESENTATION
 	  collapsed:: true
-		- ### Section One. — Crimes against legislative bodies and similar bodies
+		- #### Section One. — Crimes against legislative bodies and similar bodies
 		  collapsed:: true
 			- **Art. 143.** *Act tending to prevent the meeting of the Assembly and similar bodies.*
 			  collapsed:: true
@@ -169,13 +173,13 @@ sys-category:: [[21]]
 			- **Art. 144.** *Disturbance of proceedings.*
 			  collapsed:: true
 				- The penalty of *arresto mayor* or a fine from Forty thousand pesos (P40,000) to Two Hundred thousand pesos (P200,000) shall be imposed upon any person who disturbs the meetings of the Congress or of any of its committees or subcommittees, constitutional commissions or committees or divisions thereof, or of any provincial board or city or municipal council or board, or in the presence of any such bodies should behave in such manner as to interrupt its proceedings or to impair the respect due it.^{(As amended by R.A. No. 10951, August 29, 2017)}
-		- ### Section Two. — Violation of parliamentary immunity
+		- #### Section Two. — Violation of parliamentary immunity
 		  collapsed:: true
 			- **Art. 145.** *Violation of parliamentary immunity.*
 			  collapsed:: true
 				- The penalty of *prision mayor* shall be imposed upon any person who shall use force, intimidation, threats, or fraud to prevent any member of the National Assembly (Congress of the Philippines) from attending the meetings of the Assembly (Congress) or of any of its committees or subcommittees, constitutional commissions or committees or divisions thereof, from expressing his opinions or casting his vote; and the penalty of *prision correccional* shall be imposed upon any public officer or employee who shall, while the Assembly (Congress) is in regular or special session, arrest or search any member thereof, except in case such member has committed a crime punishable under this Code by a penalty higher than *prision mayor*.[^A145]^{As amended by Commonwealth Act No. 264, April 11, 1938.}
 				- [^A145]: _{Deemed modified by Sec. 11, Art. VI, 1987 Constitution, which states, a Senator or Member of the House of Representatives shall, in all offenses punishable by not more than six year imprisonment, be privileged from arrest while the Congress in session.}
-	- ## Chapter Three   - ILLEGAL ASSEMBLIES AND ASSOCIATIONS
+	- ### Chapter Three   - ILLEGAL ASSEMBLIES AND ASSOCIATIONS
 	  collapsed:: true
 		- **Art. 146.** *Illegal assemblies.*
 		  collapsed:: true
@@ -187,7 +191,8 @@ sys-category:: [[21]]
 		  collapsed:: true
 			- The penalty of *prision correccional* in its minimum and medium periods and a fine not exceeding Two hundred thousand pesos (P200,000) shall be imposed upon the founders, directors, and presidents of associations totally or partially organized for the purpose of committing any of the crimes punishable under this Code or for some purpose contrary to public morals.
 			- Mere members of said associations shall suffer the penalty of *arresto mayor*.^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## Chapter Four - ASSAULT UPON, AND RESISTANCE AND DISOBEDIENCE TO, PERSONS IN AUTHORITY AND THEIR AGENTS
+	- ### Chapter Four - ASSAULT UPON, AND RESISTANCE AND DISOBEDIENCE TO, PERSONS IN AUTHORITY AND THEIR AGENTS
+	  collapsed:: true
 		- **Art. 148.** *Direct assaults.*
 		  id:: 357eb698-2d91-4ad0-9c68-e6cd2f0431c0
 		  collapsed:: true
@@ -215,7 +220,7 @@ sys-category:: [[21]]
 				  collapsed:: true
 					- **SEC. 388:**
 					  Persons in Authority. — For purposes of the Revised Penal Code, the punong barangay, sangguniang barangay members, and members of the lupong tagapamayapa in each barangay shall be deemed as persons in authority in their jurisdictions, while other barangay officials and members who may be designated by law or ordinance and charged with the maintenance of public order, protection and security of life and property, or the maintenance of a desirable and balanced environment, and any barangay member who comes to the aid of persons in authority, shall be deemed agents of persons in authority.
-	- ## Chapter Five - PUBLIC DISORDERS
+	- ### Chapter Five - PUBLIC DISORDERS
 	  collapsed:: true
 		- **Art. 153.** *Tumults and other disturbance of public orders; Tumultuous disturbance or interruption liable to cause disturbance.*
 		  id:: ee9dc83d-5f8e-4c61-90cd-45ee3915c71b
@@ -241,7 +246,8 @@ sys-category:: [[21]]
 		- **Art. 156.** *Delivery of prisoners from jails.*
 			- The penalty of *arresto mayor* in its maximum period of *prision correccional* in its minimum period shall be imposed upon any person who shall remove from any jail or penal establishment any person confined therein or shall help the escape of such person, by means of violence, intimidation, or bribery. If other means are used, the penalty of *arresto mayor* shall be imposed.
 			- If the escape of the prisoner shall take place outside of said establishments by taking the guards by surprise, the same penalties shall be imposed in their minimum period.
-	- ## Chapter Six - EVASION OF SERVICE OF SENTENCE
+	- ### Chapter Six - EVASION OF SERVICE OF SENTENCE
+	  collapsed:: true
 		- **Art. 157.** *Evasion of service of sentence.*
 			- The penalty of *prision correccional* in its medium and maximum periods shall be imposed upon any convict who shall evade service of his sentence by escaping during the term of his imprisonment by reason of final judgment.
 			- However, if such evasion or escape shall have taken place by means of unlawful entry, by breaking doors, windows, gates, walls, roofs, or floors, or by using picklocks, false keys, deceit, violence or intimidation, or through connivance with other convicts or employees of the penal institution, the penalty shall be *prision correccional* in its maximum period.
@@ -252,68 +258,48 @@ sys-category:: [[21]]
 		- **Art. 159.** *Other cases of evasion of service of sentence.*
 		  id:: 8462c30c-c14f-412d-8a26-1e458245845d
 			- The penalty of *prision correccional* in its minimum period shall be imposed upon the convict who, having been granted conditional pardon by the Chief Executive, shall violate any of the conditions of such pardon. However, if the penalty remitted by the granting of such pardon be higher than six years, the convict shall then suffer the unexpired portion of his original sentence.
-	- ## Chapter Seven - COMMISSION OF ANOTHER CRIME DURING SERVICE OF PENALTY IMPOSED FOR ANOTHER PREVIOUS OFFENSE
+	- ### Chapter Seven - COMMISSION OF ANOTHER CRIME DURING SERVICE OF PENALTY IMPOSED FOR ANOTHER PREVIOUS OFFENSE
 	  collapsed:: true
 		- **Art. 160.** *Commission of another crime during service of penalty imposed for another offense — Penalty.*
 			- Besides the provisions of [Rule 5 of Article 62](((63032d17-a45e-4788-8129-f1e89cb0c998))), any person who shall commit a felony after having been convicted by final judgment, before beginning to serve such sentence, or while serving the same, shall be punished by the maximum period of the penalty prescribed by law for the new felony.
 			- Any convict of the class referred to in this article, who is not a habitual criminal, shall be pardoned at the age of seventy years if he shall have already served out his original sentence, or when he shall complete it after reaching the said age, unless by reason of his conduct or other circumstances he shall not be worthy of such clemency.
-- # Title Four - CRIMES AGAINST PUBLIC INTEREST
+- ## Title Four - CRIMES AGAINST PUBLIC INTEREST
   id:: 6488844a-7766-4088-b297-196aa6e7b132
-	- # Chapter One - FORGERIES
-	  collapsed:: true
-		- ## Section One. — Forging the seal of the Government of the Philippine Islands, the signature or stamp of the Chief Executive.
-		  collapsed:: true
+	- ### Chapter One - FORGERIES
+		- #### Section One. — Forging the seal of the Government of the Philippine Islands, the signature or stamp of the Chief Executive.
 			- **Art. 161.** *Counterfeiting the great seal of the Government of the Philippine Islands, forging the signature or stamp of the Chief Executive.*
-			  collapsed:: true
 				- The penalty of *reclusion temporal* shall be imposed upon any person who shall forge the Great Seal of the Government of the Philippine Islands or the signature or stamp of the Chief Executive.
 			- **Art. 162.** *Using forged signature or counterfeit seal or stamp.*
-			  collapsed:: true
 				- The penalty of *prision mayor* shall be imposed upon any person who shall knowingly make use of the counterfeit seal or forged signature or stamp mentioned in the preceding article.
-		- ## Section Two. — Counterfeiting Coins
-		  collapsed:: true
+		- #### Section Two. — Counterfeiting Coins
 			- **Art. 163.** *Making and importing and uttering false coins.*
-			  collapsed:: true
 				- Any person who makes, imports, or utters, false coins, in connivance with counterfeiters, or importers, shall suffer:
-				  collapsed:: true
 					- 1. *Prision correccional* in its minimum and medium periods and a fine of not to exceed Four hundred thousand pesos (P400,000), if the counterfeited coins be any of the minor coinage of the Philippines.
 					- 2. *Prision correccional* in its minimum period and a fine not to exceed Two hundred thousand pesos(P200,000), if the counterfeited coin be currency of a foreign country.^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 164.** *Mutilation of coins; Importation and utterance of mutilated coins.*
-			  collapsed:: true
 				- The penalty of *prision correccional* in its minimum period and a fine not to exceed Four hundred thousand pesos (P400,000) shall be imposed upon any person who shall mutilate coins of the legal currency of the Philippines or import or utter mutilated current coins, or in connivance with mutilators or importers. ^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 165.** *Selling of false or mutilated coin, without connivance.*
-			  collapsed:: true
 				- The person who knowingly, although without the connivance mentioned in the preceding articles, shall possess false or mutilated coin with intent to utter the same, or shall actually utter such coin, shall suffer a penalty lower by one degree than that prescribed in said articles.
-		- ## Section Three. — Forging treasury or bank notes, obligations and securities; importing and uttering false or forged notes, obligations and securities.
-		  collapsed:: true
+		- #### Section Three. — Forging treasury or bank notes, obligations and securities; importing and uttering false or forged notes, obligations and securities.
 			- **Art. 166.** *Forging treasury or bank notes on other documents payable to bearer; importing, and uttering such false or forged notes and documents.*
-			  collapsed:: true
 				- The forging or falsification of treasury or bank notes or certificates or other obligations and securities payable to bearer and the importation and uttering in connivance with forgers or importers of such false or forged obligations or notes, shall be punished as follows:
-				  collapsed:: true
 					- 1. By *reclusion temporal* in its minimum period and a fine not to exceed Two million pesos (P2,000,000), if the document which has been falsified, counterfeited, or altered, is an obligations or security of the Philippines. The words obligation or security of the Philippines shall be held to mean all bonds, certificates of indebtedness, national bank notes, coupons, Philippine notes, treasury notes, fractional notes, certificates of deposit, bills, checks, or drafts for money, drawn by or upon authorized officers of the Philippines, and other representatives of value, of whatever denomination, which have been or may be issued under any act of Congress.
 					- 2. By *prision mayor* in its maximum period and a fine not to exceed One million pesos (P1,000,000), if the falsified or altered document is a circulating note issued by any banking association duly authorized by law to issue the same.
 					- 3. By *prision mayor* in its medium period and a fine not to exceed One million pesos (P1,000,000), if the falsified or counterfeited document was issued by a foreign government.
 					- 4. By *prision mayor* in its minimum period and a fine not to exceed Four hundred thousand pesos (P400,000), when the forged or altered document is a circulating note or bill issued by a foreign bank duly authorized therefor.^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 167.** *Counterfeiting, importing and uttering instruments not payable to bearer.*
-			  collapsed:: true
 				- Any person who shall forge, import or utter, in connivance with the forgers or importers, any instrument payable to order or other document of credit not payable to bearer, shall suffer the penalties of *prision correccional* in its medium and maximum periods and a fine not exceeding One million two hundred thousand pesos (P1,200,000). ^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 168.** *Illegal possession and use of false treasury or bank notes and other instruments of credit.*
-			  collapsed:: true
 				- Unless the act be one of those coming under the provisions of any of the preceding articles, any person who shall knowingly use or have in his possession, with intent to use any of the false or falsified instruments referred to in this section, shall suffer the penalty next lower in degree than that prescribed in said articles.
 			- **Art. 169.** *How forgery is committed.*
-			  collapsed:: true
 				- The forgery referred to in this section may be committed by any of the following means:
-				  collapsed:: true
 					- 1. By giving to a treasury or bank note or any instrument, payable to bearer or order mentioned therein, the appearance of a true genuine document.
 					- 2. By erasing, substituting, counterfeiting or altering by any means the figures, letters, words or signs contained therein.
-		- ## Section Four. — Falsification of legislative, public, commercial, and private documents, and wireless, telegraph, and telephone message.
-		  collapsed:: true
+		- #### Section Four. — Falsification of legislative, public, commercial, and private documents, and wireless, telegraph, and telephone message.
 			- **Art. 170.** *Falsification of legislative documents.*
-			  collapsed:: true
 				- The penalty of *prision correccional* in its maximum period and a fine not exceeding One million two hundred thousand pesos (P1,200,000) shall be imposed upon any person who, without proper authority therefor alters any bill, resolution, or ordinance enacted or approved or pending approval by either House of Congress or any provincial board or municipal council. ^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 171.** *Falsification by public officer, employee or notary or ecclesiastic minister.*
-			  collapsed:: true
 				- The penalty of *prision mayor* and a fine not to exceed One million pesos (P1,000,000) shall be imposed upon any public officer, employee, or notary who, taking advantage of his official position, shall falsify a document by committing any of the following acts:
-				  collapsed:: true
 					- 1. Counterfeiting or imitating any handwriting, signature or rubric;
 					- 2. Causing it to appear that persons have participated in any act or proceeding when they did not in fact so participate;
 					- 3. Attributing to persons who have participated in an act or proceeding statements other than those in fact made by them;
@@ -324,35 +310,27 @@ sys-category:: [[21]]
 					- 8. Intercalating any instrument or note relative to the issuance thereof in a protocol, registry, or official book.
 					- The same penalty shall be imposed upon any ecclesiastical minister who shall commit any of the offenses enumerated in the preceding paragraphs of this article, with respect to any record or document of such character that its falsification may affect the civil status of persons. ^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 172.** *Falsification by private individual and use of falsified documents.*
-			  collapsed:: true
 				- The penalty of *prision correccional* in its medium and maximum periods and a fine of not more than One million pesos (P1,000,000) shall be imposed upon:
-				  collapsed:: true
 					- 1. Any private individual who shall commit any of the falsifications enumerated in the next preceding article in any public or official document or letter of exchange or any other kind of commercial document; and
 					- 2. Any person who, to the damage of a third party, or with the intent to cause such damage, shall in any private document commit any of the acts of falsification enumerated in the next preceding article.
 					- Any person who shall knowingly introduce in evidence in any judicial proceeding or to the damage of another or who, with the intent to cause such damage, shall use any of the false documents embraced in the next preceding article, or in any of the foregoing subdivisions of this article, shall be punished by the penalty next lower in degree.^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 173.** *Falsification of wireless, cable, telegraph and telephone messages, and use of said falsified messages.*
-			  collapsed:: true
 				- The penalty of *prision correccional* in its medium and maximum periods shall be imposed upon officer or employee of the Government or of any private corporation or concern engaged in the service of sending or receiving wireless, cable or telephone message who utters a fictitious wireless, telegraph or telephone message of any system or falsifies the same.
 				- Any person who shall use such falsified dispatch to the prejudice of a third party or with the intent of cause such prejudice, shall suffer the penalty next lower in degree.
-		- ## Section Five. — Falsification of medical certificates, certificates of merit or services and the like.
-		  collapsed:: true
+		- #### Section Five. — Falsification of medical certificates, certificates of merit or services and the like.
 			- **Art. 174.** *False medical certificates, false certificates of merits or service, etc.*
-			  collapsed:: true
 				- The penalties of *arresto mayor* in its maximum period to *prision correccional* in its minimum period and a fine not to exceed Two hundred thousand pesos (P200,000) shall be imposed upon:
 				- 1. Any physician or surgeon who, in connection, with the practice of his profession, shall issue a false certificate; and
 				  2. Any public officer who shall issue a false certificate of merit of service, good conduct or similar circumstances.
 				- The penalty of *arresto mayor* shall be imposed upon any private person who shall falsify a certificate falling within the classes mentioned in the two preceding subdivisions.^{*(As amended by R.A. No. 10951, August 29, 2017).*}
 			- **Art. 175.** *Using false certificates.*
-			  collapsed:: true
 				- The penalty of *arresto menor* shall be imposed upon any one who shall knowingly use any of the false certificates mentioned in the next preceding article.
-		- ## Section Six. — Manufacturing, importing and possession of instruments or implements intended for the commission of falsification.
-		  collapsed:: true
+		- #### Section Six. — Manufacturing, importing and possession of instruments or implements intended for the commission of falsification.
 			- **Art. 176.** *Manufacturing and possession of instruments or implements for falsification.*
-			  collapsed:: true
 				- The penalty of *prision correccional* in its medium and maximum periods and a fine not to exceed One million pesos (P1,000,000) shall be imposed upon any person who shall make or introduce into the Philippine Islands any stamps, dies, marks, or other instruments or implements intended to be used in the commission of the offenses of counterfeiting or falsification mentioned in the preceding sections of this Chapter.
 				- Any person who, with the intention of using them, shall have in his possession any of the instruments or implements mentioned in the preceding paragraphs, shall suffer the penalty next lower in degree than that provided therein.^{*(As amended by R.A. No. 10951, August 29, 2017).*}
-	- # Chapter Two - OTHER FALSITIES
-		- ## Sec. One. — Usurpation of authority, rank, title, and improper use of names, uniforms and insignia.
+	- ### Chapter Two - OTHER FALSITIES
+		- #### Sec. One. — Usurpation of authority, rank, title, and improper use of names, uniforms and insignia.
 		  collapsed:: true
 			- **Art. 177.** *Usurpation of authority or official functions.*[^A177]
 			  id:: 64646b4d-cc7c-4454-bf88-5fc7de30d97a
@@ -360,45 +338,36 @@ sys-category:: [[21]]
 					- [^A177]: _{See Obstruction of Justice Law on using fictitious name. (P.D. No. 1829, January 16, 1981).}
 			- **Art. 178.** *Using fictitious name and concealing true name.*
 			  id:: 64646b4d-fd5a-4d73-98fe-011743bdde7c
-			  collapsed:: true
 				- The penalty of *arresto mayor* and a fine not to exceed One hundred thousand pesos (P100,000) shall be imposed upon any person who shall publicly use a fictitious name for the purpose of concealing a crime, evading the execution of a judgment or causing damage.
 				- Any person who conceals his true name and other personal circumstances shall be punished by *arresto menor* or a fine not to exceed Forty thousand pesos (P40,000). ^{(As amended by R.A. No. 10951, August 29, 2017)}
 			- **Art. 179.** *Illegal use of uniforms or insignia.*
-			  collapsed:: true
 				- The penalty of *arresto mayor* shall be imposed upon any person who shall publicly and improperly make use of insignia, uniforms or dress pertaining to an office not held by such person or to a class of persons of which he is not a member.
-		- ## Section Two. — False testimony
+		- #### Section Two. — False testimony
+		  collapsed:: true
 			- **Art. 180.** *False testimony against a defendant.*
-			  collapsed:: true
 				- Any person who shall give false testimony against the defendant in any criminal case shall suffer:
-				  collapsed:: true
 					- 1. The penalty of *reclusion temporal*, if the defendant in said case shall have been sentenced to death;
 					- 2. The penalty of *prision mayor*, if the defendant shall have been sentenced to *reclusion temporal* or reclusion perpetua;
 					- 3. The penalty of *prision correccional*, if the defendant shall have been sentenced to any other afflictive penalty; and
 					- 4. The penalty of *arresto mayor*, if the defendant shall have been sentenced to a correctional penalty or a fine, or shall have been acquitted.
 					- In cases provided in subdivisions 3 and 4 of this article the offender shall further suffer a fine not to exceed Two hundred thousand pesos (P200,000). ^{(As amended by R.A. No. 10951, August 29, 2017)}
 			- **Art. 181.** *False testimony favorable to the defendants.*
-			  collapsed:: true
 				- Any person who shall give false testimony in favor of the defendant in a criminal case, shall suffer the penalties of *arresto mayor* in its maximum period to *prision correccional* in its minimum period a fine not to exceed Two hundred thousand pesos (P200,000), if the prosecution is for a felony punishable by an afflictive penalty, and the penalty of *arresto mayor* in any other case. ^{(As amended by R.A. No. 10951, August 29, 2017)}
 			- **Art. 182.** *False testimony in civil cases.*
-			  collapsed:: true
 				- Any person found guilty of false testimony in a civil case shall suffer the penalty of *prision correccional* in its minimum period and a fine not to exceed One million two hundred thousand pesos (P1,200,000), if the amount in controversy shall exceed One million pesos (P1,000,000), and the penalty of *arresto mayor* in its maximum period to *prision correccional* in its minimum period and a fine not to exceed Two hundred thousand pesos (P200,000), if the amount in controversy shall not exceed said amount or cannot be estimated. ^{(As amended by R.A. No. 10951, August 29, 2017)}
 			- **Art. 183.** *False testimony in other cases and [[perjury]] in solemn affirmation.*
-			  collapsed:: true
 				- The penalty of *arresto mayor* in its maximum period to *prision correccional* in its minimum period shall be imposed upon any person, who knowingly makes untruthful statements and not being included in the provisions of the next preceding articles, shall testify under oath, or make an affidavit, upon any material matter before a competent person authorized to administer an oath in cases in which the law so requires.
 				- Any person who, in case of a solemn affirmation made in lieu of an oath, shall commit any of the falsehoods mentioned in this and the three preceding articles of this section, shall suffer the respective penalties provided therein.
 			- **Art. 184.** *Offering false testimony in evidence.*
-			  collapsed:: true
 				- Any person who shall knowingly offer in evidence a false witness or testimony in any judicial or official proceeding, shall be punished as guilty of false testimony and shall suffer the respective penalties provided in this section.
-	- # Chapter Three - FRAUDS
-		- ## Section One. — Machinations, monopolies and combinations
+	- ### Chapter Three - FRAUDS
+		- #### Section One. — Machinations, monopolies and combinations
 		  id:: 65179f12-a06a-43a1-98ee-17165c5b755c
 		  collapsed:: true
 			- **Art. 185.** *Machinations in public auctions.*
 			  id:: 65179f12-85a8-4c55-bea6-4c3533e38a7c
-			  collapsed:: true
 				- Any person who shall solicit any gift or promise as a consideration for refraining from taking part in any public auction, and any person who shall attempt to cause bidders to stay away from an auction by threats, gifts, promises, or any other artifice, with intent to cause the reduction of the price of the thing auctioned, shall suffer the penalty of *prision correccional* in its minimum period and a fine ranging from 10 to 50 per centum of the value of the thing auctioned.
 			- **Art. 186.** *Monopolies and combinations in restraint of trade.*
-			  collapsed:: true
 				- The penalty of *prision correccional* in its minimum period or a fine ranging from 200 to 6,000 pesos, or both, shall be imposed upon:
 					- 1. Any person who shall enter into any contract or agreement or shall take part in any conspiracy or combination in the form of a trust or otherwise, in restraint of trade or commerce or to prevent by artificial means free competition in the market;
 					- 2. Any person who shall monopolize any merchandise or object of trade or commerce, or shall combine with any other person or persons to monopolize and merchandise or object in order to alter the price thereof by spreading false rumors or making use of any other article to restrain free competition in the market;
@@ -406,45 +375,40 @@ sys-category:: [[21]]
 					- If the offense mentioned in this article affects any food substance, motor fuel or lubricants, or other articles of prime necessity, the penalty shall be that of *prision mayor* in its maximum and medium periods it being sufficient for the imposition thereof that the initial steps have been taken toward carrying out the purposes of the combination.
 					- Any property possessed under any contract or by any combination mentioned in the preceding paragraphs, and being the subject thereof, shall be forfeited to the Government of the Philippines.
 					- Whenever any of the offenses described above is committed by a corporation or association, the president and each one of its agents or representatives in the Philippines in case of a foreign corporation or association, who shall have knowingly permitted or failed to prevent the commission of such offense, shall be held liable as principals thereof.
-		- ## Section Two. — Frauds in commerce and industry
+		- #### Section Two. — Frauds in commerce and industry
 		  id:: 6518ffe7-5929-4fcf-8635-697e8304d78d
 		  collapsed:: true
 			- **Art. 187.** *Importation and disposition of falsely marked articles or merchandise made of gold, silver, or other precious metals or their alloys.*
-			  collapsed:: true
 				- The penalty of *prision correccional* or a fine ranging from Forty thousand pesos (P40,000) to Two hundred thousand pesos (P200,000), or both, shall be imposed on any person who shall knowingly import or sell or dispose of any article or merchandise made of gold, silver, or other precious metals, or their alloys, with stamps, brands, or marks which fail to indicate the actual fineness or quality of said metals or alloys.
 				- Any stamp, brand, label, or mark shall be deemed to fail to indicate the actual fineness of the article on which it is engraved, printed, stamped, labeled or attached, when the rest of the article shows that the quality or fineness thereof is less by more than one-half karat, if made of gold, and less by more than four one- thousandth, if made of silver, than what is shown by said stamp, brand, label or mark. But in case of watch cases and flatware made of gold, the actual fineness of such gold shall not be less by more than three one-thousandth than the fineness indicated by said stamp, brand, label, or mark. ^{(As amended by R.A. No. 10951, August 29, 2017)}
 			- ~~**Art. 188.** Subsisting and altering trade-mark, trade-names, or service marks.~~[^IPL]
-			  collapsed:: true
 				- ~~The penalty of *prision correccional* in its minimum period or a fine ranging from 50 to 2,000 pesos, or both, shall be imposed upon:~~
-				  collapsed:: true
 					- 1. Any person who shall substitute the trade name or trade-mark of some other manufacturer or dealer or a colorable imitation thereof, for the trademark of the real manufacturer or dealer upon any article of commerce and shall sell the same;
 					- 2. Any person who shall sell such articles of commerce or offer the same for sale, knowing that the trade-name or trade- mark has been fraudulently used in such goods as described in the preceding subdivision;
 					- 3. Any person who, in the sale or advertising of his services, shall use or substitute the service mark of some other person, or a colorable imitation of such mark; or
 					- 4. Any person who, knowing the purpose for which the trade-name, trade-mark, or service mark of a person is to be used, prints, lithographs, or in any way reproduces such trade-name, trade-mark, or service mark, or a colorable imitation thereof, for another person, to enable that other person to fraudulently use such trade-name, trade-mark, or service mark on his own goods or in connection with the sale or advertising of his services.
 					- A trade-name or trade-mark as herein used is a word or words, name, title, symbol, emblem, sign or device, or any combination thereof used as an advertisement, sign, label, poster, or otherwise, for the purpose of enabling the public to distinguish the business of the person who owns and uses said trade- name or trade-mark.
 					- A service mark as herein used is a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising.
-					  collapsed:: true
 						- [^IPL]: _{Articles 188 and 189 of the Revised Penal Code were repealed by The Intellectual Property Code[R.A. 8293, January 1, 1998.]}
 			- ~~**Art. 189.** Unfair competition, fraudulent registration of trade-mark, trade-name or service mark, fraudulent designation of origin, and false description.~~[^IPL]
 				- ~~The penalty provided in the next proceeding article shall be imposed upon:~~
-				  collapsed:: true
 					- 1. Any person who, in unfair competition and for the purposes of deceiving or defrauding another of his legitimate trade or the public in general, shall sell his goods giving them the general appearance of goods of another manufacturer or dealer, either as to the goods themselves, or in the wrapping of the packages in which they are contained or the device or words thereon or in any other features of their appearance which would be likely to induce the public to believe that the goods offered are those of a manufacturer or dealer other than the actual manufacturer or dealer or shall give other persons a chance or opportunity to do the same with a like purpose.
 					- 2. Any person who shall affix, apply, annex or use in connection with any goods or services or any container or containers for goods a false designation of origin or any false description or representation and shall sell such goods or services.
-					- collapsed:: true
-					  3. Any person who by means of false or fraudulent representation or declarations orally or in writing or by other fraudulent means shall procure from the patent office or from any other office which may hereafter be established by law for the purposes the registration of a trade-name, trade-mark or service mark or of himself as the owner of such trade-name, trade-mark or service mark or an entry respecting a trade-name, trade-mark or service mark.
+					- 3. Any person who by means of false or fraudulent representation or declarations orally or in writing or by other fraudulent means shall procure from the patent office or from any other office which may hereafter be established by law for the purposes the registration of a trade-name, trade-mark or service mark or of himself as the owner of such trade-name, trade-mark or service mark or an entry respecting a trade-name, trade-mark or service mark.
 						- [^IPL]: _{Articles 188 and 189 of the Revised Penal Code were repealed by The Intellectual Property Code[R.A. 8293, January 1, 1998.]}
 			- [^IPL]: _{Articles 188 and 189 of the Revised Penal Code were repealed by The Intellectual Property Code[R.A. 8293, January 1, 1998.]}
-- # ~~Title Five - CRIMES RELATIVE TO OPIUM AND OTHER PROHIBITED DRUGS~~[^T5]
+- ## ~~Title Five - CRIMES RELATIVE TO OPIUM AND OTHER PROHIBITED DRUGS~~[^T5]
   id:: 6488844a-3d45-4fdc-a1bb-a7616c2153d7
   collapsed:: true
 	- [^T5]: Articles 190 t0 194 of the Revised Penal Code were repealed by R.A. No. 6425. However, R.A. No. 6425 was repealed by R.A. No. 9165 otherwise known as Comprehensive Dangerous Drugs Act of 2002.
-- # Title Six - CRIMES AGAINST PUBLIC MORALS
+- ## Title Six - CRIMES AGAINST PUBLIC MORALS
   id:: 6488844a-ddc7-4ce6-aadd-997dabce6351
   collapsed:: true
-	- ## ~~Chapter One - GAMBLING AND BETTING~~[^T6]
+	- ### ~~Chapter One - GAMBLING AND BETTING~~[^T6]
 	  collapsed:: true
 		- [^T6]: Articles 195 to 199 of the Revised Penal Code are repealed by P.D. No. 1602. P.D. No. 1602 is modified by R.A. No. 9287.
-	- ## Chapter Two - OFFENSES AGAINST DECENCY AND GOOD CUSTOMS
+	- ### Chapter Two - OFFENSES AGAINST DECENCY AND GOOD CUSTOMS
+	  collapsed:: true
 		- **Art. 200.** *Grave scandal.*
 		  collapsed:: true
 			- The penalties of arresto mayor and public censure shall be imposed upon any person who shall offend against decency or good customs by any highly scandalous conduct not expressly falling within any other article of this Code.
@@ -462,13 +426,17 @@ sys-category:: [[21]]
 				- [^A202]: _{See Section 58 of R.A. No. 9344 and Sections 17 and 32 of R.A. No. 9208 as amended by R.A. No. 10364 on exemption of trafficked victim and minor from criminal prosecution for prostitution.}
 			- *(The crime of vagrancy, which was punishable under Article 202 of the Revised Penal Code, was decriminalized by R.A. No. 10158 dated March 27, 2012)*
 			  id:: 6518ffe7-720c-4b79-9793-e704dd89d4ad
-- # Title Seven - CRIMES COMMITTED BY PUBLIC OFFICERS
+- ## Title Seven - CRIMES COMMITTED BY PUBLIC OFFICERS
   id:: 6488844a-f15e-4048-8359-6bc2cb2a49bb
-	- ## Chapter One - PRELIMINARY PROVISIONS
+  collapsed:: true
+	- ### Chapter One - PRELIMINARY PROVISIONS
+	  collapsed:: true
 		- **Art. 203.** *Who are public officers.*
 			- For the purpose of applying the provisions of this and the preceding titles of this book, any person who, by direct provision of the law, popular election or appointment by competent authority, shall take part in the performance of public functions in the Government of the Philippine Islands, of shall perform in said Government or in any of its branches public duties as an employee, agent or subordinate official, of any rank or class, shall be deemed to be a public officer.
-	- ## Chapter Two - MALFEASANCE AND MISFEASANCE IN OFFICE
-		- ### Section One. — Dereliction of duty
+	- ### Chapter Two - MALFEASANCE AND MISFEASANCE IN OFFICE
+	  collapsed:: true
+		- #### Section One. — Dereliction of duty
+		  collapsed:: true
 			- **Art. 204.** *Knowingly rendering unjust judgment.*
 			  id:: 6518ffe7-1c59-42ab-93eb-bab1b873a80d
 				- Any judge who shall knowingly render an unjust judgment in any case submitted to him for decision, shall be punished by *prision mayor* and perpetual absolute disqualification.
@@ -488,7 +456,8 @@ sys-category:: [[21]]
 			  id:: 6488844a-aaaa-4ad1-bb39-2252b122e44e
 				- In addition to the proper administrative action, the penalty of *prision correccional* in its minimum period, or a fine ranging from Forty thousand pesos (P40,000) to Two hundred thousand pesos (P200,000), or both, shall be imposed upon any attorney-at-law or any person duly authorized to represent and/or assist a party to a case who, by any malicious breach of professional duty or of inexcusable negligence or ignorance, shall prejudice his client, or reveal any of the secrets of the latter learned by him in his professional capacity.
 				- The same penalty shall be imposed upon an attorney-at-law or any person duly authorized to represent and/or assist a party to a case who, having undertaken the defense of a client or having received confidential information from said client in a case, shall undertake the defense of the opposing party in the same case, without the consent of his first client.^{(As amended by R.A. No. 10951, August 29, 2017)}
-		- ### Section Two. — Bribery
+		- #### Section Two. — Bribery
+		  collapsed:: true
 			- **Art. 210.** *Direct bribery.*
 			  id:: 6518ffe7-a4be-4ed5-b0ac-691de40d689b
 			  collapsed:: true
@@ -509,7 +478,8 @@ sys-category:: [[21]]
 			- **Art. 212.** *Corruption of public officials.*
 			  collapsed:: true
 				- The same penalties imposed upon the officer corrupted, except those of disqualification and suspension, shall be imposed upon any person who shall have made the offers or promises or given the gifts or presents as described in the preceding articles.
-	- ## Chapter Three - FRAUDS AND ILLEGAL EXACTIONS AND TRANSACTIONS
+	- ### Chapter Three - FRAUDS AND ILLEGAL EXACTIONS AND TRANSACTIONS
+	  collapsed:: true
 		- **Art. 213.** *Frauds against the public treasury and similar offenses.*
 		  collapsed:: true
 			- The penalty of prision correccional in its medium period to prision mayor in its minimum period, or a fine ranging from Forty thousand pesos (P40,000) to Two million pesos(P2,000,000), or both, shall be imposed upon any public officer who:
@@ -531,7 +501,7 @@ sys-category:: [[21]]
 		  id:: 6518ffe7-50f7-447a-abe3-353129e9c4ad
 			- The penalty of *arresto mayor* in its medium period to *prision correccional* in its minimum period, or a fine ranging from Forty thousand pesos (P40,000) to Two hundred thousand pesos (P200,000), or both, shall be imposed upon a public officer who directly or indirectly, shall become interested in any contract or business in which it is his official duty to intervene.
 			- This provisions is applicable to experts, arbitrators and private accountants who, in like manner, shall take part in any contract or transaction connected with the estate or property in appraisal, distribution or adjudication of which they shall have acted, and to the guardians and executors with respect to the property belonging to their wards or estate.^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## Chapter Four - MALVERSATION OF PUBLIC FUNDS OR PROPERTY
+	- ### Chapter Four - MALVERSATION OF PUBLIC FUNDS OR PROPERTY
 	  collapsed:: true
 		- **Art. 217.** *Malversation of public funds or property; Presumption of malversation.*
 		  id:: 6488844a-72b7-44a7-9f2c-211e68a3f51c
@@ -560,8 +530,9 @@ sys-category:: [[21]]
 		- **Art. 222.** *Officers included in the preceding provisions.*
 		  id:: 6518ffe7-7159-4b85-9b49-8925221ea3e4
 			- The provisions of this chapter shall apply to private individuals who in any capacity whatever, have charge of any insular, provincial or municipal funds, revenues, or property and to any administrator or depository of funds or ==property attached, seized or deposited by public authority, even if such property belongs to a private individual==.
-	- ## Chapter Five - INFIDELITY OF PUBLIC OFFICERS
-		- ### Section One. — Infidelity in the custody of prisoners
+	- ### Chapter Five - INFIDELITY OF PUBLIC OFFICERS
+	  collapsed:: true
+		- #### Section One. — Infidelity in the custody of prisoners
 		  collapsed:: true
 			- **Art. 223.** *Conniving with or consenting to evasion.*
 			  id:: 6518ffe6-a213-4eb7-98d6-8982ad25049e
@@ -574,7 +545,8 @@ sys-category:: [[21]]
 			- **Art. 225.** *Escape of prisoner under the custody of a person not a public officer.*
 			  collapsed:: true
 				- Any private person to whom the conveyance or custody or a prisoner or person under arrest shall have been confided, who shall commit any of the offenses mentioned in the two preceding articles, shall suffer the penalty next lower in degree than that prescribed for the public officer.
-		- ### Section Two. — Infidelity in the custody of document
+		- #### Section Two. — Infidelity in the custody of document
+		  collapsed:: true
 			- **Art. 226.** *Removal, concealment or destruction of documents.*
 			  id:: 63cbc7e6-2622-47d0-b562-b04606161c9f
 			  collapsed:: true
@@ -588,7 +560,7 @@ sys-category:: [[21]]
 			- **Art. 228.** *Opening of closed documents.*
 			  collapsed:: true
 				- Any public officer not included in the provisions of the next preceding article who, without proper authority, shall open or shall permit to be opened any closed papers, documents or objects entrusted to his custody, shall suffer the penalties or *arresto mayor*, temporary special disqualification and a fine of not exceeding Four hundred thousand pesos (P400,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
-		- ### Section Three. — Revelation of secrets
+		- #### Section Three. — Revelation of secrets
 		  collapsed:: true
 			- **Art. 229.** *Revelation of secrets by an officer.*
 			  collapsed:: true
@@ -596,8 +568,10 @@ sys-category:: [[21]]
 			- **Art. 230.** *Public officer revealing secrets of private individual.*
 			  collapsed:: true
 				- Any public officer to whom the secrets of any private individual shall become known by reason of his office who shall reveal such secrets, shall suffer the penalties of *arresto mayor* and a fine not exceeding Two hundred thousand pesos (P200,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## Chapter Six - OTHER OFFENSES OR IRREGULARITIES BY PUBLIC OFFICERS
-		- ### Section One — Disobedience, refusal of assistance, and maltreatment of prisoners
+	- ### Chapter Six - OTHER OFFENSES OR IRREGULARITIES BY PUBLIC OFFICERS
+	  collapsed:: true
+		- #### Section One — Disobedience, refusal of assistance, and maltreatment of prisoners
+		  collapsed:: true
 			- **Art. 231.** *Open disobedience.*
 			  collapsed:: true
 				- Any judicial or executive officer who shall openly refuse to execute the judgment, decision or order of any superior authority made within the scope of the jurisdiction of the latter and issued with all the legal formalities, shall suffer the penalties of *arresto mayor* in its medium period to *prision correccional* in its minimum period, temporary special disqualification in its maximum period and a fine not exceeding Two hundred thousand pesos (P200,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
@@ -615,7 +589,7 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- The penalty of *arresto mayor* in its medium period to *prision correccional* in its minimum period, in addition to his liability for the physical injuries or damage caused, shall be imposed upon any public officer or employee who shall overdo himself in the correction or handling of a prisoner or detention prisoner under his charge, by the imposition of punishment not authorized by the regulations, or by inflicting such punishment in a cruel and humiliating manner.
 				- If the purpose of the maltreatment is to extort a confession, or to obtain some information from the prisoner, the offender shall be punished by *prision correccional* in its minimum period, temporary special disqualification and a fine not exceeding One hundred thousand pesos (P100,000), in addition to his liability for the physical injuries or damage caused.^{(As amended by R.A. No. 10951, August 29, 2017)}
-		- ### Section Two. — Anticipation, prolongation and abandonment of the duties and powers of public office.
+		- #### Section Two. — Anticipation, prolongation and abandonment of the duties and powers of public office.
 		  collapsed:: true
 			- **Art. 236.** *Anticipation of duties of a public office.*
 			  collapsed:: true
@@ -627,7 +601,7 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- Any public officer who, before the acceptance of his resignation, shall abandon his office to the detriment of the public service shall suffer the penalty of *arresto mayor*.
 				- If such office shall have been abandoned in order to evade the discharge of the duties of preventing, prosecuting or punishing any of the crime falling within [Title One](((9d0b5fb8-85d3-42eb-ba7e-c106a16e7a0c))), and [Chapter One of Title Three of Book Two of this Code](((613f528e-9e2f-4903-9492-5d9b4b9f16ff))), the offender shall be punished by *prision correccional* in its minimum and medium periods, and by *arresto mayor* if the purpose of such abandonment is to evade the duty of preventing, prosecuting or punishing any other crime.
-		- ### Section Three. — Usurpation of powers and unlawful appointments
+		- #### Section Three. — Usurpation of powers and unlawful appointments
 		  collapsed:: true
 			- **Art. 239*.** Usurpation of legislative powers.*
 			  collapsed:: true
@@ -648,7 +622,7 @@ sys-category:: [[21]]
 			  id:: 6518ffe6-0a97-49f2-b7d8-eed4b691bae3
 			  collapsed:: true
 				- Any public officer who shall knowingly nominate or appoint to any public office any person lacking the legal qualifications therefor, shall suffer the penalty of *arresto mayor* and a fine not exceeding Two hundred thousand pesos. (P200,000)^{(As amended by R.A. No. 10951, August 29, 2017)}
-		- ### Section Four. — Abuses against chastity
+		- #### Section Four. — Abuses against chastity
 		  collapsed:: true
 			- **Art. 245.** *Abuses against chastity; Penalties.*
 			  id:: 6518ffe6-951e-40f3-9a66-70f22586feb8
@@ -657,11 +631,14 @@ sys-category:: [[21]]
 					- id:: 6518ffe6-d897-423d-a2bb-4ed6439dc13e
 					  2. Any **warden** or other public officer directly charged with the care and custody of prisoners or persons under arrest who shall solicit or make immoral or indecent advances to a woman under his custody.
 					- If the person solicited be the wife, daughter, sister of relative within the same degree by affinity of any person in the custody of such warden or officer, the penalties shall be *prision correccional* in its minimum and medium periods and temporary special disqualification.
-- # Title Eight - CRIMES AGAINST PERSONS
+- ## Title Eight - CRIMES AGAINST PERSONS
   id:: 6488844a-3002-4118-87a7-8a9ecd78439c
-	- ## Chapter One - DESTRUCTION OF LIFE
+  collapsed:: true
+	- ### Chapter One - DESTRUCTION OF LIFE
 	  id:: 6518ffe6-0bb9-430c-baf0-7aff85ac51b8
-		- ## Section One. — Parricide, murder, homicide
+	  collapsed:: true
+		- #### Section One. — Parricide, murder, homicide
+		  collapsed:: true
 			- **Art. 246.** *Parricide.*
 			  id:: 88168e46-7691-4bcd-9511-82465f64a4a7
 			  collapsed:: true
@@ -718,7 +695,7 @@ sys-category:: [[21]]
 			  id:: 6520ff37-4734-4b73-a578-a8bae2fcc170
 			  collapsed:: true
 				- Any person who shall shoot at another with any firearm shall suffer the penalty of prision correccional in its minimum and medium periods, unless the facts of the case are such that the act can be held to constitute frustrated or attempted parricide, murder, homicide or any other crime for which a higher penalty is prescribed by any of the articles of this Code.
-		- ## Section Two. — Infanticide and abortion.  
+		- #### Section Two. — Infanticide and abortion.
 		  collapsed:: true
 			- **Art. 255.** *Infanticide.*
 			  id:: 6488844a-d0da-43bb-a653-f201109c8794
@@ -742,7 +719,7 @@ sys-category:: [[21]]
 			- **Art. 259.** *Abortion practiced by a physician or midwife and dispensing of abortives.*
 				- The penalties provided in [Article 256](((62e1186a-b3d2-454b-a223-885143215485))) shall be imposed in its maximum period, respectively, upon any physician or midwife who, taking advantage of their scientific knowledge or skill, shall cause an abortion or assist in causing the same.
 				- Any pharmacist who, without the proper prescription from a physician, shall dispense any abortive shall suffer *arresto mayor* and a fine not exceeding One hundred thousand pesos (P100,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
-		- ## Section Three. — Duel
+		- #### Section Three. — Duel
 		  collapsed:: true
 			- **Art. 260.** *Responsibility of participants in a duel.*
 			  collapsed:: true
@@ -753,7 +730,7 @@ sys-category:: [[21]]
 			- **Art. 261.** *Challenging to a duel.*
 			  collapsed:: true
 				- The penalty of *prision correccional* in its minimum period shall be imposed upon any person who shall challenge another, or incite another to give or accept a challenge to a duel, or shall scoff at or decry another publicly for having refused to accept a challenge to fight a duel.
-	- ## Chapter Two - PHYSICAL INJURIES
+	- ### Chapter Two - PHYSICAL INJURIES
 		- **Art. 262.** *Mutilation.*
 		  collapsed:: true
 			- The penalty of *[reclusion temporal](((62f137b6-7b33-43e6-a203-93c9c550b752)))* to *[reclusion perpetua](((62f137b6-7e19-4be5-a26b-e60c46cea93d)))* shall be imposed upon any person who shall intentionally mutilate another by depriving him, either totally or partially, or some essential organ of reproduction.
@@ -798,10 +775,12 @@ sys-category:: [[21]]
 				- 1. By *arresto menor* when the offender has inflicted physical injuries which shall incapacitate the offended party for labor from one (1) to nine (9) days, or shall require medical attendance during the same period.
 				- 2. By *arresto menor* or a fine not exceeding Forty thousand pesos (P40,000) and censure when the offender has caused physical injuries which do not prevent the offended party from engaging in his habitual work nor require medical assistance.
 				- 3. By *arresto menor* in its minimum period or a fine not exceeding Five thousand pesos (P5,000) when the offender shall ill-treat another by deed without causing any injury.^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## Chapter Three - RAPE
+	- ### Chapter Three - RAPE
 	  id:: 63048ea1-af34-4270-8a0f-bc95be0a8521
+	  collapsed:: true
 		- **Article 266-A.** *Rape: When And How Committed.*
 		  id:: 2811e9f8-90ac-4ac6-a791-dcadd132d290
+		  collapsed:: true
 			- Rape is committed:
 				- 1) By a man who shall have carnal knowledge of a woman under any of the following circumstances:
 				  id:: 644fc99d-0afc-452c-8aac-c7af7a406e07
@@ -817,6 +796,7 @@ sys-category:: [[21]]
 				  id:: 644fc99d-a263-43fe-8320-6930526bf653
 		- **Article 266-B.** *Penalty.*
 		  id:: 6488844a-9aa3-485d-b7a7-b88db89ca00a
+		  collapsed:: true
 			- Rape under paragraph 1 of the next preceding article shall be punished by *reclusion perpetua*.
 			- Whenever the rape is committed with the use of a deadly weapon or by two or more persons, the penalty shall be *reclusion perpetua* to death.[^DP]
 			- When by reason or on the occasion of the rape, the victim has become insane, the penalty shall become *reclusion perpetua* to death.[^DP]
@@ -849,11 +829,12 @@ sys-category:: [[21]]
 		- **Article 266-D.** *Presumptions.*
 			- Any physical overt act manifesting resistance against the act of rape in any degree from the offended party, or where the offended party is so situated as to render her/him incapable of giving valid consent, may be accepted as evidence in the prosecution of the acts punished under [Article 266-A](((2811e9f8-90ac-4ac6-a791-dcadd132d290))).^{R.A. No. 8353, September 30, 1997.}
 			  id:: 644fc99d-29af-4264-8e9a-5d4ed9884e1e
-- # Title Nine - CRIMES AGAINST PERSONAL LIBERTY AND SECURITY
+- ## Title Nine - CRIMES AGAINST PERSONAL LIBERTY AND SECURITY
   id:: 6488844a-9136-4711-b56f-cfc0eefa4e8c
   collapsed:: true
-	- ## Chapter One - CRIMES AGAINST LIBERTY
-		- ### Section One. — Illegal Detention
+	- ### Chapter One - CRIMES AGAINST LIBERTY
+	  collapsed:: true
+		- #### Section One. — Illegal Detention
 		  collapsed:: true
 			- **Art. 267.** *Kidnapping and serious illegal detention.*[^A267]
 			  id:: 6488844a-0547-407d-b466-1980c5d6895f
@@ -877,7 +858,8 @@ sys-category:: [[21]]
 			- **Art. 269.** *Unlawful arrest.*
 			  collapsed:: true
 				- The penalty of arresto mayor and a fine not exceeding One hundred thousand pesos (P100,000) shall be imposed upon any person who, in any case other than those authorized by law, or without reasonable ground therefor, shall arrest or detain another for the purpose of delivering him to the proper authorities.^{(As amended by R.A. No. 10951, August 29, 2017)}
-		- ### Section Two. — Kidnapping of minors
+		- #### Section Two. — Kidnapping of minors
+		  collapsed:: true
 			- **Art. 270.** *Kidnapping and failure to return a minor.*
 			  collapsed:: true
 				- The penalty of reclusion perpetua shall be imposed upon any person who, being entrusted with the custody of a minor person, shall deliberately fail to restore the latter to his parents or guardians.^{As amended by R.A. No. 18, September 25, 1946.}
@@ -901,7 +883,8 @@ sys-category:: [[21]]
 				- The penalty of *arresto mayor* in its maximum period to *prision correccional* in its minimum period shall be imposed upon any person who, in order to require or enforce the payment of a debt, shall compel the debtor to work for him, against his will, as household servant or farm laborer.
 				  collapsed:: true
 					- [^HT]: _{See R.A. No. 9208 on trafficking in person.}
-	- ## Chapter Two - CRIMES AGAINST SECURITY
+	- ### Chapter Two - CRIMES AGAINST SECURITY
+	  collapsed:: true
 		- ### Section One. — Abandonment of helpless persons and exploitation of minors.
 		  collapsed:: true
 			- **Art. 275.** *Abandonment of person in danger and abandonment of one's own victim.*
@@ -980,7 +963,7 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- The penalty of *arresto mayor* or a fine ranging from Forty thousand pesos (P40,000) to One hundred thousand pesos (P100,000), or both, shall be imposed upon any person, agent or officer, of any association or corporation who shall force or compel, directly or indirectly, or shall knowingly permit any laborer or employee employed by him or by such firm or corporation to be forced or compelled, to purchase merchandise or commodities of any kind.
 				- The same penalties shall be imposed upon any person who shall pay the wages due a laborer or employee employed by him, by means of tokens or objects other than the legal tender currency of the laborer or employee.^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## Chapter Three - DISCOVERY AND REVELATION OF SECRETS
+	- ### Chapter Three - DISCOVERY AND REVELATION OF SECRETS
 	  collapsed:: true
 		- **Art. 289.** *Formation, maintenance and prohibition of combination of capital or labor through violence or threats.*
 		  collapsed:: true
@@ -997,15 +980,17 @@ sys-category:: [[21]]
 		- **Art. 292.** *Revelation of industrial secrets.*
 		  collapsed:: true
 			- The penalty of *prision correccional* in its minimum and medium periods and a fine not exceeding  One hundred thousand pesos (P100,000) shall be imposed upon the person in charge, employee or workman of any manufacturing or industrial establishment who, to the prejudice of the owner thereof, shall reveal the secrets of the industry of the latter.^{(As amended by R.A. No. 10951, August 29, 2017)}
-- # Title Ten - CRIMES AGAINST PROPERTY
+- ## Title Ten - CRIMES AGAINST PROPERTY
   id:: 6488844a-bd3f-482d-b48f-7cd77849f4f5
   collapsed:: true
-	- ## Chapter One - ROBBERY IN GENERAL
+	- ### Chapter One - ROBBERY IN GENERAL
+	  collapsed:: true
 		- **Art. 293.** *Who are guilty of robbery*[^1].
 		  id:: 6488844a-c541-4210-9c3d-6c26c3b1e67d
 			- Any person who, with intent to gain, shall take any personal property belonging to another, by means of violence or intimidation of any person, or using force upon anything shall be guilty of robbery.
 			- [^1]: See P.D. No. 533 on Cattle Rustling and R.A. No. 10883 on Carnapping.
-		- ## Section One. — Robbery with violence or intimidation of persons.
+		- #### Section One. — Robbery with violence or intimidation of persons.
+		  collapsed:: true
 			- **Art. 294.** *Robbery with violence against or intimidation of persons; Penalties.*
 			  id:: bd4898b8-1c53-4779-b39a-cdc2086d498e
 				- Any person guilty of robbery with the use of violence against or intimidation of any person shall suffer:
@@ -1039,7 +1024,8 @@ sys-category:: [[21]]
 			  collapsed:: true
 				- Any person who, with intent to defraud another, by means of violence or intimidation, shall compel him to sign, execute or deliver any public instrument or documents, shall be held guilty of robbery and punished by the penalties respectively prescribed in this Chapter.
 			-
-		- ## Section Two. — Robbery by the use of force upon things
+		- #### Section Two. — Robbery by the use of force upon things
+		  collapsed:: true
 			- **Art. 299.** *Robbery in an inhabited house or public building or edifice devoted to worship.*
 			  id:: 547bcb71-bde8-4679-b2d0-9334fa08a1e3
 			  collapsed:: true
@@ -1097,7 +1083,7 @@ sys-category:: [[21]]
 					- 1. The tools mentioned in the next preceding articles.
 					- 2. Genuine keys stolen from the owner.
 					- 3. Any keys other than those intended by the owner for use in the lock forcibly opened by the offender.
-	- ## Chapter Two - BRIGANDAGE[^T10B]
+	- ### Chapter Two - BRIGANDAGE[^T10B]
 	  collapsed:: true
 		- **Art. 306.** *Who are brigands — Penalty.*
 		  id:: 6488844a-85b0-4b52-9ee2-9d9c602a80be
@@ -1108,7 +1094,7 @@ sys-category:: [[21]]
 			- Any person knowingly and in any manner aiding, abetting or protecting a band of brigands as described in the next preceding article, or giving them information of the movements of the police or other peace officers of the Government (or of the forces of the United States Army), when the latter are acting in aid of the Government, or acquiring or receiving the property taken by such brigands shall be punished by *prision correccional* in its medium period to prision mayor in its minimum period.
 			- It shall be presumed that the person performing any of the acts provided in this article has performed them knowingly, unless the contrary is proven.
 		- [^T10B]: See P.D. No. 532 on Highway-Robbery/Brigandage.
-	- ## Chapter Three - THEFT
+	- ### Chapter Three - THEFT
 	  collapsed:: true
 		- **Art. 308.** *Who are liable for theft.*
 		  id:: 6488844a-8ab9-429c-a109-fb5691bb8f77
@@ -1140,7 +1126,7 @@ sys-category:: [[21]]
 		- **Art. 311.** *Theft of the property of the National Library and National Museum.*
 		  collapsed:: true
 			- If the property stolen be any property of the National Library or the National Museum, the penalty shall be *arresto mayor* or a fine ranging from Forty thousand pesos (P40,000) to One hundred thousand pesos (P100,000), or both, unless a higher penalty should be provided under other provisions of this Code, in which case, the offender shall be punished by such higher penalty.{As amended by R.A. No. 10951, August 29, 2017}
-	- ## Chapter Four - USURPATION
+	- ### Chapter Four - USURPATION
 	  collapsed:: true
 		- **Art. 312.** *Occupation of real property or usurpation of real rights in property.*
 		  id:: 6488844a-7ae7-48ec-8a92-3a636293d9a9
@@ -1151,14 +1137,14 @@ sys-category:: [[21]]
 		  id:: 639eeaf4-71fd-42f1-9571-0d2c0d702b35
 			- Any person who shall alter the boundary marks or monuments of towns, provinces, or estates, or any other marks intended to designate the boundaries of the same, shall be punished by *arresto menor* or a fine not exceeding [Twenty thousand pesos (P20,000), or both](((63a01246-4094-4798-a116-4a1ac756cd78))).[^1]
 				- [^1]: As amended by [[R.A. No. 10951]] 29 August 2017.
-	- ## Chapter Five - CULPABLE INSOLVENCY
+	- ### Chapter Five - CULPABLE INSOLVENCY
 	  collapsed:: true
 		- **Art. 314.** *Fraudulent insolvency.*
 		  collapsed:: true
 			- Any person who shall abscond with his property to the prejudice of his creditors, shall suffer the penalty of *prision mayor*, if he be a merchant and the penalty of *prision correccional* in its maximum period to *prision mayor* in its medium period, if he be not a merchant.
-	- ## Chapter Six - SWINDLING AND OTHER DECEITS
-	  collapsed:: true
+	- ### Chapter Six - SWINDLING AND OTHER DECEITS
 	  id:: 63048ea1-f619-4047-be93-f478d8bb1e08
+	  collapsed:: true
 		- **Art. 315.** *Swindling (estafa).*
 		  id:: 646f3299-51e9-44d0-af56-7857de8ae067
 		  collapsed:: true
@@ -1211,14 +1197,14 @@ sys-category:: [[21]]
 		  collapsed:: true
 			- The penalty of arresto mayor and a fine of not less than the amount of the damage caused and not more than twice such amount shall be imposed upon any person who shall defraud or damage another by any other deceit not mentioned in the preceding articles of this chapter.
 			- Any person who, for profit or gain, shall interpret dreams, make forecasts, tell fortunes, or take advantage of the credulity of the public in any other similar manner, shall suffer the penalty of arresto mayor or a fine not exceeding Forty thousand pesos (P40,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
-	- ## Chapter Seven - CHATTEL MORTGAGE
+	- ### Chapter Seven - CHATTEL MORTGAGE
 	  collapsed:: true
 		- **Art. 319.** *Removal, sale or pledge of mortgaged property.*
 		  id:: 6488844a-ef3a-47c7-8b9f-1692671f9c9f
 			- The penalty or *arresto mayor* or a fine amounting to twice the value of the property shall be imposed upon:
 				- 1. Any person who shall knowingly remove any personal property mortgaged under the Chattel Mortgage Law to any province or city other than the one in which it was located at the time of the execution of the mortgage, without the written consent of the mortgagee, or his executors, administrators or assigns.
 				- 2. Any mortgagor who shall sell or pledge personal property already pledged, or any part thereof, under the terms of the Chattel Mortgage Law, without the consent of the mortgagee written on the back of the mortgage and noted on the record hereof in the office of the Register of Deeds of the province where such property is located.
-	- ## Chapter Eight - ARSON AND OTHER CRIMES INVOLVING DESTRUCTIONS[^T108]
+	- ### Chapter Eight - ARSON AND OTHER CRIMES INVOLVING DESTRUCTIONS[^T108]
 	  collapsed:: true
 		- [^T108]: ^{See the New Arson Law, P.D. No. 1613, repealed 320 of the Revised Penal Code. However, R.A. No. 7659 has restored this provision.}
 		- **Art. 320.** *Destructive arson.*[^A320]
@@ -1311,7 +1297,7 @@ sys-category:: [[21]]
 			  (b) That the defendant after the fire has presented a fraudulent claim for loss.
 			  
 			  The penalty of prision correccional shall be imposed on one who plants the articles above-mentioned, in order to secure a conviction, or as a means of extortion or coercion. (As amended by R.A. 5467, approved May 12, 1969).
-	- ## Chapter Nine - MALICIOUS MISCHIEF
+	- ### Chapter Nine - MALICIOUS MISCHIEF
 	  collapsed:: true
 		- **Art. 327.** *Who are liable for malicious mischief.*
 		  collapsed:: true
@@ -1338,7 +1324,8 @@ sys-category:: [[21]]
 		  collapsed:: true
 			- Any person who shall destroy or damage statues or any other useful or ornamental public monument shall suffer the penalty of *arresto mayor* in its medium period to *prision correccional* in its minimum period.
 			- Any person who shall destroy or damage any useful or ornamental painting of a public nature shall suffer the penalty of *arresto menor* or a fine not exceeding Forty thousand pesos (P40,000), or both such fine and imprisonment, in the discretion of the court.^{As amended by R.A. No. 10951, August 29, 2017}
-	- ## Chapter Ten - EXEMPTION FROM CRIMINAL LIABILITY IN CRIMES AGAINST PROPERTY
+	- ### Chapter Ten - EXEMPTION FROM CRIMINAL LIABILITY IN CRIMES AGAINST PROPERTY
+	  collapsed:: true
 		- **Art. 332**. *Persons exempt from criminal liability.*
 		  id:: 6488844a-5802-4170-b6aa-db158b1a10e6
 		  collapsed:: true
