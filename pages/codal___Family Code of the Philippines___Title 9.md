@@ -5,8 +5,9 @@ law-subject:: civil
 tags:: #codal/parental
 status:: active
 
-# TITLE IX - PARENTAL AUTHORITY
-- # [[🔴 Chapter 1 - GENERAL PROVISIONS]]
+- # TITLE IX - PARENTAL AUTHORITY
+- ## 🔴 Chapter 1 - General Provisions
+  collapsed:: true
 	- **ARTICLE 209.**
 		- Pursuant to the natural right and duty of parents over the person and property of their unemancipated children, parental authority and responsibility shall include the caring for and rearing them for civic consciousness and efficiency and the development of their moral, mental and physical character and well-being. (n)
 	- **ARTICLE 210.**
@@ -27,7 +28,8 @@ status:: active
 		- In case several survive, the one designated by the court, taking into account the same consideration mentioned in the preceding article, shall exercise the authority. (355a)
 	- **ARTICLE 215.**
 		- No descendant shall be compelled, in a criminal case, to testify against his parents and grandparents, except when such testimony is indispensable in a crime against the descendant or by one parent against the other. (315a)
-- # [[🔴 CHAPTER 2 - Substitute and Special Parental Authority]]
+- ## 🔴 Chapter 2 - Substitute and Special Parental Authority
+  collapsed:: true
 	- **ARTICLE 216.**
 		- In default of parents or a judicially appointed guardian, the following person shall exercise substitute parental authority over the child in the order indicated:
 			- (1) The surviving grandparent, as provided in [ARTICLE 214](((fbeb8471-8020-42c6-9a84-e044cfb65187)));
@@ -44,7 +46,8 @@ status:: active
 		- The parents, judicial guardians or the persons exercising substitute parental authority over said minor shall be subsidiarily liable.
 		- The respective liabilities of those referred to in the preceding paragraph shall not apply if it is proved that they exercised the proper diligence required under the particular circumstances.
 		- All other cases not covered by this and the preceding articles shall be governed by the provisions of the Civil Code on quasi-delicts. (n)
-- # [[🔴 CHAPTER 3 - Effect of Parental Authority Upon the Persons of the Children]]
+- ## 🔴 Chapter 3 - Effect of Parental Authority Upon the Persons of the Children
+  collapsed:: true
 	- **ARTICLE 220.**
 		- The parents and those exercising parental authority shall have with the respect to their unemancipated children on wards the following rights and duties:
 			- (1) To keep them in their company, to support, educate and instruct them by right precept and good example, and to provide for their upbringing in keeping with their means;
@@ -68,7 +71,8 @@ status:: active
 		- The measures referred to in the preceding article may include the commitment of the child for not more than thirty days in entities or institutions engaged in child care or in children’s homes duly accredited by the proper government agency.
 		- The parent exercising parental authority shall not interfere with the care of the child whenever committed but shall provide for his support.
 		- Upon proper petition or at its own instance, the court may terminate the commitment of the child whenever just and proper. (391a)
-- # [[🔴 CHAPTER 4 - Effect of Parental Authority Upon the Property of the Children]]
+- ## 🔴 Chapter 4 - Effect of Parental Authority Upon the Property of the Children
+  collapsed:: true
 	- **ARTICLE 225.**
 	  id:: c9d35010-e077-4e2e-a2a6-926256660c08
 		- The father and the mother shall jointly exercise legal guardianship over the property of the unemancipated common child without the necessity of a court appointment.
@@ -84,7 +88,8 @@ status:: active
 		- If the parents entrust the management or administration of any of their properties to an unemancipated child, the net proceeds of such property shall belong to the owner.
 		- The child shall be given a reasonable monthly allowance in an amount not less than that which the owner would have paid if the administrator were a stranger, unless the owner, grants the entire proceeds to the child.
 		- In any case, the proceeds thus give in whole or in part shall not be charged to the child’s legitime. (322a)
-- # [[🔴 CHAPTER 5 - Suspension or Termination of Parental Authority]]
+- ## 🔴 Chapter 5 - Suspension or Termination of Parental Authority
+  collapsed:: true
 	- **ARTICLE 228.**
 		- Parental authority terminates permanently:
 			- (1) Upon the death of the parents;

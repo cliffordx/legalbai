@@ -6,8 +6,7 @@ tags:: #codal/family #codal/property/relations
 status:: active
 
 - # TITLE IV - PROPERTY RELATIONS BETWEEN HUSBAND AND WIFE
-- # [[🔴 Chapter 1 - General Provisions]]
-  heading:: true
+- ## 🔴 Chapter 1 - General Provisions
   collapsed:: true
 	- **ARTICLE 74.**
 		- The property relationship between husband and wife shall be governed in the following order:
@@ -37,8 +36,7 @@ status:: active
 	  id:: 66e0ffc8-b22b-4db5-b5cb-687f7eddcace
 		- Everything stipulated in the settlements or contracts referred to in the preceding articles in consideration of a future marriage, including donations between the prospective spouses made therein, shall be rendered void if the marriage does not take place.
 		- However, stipulations that do not depend upon the celebration of the marriages shall be valid. (125a)
-- # [[🔴 Chapter 2 - Donations by Reason of Marriage]]
-  heading:: true
+- ## 🔴 Chapter 2 - Donations by Reason of Marriage
 	- **ARTICLE 82.**
 	  collapsed:: true
 		- Donations by reason of marriage are those which are made before its celebration, in consideration of the same, and in favor of one or both of the future spouses. (126)
@@ -68,13 +66,12 @@ status:: active
 	  collapsed:: true
 		- Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except moderate gifts which the spouses may give each other on the occasion of any family rejoicing.
 		- The prohibition shall also apply to persons living together as husband and wife without a valid marriage. (133a)
-- # [[🔴 Chapter 3 - System of Absolute Community]]
-  heading:: true
+- ## 🔴 Chapter 3 - System of Absolute Community
   id:: 6803db9a-7138-47d4-af35-6cb5effb9752
-  collapsed:: true
-	- Compare: [CHAPTER 4 - Conjugal Partnership of Gains|Conjugal Partnership of Gains](((631d71f1-3e7a-4587-a7a4-cd86e4aec5d6)))[^1]
+	- Compare: [CHAPTER 4 - Conjugal Partnership of Gains](((631d71f1-3e7a-4587-a7a4-cd86e4aec5d6)))[^1]
 	- [^1]: See Table Comparison: [[Conjugal Property vs. Absolute Community Property]]
-	- ### SECTION 1. GENERAL PROVISIONS
+	- ### Section 1. General Provisions
+	  collapsed:: true
 		- **ARTICLE 88.**
 		  id:: f0369cf1-c83b-4e98-95df-15beeed62d56
 			- The absolute community of property between spouses shall commence at the precise moment that the marriage is celebrated.
@@ -87,6 +84,7 @@ status:: active
 		- **ARTICLE 90.**
 			- The provisions on co-ownership shall apply to the absolute community of property between the spouses in all matters not provided for in this Chapter. (n)
 	- ### Section 2. What Constitutes Community Property
+	  collapsed:: true
 		- **ARTICLE 91.**
 			- Unless otherwise provided in this Chapter or in the marriage settlements, the community property shall consist of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter. (197a)
 		- **ARTICLE 92.**
@@ -137,6 +135,7 @@ status:: active
 			- Neither spouse may donate any community property without the consent of the other.
 			- However, either spouse may, without the consent of the other, make moderate donations from the community property for charity or on occasions of family rejoicing or family distress. (n)
 	- ### Section 5. Dissolution of Absolute Community Regime
+	  collapsed:: true
 		- **ARTICLE 99.**
 		  collapsed:: true
 			- The absolute community terminates:
@@ -184,9 +183,8 @@ status:: active
 		  collapsed:: true
 			- Whenever the liquidation of the community properties of two or more marriages contracted by the same person before the effectivity of this Code is carried out simultaneously, the respective capital, fruits and income of each community shall be determined upon such proof as may be considered according to the rules of evidence.
 			- In case of doubt as to which community the existing properties belong, the same shall be divided between the different communities in proportion to the capital and duration of each. (189a)
-- # [[🔴 Chapter 4 - Conjugal Partnership of Gains]]
-  heading:: true
-	- ### SECTION 1. GENERAL PROVISIONS
+- ## 🔴 Chapter 4 - Conjugal Partnership of Gains
+	- ### Section 1. General Provisions
 	  collapsed:: true
 		- **ARTICLE 105.**
 		  collapsed:: true
@@ -348,10 +346,8 @@ status:: active
 		- **ARTICLE 133.**
 		  collapsed:: true
 			- From the common mass of property support shall be given to the surviving spouse and to the children during the liquidation of the inventoried property and until what belongs to them is delivered; but from this shall be deducted that amount received for support which exceeds the fruits or rents pertaining to them. (188a)
-- # [[🔴 Chapter 5 - Separation of Property of the Spouses and Administration of Common Property by One Spouse During the Marriage]]
+- ## 🔴 Chapter 5 - Separation of Property of the Spouses and Administration of Common Property by One Spouse During the Marriage
   id:: 39c9392c-6768-48dc-89c8-6498497a900d
-  heading:: true
-  collapsed:: true
 	- **ARTICLE 134.**
 	  id:: 89d5b42a-dbbe-4898-bc4c-4e7909848da5
 	  collapsed:: true
@@ -404,9 +400,7 @@ status:: active
 			- (3) When one spouse is sentenced to a penalty which carries with it civil interdiction; or
 			- (4) When one spouse becomes a fugitive from justice or is in hiding as an accused in a criminal case.
 		- If the other spouse is not qualified by reason of incompetence, conflict of interest, or any other just cause, the court shall appoint a suitable person to be the administrator. (n)
-- # [[🔴 Chapter 6 - Regime of Separation of Property]]
-  heading:: true
-  collapsed:: true
+- ## 🔴 Chapter 6 - Regime of Separation of Property
 	- **ARTICLE 143.**
 	  collapsed:: true
 		- Should the future spouses agree in the marriage settlements that their property relations during marriage shall be governed by the regime of separation of property, the provisions of this Chapter shall be suppletory. (212a)
@@ -422,9 +416,7 @@ status:: active
 	  collapsed:: true
 		- Both spouses shall bear the family expenses in proportion to their income, or, in case of insufficiency or default thereof, to the current market value of their separate properties.
 		- The liabilities of the spouses to creditors for family expenses shall, however, be solidary. (215a)
-- # [[🔴 Chapter 7 - Property Regime of Unions Without Marriage]]
-  heading:: true
-  collapsed:: true
+- ## 🔴 Chapter 7 - Property Regime of Unions Without Marriage
 	- **ARTICLE 147.**
 		- When a man and a woman who are capacitated to marry each other, live exclusively with each other as husband and wife without the benefit of marriage or under a void marriage, their wages and salaries shall be owned by them in equal shares and the property acquired by both of them through their work or industry shall be governed by the rules on co-ownership.
 		- In the absence of proof to the contrary, properties acquired while they lived together shall be presumed to have been obtained by their joint efforts, work or industry, and shall be owned by them in equal shares.

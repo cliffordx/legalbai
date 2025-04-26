@@ -7,7 +7,8 @@ status:: active
 id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 
 - # TITLE I - MARRIAGE
-- # 🔴 Chapter 1. Requisites of Marriage
+- ## 🔴 Chapter 1. Requisites of Marriage
+  collapsed:: true
 	- **ARTICLE 1.**
 	  id:: 65179f14-cfe9-4c1c-be31-deb4c02f6165
 		- Marriage is a special contract of permanent union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life.
@@ -147,7 +148,8 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 	  id:: 635bc77a-37d0-4296-b881-71e070b55dbf
 		- All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), 36, 37 and 38. (17a)
 		- Where a marriage between a Filipino citizen and a foreigner is validly celebrated and a divorce is thereafter validly obtained abroad by the alien spouse capacitating him or her to remarry, the Filipino spouse shall have capacity to remarry under Philippine law. (As amended by Executive Order 227)
-- # 🔴 Chapter 2 - Marriages Exempted from License Requirement
+- ## 🔴 Chapter 2 - Marriages Exempted from License Requirement
+  collapsed:: true
 	- **ARTICLE 27.**
 	  collapsed:: true
 	  id:: 635bc77a-2534-4fe7-9495-a922c09e100d
@@ -180,7 +182,8 @@ id:: 62f137a6-fc85-4776-9f56-821e8a46e752
 		- No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least five years and without any legal impediment to marry each other.
 		- The contracting parties shall state the foregoing facts in an affidavit before any person authorized by law to administer oaths.
 		- The solemnizing officer shall also state under oath that he ascertained the qualifications of the contracting parties are found no legal impediment to the marriage. (76a)
-- # 🔴 Chapter 3 - Void and Voidable Marriages
+- ## 🔴 Chapter 3 - Void and Voidable Marriages
+  collapsed:: true
 	- **ARTICLE 35.**
 	  id:: 634fbac1-10d8-4f72-b424-7f07d9901fc7
 	  collapsed:: true

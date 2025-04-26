@@ -5,8 +5,9 @@ law-subject:: civil
 tags:: #codal/paternity #codal/filiation
 status:: active
 
-# TITLE VI - PATERNITY AND FILIATION
-- # [[🔴 CHAPTER 1 - LEGITIMATE CHILDREN]]
+- # TITLE VI - PATERNITY AND FILIATION
+- ## 🔴 Chapter 1 - Legitimate Children
+  collapsed:: true
 	- **ARTICLE 163.**
 	  id:: 635bc782-0570-4770-b143-a125597eadbb
 		- The filiation of children may be by nature or by adoption.
@@ -55,7 +56,8 @@ status:: active
 			- (1) If the husband should died before the expiration of the period fixed for bringing his action;
 			- (2) If he should die after the filing of the complaint without having desisted therefrom; or
 			- (3) If the child was born after the death of the husband. (262a)
-- # [[🔴 CHAPTER 2 - Proof of Filiation]]
+- ## 🔴 Chapter 2 - Proof of Filiation
+  collapsed:: true
 	- **ARTICLE 172.**
 	  id:: 634fbac2-8000-45ca-bd06-e5829cc5fb9f
 		- The filiation of [[legitimate children]] is established by any of the following:
@@ -77,8 +79,9 @@ status:: active
 			- (1) To bear the surnames of the father and the mother, in conformity with the provisions of the Civil Code on Surnames;
 			- (2) To receive support from their parents, their ascendants, and in proper cases, their brothers and sisters, in conformity with the provisions of this Code on Support; and
 			- (3) To be entitled to the legitimate and other successional rights granted to them by the Civil Code. (264a)
-- # [[🔴 CHAPTER 3 - Illegitimate Children]]
+- ## 🔴 Chapter 3 - Illegitimate Children
   id:: 581259f2-6077-4f61-b466-d3f2699e98dc
+  collapsed:: true
 	- **ARTICLE 175.**
 	  id:: 634fbac2-2bc3-4def-9ade-3b59ef5b2d99
 		- Illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children.
@@ -89,7 +92,8 @@ status:: active
 		- *Provided*, the father has the right to institute an action before the regular courts to prove non-filiation during his lifetime.
 		- The legitime of each illegitimate child shall consist of one-half of the legitime of a legitimate child.^{(As amended by R.A. No. 9255. See its IRR.)}
 		- ~~Except for this modification, all other provisions in the Civil Code governing successional rights shall remain in force.~~ (287a)
-- # [[🔴 CHAPTER 4 - Legitimated Children]]
+- ## 🔴 Chapter 4 - Legitimated Children
+  collapsed:: true
 	- **ARTICLE 177.**
 	  collapsed:: true
 		- Only children conceived and born outside of wedlock of parents who, at the time of the conception of the former, were not disqualified by any impediment to marry each other, or were so disqualified only because either or both of them were below eighteen (18) years of age, may be legitimated.^{(As amended by R.A. No. 9858, December 20, 2009.)}

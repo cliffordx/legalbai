@@ -5,12 +5,12 @@ law-subject:: civil
 tags:: #codal/summary #codal/proceedings
 status:: active
 
-# TITLE XI - SUMMARY JUDICIAL PROCEEDINGS IN THE FAMILY LAW
-- # [[🔴 Chapter 1 - PREFATORY PROVISIONS]]
+- # TITLE XI - SUMMARY JUDICIAL PROCEEDINGS IN THE FAMILY LAW
+- ## 🔴 Chapter 1 - Prefatory Provisions
   collapsed:: true
 	- **ARTICLE 238.**
 		- Until modified by the Supreme Court, the procedural rules provided for in this Title shall apply as regards separation in fact between husband and wife, abandonment by one of the other, and incidents involving parental authority. (n)
-- # [[🔴 Chapter 2 - Separation in Fact]]
+- ## 🔴 Chapter 2 - Separation in Fact
   id:: e8c9cf75-e0f2-483f-bea8-5a8db484823c
   collapsed:: true
 	- **ARTICLE 239.**
@@ -39,8 +39,9 @@ status:: active
 		- The judgment of the court shall be immediately final and executory. (n)
 	- **ARTICLE 248.**
 		- The petition for judicial authority to administer or encumber specific separate property of the abandoning spouse and to use the fruits or proceeds thereof for the support of the family shall also be governed by these rules. (n)
-- # [[🔴 Chapter 3 - Incidents Involving Parental Authority]]
+- ## 🔴 Chapter 3 - Incidents Involving Parental Authority
   id:: ea1ef153-8a26-4ad0-b1e5-26f09754d769
+  collapsed:: true
 	- **ARTICLE 249.**
 		- Petitions filed under Articles [223](((c0bda04b-529a-4b19-a446-bc2a2ef75f84))), [225](((c9d35010-e077-4e2e-a2a6-926256660c08))) and [235](((2b6ffb59-c0a7-42eb-8626-07a6dcabba8d))) of this Code involving parental authority shall be verified. (n)
 	- **ARTICLE 250.**
@@ -49,7 +50,7 @@ status:: active
 		- Upon the filing of the petition, the court shall notify the parents or, in their absence or incapacity, the individuals, entities or institutions exercising parental authority over the child. (n)
 	- **ARTICLE 252.**
 		- The rules in [Chapter 2](((e8c9cf75-e0f2-483f-bea8-5a8db484823c))) hereof shall also govern summary proceedings under this Chapter insofar as they are applicable. (n)
-- # [[🔴 Chapter 4 - Other Matters Subject to Summary Proceedings]]
+- ## 🔴 Chapter 4 - Other Matters Subject to Summary Proceedings
 	- **ARTICLE 253.**
 	  id:: 9ec9ad96-fef6-431c-a3a8-e46a00738005
 		- The foregoing rules in Chapters [2](((e8c9cf75-e0f2-483f-bea8-5a8db484823c))) and [3](((ea1ef153-8a26-4ad0-b1e5-26f09754d769))) hereof shall likewise govern summary proceedings filed under Articles [41](((630075b2-f477-4636-acb0-42678df04b35))), [51](((62cc59f1-4511-4c33-87a9-17090aa1fea6))), [69](((630075b0-2bff-4ed5-b5e6-df7c1fbd23e5))), [73](((630075b0-2d13-4c5e-a885-be9784e86f26))), [96](((630075ac-23a0-4926-8967-aaa6c22174f1))), [124](((630075ac-5ea1-4d4e-bac2-04567bdd0e8b))) and [127](((630075ac-5716-4d8f-ab5a-5ecf77568c92))), insofar as they are applicable. (n)
