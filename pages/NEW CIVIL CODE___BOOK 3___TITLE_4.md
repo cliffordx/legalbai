@@ -10,6 +10,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 - ## 🔴 CHAPTER 1- General Provisions
   heading:: true
   id:: 63007585-7804-4375-b637-8b9d9a7a79c3
+  collapsed:: true
 	- **ARTICLE 774.**
 	  id:: 6302fb2f-0856-441c-8758-34cf3cfe904b
 		- Succession is a [mode of acquisition]([[Modes of Acquiring Ownership]]) by virtue of which the property, rights and obligations to the extent of the value of the inheritance, of a person are transmitted through his death to another or others either by his will or by operation of law. (n) #QQ22_23
@@ -99,6 +100,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- [Paras](((63272c2b-eed7-4b69-ad58-2e6762ef885b))); [Bueno Mison](((632728ed-b043-4268-9520-d1558b628e34))); [Jurado](((63283f82-fb7a-4173-9c1c-4b13e237f301)))
 - ## 🔴 CHAPTER 2 - Testamentary Succession
   id:: 62e7ca76-4262-4aaa-88d3-5e1e32d199ca
+  collapsed:: true
 	- ### SECTION 1 - Wills
 	  collapsed:: true
 		- ### SUBSECTION 1 - Wills in General
@@ -859,6 +861,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [Jurado](((63566abc-26b2-47a4-8226-65ff273c0310)))
 	- ### SECTION 4 - [[Conditional Testamentary Dispositions and Testamentary Dispositions With a Term]]
 	  background-color:: yellow
+	  collapsed:: true
 		- **ARTICLE 871.**
 		  collapsed:: true
 		  id:: 634fba6d-3e8d-4cca-b193-9a888b19dae1
