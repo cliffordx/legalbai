@@ -1,7 +1,20 @@
 ## PREAMBLE
-	- Ethics is the experiential manifestation of moral standards. The observance of these standards of conduct is both a function of personal choice and fonnal compulsion. A lawyer is ideally ethical by personal choice. A code of ethics expressly adopted represents society's consensus and dictate to conform to a chosen norm of behavior that sustains the community's survival and growth.
-	- The Code of Professional Responsibility and Accountability (CPRA), as an institutional imperative, is meant to foster an environment where ethical conduct performs a dedicated role in the administration of justice. In particular, the standards embodied in the CPRA uniquely address the characteristics of the Filipino lawyer as an amalgamation of influences and moorings, i.e., familial, cultural, religious, academic, political, and philosophical. Inherently a social being, the Filipino lawyer inevitably develops and cultivates relations, preferences and biases. The conscious adoption of ethical standards that accounts for such relationships and personal choices balanced against the demands of right and justice is envisioned to govern and regulate these personal choices and make them consistent with the institutional objectives.
+	- Ethics is the experiential manifestation of moral standards.
+	- The observance of these standards of conduct is both a function of personal choice and formal compulsion.
+	- A lawyer is ideally ethical by personal choice.
+	- A code of ethics expressly adopted represents society's consensus and dictate to conform to a chosen norm of behavior that sustains the community's survival and growth.
+	-
+	- The Code of Professional Responsibility and Accountability (CPRA), as an institutional imperative, is meant to foster an environment where ethical conduct performs a dedicated role in the administration of justice.
+	- In particular, the standards embodied in the CPRA uniquely address the characteristics of the Filipino lawyer as an amalgamation of influences and moorings, *i.e.*, familial, cultural, religious, academic, political, and philosophical.
+	- Inherently a social being, the Filipino lawyer inevitably develops and cultivates relations, preferences and biases.
+	- The conscious adoption of ethical standards that accounts for such relationships and personal choices balanced against the demands of right and justice is envisioned to govern and regulate these personal choices and make them consistent with the institutional objectives.
+	-
 	- The existence of a free and an independent society depends upon the recognition of the concept that justice is based on the rule of law.
+	-
 	- As a guardian of the rule of law, every lawyer, as a citizen, owes allegiance to the Constitution and the laws of the land; as a member of the legal profession, is bound by its ethical standards in both private and professional matters; as an officer of the court, assists in the administration of justice; and as a client's representative, acts responsibly upon a fiduciary trust.
-	- An ethical lawyer is a lawyer possessed of integrity. Integrity is the sum total of all the ethical values that every lawyer must embody and exhibit. A lawyer with integrity, therefore, acts with independence, propriety, fidelity, competence and diligence, equality and accountability.
+	-
+	- An ethical lawyer is a lawyer possessed of integrity.
+	- Integrity is the sum total of all the ethical values that every lawyer must embody and exhibit.
+	- A lawyer with integrity, therefore, acts with independence, propriety, fidelity, competence and diligence, equality and accountability.
+	-
 	- Failure to abide by the Code results in sanctions.
