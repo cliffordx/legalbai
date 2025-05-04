@@ -1,0 +1,36 @@
+# CANON IV - COMPETENCE AND DILIGENCE
+- A lawyer professionally handling a client's cause shall, to the best of his or her ability, observe competence, diligence, commitment, and skill consistent with the fiduciary nature of the lawyer-client relationship, regardless of the nature of the legal matter or issues involved, and whether for a fee or pro bona.
+- **SECTION 1.** *Competent, efficient and conscientious service.*
+	- A lawyer shall provide legal service that is competent, efficient, and conscientious. A lawyer shall be thorough in research, preparation, and application of the legal knowledge and skills necessary for an engagement.
+- **SECTION 2.** *Undertaking legal services; collaborating counsel.*
+  collapsed:: true
+	- A lawyer shall only undertake legal services he or she can deliver.
+	- With the prior written consent of the client, a lawyer may secure the services of a collaborating counsel.
+- **SECTION 3.** *Diligence and punctuality.*
+  collapsed:: true
+	- A lawyer shall diligently and seasonably act on any legal matter entrusted by a client.
+	- A lawyer shall be punctual in all appearances, submissions of pleadings and documents before any court, tribunal or other government agency, and all matters professionally referred by the client, including meetings and other commitments.
+- **SECTION 4.** *Diligence"in all undertakings.*
+  collapsed:: true
+	- A lawyer shall observe diligence in all professional undertakings, and shall not cause or occasion delay in any legal matter before any court, tribunal, or other agency.
+	- A lawyer shall appear for trial adequately familiar with the law, the facts of the case, and the evidence to be presented. A lawyer shall also be ready with the object and documentary evidence, as well as the judicial affidavits of the witnesses, when required by the rules or the court.
+- **SECTION 5**. *Prompt and objective assessment of the merits.*
+  collapsed:: true
+	- A lawyer shall, after reasonable inquiry, promptly give an objective assessment of the merits and probable results of the client's case.
+	- A lawyer shall explain the viable options to the client to enable an informed decision regarding the matter.
+- **SECTION 6.** *Duty to update the client.*
+  collapsed:: true
+	- A lawyer shall regularly inform the client of .the status and the result of the matter undertaken, and any action in connection thereto, and shall respond within a reasonable time to the client's request for information.
+- **SECTION 7.** *Extension of time to file.*
+  collapsed:: true
+	- A lawyer shall avoid asking for an extension of time to file any pleading, motion, or other court submission, except when allowed by the Rules of Court or for good cause.
+	- When an extension is obtained, the lawyer shall not let the period lapse without submitting the pleading, motion, or other court submission, except upon the client's decision not to pursue the case any further or for other justifiable cause.
+- **SECTION 8.** *Lifelong learning.*
+	- A competent lawyer engages in lifelong learning through the continued development of professional skills.
+- **SECTION 9.** *Practice of law concurrent with another profession.*
+  collapsed:: true
+	- A lawyer who is engaged in another profession or occupation concurrently with the practice of law shall expressly provide in the pertinent contract the nature of the services the lawyer is engaged to perform.
+	- The practice of another profession or occupation shall not jeopardize such lawyer's competence, integrity, probity, and independence in rendering legal services.
+- **SECTION 10.** *Non-legal activities.*
+  collapsed:: true
+	- A lawyer who is engaged in business or other non-legal profession shall likewise· observe the ethical duties and responsibilities of a lawyer under the CPRA.

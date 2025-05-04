@@ -5,7 +5,7 @@
 	- Cebu, Philippines
 	- [Youtube Channel](https://www.youtube.com/cliffordenoc)
 - [[Welcome page]]
-- 📚[1987 Constitution]([[CONSTI_1987_Annotated]]) 📚[Family Code]([[codal/Family Code of the Philippines]]) 📚[Civil Code]([[NEW CIVIL CODE]]) 📚[Rules of Court]([[ROC_Annotated]]) 📚[Insurance Code]([[codal/Special_Laws/The_Insurance_Code]])
+- 📚[1987 Constitution]([[CONSTI_1987_Annotated]]) 📚[Family Code]([[codal/Family Code of the Philippines]]) 📚[Civil Code]([[NEW CIVIL CODE]]) 📚[Rules of Court]([[ROC_Annotated]]) 📚[Insurance Code]([[codal/Special_Laws/The_Insurance_Code]]) 📚[CPRA]([[codal/ethics/Code of Professional Responsibility and Accountability]])
 - [Index cards]([[Index_Cards]])
   collapsed:: true
 	- {{cards [[Rules on Evidence Flashcards]] }}
