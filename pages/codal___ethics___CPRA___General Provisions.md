@@ -3,7 +3,9 @@
 	- The CPRA shall be applied to all pending and future cases, except to the extent that in the opinion of the Supreme Court, its retroactive application would not be feasible or would work injustice, in which case the procedure under which the cases were filed shall govern.
 - **SECTION 2.** *Repealing clause.*
 	- The Code of Professional Responsibility of 1988, Sections 20 to 37 of Rule 138, and Rule 139-B of the Rules of Court are repealed.
+	-
 	- The Lawyer's Oath, as found in Rule 138 of the Rules of Court, is amended and superseded.
+	-
 	- Any resolution, circular, bar matter, or administrative order issued by or principles established in the decisions of the Supreme Court inconsistent with the CPRA are deemed modified or repealed.
 - **SECTION 3.** *Effectivity clause.*
 	- The CPRA shall take effect fifteen (15) calendar days after its publication in the Official Gazette or any newspaper of general circulation.

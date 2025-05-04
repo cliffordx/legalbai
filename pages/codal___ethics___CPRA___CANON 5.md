@@ -1,11 +1,14 @@
 ## CANON V - EQUALITY
 - Every lawyer shall adhere to the principle of equality and hold firmly the belief that every person, regardless of nationality or ethnicity, color, sexual orientation or gender identity, religion, disability, age, marital status, social or economic status, and other like circumstances, has the fundamental right to equal treatment and representation.
+-
 - As such, the lawyer shall accord equal respect, attention, dedication and zeal in advancing the client's cause, regardless of personal opinion, religious or political beliefs pertaining on the personal circumstances of the client, except for justifiable reasons.
 - **SECTION 1**. *Non-discrimination.*
 	- A lawyer shall not decline to represent a person solely on account of the latter's nationality or ethnicity, sexual orientation or gender identity, religion, disability, age, marital status, social or economic status, political beliefs, or such lawyer's or the public's opinion regarding the guilt of said person, except for justifiable reasons.
 - **SECTION 2.** *Treatment of vulnerable persons.*
 	- In dealing with a client who belongs to a vulnerable sector, a lawyer shall be mindful and sensitive of, and consider the client's special circumstances, as well as the applicable laws and rules.
+	-
 	- The lawyer shall observe a higher standard of service suited to the particular needs of the vulnerable person and shall assert such person's right to meaningful access to justice.
+	-
 	- A vulnerable person is a person who is at a higher risk of harm than others, and shall include children, the elderly, the homeless, persons with disability, persons deprived of liberty, human rights victims, victims of domestic violence, victims of armed conflict, those who are socio-economically disadvantaged, those who belong to racial or ethnic minorities, or those with debilitating physical or mental conditions.
 - **SECTION 3.** *Indigent person.*
 	- A lawyer shall not refuse the representation of an indigent person, except if:
