@@ -8,7 +8,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - **ARTICLE 713.**
   id:: 065ea719-f427-48e1-9f68-abccc322d69c
-  collapsed:: true
 	- Things appropriable by nature which are without an owner, such as animals that are the object of hunting and fishing, hidden treasure and abandoned movables, are acquired by occupation. (610)
 - **ARTICLE 714.**
   id:: 4ff60d9c-188d-4143-8fce-582b3e8b7ef1
@@ -27,8 +26,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   collapsed:: true
 	- Pigeons and fish which from their respective breeding places pass to another pertaining to a different owner shall belong to the latter, provided they have not been enticed by some article or fraud. (613a)
 - **ARTICLE 718.**
-  collapsed:: true
-	- He who by chance discovers hidden treasure in another’s property shall have the right granted him in article 438 of this Code. (614)
+	- He who by chance discovers hidden treasure in another’s property shall have the right granted him in [article 438](((6803db69-c205-4fdd-8a62-092ddf50ad00))) of this Code. (614)
 - **ARTICLE 719.**
   id:: 635bc73e-abbc-48ed-8bef-1544665aacdf
 	- Whoever finds a movable, which is not treasure, must return it to its previous possessor.

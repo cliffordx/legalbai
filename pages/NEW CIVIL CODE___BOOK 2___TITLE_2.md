@@ -50,7 +50,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The owner of a parcel of land is the owner of its surface and of everything under it, and he can construct thereon any works or make any plantations and excavations which he may deem proper, without detriment to servitudes and subject to special laws and ordinances.
 		- He cannot complain of the reasonable requirements of aerial navigation. (350a)
 	- **ARTICLE 438.**
-	  collapsed:: true
+	  id:: 6803db69-c205-4fdd-8a62-092ddf50ad00
 		- Hidden treasure belongs to the owner of the land, building, or other property on which it is found.
 		- Nevertheless, when the discovery is made on the property of another, or of the State or any of its subdivisions, and by chance, one-half thereof shall be allowed to the finder.
 		  id:: 63007573-1e7b-4af2-8d2a-64f220d9750b
