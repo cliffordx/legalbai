@@ -24,14 +24,14 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Prescription does not run between husband and wife, even though there be a separation of property agreed upon in the marriage settlements or by judicial decree.
 		- Neither does prescription run between parents and children, during the minority or insanity of the latter, and between guardian and ward during the continuance of the guardianship. (n)
 	- **ARTICLE 1110.**
-		- Prescription, acquisitive and extinctive, runs in favor of, or against a [married woman](((62cc5a55-22a9-4b4d-8572-8bd8c66ca4fb))). (n)
+		- Prescription, acquisitive and extinctive, runs in favor of, or against a married woman. (n)
 	- **ARTICLE 1111.**
 		- Prescription obtained by a co-proprietor or a co-owner shall benefit the others. (1933)
 	- **ARTICLE 1112.**
 		- Persons with capacity to alienate property may renounce prescription already obtained, but not the right to prescribe in the future.
 		- Prescription is deemed to have been tacitly renounced when the renunciation results from acts which imply the abandonment of the right acquired. (1935)
 	- **ARTICLE 1113.**
-		- All things which are within the commerce of men are [susceptible of prescription](((62f13806-57f5-41bf-ba1d-44e9558a02f6))), unless otherwise provided.
+		- All things which are within the commerce of men are susceptible of prescription, unless otherwise provided.
 		- Property of the State or any of its subdivisions not patrimonial in character shall not be the object of prescription. (1936a)
 	- **ARTICLE 1114.**
 		- Creditors and all other persons interested in making the prescription effective may avail themselves thereof notwithstanding the express or tacit renunciation by the debtor or proprietor. (1937)
