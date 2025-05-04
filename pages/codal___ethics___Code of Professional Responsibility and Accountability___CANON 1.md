@@ -1,18 +1,15 @@
 ## CANON I - INDEPENDENCE
 - The independence of a lawyer in the discharge of professional duties without any improper influence, restriction, pressure, or interference, direct or indirect, ensures effective legal representation and is ultimately imperative for the rule of law.
 - **SECTION 1.** *Independent, accessible, efficient, and effective legal service.*
-  collapsed:: true
-	- A lawyer shall make legal services accessible in an efficient and effective manner. In performing this duty, a lawyer shall maintain independence, act with integrity, and at all times ensure the efficient and effective delivery of justice.
+	- A lawyer shall make legal services accessible in an efficient and effective manner.
+	- In performing this duty, a lawyer shall maintain independence, act with integrity, and at all times ensure the efficient and effective delivery of justice.
 - **SECTION 2.** *Merit-based practice.*
-  collapsed:: true
 	- A lawyer shall rely solely on the merits of a cause and not exert, or give the appearance of, any influence on, nor undermine the authority of, the court, tribunal or other government agency, or its proceedings.
 - **SECTION 3.** *Freedom from improper considerations and external influences.*
-  collapsed:: true
 	- A lawyer shall not, in advocating a client's cause, be influenced by dishonest or immoral considerations, external influences, or pressure.
 - **SECTION 4.** *Non-interference by a lawyer.*
-  collapsed:: true
 	- Unless authorized by law or a court, a lawyer shall not assist or cause a branch, agency, office or officer of the government to interfere in any matter before any court, tribunal, or other government agency.
 - **SECTION 5.** *Lawyer's duty and discretion in procedure.*
-  collapsed:: true
 	- A lawyer shall not allow the client to dictate or determine the procedure in handling the case.
-- Nevertheless, a lawyer shall respect the client's decision to settle or compromise the case after explaining its consequences to the client.
+	-
+	- Nevertheless, a lawyer shall respect the client's decision to settle or compromise the case after explaining its consequences to the client.
