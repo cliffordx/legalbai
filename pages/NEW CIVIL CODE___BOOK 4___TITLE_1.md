@@ -16,7 +16,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  id:: 62e95bce-a459-4952-9f51-931f4b0d371e
 			- [[Introduction to Obligations]]
 	- **ARTICLE 1157.**
-	  collapsed:: true
 	  id:: 62e7ca78-13cd-4fe7-8bf6-b5659bbe8b55
 		- Obligations arise from:
 			- (1) Law;
@@ -25,53 +24,41 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (4) Acts or omissions punished by law; and
 			- (5) Quasi-delicts. (1089a)
 	- **ARTICLE 1158.**
-	  collapsed:: true
 		- [Obligations]([[Introduction to Obligations]]) derived from law are not presumed.
 		- Only those expressly determined in this Code or in special laws[^1] are demandable, and shall be regulated by the precepts of the law which establishes them; and as to what has not been foreseen, by the provisions of this Book. (1090)
 			- _Footnote_:
 				- [^1]: Under Article 1158, special laws refer to all other laws not contained in the Civil Code.
 	- **ARTICLE 1159.**
-	  collapsed:: true
 		- Obligations arising from contracts have the force of law between the contracting parties and should be complied with in good faith. (1091a)
 	- **ARTICLE 1160.**
 	  collapsed:: true
 		- Obligations derived from quasi-contracts shall be subject to the provisions of Chapter 1, Title XVII, of this Book. (n)
 	- **ARTICLE 1161.**
-	  collapsed:: true
-		- Civil obligations arising from criminal offenses shall be governed by the penal laws, subject to the provisions of ((d80a3db9-74c1-4616-981b-6a37ebfa19f0)), and of the pertinent provisions of Chapter 2, Preliminary Title, on Human Relations, and of Title XVIII of this Book, regulating damages. (1092a)
+		- Civil obligations arising from criminal offenses shall be governed by the penal laws, subject to the provisions of [Article 2177](((d80a3db9-74c1-4616-981b-6a37ebfa19f0))), and of the pertinent provisions of [Chapter 2, Preliminary Title, on Human Relations](((6803db65-0418-4ce0-85e5-8848067ad16a))), and of [Title XVIII of this Book]([[NEW CIVIL CODE/BOOK 4/TITLE_18]]), regulating damages. (1092a)
 	- **ARTICLE 1162.**
-	  collapsed:: true
-		- Obligations derived from quasi-delicts shall be governed by the provisions of Chapter 2, Title XVII of this Book, and by special laws. (1093a)
+		- Obligations derived from quasi-delicts shall be governed by the provisions of [Chapter 2, Title XVII of this Book](((6803db6e-a6a7-4b8b-98c5-afdb7f8c4747))), and by special laws. (1093a)
 - ## 🔴 CHAPTER 2 - Nature and Effect of Obligations
-  collapsed:: true
 	- **ARTICLE 1163.**
-	  collapsed:: true
 	  id:: 62e95bce-7da1-4109-8af6-11a6af7da4d3
 		- Every person obliged to give something is also obliged to take care of it with the proper diligence of a good father of a family, unless the law or the stipulation of the parties requires another standard of care. (1094a)
 		  id:: 62e95bce-36be-4bae-97eb-61f06ba018af
 	- **ARTICLE 1164.**
-	  collapsed:: true
 	  id:: 62e7ca78-13b6-4b7e-9b77-6042c28060c4
 		- The creditor has a right to the fruits of the thing from the time the obligation to deliver it arises.
 		- However, he shall acquire no real right over it until the same has been delivered to him. (1095)
 	- **ARTICLE 1165.**
 	  id:: 6a69d90e-b22c-4d90-a3be-55c051db8b7a
-	  collapsed:: true
 		- When what is to be delivered is a determinate thing, the creditor, in addition to the right granted him by ((59dde8b6-3587-4d79-bad5-42c6fae994a7)), may compel the debtor to make the delivery.
 		- If the thing is indeterminate or generic, he may ask that the obligation be complied with at the expense of the debtor.
 		- If the obligor delays, or has promised to deliver the same thing to two or more persons who do not have the same interest, he shall be responsible for any fortuitous event until he has effected the delivery. (1096)
 	- **ARTICLE 1166.**
-	  collapsed:: true
 		- The obligation to give a determinate thing includes that of delivering all its accessions and accessories, even though they may not have been mentioned. (1097a)
 	- **ARTICLE 1167.**
-	  collapsed:: true
 		- If a person obliged to do something fails to do it, the same shall be executed at his cost.
 		- This same rule shall be observed if he does it in contravention of the tenor of the obligation. Furthermore, it may be decreed that what has been poorly done be undone. (1098)
 	- **ARTICLE 1168.**
-	  collapsed:: true
 		- When the obligation consists in not doing, and the obligor does what has been forbidden him, it shall also be undone at his expense. (1099a)
 	- **ARTICLE 1169.**
-	  collapsed:: true
 	  id:: 634fba6e-ca4c-4822-83a9-55488b0328bc
 		- Those obliged to deliver or to do something incur in delay from the time the obligee judicially or extrajudicially demands from them the fulfillment of their obligation.
 		- However, the demand by the creditor shall not be necessary in order that delay may exist:
@@ -81,46 +68,35 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- In reciprocal obligations, neither party incurs in delay if the other does not comply or is not ready to comply in a proper manner with what is incumbent upon him. From the moment one of the parties fulfills his obligation, delay by the other begins. (1100a)
 	- **ARTICLE 1170.**
 	  id:: 59dde8b6-3587-4d79-bad5-42c6fae994a7
-	  collapsed:: true
 		- Those who in the performance of their obligations are guilty of fraud, negligence, or delay, and those who in any manner contravene the tenor thereof, are liable for damages. (1101)
 	- **ARTICLE 1171.**
 	  id:: 2fddddea-6d00-48d1-9607-3f8701f95534
-	  collapsed:: true
 		- Responsibility arising from fraud is demandable in all obligations. Any waiver of an action for future fraud is void. (1102a)
 	- **ARTICLE 1172.**
 	  id:: 2482eba2-5973-49be-8c90-e3551e273dbb
-	  collapsed:: true
 		- Responsibility arising from negligence in the performance of every kind of obligation is also demandable, but such liability may be regulated by the courts, according to the circumstances. (1103)
 	- **ARTICLE 1173.**
-	  collapsed:: true
 		- The fault or negligence of the obligor consists in the omission of that diligence which is required by the nature of the obligation and corresponds with the circumstances of the persons, of the time and of the place. When negligence shows bad faith, the provisions of [articles 1171](((2fddddea-6d00-48d1-9607-3f8701f95534))) and 2201, paragraph 2, shall apply.
 		- If the law or contract does not state the diligence which is to be observed in the performance, that which is expected of a good father of a family shall be required. (1104a)
 	- **ARTICLE 1174.**
 	  id:: d741e29e-cd2e-4df3-9930-d288bdd00d25
-	  collapsed:: true
 		- Except in cases expressly specified by the law, or when it is otherwise declared by stipulation, or when the nature of the obligation requires the assumption of risk, no person shall be responsible for those events which could not be foreseen, or which, though foreseen, were inevitable. (1105a)
 	- **ARTICLE 1175.**
-	  collapsed:: true
 		- Usurious transactions shall be governed by special laws. (n)
 	- **ARTICLE 1176.**
-	  collapsed:: true
 		- The receipt of the principal by the creditor, without reservation with respect to the interest, shall give rise to the presumption that said interest has been paid.
 		- The receipt of a later installment of a debt without reservation as to prior installments, shall likewise raise the presumption that such installments have been paid. (1110a)
 	- **ARTICLE 1177.**
-	  collapsed:: true
 		- The creditors, after having pursued the property in possession of the debtor to satisfy their claims, may exercise all the rights and bring all the actions of the latter for the same purpose, save those which are inherent in his person; they may also impugn the acts which the debtor may have done to defraud them. (1111)
 	- **ARTICLE 1178.**
-	  collapsed:: true
 		- Subject to the laws, all rights acquired in virtue of an obligation are transmissible, if there has been no stipulation to the contrary. (1112)
 - ## 🔴 CHAPTER 3 - Different Kinds of Obligations
-  collapsed:: true
 	- ### SECTION 1 - Pure and Conditional Obligations
 		- **ARTICLE 1179.**
 		  id:: 6302fb31-51ac-44cc-b3bd-79d01fa81430
 			- Every obligation whose performance does not depend upon a future or uncertain event, or upon a past event unknown to the parties, is demandable at once.
 			- Every obligation which contains a resolutory condition shall also be demandable, without prejudice to the effects of the happening of the event. (1113)
 		- **ARTICLE 1180.**
-		  collapsed:: true
 			- When the debtor binds himself to pay when his means permit him to do so, the obligation shall be deemed to be one with a period, subject to the provisions of [article 1197](((635bc746-e1f8-4c23-90db-9430a0c2e760))). (n)
 		- **ARTICLE 1181.**
 		  id:: 6302fb31-e2be-40dd-9b7f-58a1b4eedcfe
@@ -172,7 +148,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- In case of the loss, deterioration or improvement of the thing, the provisions which, with respect to the debtor, are laid down in the preceding article shall be applied to the party who is bound to return.
 			- As for obligations to do and not to do, the provisions of the [second paragraph of article 1187](((62b87f38-4242-4b6f-8778-4780eb01ba8d))) shall be observed as regards the effect of the extinguishment of the obligation. (1123)
 		- **ARTICLE 1191.**
-		  collapsed:: true
 		  id:: 62e7ca78-a7ad-4bac-9052-89837572036a
 			- The power to rescind obligations is implied in reciprocal ones, in case one of the obligors should not comply with what is incumbent upon him.
 			- The injured party may choose between the fulfillment and the rescission of the obligation, with the payment of damages in either case. He may also seek rescission, even after he has chosen fulfillment, if the latter should become impossible.
@@ -355,7 +330,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The nullity of the penal clause does not carry with it that of the principal obligation.
 			- The nullity of the principal obligation carries with it that of the penal clause. (1155)
 - ## 🔴 CHAPTER 4 - Extinguishment of Obligations
-  collapsed:: true
 	- ### General Provisions
 	  collapsed:: true
 		- **ARTICLE 1231.**
@@ -371,6 +345,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [^2]: Compromise under Art. 2028 of the Civil Code; Impossibility of fulfillment under ((177c6213-853e-42db-929a-dcff7d26dde7)) of the New Civil Code; Happening of a fortuitous event under ((d741e29e-cd2e-4df3-9930-d288bdd00d25)) of the New Civil Code.
 					- [^3]: See *How Payment or Performance Is Made.*
 	- ### SECTION 1 - Payment or Performance
+	  collapsed:: true
 		- **ARTICLE 1232.**
 		  collapsed:: true
 			- Payment means not only the delivery of money but also the performance, in any other manner, of an obligation. (n)
@@ -506,6 +481,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- If, the consignation having been made, the creditor should authorize the debtor to withdraw the same, he shall lose every preference which he may have over the thing.
 				- The co-debtors, guarantors and sureties shall be released. (1181a)
 	- ### SECTION 2 - Loss of the Thing Due
+	  collapsed:: true
 		- **ARTICLE 1262.**
 		  collapsed:: true
 		  id:: 6302fb31-4f4c-4ec4-900a-bedb6842c634
@@ -620,7 +596,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- When all the requisites mentioned in ((b2bc497c-2888-41b4-a762-b19d6597c889)) are present, compensation takes effect by operation of law, and extinguishes both debts to the concurrent amount, even though the creditors and debtors are not aware of the compensation. (1202a)
 	- ### SECTION 6 - [[Novation]]
 		- **ARTICLE 1291.**
-		  collapsed:: true
 			- Obligations may be modified by:
 				- (1) Changing their object or principal conditions;
 				- (2) Substituting the person of the debtor;

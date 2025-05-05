@@ -1,13 +1,14 @@
 id:: 631d7211-defb-43a3-8ca0-df2610901154
 title:: NIRC/TITLE_I
+alt-title:: ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
 icon:: 龎
 
 - {{embed ((6337099b-9d41-4c8f-805a-c7a04b0cb152))}}
-- # ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+- ## ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
 	- **(As Last Amended by RA 10963)** [(fn1)](((631a19be-657d-4277-aec3-c075c23e3081)))
-- **SEC. 1. _Title of the Code_.**
+- **SEC. 1.** _Title of the Code_.
 	- This Code shall be known as the National Internal Revenue Code of 1997. [(fn2)](((631a19be-0801-4709-9996-c7c7931bc379)))
-- **SEC. 2. _Powers and Duties of the Bureau of Internal Revenue_.**
+- **SEC. 2.** _Powers and Duties of the Bureau of Internal Revenue_.
 	- The [[Bureau of Internal Revenue]] shall be under the [supervision and control]([[Control and Supervision]]) of the Department of Finance and its powers and duties shall ==comprehend the assessment and collection of all national internal revenue taxes==, fees, and charges, and the enforcement of all forfeitures, penalties, and fines connected therewith, including the execution of judgments in all cases decided in its favor by the Court of Tax Appeals and the ordinary courts.
 		- **Primary functions**
 			- assessment and collection
@@ -16,16 +17,16 @@ icon:: 龎
 			- ==Comprehend== ^^the assessment and collection of all national internal revenue taxes, fees, and charges^^, and
 			- ==The enforcement of all forfeitures==, penalties, and fines connected therewith
 				- including the ==execution of judgments all cases== decided in its favor by the CTA and the ordinary courts.
-- **SEC. 3. _Chief Officials of the Bureau of Internal Revenue_.**
+- **SEC. 3.** _Chief Officials of the Bureau of Internal Revenue_.
   id:: 633ef5f3-bdbb-4339-b2c1-595fae0a4557
 	- The Bureau of Internal Revenue shall have a chief to be known as [[Commissioner of Internal Revenue]] , hereinafter referred to as the Commissioner, and four (4) assistant chiefs to be known as Deputy Commissioners.
-- **SEC. 4. _Power of the Commissioner to Interpret Tax Laws and to Decide Tax Cases._**
+- **SEC. 4.** _Power of the Commissioner to Interpret Tax Laws and to Decide Tax Cases._
   id:: 633ef5f3-c186-45a2-a7e9-391eaf4b87d7
 	- The power to interpret the provisions of this Code and other tax laws shall be under the exclusive and original jurisdiction of the Commissioner, subject to review by the Secretary of Finance.
 	  id:: 633ef5f3-11d8-483e-bf91-9e7c695fc0c4
 	- The power to **decide** disputed assessments, refunds of internal revenue taxes, fees or other charges, penalties imposed in relation thereto, or other matters arising under this Code or other laws or portions thereof administered by the Bureau of Internal Revenue is vested in the Commissioner, subject to the exclusive appellate jurisdiction of the Court of Tax Appeals. [(fn3)](((631a19be-5b0b-4269-bf22-e3d02d57f33a)))
 	  id:: 633ef5f3-43e1-4e99-bd6e-add83f0dbe45
-- **SEC. 5. _Power of the Commissioner to Obtain Information, and to Summon, Examine, and Take Testimony of Persons._**
+- **SEC. 5.** _Power of the Commissioner to Obtain Information, and to Summon, Examine, and Take Testimony of Persons._
   id:: 633ef5f3-124c-4500-9757-9101de087536
 	- In ascertaining the correctness of any return, or in making a return ==when none has been made==, ==or in determining the liability of any person for any internal revenue tax==, or ==in collecting any such liability==, or ==in evaluating tax compliance==, the Commissioner is authorized:
 		- (A) To ^^examine any book, paper, record, or other data which may be relevant or material to such inquiry^^;
@@ -35,7 +36,7 @@ icon:: 龎
 		- (D) To take such testimony of the person concerned, under oath, as may be relevant or material to such inquiry; and
 		- (E) To cause revenue officers and employees to make a canvass from time to time of any revenue district or region and inquire after and concerning all persons therein who may be liable to pay any internal revenue tax, and all persons owning or having the care, management or possession of any object with respect to which a tax is imposed.
 	- The provisions of the foregoing paragraphs notwithstanding, ==nothing in this Section== ==shall be construed== ==as granting the Commissioner the authority to inquire into bank deposits== ^^other than as provided for in^^ [Section 6(F)](((6319ebac-61e3-4cde-ae1c-9599ccf6d7d3))) ^^of this Code^^.
-- **SEC. 6. _Power of the Commissioner to Make Assessments and Prescribe Additional Requirements for Tax Administration and Enforcement._**
+- **SEC. 6.** _Power of the Commissioner to Make Assessments and Prescribe Additional Requirements for Tax Administration and Enforcement._
   id:: 633ef5f3-0d6d-4189-aa4d-1f22788aaada
 	- **(A) Examination of Return and Determination of Tax Due.**
 		- After a return has been filed as required under the provisions of this Code, the Commissioner or his duly authorized representative ==may authorize the examination of any taxpayer and the assessment of the correct amount of tax==, **notwithstanding any law requiring the prior authorization of any government agency or instrumentality** [(fn5)](((631a19be-2f91-4e19-81bc-fc5c7c8c3815))): **Provided, however,** *That* failure to file a return shall not prevent the Commissioner from authorizing the examination of any taxpayer.
@@ -52,19 +53,18 @@ icon:: 龎
 		- When it shall come to the knowledge of the Commissioner that a taxpayer is retiring from business subject to tax, or is intending to leave the Philippines or to remove his property therefrom or to hide or conceal his property, or is performing any act tending to obstruct the proceedings for the collection of the tax for the past or current quarter or year or to render the same totally or partly ineffective unless such proceedings are begun immediately, the Commissioner shall declare the tax period of such taxpayer terminated at any time and shall send the taxpayer a notice of such decision, together with a request for the immediate payment of the tax for the period so declared terminated and the tax for the preceding year or quarter, or such portion thereof as may be unpaid, and said taxes shall be due and payable immediately and shall be subject to all the penalties hereafter prescribed, unless paid within the time fixed in the demand made by the Commissioner.
 	- **(E) Authority of the Commissioner to Prescribe Real Property Values.**
 	  id:: 634fba92-baa0-4072-a902-41ae9c69db46
-		- The Commissioner is hereby authorized to divide the Philippines into different zones or areas and shall, upon **mandatory** [(fn5)](((631a19be-2f91-4e19-81bc-fc5c7c8c3815))) consultation with competent appraisers both from the private and public sectors, **and with prior notice to affected taxpayers** [(fn5)](((631a19be-2f91-4e19-81bc-fc5c7c8c3815))), determine the fair market value of real properties located in each zone or area, **subject to automatic adjustment once every three (3) years through rules and regulations issued by the Secretary of Finance based on the current** ![Philippine valuation standards](file:///Users/adzrealty/Downloads/Philippine-Valuation-Standards-Manual.pdf): **Provided,** *That* no adjustment in zonal valuation shall be valid unless published in a newspaper of general circulation in the province, city or municipality concerned, or in the absence thereof, shall be posted in the provincial capitol, city or municipal hall and in two (2) other conspicuous public places therein: **Provided, further,** *That* the basis of any valuation, including the records of consultations done, shall be public records open to the inquiry of any taxpayer.[(fn5)](((631a19be-2f91-4e19-81bc-fc5c7c8c3815)))
+		- The Commissioner is hereby authorized to divide the Philippines into different zones or areas and shall, upon **mandatory** [(fn5)](((631a19be-2f91-4e19-81bc-fc5c7c8c3815))) consultation with competent appraisers both from the private and public sectors, **and with prior notice to affected taxpayers** [(fn5)](((631a19be-2f91-4e19-81bc-fc5c7c8c3815))), determine the fair market value of real properties located in each zone or area, **subject to automatic adjustment once every three (3) years through rules and regulations issued by the Secretary of Finance based on the current** Philippine valuation standards: **Provided,** *That* no adjustment in zonal valuation shall be valid unless published in a newspaper of general circulation in the province, city or municipality concerned, or in the absence thereof, shall be posted in the provincial capitol, city or municipal hall and in two (2) other conspicuous public places therein: **Provided, further,** *That* the basis of any valuation, including the records of consultations done, shall be public records open to the inquiry of any taxpayer.[(fn5)](((631a19be-2f91-4e19-81bc-fc5c7c8c3815)))
 		- For purposes of computing any internal revenue tax, the value of the property shall be, whichever is the higher of:
 			- (1) The fair market value as determined by the Commissioner; or
 			- (2) The fair market value as shown in the schedule of values of the Provincial and City Assessors.
 	- **(F) Authority of the Commissioner to Inquire into Bank Deposit Accounts and Other Related information held by Financial Institutions.** [(fn6)](((631a19be-2e7f-45b8-96d1-befd39d94688)))
 	  id:: 6319ebac-61e3-4cde-ae1c-9599ccf6d7d3
-	  collapsed:: true
 		- Notwithstanding any contrary provision of Republic Act No. 1405, Republic Act No. 6426, otherwise known as the **Foreign Currency Deposit Act of the Philippines**, and other [general]([[List of General laws in the Philippines]]) or [special laws]([[List of Special Laws in the Philippines]]), the Commissioner is hereby authorized to inquire into the bank deposits and other related information held by financial institutions of:
 			- (1) A [decedent](((6302fb2f-b144-4050-9458-92582bb362cb))) to determine his gross estate.
 			- (2) Any taxpayer who has filed an application for compromise of his tax liability under [Section 204(A)(2)](((631a1166-bc73-417d-89c3-cc0c657e0982))) of this Code by reason of financial incapacity to pay his tax liability.
 				- In case a taxpayer files an application to compromise the payment of his tax liabilities on his claim that his financial position demonstrates a clear inability to pay the tax assessed, ==his application shall not be considered== ==unless and until he waives in writing his privilege== under Republic Act No. 1405, Republic Act No. 6426, otherwise known as the **Foreign Currency Deposit Act of the Philippines**, or under other general or special laws, and such waiver shall constitute the authority of the Commissioner to inquire into the bank deposits of the taxpayer.
 			- (3) A specific taxpayer or taxpayers subject of a request for the supply of tax information from a [foreign tax authority](((631d7211-50aa-425a-816c-286658061f59))) pursuant to an international convention or agreement on tax matters to which the Philippines is a signatory or a party of: **Provided,** *That* the information obtained from the banks and other financial institutions may be used by the Bureau of Internal Revenue for tax assessment, verification, audit and enforcement purposes.
-			- In case of a request from a [foreign tax authority](((631d7211-50aa-425a-816c-286658061f59))) for tax information held by banks and financial institutions, the exchange of information [[#red]]==shall be done in a secure manner== to ==ensure confidentiality== thereof under such rules and regulations as may be promulgated by the Secretary of Finance, upon recommendation of the Commissioner.
+			- In case of a request from a [foreign tax authority](((631d7211-50aa-425a-816c-286658061f59))) for tax information held by banks and financial institutions, the exchange of information ==shall be done in a secure manner== to ==ensure confidentiality== thereof under such rules and regulations as may be promulgated by the Secretary of Finance, upon recommendation of the Commissioner.
 			- The Commissioner shall provide the tax information obtained from banks and financial institutions pursuant to a convention or agreement upon request of the foreign tax authority **when such requesting foreign tax authority has provided the following information to demonstrate the foreseeable relevance of the information to the request**:
 				- (a) The identity of the person under examination or investigation;
 				- (b) A statement of the information being sought, including its nature and the form in which the said foreign tax authority prefers to receive the information from the Commissioner;
@@ -84,7 +84,7 @@ icon:: 龎
 		- Failure of the Secretary of Finance to rule on the Appeal within the prescribed period shall be deemed as approval of the application for accreditation of the appellant.
 	- **(H) Authority of the Commissioner to Prescribe Additional Procedural or Documentary Requirements.**
 		- The Commissioner may prescribe the manner of compliance with any documentary or procedural requirement in connection with the submission or preparation of financial statements accompanying the tax returns.
-- **SEC. 7. _Authority of the Commissioner to Delegate Power_.**
+- **SEC. 7.** _Authority of the Commissioner to Delegate Power_.
 	- The Commissioner may delegate the powers vested in him under the pertinent provisions of this Code to any or such subordinate officials with the rank equivalent to a division chief or higher, subject to such limitations and restrictions as may be imposed under rules and regulations to be promulgated by the Secretary of Finance, upon recommendation of the Commissioner: **Provided, however,** *That* the following powers of the Commissioner shall not be delegated:
 		- (a) The power to recommend the promulgation of rules and regulations by the Secretary of Finance;
 		  id:: 633ef5f3-dedb-4eaa-b592-c5d9ad353aa6
@@ -94,7 +94,7 @@ icon:: 龎
 		  id:: 633ef5f3-3d05-4a15-8a82-967649d9be2b
 		- (d) The power to assign or reassign internal revenue officers to establishments where articles subject to excise tax are produced or kept.
 		  id:: 633ef5f3-5fb4-4c98-96ef-ed1e0609b890
-- **SEC. 8. _Duty of the Commissioner to Ensure the Provision and Distribution of Forms, Receipts, Certificates, and Appliances, and the Acknowledgment of Payment of Taxes_.** [(fn7)](((631a19be-307d-4856-b802-224daf27ecaf)))
+- **SEC. 8.** _Duty of the Commissioner to Ensure the Provision and Distribution of Forms, Receipts, Certificates, and Appliances, and the Acknowledgment of Payment of Taxes_. [(fn7)](((631a19be-307d-4856-b802-224daf27ecaf)))
 	- **_(A) Provision and Distribution to Proper-Officials_.**
 		- Any law to the contrary notwithstanding, it shall be the duty of the Commissioner, among other things, to prescribe, provide, and distribute to the proper officials the requisite licenses; internal revenue stamps; unique, secure and non-removable identification markings (hereafter called unique identification markings), such as codes or stamps, be affixed to or form part of all unit packets and packages and any outside packaging of cigarettes and bottles of distilled spirits; labels and other forms; certificates; bonds; records; invoices; books; receipts; instruments; appliances and apparatus used in administering the laws falling within the jurisdiction of the Bureau.
 		- For this purpose, internal revenue stamps, or other markings and labels shall be caused by the Commissioner to be printed with adequate security features.
@@ -102,10 +102,10 @@ icon:: 龎
 		- To further improve tax administration, cigarette and alcohol manufacturers shall be required to install automated volume-counters of packs and bottles to deter over-removals and misdeclaration of removals.
 	- **_(B) Receipts for Payment Made_.**
 		- It shall be the duty of the Commissioner or his duly authorized representative or an authorized agent bank to whom any payment of any tax is made under the provisions of this Code to acknowledge the payment of such tax, expressing the amount paid and the particular account for which such payment was made in a form and manner prescribed therefor by the Commissioner.
-- **SEC. 9. _Internal Revenue Districts_.**
+- **SEC. 9.** _Internal Revenue Districts_.
 	- With the approval of the Secretary of Finance, the Commissioner shall divide the Philippines into such number of revenue districts as may from time to time be required for administrative purposes.
 	- Each of these districts shall be under the supervision of a Revenue District Officer.
-- **SEC. 10. _Revenue Regional Director_.**
+- **SEC. 10.** _Revenue Regional Director_.
 	- Under rules and regulations, policies and standards formulated by the Commissioner, with the approval of the Secretary of Finance, the Revenue Regional director shall, within the region and district offices under his jurisdiction, among others:
 		- (a) Implement laws, policies, plans, programs, rules and regulations of the department or agencies in the regional area;
 		- (b) Administer and enforce internal revenue laws, and rules and regulations, including the assessment and collection of all internal revenue taxes, charges and fees;
@@ -115,50 +115,59 @@ icon:: 龎
 		- (f) Coordinate with local government units in the area;
 		- (g) Exercise control and supervision over the officers and employees within the region; and
 		- (h) Perform such other functions as may be provided by law and as may be delegated by the Commissioner.
-- **SEC. 11. _Duties of Revenue District Officers and Other Internal Revenue Officers_.**
+- **SEC. 11.** _Duties of Revenue District Officers and Other Internal Revenue Officers_.
 	- It shall be the duty of every Revenue District Officer or other internal revenue officers and employees to ensure that all laws, and rules and regulations affecting national internal revenue are faithfully executed and complied with, and to aid in the prevention, detection and punishment of frauds of delinquencies in connection therewith.
 	- It shall be the duty of every Revenue District Officer to examine the efficiency of all officers and employees of the Bureau of Internal Revenue under his supervision, and to report in writing to the Commissioner, through the Regional Director, any neglect of duty, incompetency, delinquency, or malfeasance in office of any internal revenue officer of which he may obtain knowledge, with a statement of all the facts and any evidence sustaining each case.
-- **SEC. 12. _Agents and Deputies for Collection of National Internal Revenue Taxes._**
+- **SEC. 12.** _Agents and Deputies for Collection of National Internal Revenue Taxes._
 	- The following are hereby constituted agents of the Commissioner:
 		- a) The Commissioner of Customs and his subordinates with respect to the collection of national internal revenue taxes on imported goods;
 		- b) The head of the appropriate government office and his subordinates with respect to the collection of energy tax; and
 		- c) Banks duly accredited by the Commissioner with respect to receipt of payments internal revenue taxes authorized to be made thru banks.
 	- Any officer or employee of an authorized agent bank assigned to receive internal revenue tax payments and transmit tax returns or documents to the Bureau of Internal Revenue shall be subject to the same sanctions and penalties prescribed in Sections [269](((6319fe7d-8d7f-40ae-b206-147e80953f2e))) and [270](((6319fe7d-f8ab-4d4e-8b40-faa1fecc455f))) of this Code.
-- **SEC. 13. _Authority of a Revenue Officer._**
+- **SEC. 13.** _Authority of a Revenue Officer._
   id:: 64408bf1-eb10-4699-aaab-7587d9d5ce9f
 	- Subject to the rules and regulations to be prescribed by the Secretary of Finance, upon recommendation of the Commissioner, a Revenue Officer assigned to perform assessment functions in any district may, pursuant to a [[Letter of Authority]] issued by the Revenue Regional Director, examine taxpayers within the jurisdiction of the district in order to collect the correct amount of tax, or to recommend the assessment of any deficiency tax due in the same manner that the said acts could have been performed by the Revenue Regional Director himself.
-- **SEC. 14. _Authority of Officers to Administer Oaths and Take Testimony._**
+- **SEC. 14.** _Authority of Officers to Administer Oaths and Take Testimony._
 	- The Commissioner, Deputy Commissioners, Service Chiefs, Assistant Service Chiefs, Revenue Regional Directors, Assistant Revenue Regional Directors, Chiefs and Assistant Chiefs of Divisions, Revenue District Officers, special deputies of the Commissioner, internal revenue officers and any other employee of the Bureau thereunto especially deputized by the Commissioner shall have the power to administer oaths and to take testimony in any official matter or investigation conducted by them regarding matters within the jurisdiction of the Bureau.
-- **SEC. 15. _Authority of Internal Revenue Officers to Make Arrests and Seizures._**
+- **SEC. 15.** _Authority of Internal Revenue Officers to Make Arrests and Seizures._
 	- The Commissioner, the Deputy Commissioners, the Revenue Regional Directors, the Revenue District Officers and other internal revenue officers shall have authority to make arrests and seizures for the violation of any penal law, rule or regulation administered by the Bureau of Internal Revenue. Any person so arrested shall be forthwith brought before a court, there to be dealt with according to law.
-- **SEC. 16. _Assignment of Internal Revenue Officers Involved in Excise Tax Functions to Establishments Where Articles subject to Excise Tax are Produced or Kept._**
+- **SEC. 16.** _Assignment of Internal Revenue Officers Involved in Excise Tax Functions to Establishments Where Articles subject to Excise Tax are Produced or Kept._
+  id:: 6803db72-d671-4de1-adaa-84310b8644dc
 	- The Commissioner shall employ, assign, or reassign internal revenue officers involved in excise tax functions, as often as the exigencies of the revenue service may require, to establishments or places where articles subject to excise tax are produced or kept: Provided, That an internal revenue officer assigned to any such establishment shall in no case stay in his assignment for more than two (2) years, subject to rules and regulations to be prescribed by the Secretary of Finance, upon recommendation of the Commissioner.
-- **SEC. 17. _Assignment of Internal Revenue Officers and Other Employees to Other Duties._**
-	- The Commissioner may, subject to the provisions of Section 16 and the laws on civil service, as well as the rules and regulations to be prescribed by the Secretary of Finance upon the recommendation of the Commissioner, assign or reassign internal revenue officers and employees of the Bureau of Internal Revenue, without change in their official rank and salary, to other or special duties connected with the enforcement or administration of the revenue laws as the exigencies of the service may require: **Provided,** *That* internal revenue officers assigned to perform assessment or collection function shall not remain in the same assignment for more than three (3) years; **Provided, further,** *That* assignment of internal revenue officers and employees of the Bureau to special duties shall not exceed one (1) year.
-- **SEC. 18. _Reports of Violation of Laws._**
+- **SEC. 17.** _Assignment of Internal Revenue Officers and Other Employees to Other Duties._
+	- The Commissioner may, subject to the provisions of [Section 16](((6803db72-d671-4de1-adaa-84310b8644dc))) and the laws on civil service, as well as the rules and regulations to be prescribed by the Secretary of Finance upon the recommendation of the Commissioner, assign or reassign internal revenue officers and employees of the Bureau of Internal Revenue, without change in their official rank and salary, to other or special duties connected with the enforcement or administration of the revenue laws as the exigencies of the service may require: **Provided,** *That* internal revenue officers assigned to perform assessment or collection function shall not remain in the same assignment for more than three (3) years; **Provided, further,** *That* assignment of internal revenue officers and employees of the Bureau to special duties shall not exceed one (1) year.
+- **SEC. 18.** _Reports of Violation of Laws._
   id:: 64408bf1-4d4f-4f6f-9017-e4f49336f4a9
 	- When an internal revenue officer discovers evidence of a violation of this Code or of any law, rule or regulations administered by the Bureau of Internal Revenue of such character as to warrant the institution of criminal proceedings, he shall immediately report the facts to the Commissioner through his immediate superior, giving the name and address of the offender and the names of the witnesses if possible: **Provided,** *That* in urgent cases, the Revenue Regional director or Revenue District Officer, as the case may be, may send the report to the corresponding prosecuting officer in the latter case, a copy of his report shall be sent to the Commissioner.
-- **SEC. 19. _Contents of Commissioner's Annual Report._**
+- **SEC. 19.** _Contents of Commissioner's Annual Report._
 	- The Annual Report of the Commissioner shall contain detailed statements of the collections of the Bureau with specifications of the sources of revenue by type of tax, by manner of payment, by revenue region and by industry group and its disbursements by classes of expenditures.
 	- In case the actual collection exceeds or falls short of target as set in the annual national budget by fifteen percent (15%) or more, the Commissioner shall explain the reason for such excess or shortfall.
-- **SEC. 20. _Submission of Report and Pertinent Information by the Commissioner._**
+- **SEC. 20.** _Submission of Report and Pertinent Information by the Commissioner._
 	- **(A) _Submission of Pertinent Information to Congress._**
-	  collapsed:: true
-		- The provision of Section 270 of this Code to the contrary notwithstanding, the Commissioner shall, upon request of Congress and in aid of legislation, furnish its appropriate Committee pertinent information including but not limited to: industry audits, collection performance data, status reports in criminal actions initiated against persons and taxpayer's returns: Provided, however, That any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished the appropriate Committee of Congress only when sitting in Executive Session Unless such taxpayer otherwise consents in writing to such disclosure.
+		- The provision of [Section 270](((6319fe7d-f8ab-4d4e-8b40-faa1fecc455f))) of this Code to the contrary notwithstanding, the Commissioner shall, upon request of Congress and in aid of legislation, furnish its appropriate Committee pertinent information including but not limited to: industry audits, collection performance data, status reports in criminal actions initiated against persons and taxpayer's returns: Provided, however, That any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished the appropriate Committee of Congress only when sitting in Executive Session Unless such taxpayer otherwise consents in writing to such disclosure.
 	- **(B) _Submission of Tax-Related Information to the Department of Finance._**
 		- The Commissioner shall, upon the order of the Secretary of Finance specifically identifying the needed information and justification for such order in relation to the grant of incentives under [Title XIII]([[NIRC/TITLE_XIII]]), furnish the Secretary pertinent information on the entities receiving incentives under this Code: **Provided, however,** *That* the Secretary and the relevant officers handling such specific information shall be covered by the provisions of [Section 270](((6319fe7d-f8ab-4d4e-8b40-faa1fecc455f))) unless the taxpayer consents in writing to such disclosure. [(fn8)](((631a19be-4ae6-4425-a139-a33b86f1d071)))
 	- **(C) _Report to Oversight Committee._**
 		- The Commissioner shall, with reference to [Section 204](((633ef5f8-3b34-4532-953d-f826a4ef410b))) of this Code, submit to the Oversight Committee referred to in [Section 290](((6337099a-a7ca-4b4d-90cb-03c63c0d97d9))) hereof, through the Chairpersons[(fn9)](((631a19be-14d9-4b93-b858-6006ee97216e))) of the Committee on Ways and Means of the Senate and House of Representatives, a report on the exercise of his powers pursuant to the said section, every six (6) months of each calendar year.
-- **SEC. 21. _Sources of Revenue._**
+- **SEC. 21.** _Sources of Revenue and Classification of Taxpayers._[^1]
   id:: 631d7211-8cbd-4861-8408-bb6e490ecebf
-	- The following taxes, fees and charges are deemed to be national internal revenue taxes:
-		- (a) Income tax;
-		- (b) Estate and donor's taxes;
-		- (c) Value-added tax;
-		- (d) Other percentage taxes;
-		- (e) [Excise taxes]([[NIRC/TITLE_VI]]);
-		- (f) Documentary stamp taxes; and
-		- (g) Such other taxes as are or hereafter may be imposed and collected by the Bureau of Internal Revenue.
+	- (a) The following taxes, fees and charges are deemed to be national internal revenue taxes:
+		- (1) Income tax;
+		- (2) Estate and donor's taxes;
+		- (3) Value-added tax;
+		- (4) Other percentage taxes;
+		- (5) [Excise taxes]([[NIRC/TITLE_VI]]);
+		- (6) Documentary stamp taxes; and
+		- (7) Such other taxes as are or hereafter may be imposed and collected by the Bureau of Internal Revenue.
+			- [^1]: _{Ease of Paying Taxes Act (EOPTA). R.A. No. 11976, January 05, 2024.}
+	- (b) For purposes of responsive tax administration, taxpayers shall be classified as follows:[^1]
+	  id:: 6818bc2c-a118-435e-816c-98e81b28690b
+		- |GROUP|GROSS SALES|
+		  |Micro|Less than Three million pesos (P3,000,000)|
+		  |Small|Three million pesos (P3,000,000) to less than Twenty million pesos (P20,000,000)|
+		  |Medium|Twenty million pesos (P20,000,000) to less than One billion pesos (P1,000,000,000|
+		  |Large|One billion pesos (P1,000,000,000) and above|
+		- [^1]: _{Ease of Paying Taxes Act (EOPTA). R.A. No. 11976, January 05, 2024.}
 - [[Comments]]
 	- [[Thursday, 13th October 2022]]
 		- ((633ef5f3-11d8-483e-bf91-9e7c695fc0c4))

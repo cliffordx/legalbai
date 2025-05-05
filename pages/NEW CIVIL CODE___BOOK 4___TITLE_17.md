@@ -8,6 +8,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 
 - 🔴 CHAPTER 1- QUASI-CONTRACTS
   heading:: true
+  collapsed:: true
 	- **ARTICLE 2142.**
 	  collapsed:: true
 		- Certain lawful, voluntary and unilateral acts give rise to the juridical relation of quasi-contract to the end that no one shall be unjustly enriched or benefited at the expense of another. (n)
@@ -135,6 +136,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Any person who is constrained to pay the taxes of another shall be entitled to reimbursement from the latter.
 - 🔴 CHAPTER 2 - QUASI-DELICTS
   heading:: true
+  id:: 6803db6e-a6a7-4b8b-98c5-afdb7f8c4747
 	- **ARTICLE 2176.**
 	  id:: d635e13b-045f-4eaf-89fe-b4730f48cd71
 	  collapsed:: true

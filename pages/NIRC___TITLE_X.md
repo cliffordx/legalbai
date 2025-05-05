@@ -1,9 +1,9 @@
 title:: NIRC/TITLE_X
+alt-title:: STATUTORY OFFENSES AND PENALTIES
 icon:: 龎
 
-- # STATUTORY OFFENSES AND PENALTIES
+- ## STATUTORY OFFENSES AND PENALTIES
 - ## CHAPTER I - ADDITIONS TO THE TAX
-  collapsed:: true
 	- **SEC. 247.** *General Provisions.*
 	  collapsed:: true
 		- (a) The additions to the tax or deficiency tax prescribed in this Chapter shall apply to all taxes, fees and charges imposed in this Code.
@@ -11,12 +11,14 @@ icon:: 龎
 		- (b) If the withholding agent is the Government or any of its agencies, political subdivisions or instrumentalities, or a government-owned or controlled corporation, the employee thereof responsible for the withholding and remittance of the tax shall be personally liable for the additions to the tax prescribed herein.
 		- (c) The term '**_person_**', as used in this Chapter, includes an officer or employee of a corporation who as such officer, employee or member is under a duty to perform the act in respect of which the violation occurs.
 	- **SEC. 248.** _Civil Penalties_.
+	  id:: 6803db75-8854-4da4-b18d-58ac15f09fef
 		- (A) There shall be imposed, in addition to the tax required to be paid, a penalty equivalent to twenty-five percent (25%) of the amount due, in the following cases:
 			- (1) Failure to file any return and pay the tax due thereon as required under the provisions of this Code or rules and regulations on the date prescribed; or
 			- (2) Unless otherwise authorized by the Commissioner, filing a return with an internal revenue officer other than those with whom the return is required to be filed; or
 			- (3) Failure to pay the deficiency tax within the time prescribed for its payment in the notice of assessment; or
 			- (4) Failure to pay the full or part of the amount of tax shown on any return required to be filed under the provisions of this Code or rules and regulations, or the full amount of tax due for which no return is required to be filed, on or before the date prescribed for its payment.
 		- (B) In case of willful neglect to file the return within the period prescribed by this Code or by rules and regulations, or in case a false or fraudulent return is willfully made, the penalty to be imposed shall be fifty percent (50%) of the tax or of the deficiency tax, in case, any payment has been made on the basis of such return before the discovery of the falsity or fraud: **Provided,** *That* a substantial under-declaration of taxable sales, receipts or income, or a substantial overstatement of deductions, as determined by the Commissioner pursuant to the rules and regulations to be promulgated by the Secretary of Finance, shall constitute prima facie evidence of a false or fraudulent return: **Provided, further,** *That* failure to report sales, receipts or income in an amount exceeding thirty percent (30%) of that declared per return, and a claim of deductions in an amount exceeding (30%) of actual deductions, shall render the taxpayer liable for substantial under-declaration of sales, receipts or income or for overstatement of deductions, as mentioned herein.
+		  id:: 6803db75-48d6-42af-be0f-958b45f0d614
 	- **SEC. 249.** _Interest_.
 		- _**(A) In General**_.
 			- There shall be assessed and collected on any unpaid amount of tax, interest at the rate of double the legal interest for loans or forbearance of any money in the absence of an express stipulation as set by the Banko Sentral ng Pilipinas[[212](#fn212)] from date prescribed for payment until the amount is fully paid: **Provided,** *That* in no case shall the deficiency and delinquency interest prescribed under Sections (B) and (C) hereof, be imposed simultaneously.[[213](#fn213)]
@@ -36,7 +38,6 @@ icon:: 龎
 	- **SEC. 252.** _Failure of a Withholding Agent to refund Excess Withholding Tax_.
 		- Any employer/withholding agent who fails or refuses to refund excess withholding tax shall, in addition to the penalties provided in this Title, be liable to a penalty to the total amount of refunds which was not refunded to the employee resulting from any excess of the amount withheld over the tax actually due on their return.
 - ## CHAPTER II CRIMES, OTHER OFFENSES AND FORFEITURES
-  collapsed:: true
 	- **SEC. 253.** _General Provisions_.
 		- (a) Any person convicted of a crime penalized by this Code shall, in addition to being liable for the payment of the tax, be subject to the penalties imposed herein: **Provided,** *That* payment of the tax due after apprehension shall not constitute a valid defense in any prosecution for violation of any provision of this Code or in any action for the forfeiture of untaxed articles.
 		- (b) Any person who willfully aids or abets in the commission of a crime penalized herein or who causes the commission of any such offense by another shall be liable in the same manner as the principal.
@@ -46,6 +47,7 @@ icon:: 龎
 		- (d) In the case of associations, partnerships or corporations, the penalty shall be imposed on the partner, president, general manager, branch manager, treasurer, officer-in-charge, and the employees responsible for the violation.
 		- (e) The fines to be imposed for any violation of the provisions of this Code shall not be lower than the fines imposed herein or twice the amount of taxes, interest and surcharges due from the taxpayer, whichever is higher.
 	- **SEC. 254.** _Attempt to Evade or Defeat Tax_. [(fn4)](((631a19be-48f2-40f2-9615-be81978dc880)))
+	  id:: 6803db75-37a0-4192-8db1-151f1c098827
 	  collapsed:: true
 		- Any person who willfully attempts in any manner to evade or defeat any tax imposed under this Code or the payment thereof shall, in addition to other penalties provided by law, upon conviction thereof, be punished by a fine not less than Five hundred thousand pesos (P500,000) but not more than Ten million pesos (P10,000,000) and suffer imprisonment of not less than six (6) years but not more than Ten (10) years:[[214](#fn214)] **Provided,** *That* the conviction or acquittal obtained under this Section shall not be a bar to the filing of a civil suit for the collection of taxes.
 	- **SEC. 255.** _Failure to File Return, Supply Correct and Accurate Information, Pay Tax Withhold and Remit Tax and Refund Excess Taxes Withheld on Compensation_.
@@ -136,6 +138,7 @@ icon:: 龎
 		- Any declaration, return and other statement required under this Code, shall, in lieu of an oath, contain a written statement that they are made under the penalties of perjury.
 		- Any person who willfully files a declaration, return or statement containing information which is not true and correct as to every material matter shall, upon conviction, be subject to the penalties prescribed for perjury under the Revised Penal Code.
 	- **SEC. 268.** _Other Crimes and Offenses_.
+	  id:: 6803db75-57df-4eac-939e-2171f6956210
 		- _**(A) Misdeclaration or Misrepresentation of Manufacturers Subject to Excise Tax**_.
 			- Any manufacturer who, in violation of the provisions of [Title VI of this Code]([[NIRC/TITLE_VI]]), misdeclares in the sworn statement required therein or in the sales invoice, any pertinent data or information shall be punished by a summary cancellation or withdrawal of the permit to engage in business as a manufacturer of articles subject to excise tax.
 		- _**(B) Forfeiture of Property Used in Unlicensed Business or Dies Used for Printing False Stamps, Etc.**_
@@ -145,7 +148,6 @@ icon:: 龎
 			- Unless otherwise specifically authorized by the Commissioner, all articles subject to excise tax should not be stored or allowed to remain in a distillery, distillery warehouse, bonded warehouse or other place where made, after the tax thereon has been paid; otherwise, all such articles shall be forfeited.
 			- Articles withdrawn from any such place or from customs custody or imported into the country without the payment of the required tax shall likewise be forfeited.
 - ## CHAPTER III - PENALTIES IMPOSED ON PUBLIC OFFICERS
-  collapsed:: true
 	- **SEC. 269.** _Violations Committed by Government Enforcement Officers_. [(fn4)](((631a19be-48f2-40f2-9615-be81978dc880)))
 	  id:: 6319fe7d-8d7f-40ae-b206-147e80953f2e
 		- Every official, agent, or employee of the Bureau of Internal Revenue or any other agency of the Government charged with the enforcement of the provisions of this Code, who is guilty of any of the offenses herein below specified shall, upon conviction for each act or omission, be punished by a fine of not less than Fifty thousand pesos (P50,000) but not more than One hundred thousand pesos (P100,000) and suffer imprisonment of not less than ten (10) years but not more than fifteen (15) years and shall likewise suffer an additional penalty of perpetual disqualification to hold public office, to vote, and to participate in any public election:
@@ -182,6 +184,7 @@ icon:: 龎
 	- **SEC. 274.** _Penalty for Second and Subsequent Offenses_.
 		- In the case of reincidence, the maximum of the penalty prescribed for the offense shall be imposed.
 	- **SEC. 275.** _Violation of Other Provisions of this Code or Rules and Regulations in General_.
+	  id:: 6803db75-fdff-46fc-aeeb-d57573266216
 		- Any person who violates any provision of this Code or any rule or regulation promulgated by the Department of Finance, for which no specific penalty is provided by law, shall, upon conviction for each act or omission, be punished by a fine of not more than One thousand pesos (P1,000) or suffer imprisonment of not more than six (6) months, or both.
 	- **SEC. 276.** _Penalty for Selling, Transferring, Encumbering or in any way Disposing of Property Placed under Constructive Distraint_.
 		- Any taxpayer, whose property has been placed under constructive distraint, who sells, transfers, encumbers or in any way disposes of said property, or any part thereof, without the knowledge and consent of the Commissioner, shall, upon conviction for each act or omission, be punished by a fine of not less than twice the value of the property so sold, encumbered or disposed of but not less than Five Thousand pesos (P5,000), or suffer imprisonment of not less than two (2) years and one (1) day but not more than four (4) years, or both.
@@ -199,6 +202,7 @@ icon:: 龎
 		- The prescription shall be interrupted when proceedings are instituted against the guilty persons and shall begin to run again if the proceedings are dismissed for reasons not constituting jeopardy.
 		- The term of prescription shall not run when the offender is absent from the Philippines.
 	- **SEC. 282.** _Informer's Reward to Persons Instrumental in the Discovery of Violations of the National Internal Revenue Code and in the Discovery and Seizure of Smuggled Goods_.
+	  id:: 6803db75-899c-4265-ba80-1d11279c1ff8
 		- (A) For Violations of the National Internal Revenue Code.
 			- Any person, except an internal revenue official or employee, or other public official or employee, or his relative within the sixth degree of consanguinity, who voluntarily gives definite and sworn information, not yet in the possession of the Bureau of Internal Revenue, leading to the discovery of frauds upon the internal revenue laws or violations of any of the provisions thereof, thereby resulting in the recovery of revenues, surcharges and fees and/or the conviction of the guilty party and/or the imposition of any of the fine or penalty, shall be rewarded in a sum equivalent to ten percent (10%) of the revenues, surcharges or fees recovered and/or fine or penalty imposed and collected or One Million Pesos (P1,000,000) per case, whichever is lower.
 			- The same amount of reward shall also be given to an informer where the offender has offered to compromise the violation of law committed by him and his offer has been accepted by the Commissioner and collected from the offender: **Provided,** *That* should no revenue, surcharges or fees be actually recovered or collected, such person shall not be entitled to a reward: **Provided, further,** *That* the information mentioned herein shall not refer to a case already pending or previously investigated or examined by the Commissioner or any of his deputies, agents or examiners, or the Secretary of Finance or any of his deputies or agents: Provided, finally, That the reward provided herein shall be paid under rules and regulations issued by the Secretary of Finance, upon recommendation of the Commissioner.

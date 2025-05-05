@@ -26,12 +26,13 @@ tags:: #rccp
 			- [Aquino 2020 PDF](((6447ac3f-e27d-48c4-a869-0afd93cf61f3)))
 - ## SEC. 24. Corporate Officers.
   id:: 64408c45-bcc5-4af6-a45e-45971c61e137
-  collapsed:: true
 	- Immediately after their election, the directors of a corporation must formally organize and elect:
 		- (a) a president, who must be a director;
 		- (b) a treasurer, who must be a resident;
 		- (c) a secretary, who must be a citizen and resident of the Philippines; and
+		  id:: 6803db9b-eab9-4eff-801f-30634ed69eee
 		- (d) such other officers as may be provided in the bylaws.
+		  id:: 6803db9b-32dd-4dbb-8ea8-cb02a51cf28e
 	- If the corporation is vested with public interest, the board shall also elect a compliance officer. The same person may hold two (2) or more positions concurrently, except that no one shall act as president and secretary or as president and treasurer at the same time, unless otherwise allowed in this Code.
 	- The officers shall manage the corporation and perform such duties as may be provided in the bylaws and/or as resolved by the board of directors.
 		- **NOTES:**

@@ -1,7 +1,7 @@
 long-title:: TITLE X - APPRAISAL RIGHT
 tags:: rccp
 
-# TITLE X - APPRAISAL RIGHT
+- # TITLE X - APPRAISAL RIGHT
 - ## SEC. 80. When the Right of Appraisal May Be Exercised.
 	- Any stockholder of a corporation shall have the right to dissent and demand payment of the fair value of the shares in the following instances:
 	- (a) In case an amendment to the articles of incorporation has the effect of changing or restricting the rights of any stockholder or class of shares, or of authorizing preferences in any  respect superior to those of outstanding shares of any class, or of extending or shortening the term of corporate existence;
@@ -9,6 +9,7 @@ tags:: rccp
 	- (c) In case of merger or consolidation; and
 	- (d) In case of investment of corporate funds for any purpose other than the primary purpose of the corporation.
 - ## SEC. 81. How Right is Exercised.
+  id:: 6803db9b-447f-42ba-9b81-1239db1bc93e
 	- The dissenting stockholder who votes against a proposed corporate action may exercise the right of appraisal by making a written demand on the corporation for the payment of the fair value of shares held within thirty (30) days from the date on which the vote was taken: *Provided*, That failure to make the demand within such period shall be deemed a waiver of the appraisal right. If the proposed corporate action is implemented, the corporation shall pay the stockholder, upon surrender of the certificate or certificates of stock representing the stockholder’s shares, the fair value thereof as of the day before the vote was taken, excluding any appreciation or depreciation in anticipation of such corporate action.
 	- If, within sixty (60) days from the approval of the corporate action by the stockholders, the withdrawing stockholder and the corporation cannot agree on the fair value of the shares, it shall be determined and appraised by three (3) disinterested persons, one of whom shall be named by the stockholder, another by the corporation, and the third by the two (2) thus chosen. The findings of the majority of the appraisers shall be final, and their award shall be paid by the corporation within thirty (30) days after such award is made: *Provided*, That no payment shall be made to any dissenting stockholder unless the corporation has [[unrestricted retained earnings]] in its books to cover such payment: *Provided*, further, That upon payment by the corporation of the agreed or awarded price, the stockholder shall forthwith transfer the shares to the corporation.
 - ## SEC. 82. Effect of Demand and Termination of Right.

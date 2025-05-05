@@ -95,68 +95,53 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- In matters which are governed by the Code of Commerce and special laws, their deficiency shall be supplied by the provisions of this Code. (16a)
 - ## 🔴 CHAPTER 2 - Human Relations
+  id:: 6803db65-0418-4ce0-85e5-8848067ad16a
 	- **ARTICLE 19.**
 	  id:: cbe695a1-ab06-4f2f-88c8-7bf7fe04a686
-	  collapsed:: true
 		- Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe honesty and good faith.
 	- **ARTICLE 20.**
 	  id:: 5ee783eb-9316-4951-bb66-08817d17d6de
-	  collapsed:: true
 		- Every person who, contrary to law, wilfully or negligently causes damage to another, shall indemnify the latter for the same.
 	- **ARTICLE 21.**
 	  id:: 9e60832b-7273-403e-a724-ddf811f2dc21
-	  collapsed:: true
 		- Any person who wilfully causes loss or injury to another in a manner that is contrary to morals, good customs or public policy shall compensate the latter for the damage.
 	- **ARTICLE 22.**
-	  collapsed:: true
 		- Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter without just or legal ground, shall return the same to him.
 	- **ARTICLE 23.**
-	  collapsed:: true
 		- Even when an act or event causing damage to another’s property was not due to the fault or negligence of the defendant, the latter shall be liable for indemnity if through the act or event he was benefited.
 	- **ARTICLE 24.**
-	  collapsed:: true
 		- In all contractual, property or other relations, when one of the parties is at a disadvantage on account of his moral dependence, ignorance, indigence, mental weakness, tender age or other handicap, the courts must be vigilant for his protection.
 	- **ARTICLE 25.**
-	  collapsed:: true
 	  id:: 635bc737-3025-4e5f-a04b-db7575fa5613
 		- Thoughtless extravagance in expenses for pleasure or display during a period of acute public want or emergency may be stopped by order of the courts at the instance of any government or private charitable institution.
 	- **ARTICLE 26.**
-	  collapsed:: true
 		- Every person shall respect the dignity, personality, privacy and peace of mind of his neighbors and other persons. The following and similar acts, though they may not constitute a criminal offense, shall produce a cause of action for damages, prevention and other relief:
-		  collapsed:: true
 			- (1) Prying into the privacy of another’s residence;
 			- (2) Meddling with or disturbing the private life or family relations of another;
 			- (3) Intriguing to cause another to be alienated from his friends;
 			- (4) Vexing or humiliating another on account of his religious beliefs, lowly station in life, place of birth, physical defect, or other personal condition.
 	- **ARTICLE 27.**
-	  collapsed:: true
 		- Any person suffering material or moral loss because a public servant or employee refuses or neglects, without just cause, to perform his official duty may file an action for damages and other relief against the latter, without prejudice to any disciplinary administrative action that may be taken.
 	- **ARTICLE 28.**
-	  collapsed:: true
 		- Unfair competition in agricultural, commercial or industrial enterprises or in labor through the use of force, intimidation, deceit, machination or any other unjust, oppressive or highhanded method shall give rise to a right of action by the person who thereby suffers damage.
 	- **ARTICLE 29.**
-	  collapsed:: true
 		- When the accused in a criminal prosecution is acquitted on the ground that his guilt has not been proved beyond reasonable doubt, a civil action for damages for the same act or omission may be instituted. Such action requires only a preponderance of evidence.
 		- Upon motion of the defendant, the court may require the plaintiff to file a bond to answer for damages in case the complaint should be found to be malicious.
 		- If in a criminal case the judgment of acquittal is based upon reasonable doubt, the court shall so declare. In the absence of any declaration to that effect, it may be inferred from the text of the decision whether or not the acquittal is due to that ground.
 	- **ARTICLE 30.**
-	  collapsed:: true
 		- When a separate civil action is brought to demand civil liability arising from a criminal offense, and no criminal proceedings are instituted during the pendency of the civil case, a preponderance of evidence shall likewise be sufficient to prove the act complained of.
 	- **ARTICLE 31.**
-	  collapsed:: true
 		- When the civil action is based on an obligation not arising from the act or omission complained of as a felony, such civil action may proceed independently of the criminal proceedings and regardless of the result of the latter.
 	- **ARTICLE 32.**
-	  collapsed:: true
 		- Any public officer or employee, or any private individual, who directly or indirectly obstructs, defeats, violates or in any manner impedes or impairs any of the following rights and liberties of another person shall be liable to the latter for damages:
-		  collapsed:: true
 			- (1) Freedom of religion;
 			- (2) Freedom of speech;
 			- (3) Freedom to write for the press or to maintain a periodical publication;
 			- (4) Freedom from arbitrary or illegal detention;
 			- (5) Freedom of suffrage;
-			- (6) The right against deprivation of property without [due process of law]([[Due Process Clause]]);
+			- (6) The right against deprivation of property without due process of law;
 			- (7) The right to a [[just compensation]] when private property is taken for public use;
-			- (8) The right to the [equal protection of the laws]([[Equal Protection]]);
+			- (8) The right to the equal protection of the laws;
 			- (9) The right to be secure in one’s person, house, papers, and effects against unreasonable [[searches and seizures]];
 			- (10) The liberty of abode and of changing the same;
 			- (11) The privacy of communication and correspondence;
@@ -166,7 +151,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (15) The right of the accused against excessive bail;
 			- (16) The right of the accused to be heard by himself and counsel, to be informed of the nature and cause of the accusation against him, to have a speedy and public trial, to meet the witnesses face to face, and to have compulsory process to secure the attendance of witness in his behalf;
 			- (17) Freedom from being compelled to be a witness against one’s self, or from being forced to confess guilt, or from being induced by a promise of immunity or reward to make such confession, except when the person confessing becomes a State witness;
-			- (18) Freedom from excessive fines, or [[cruel and unusual punishment]], unless the same is imposed or inflicted in accordance with a statute which has not been judicially declared unconstitutional; and
+			- (18) Freedom from excessive fines, or cruel and unusual punishment, unless the same is imposed or inflicted in accordance with a statute which has not been judicially declared unconstitutional; and
 			- (19) Freedom of access to the courts.
 		- In any of the cases referred to in this article, whether or not the defendant’s act or omission constitutes a criminal offense, the aggrieved party has a right to commence an entirely separate and distinct civil action for damages, and for other relief.
 		- Such civil action shall proceed independently of any criminal prosecution (if the latter be instituted), and may be proved by a preponderance of evidence.
@@ -174,19 +159,16 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- Exemplary damages may also be adjudicated.
 		- The responsibility herein set forth is not demandable from a judge unless his act or omission constitutes a violation of the Penal Code or other penal statute.
 	- **ARTICLE 33.**
-	  collapsed:: true
 		- In cases of defamation, fraud, and physical injuries, a civil action for damages, entirely separate and distinct from the criminal action, may be brought by the injured party.
 		- Such civil action shall proceed independently of the criminal prosecution, and shall require only a preponderance of evidence.
 	- **ARTICLE 34.**
-	  collapsed:: true
 		- When a member of a city or municipal police force refuses or fails to render aid or protection to any person in case of danger to life or property, such peace officer shall be primarily liable for damages, and the city or municipality shall be subsidiarily responsible therefor.
 		- The civil action herein recognized shall be independent of any criminal proceedings, and a preponderance of evidence shall suffice to support such action.
 	- **ARTICLE 35.**
-	  collapsed:: true
 	  id:: 635bc737-7455-48b0-b1d7-fcdaadc2658b
 		- When a person, claiming to be injured by a criminal offense, charges another with the same, for which no independent civil action is granted in this Code or any special law, but the justice of the peace finds no reasonable grounds to believe that a crime has been committed, or the prosecuting attorney refuses or fails to institute criminal proceedings, the complainant may bring a civil action for damages against the alleged offender.
 		- Such civil action may be supported by a preponderance of evidence. Upon the defendant’s motion, the court may require the plaintiff to file a bond to indemnify the defendant in case the complaint should be found to be malicious.
 		- If during the pendency of the civil action, an information should be presented by the prosecuting attorney, the civil action shall be suspended until the termination of the criminal proceedings.
 	- **ARTICLE 36.**
-	  collapsed:: true
 		- Pre-judicial questions, which must be decided before any criminal prosecution may be instituted or may proceed, shall be governed by rules of court which the Supreme Court shall promulgate and which shall not be in conflict with the provisions of this Code.
+			- > NOTE: See [Rule 111, Revised Rules on Criminal Procedure.]([[ROC_Annotated/PART_3/Rule 111]])
