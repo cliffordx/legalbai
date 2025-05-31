@@ -84,8 +84,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
   collapsed:: true
 	- The creditors or assignees of the co-owners may take part in the division of the thing owned in common and object to its being effected without their concurrence.
 	- But they cannot impugn any partition already executed, unless there has been fraud, or in case it was made notwithstanding a formal opposition presented to prevent it, without prejudice to the right of the debtor or assignor to maintain its validity. (403)
-- **ARTICLE 498.**
-  id:: 36deb439-f390-4b1a-a778-c2130bb6995f
+- id:: 36deb439-f390-4b1a-a778-c2130bb6995f
   collapsed:: true
 	- Whenever the thing is essentially indivisible and the co-owners cannot agree that it be allotted to one of them who shall indemnify the others, it shall be sold and its proceeds distributed. (404)
 - **ARTICLE 499.**

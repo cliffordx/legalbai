@@ -10,8 +10,7 @@ icon:: 龎
 	- **SEC. 203.** _Period of Limitation Upon Assessment and Collection_.
 	  id:: 631d7216-92d7-4599-b85a-64d4d50b4441
 		- Except as provided in [Section 222](((631d7216-1497-40b6-a3f8-549b547b629d))), internal revenue taxes shall be assessed within three (3) years after the last day prescribed by law for the filing of the return, and no proceeding in court without assessment for the collection of such taxes shall be begun after the expiration of such period: **Provided,** *That* in a case where a return is filed beyond the period prescribed by law, the three (3)-year period shall be counted from the day the return was filed. For purposes of this Section, a return filed before the last day prescribed by law for the filing thereof shall be considered as filed on such last day.
-	- **SEC. 204.** _Authority of the Commissioner to Compromise, Abate and Refund or Credit Taxes_.
-	  id:: 633ef5f8-3b34-4532-953d-f826a4ef410b
+	- id:: 633ef5f8-3b34-4532-953d-f826a4ef410b
 	  collapsed:: true
 		- The Commissioner may –
 			- _(A) Compromise the payment of any internal revenue tax, when:_

@@ -571,8 +571,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- [Paras](((6357df6e-767b-4222-8de2-cf61670b5f75)))
 	- ### SECTION 5 - [[Legitime]]
 	  collapsed:: true
-		- **ARTICLE 886.**
-		  id:: 634fba6d-78b7-4ce7-a959-dce0556783d5
+		- id:: 634fba6d-78b7-4ce7-a959-dce0556783d5
 			- {{cloze Legitime}} is that part of the testator’s property which he cannot {{cloze dispose}} of because the law has {{cloze reserved}} it for certain heirs who are, therefore, called [[compulsory heirs]] . (806)
 		- **ARTICLE 887.**
 		  id:: 634fba6d-b427-495e-a84a-98c6daab592b
@@ -1220,8 +1219,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- **ARTICLE 1038.**
 			- Any person incapable of succession, who, disregarding the prohibition stated in the preceding articles, entered into the possession of the hereditary property, shall be obliged to return it together with its accessions.
 			- He shall be liable for all the fruits and rents he may have received, or could have received through the exercise of due diligence. (760a)
-		- **ARTICLE 1039.**
-		  id:: 6337096d-2428-4586-aa4c-e05f3eb0818c
+		- id:: 6337096d-2428-4586-aa4c-e05f3eb0818c
 			- Capacity to succeed is governed by the law of the nation of the decedent. (n)
 		- **ARTICLE 1040.**
 			- The action for a declaration of incapacity and for the recovery of the inheritance, devise or legacy shall be brought within five years from the time the disqualified person took possession thereof.

@@ -7,9 +7,6 @@ status:: inactive, superseded
 
 - Superseded by: [Title VIII - Support]([[codal/Family Code of the Philippines/Title 8]]) (Family Code of the Philippines)
 - id:: 630f4e85-3674-4960-bfd6-dfd332a67c40
-  #+BEGIN_TIP
-  Executive Order No. 209, July 6, 1987, as amended by Executive Order No. 227, July 17, 1987.[^1]
-  #+END_TIP
 	- [^1]: Art. 254. Titles III, IV, V, VI, VIII, IX, XI, and XV of Book 1 of Republic Act No. 386, otherwise known as the Civil Code of the Philippines, as amended, and Articles 17, 18, 19, 27, 28, 29, 30, 31, 39, 40, 41, and 42 of Presidential Decree No. 603, otherwise known as the Child and Youth Welfare Code, as amended, and all laws, decrees, executive orders, proclamations, rules and regulations, or parts thereof, inconsistent herewith are hereby repealed.
 - **ARTICLE 290.**
   collapsed:: true
@@ -17,8 +14,7 @@ status:: inactive, superseded
 	- > Note: This is superseded by [Article 194](((cf08893c-3a8c-4d28-ad56-757a94308e45))), Family Code of the Philippines.
 	- Support is everything that is indispensable for sustenance, dwelling, clothing and medical attendance, according to the social position of the family.
 	- Support also includes the education of the person entitled to be supported until he completes his education or training for some profession, trade or vocation, even beyond the age of majority. (142a)
-- **ARTICLE 291.**
-  id:: 9394ae3c-6bc2-4f47-a973-8020c8e96b51
+- id:: 9394ae3c-6bc2-4f47-a973-8020c8e96b51
   collapsed:: true
 	- > Note: This is superseded by [Article 195,](((ad404461-436a-4a88-85ac-211ceae86f99))) Family Code of the Philippines.
 	- The following are obliged to support each other to the whole extent set forth in the preceding article:

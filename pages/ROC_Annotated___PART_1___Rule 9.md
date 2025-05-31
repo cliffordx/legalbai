@@ -6,9 +6,8 @@ tags:: #codal/roc/civpro #pam
 status:: active
 sys-category:: [[41]]
 
-# RULE 9 - Effect of Failure to Plead
-- **SECTION 1.** *Defenses and objections not pleaded.*
-  id:: 4f441dbd-a613-4e1c-ad5f-a83024b4b0be
+- # RULE 9 - Effect of Failure to Plead
+- id:: 4f441dbd-a613-4e1c-ad5f-a83024b4b0be
 	- Defenses and objections not pleaded either in a motion to dismiss or in the answer are deemed waived.
 	- However, when it appears from the pleadings or the evidence on record that the court has no jurisdiction over the subject matter, that there is another action pending between the same parties for the same cause, or that the action is barred by a prior judgment or by statute of limitations, the court shall dismiss the claim. (2a)
 - **SECTION 2.** *Compulsory counterclaim, or cross-claim not set up barred.*

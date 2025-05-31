@@ -82,8 +82,7 @@ sys-category:: [[41]]
 - **SECTION 14.** Stipulations regarding taking of depositions.
   id:: b0d1df83-1080-4f77-8a19-11f18696ad21
 	- If the parties so stipulate in writing, depositions may be taken before any person authorized to administer oaths, at any time or place, in accordance with these Rules, and when so taken may be used like other depositions. (14a, R24)
-- **SECTION 15.** Deposition upon oral examination; notice; time and place.
-  id:: 54cd8a54-4be2-49d1-b2fd-2131c680bbb2
+- id:: 54cd8a54-4be2-49d1-b2fd-2131c680bbb2
   collapsed:: true
 	- A party desiring to take the deposition of any person upon oral examination shall give reasonable notice in writing to every other party to the action.
 	- The notice shall state the time and place for taking the deposition and the name and address of each person to be examined, if known, and if the name is not known, a general description sufficient to identify him <ins>or her</ins> or the particular class or group to which he <ins>or she</ins> belongs.
@@ -144,8 +143,7 @@ sys-category:: [[41]]
 - **SECTION 24.** Failure of party giving notice to serve subpoena.
   collapsed:: true
 	- If the party giving the notice of the taking of a deposition of a witness fails to serve a subpoena upon him <ins>or her</ins> and the witness because of such failure does not attend, and if another party attends in person or by counsel because he <ins>or she</ins> expects the deposition of that witness to be taken, the court may order the party giving the notice to pay such other party the amount of the reasonable expenses incurred by him <ins>or her</ins>  and his <ins>or her</ins> counsel in so attending, including reasonable attorney's fees. (24a, R24)
-- **SECTION 25.** Deposition upon written interrogatories; service of notice and of interrogatories.
-  id:: e6e473d1-de40-47d8-a79d-da6de9578629
+- id:: e6e473d1-de40-47d8-a79d-da6de9578629
   collapsed:: true
 	- A party desiring to take the deposition of any person upon written interrogatories shall serve them upon every other party with a notice stating the name and address of the person who is to answer them and the name or descriptive title and address of the officer before whom the deposition is to be taken.
 		- #+BEGIN_NOTE

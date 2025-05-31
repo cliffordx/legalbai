@@ -34,15 +34,13 @@ tags:: paksiteer, paksitive, paksionate
 		- 4. [Remember: The Science of Memory and The Art of Forgetting](https://amzn.to/3SI2sJH) by Lisa Genova, 2021. (*[disclaimer, woot](((6358df01-20ef-4b83-9569-7742d7622398)))*)
 - ### Who is the author of Legal Bai GitHub page?
 	- The author is *Clifford Enoc*, a licensed real estate broker and a law student from the best law school in Carbon, USJ-R School of Law. His favorite tagline is "Be paksionate, Be Paksitive!" `#AdAstra`
-	- ### Disclaimer
-	  id:: 635b3d4a-3926-469b-8dd5-980f6f7c1721
+	- id:: 635b3d4a-3926-469b-8dd5-980f6f7c1721
 		- The views and opinions expressed herein, including all pages are those of the author. This Github page is for general information and educational purposes [only.]([[Grammar Nazi]]) It is not offered as, and does not constitute, [[legal advice]].
 		  id:: f58f3bdc-7e2d-4e84-a836-45daaad58780
 	- #### Affiliate Links
 	  id:: 6358df01-20ef-4b83-9569-7742d7622398
 		- Some links to websites are affiliate links, *for example*, Amazon. These are sponsored and/or affiliated websites, meaning that if you purchase something from them using my affiliate links , I will earn a 'tiny' commission fee. Thus. it is necessary to disclose this information upfront.
-- ## Support or Contact
-  id:: 635bc75b-4c3b-4b8f-9d92-f58f0d227fd2
+- id:: 635bc75b-4c3b-4b8f-9d92-f58f0d227fd2
 	- You may reach me at @cliffordx in these SOSYAL MEDYAS:
 	  id:: de1311b9-7141-4a55-950c-2ffe17d350c0
 		- [Messenger/Facebook](https://faceboook.com/cliffordx)

@@ -7,5 +7,4 @@
 - I used this tool this year (sometime June 2022) while using [[Obsidian]] and it stick to me [ever since.](((6360ccd0-32c0-4a46-8496-4a67db205cc9))).
 - In fact, it became my daily journal app — from writing my TODO's, scheduled classes, habits and even tracking my health.
 - It's really good.
-	- As one of the Youtuber, *Dr.* Károly Zsolnai-Fehér's would say "What a time to be alive."[link](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-	  id:: 636f5f5a-2e5f-40ab-983e-d02698e29c39
+	- id:: 636f5f5a-2e5f-40ab-983e-d02698e29c39

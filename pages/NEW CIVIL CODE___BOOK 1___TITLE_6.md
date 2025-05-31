@@ -255,8 +255,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) When there is a decree of legal separation;
 				- (3) When the marriage is annulled;
 				- (4) In case of judicial separation of property under [article 191](((baad8e66-7b95-4327-95b9-264a2a5db339))). (1417a)
-		- **ARTICLE 176.**
-		  id:: ba460d88-7946-420d-bf0e-c25f54e6cae8
+		- id:: ba460d88-7946-420d-bf0e-c25f54e6cae8
 			- In case of legal separation, the guilty spouse shall forfeit his or her share of the conjugal partnership profits, which shall be awarded to the children of both, and the children of the guilty spouse had by a prior marriage.
 			- However, if the conjugal partnership property came mostly or entirely from the work or industry, or from the wages and salaries, or from the fruits of the separate property of the guilty spouse, this forfeiture shall not apply.
 			- In case there are no children, the innocent spouse shall be entitled to all the net profits. (n)

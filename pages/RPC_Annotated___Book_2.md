@@ -618,29 +618,24 @@ sys-category:: [[21]]
 			- **Art. 243.** *Orders or requests by executive officers to any judicial authority.*
 			  collapsed:: true
 				- Any executive officer who shall address any order or suggestion to any judicial authority with respect to any case or business coming within the exclusive jurisdiction of the courts of justice shall suffer the penalty of *arresto mayor* and a fine not exceeding One hundred thousand pesos (P100,000).^{(As amended by R.A. No. 10951, August 29, 2017)}
-			- **Art. 244.** *Unlawful appointments.*
-			  id:: 6518ffe6-0a97-49f2-b7d8-eed4b691bae3
+			- id:: 6518ffe6-0a97-49f2-b7d8-eed4b691bae3
 			  collapsed:: true
 				- Any public officer who shall knowingly nominate or appoint to any public office any person lacking the legal qualifications therefor, shall suffer the penalty of *arresto mayor* and a fine not exceeding Two hundred thousand pesos. (P200,000)^{(As amended by R.A. No. 10951, August 29, 2017)}
 		- #### Section Four. — Abuses against chastity
 		  collapsed:: true
-			- **Art. 245.** *Abuses against chastity; Penalties.*
-			  id:: 6518ffe6-951e-40f3-9a66-70f22586feb8
+			- id:: 6518ffe6-951e-40f3-9a66-70f22586feb8
 				- The penalties of *prision correccional* in its medium and maximum periods and temporary special disqualification shall be imposed:
 					- 1. Upon any public officer who shall solicit or make immoral or indecent advances to a woman interested in matters pending before such officer for decision, or with respect to which he is required to submit a report to or consult with a superior officer;
 					- id:: 6518ffe6-d897-423d-a2bb-4ed6439dc13e
-					  2. Any **warden** or other public officer directly charged with the care and custody of prisoners or persons under arrest who shall solicit or make immoral or indecent advances to a woman under his custody.
 					- If the person solicited be the wife, daughter, sister of relative within the same degree by affinity of any person in the custody of such warden or officer, the penalties shall be *prision correccional* in its minimum and medium periods and temporary special disqualification.
 - ## Title Eight - CRIMES AGAINST PERSONS
   id:: 6488844a-3002-4118-87a7-8a9ecd78439c
   collapsed:: true
-	- ### Chapter One - DESTRUCTION OF LIFE
-	  id:: 6518ffe6-0bb9-430c-baf0-7aff85ac51b8
+	- id:: 6518ffe6-0bb9-430c-baf0-7aff85ac51b8
 	  collapsed:: true
 		- #### Section One. — Parricide, murder, homicide
 		  collapsed:: true
-			- **Art. 246.** *Parricide.*
-			  id:: 88168e46-7691-4bcd-9511-82465f64a4a7
+			- id:: 88168e46-7691-4bcd-9511-82465f64a4a7
 			  collapsed:: true
 				- Any person who shall kill his father, mother, or child, whether legitimate or illegitimate, or any of his ascendants, or descendants, or his spouse, shall be guilty of parricide and shall be punished by the penalty of reclusion perpetua to death.[^1] ^{As amended by R.A. No. 7659, December 13, 1993.}
 			- **Art. 247.** *Death or physical injuries inflicted under exceptional circumstances.*

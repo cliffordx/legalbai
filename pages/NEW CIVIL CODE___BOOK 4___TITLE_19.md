@@ -77,8 +77,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- (5) Credits and advancements made to the debtor for support of himself or herself, and family, during the last year preceding the insolvency;
 			- (6) Support during the insolvency proceedings, and for three months thereafter;
 			- (7) Fines and civil indemnification arising from a criminal offense;
-			- (8) Legal expenses, and expenses incurred in the administration of the insolvent’s estate for the common interest of the creditors, when properly authorized and approved by the court;
-			  id:: 62cc59ef-cc40-44ab-92ac-3d2f887f338b
+			- id:: 62cc59ef-cc40-44ab-92ac-3d2f887f338b
 			- (9) Taxes and assessments due the national government, other than those mentioned in articles 2241, [No. 1](((62b5ac51-25da-4d93-a35b-fde2e49f006b))), and 2242, [No. 1](((62b5ac92-b407-46f1-aa46-113b837d108a)));
 			- (10) Taxes and assessments due any province, other than those referred to in articles 2241, [No. 1](((62b5ac51-25da-4d93-a35b-fde2e49f006b))), and 2242, [No. 1](((62b5ac92-b407-46f1-aa46-113b837d108a)));
 			- (11) Taxes and assessments due any city or municipality, other than those indicated in articles 2241, [No. 1](((62b5ac51-25da-4d93-a35b-fde2e49f006b))), and 2242, [No. 1](((62b5ac92-b407-46f1-aa46-113b837d108a)));

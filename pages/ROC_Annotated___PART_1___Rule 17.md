@@ -7,8 +7,7 @@ status:: active
 sys-category:: [[41]]
 
 - # RULE 17 - Dismissal of Actions
-- **SECTION 1**. *Dismissal upon notice by plaintiff.*
-  id:: 3aaf92c3-aa9a-4492-ba43-8625ace88297
+- id:: 3aaf92c3-aa9a-4492-ba43-8625ace88297
 	- A complaint may be dismissed by the plaintiff by filing a notice of dismissal at any time before service of the answer or of a motion for summary judgment.
 	- Upon such notice being filed, the court shall issue an order confirming the dismissal.
 	- Unless otherwise stated in the notice, the dismissal is without prejudice, except that a notice operates as an adjudication upon the merits when filed by a plaintiff who has once dismissed in a competent court an action based on or including the same claim. (1a)

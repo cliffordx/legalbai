@@ -51,24 +51,20 @@ sys-category:: [[21]]
 		  id:: 649990c9-785b-4ded-a421-723f66929d39
 		  collapsed:: true
 			- Light felonies are punishable only when they have been consummated, with the exception of those committed against person or property. #[[persons or property]]
-		- **ARTICLE 8.** *Conspiracy and Proposal to Commit Felony.*
-		  id:: 64bd037a-1dd8-48f7-848c-13086966be26
+		- id:: 64bd037a-1dd8-48f7-848c-13086966be26
 			- Conspiracy and proposal to commit felony are punishable only in the cases in which the law specially provides a penalty therefor.
 			- A conspiracy exists when two or more persons come to an agreement concerning the commission of a felony and decide to commit it.
 			- There is proposal when the person who has decided to commit a felony proposes its execution to some other person or persons.
-		- **ARTICLE 9.** *Grave Felonies, Less Grave Felonies and Light Felonies.*
-		  id:: 649990c9-468c-423f-a94c-4fb0a4608960
+		- id:: 649990c9-468c-423f-a94c-4fb0a4608960
 			- Grave felonies are those to which the law attaches the capital punishment or penalties which in any of their periods are afflictive, in accordance with [article 25](((513609b9-8883-4407-b69d-92b98afce0a4))) of this Code.
 			- Less grave felonies are those which the law punishes with penalties which in their maximum period are correctional, in accordance with the abovementioned article.
 			- Light felonies are those infractions of law for the commission of which the penalty of arresto menor or a fine not exceeding forty thousand pesos(P40,000), or both, is provided.^{As amended by R.A. No. 10951, August 29, 2017}
 			- ## COMMENTS:
 				-
-		- **ARTICLE 10.** *Offenses Not Subject to the Provisions of this Code.*
-		  id:: 64bd037a-d1ce-48c8-bb7d-2baec1afe828
+		- id:: 64bd037a-d1ce-48c8-bb7d-2baec1afe828
 			- Offenses which are or in the future may be punishable under special laws are not subject to the provisions of this Code. This Code shall be [supplementary]([[suppletory laws]]) to such laws, unless the latter should specially provide the contrary.
 	- ### CHAPTER TWO  Justifying Circumstances and Circumstances which Exempt from Criminal Liability
-		- **ARTICLE 11.** *Justifying Circumstances.*
-		  id:: c4ff2201-eeda-4c18-bfdb-2eed9796c9e2
+		- id:: c4ff2201-eeda-4c18-bfdb-2eed9796c9e2
 		  collapsed:: true
 			- The following do not incur any criminal liability:
 				- (1) Anyone who acts in defense of his person or rights, provided that the following circumstances concur:
@@ -86,8 +82,7 @@ sys-category:: [[21]]
 					- **Third.** That there be no other practical and less harmful means of preventing it.
 				- (4) Any person who acts in the fulfillment of a duty or in the lawful exercise of a right or office.
 				- (5) Any person who acts in obedience to an order issued by a superior for some lawful purpose.
-		- **ARTICLE 12.** *Circumstances Which Exempt from Criminal Liability.*
-		  id:: ee1a0bdb-5aa7-4dd6-94b4-8903d9b521b2
+		- id:: ee1a0bdb-5aa7-4dd6-94b4-8903d9b521b2
 		  collapsed:: true
 			- The following are exempt from criminal liability:
 			  collapsed:: true
@@ -179,8 +174,7 @@ sys-category:: [[21]]
 		  collapsed:: true
 			- 1. Principals.
 			- 2. Accomplices.
-	- **ARTICLE 17.** *Principals.*
-	  id:: dfaf7ca5-4535-4a10-8129-7975709d62cb
+	- id:: dfaf7ca5-4535-4a10-8129-7975709d62cb
 	  collapsed:: true
 		- The following are considered principals:
 		  collapsed:: true
@@ -236,8 +230,7 @@ sys-category:: [[21]]
 				- 5. Deprivation of rights and the reparations which the civil laws may establish in penal form.
 	- ### CHAPTER TWO - Classification of Penalties
 	  id:: e2201bc0-f128-472b-a104-6fdfbf4d547d
-		- **ARTICLE 25.** *Penalties Which May Be Imposed.*
-		  id:: 513609b9-8883-4407-b69d-92b98afce0a4
+		- id:: 513609b9-8883-4407-b69d-92b98afce0a4
 		  collapsed:: true
 			- The penalties which may be imposed, according to this Code, and their different classes, are those included in the following:
 			- #### SCALE
@@ -300,8 +293,7 @@ sys-category:: [[21]]
 				- If the offender shall be in prison the term of the duration of the temporary penalties shall be computed from the day on which the judgment of conviction shall have become final.
 				- If the offender be not in prison, the term of the duration of the penalty consisting of deprivation of liberty shall be computed from the day that the offender is placed at the disposal of the judicial authorities for the enforcement of the penalty.
 				- The duration of the other penalties shall be computed only from the day on which the defendant commences to serve his sentence.
-			- **ARTICLE 29.** *Period of the Preventive Imprisonment Deducted from Term of Imprisonment.*
-			  id:: df0fda67-1da2-43a8-a044-dfacbad5baae
+			- id:: df0fda67-1da2-43a8-a044-dfacbad5baae
 			  collapsed:: true
 				- Offenders or accused who have undergone preventive imprisonment shall be credited in the service of their sentence consisting of deprivation of liberty, with the full time during which they have undergone preventive imprisonment if the detention prisoner agrees voluntarily in writing after being informed of the effects thereof and with the assistance of counsel to abide by the same disciplinary rules imposed upon convicted prisoners, except in the following cases:
 				  collapsed:: true
@@ -371,8 +363,7 @@ sys-category:: [[21]]
 					- id:: 630325bf-00f2-4320-b6f2-3d39b303a275
 					  3. The fine.
 					- 4. The costs of the proceedings.
-			- **ARTICLE 39.** *Subsidiary Penalty.*
-			  id:: 631d722a-6278-4468-87ef-0ff7423fb4d4
+			- id:: 631d722a-6278-4468-87ef-0ff7423fb4d4
 				- If the convict has no property with which to meet the [fine mentioned in paragraph 3](((630325bf-00f2-4320-b6f2-3d39b303a275))) of the next preceding article, he shall be subject to a subsidiary personal liability at the rate of one day for each amount equivalent to the highest minimum wage rate prevailing in the Philippines at th time of the rendition of judgment of conviction by the trial court, subject to the following rules:
 				  collapsed:: true
 					- 1. If the principal penalty imposed be *prisión correccional* or arresto and fine, he shall remain under confinement until his fine and pecuniary liabilities referred in the preceding paragraph are satisfied, but his subsidiary imprisonment shall not exceed one-third of the term of the sentence, and in no case shall it continue for more than one year, and no fraction or part of a day shall be counted against the prisoner.
@@ -383,8 +374,7 @@ sys-category:: [[21]]
 		- #### SECTION THREE - Penalties in Which Other Accessory Penalties are Inherent
 		  id:: 0604400e-e683-4847-89b4-53ed374095ec
 		  collapsed:: true
-			- **ARTICLE 40.** *Death — Its Accessory Penalties.*
-			  id:: 79116cc4-637c-48d1-a501-11cabf5f7bc7
+			- id:: 79116cc4-637c-48d1-a501-11cabf5f7bc7
 			  collapsed:: true
 				- The death penalty, when it is not executed by reason of commutation or pardon shall carry with it that of perpetual absolute disqualification and that of civil interdiction during thirty years following the date of sentence, unless such accessory penalties have been expressly remitted in the pardon.
 			- **ARTICLE 41.** *Reclusión Perpetua and Reclusión Temporal — Their accessory penalties.*

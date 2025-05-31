@@ -80,8 +80,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		- The action to claim his legitimacy may be brought by the child during all his lifetime, and shall be transmitted to his heirs if he should die during his minority or in a state of insanity. In these cases the heirs shall have a period of five years within which to institute the action.
 		- The action already commenced by the child is transmitted upon his death to the heirs, if the proceeding has not yet lapsed. (118)
 - ## 🔴 CHAPTER 3 - Legitimated Children
-	- **ARTICLE 269.**
-	  id:: 6e6a0372-aa07-4d5e-a9fa-78bfa4340446
+	- id:: 6e6a0372-aa07-4d5e-a9fa-78bfa4340446
 	  collapsed:: true
 		- Only [[natural children]] can be legitimated.
 		- Children born outside wedlock of parents who, at the time of the conception of the former, were not disqualified by any impediment to marry each other, are natural. (119a)
@@ -137,8 +136,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (1) To bear the surname of the parent recognizing him;
 				- (2) To receive support from such parent, in conformity with [article 291](((9394ae3c-6bc2-4f47-a973-8020c8e96b51)));
 				- (3) To receive, in a proper case, the hereditary portion which is determined in this Code. (134)
-		- **ARTICLE 283.**
-		  id:: a5c05f48-c329-4675-ae69-067408221e2d
+		- id:: a5c05f48-c329-4675-ae69-067408221e2d
 		  collapsed:: true
 			- In any of the following cases, the father is obliged to recognize the child as his natural child:
 			  collapsed:: true
@@ -146,8 +144,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- (2) When the child is in continuous possession of status of a child of the alleged father by the direct acts of the latter or of his family;
 				- (3) When the child was conceived during the time when the mother cohabited with the supposed father;
 				- (4) When the child has in his favor any evidence or proof that the defendant is his father. (n)
-		- **ARTICLE 284.**
-		  id:: ed799d18-80ca-4f6a-90ec-63ef7cf06581
+		- id:: ed799d18-80ca-4f6a-90ec-63ef7cf06581
 		  collapsed:: true
 			- The mother is obliged to recognize her natural child:
 			  collapsed:: true

@@ -7,8 +7,7 @@ status:: active
 sys-category:: [[42]]
 
 - # RULE 75 - Production of Will. Allowance of Will Necessary
-- **SECTION 1.** *Allowance necessary. Conclusive as to execution.*
-  id:: 63439bd6-57e9-40dc-a0d8-4d0b989d09e8
+- id:: 63439bd6-57e9-40dc-a0d8-4d0b989d09e8
 	- No will shall pass either real or personal estate unless it is proved and allowed in the proper court.
 	- Subject to the right of appeal, such allowance of the will shall be conclusive as to its due execution.
 - **SECTION 2.** *Custodian of will to deliver.*

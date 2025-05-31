@@ -54,8 +54,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	- **ARTICLE 1316.**
 	  collapsed:: true
 		- Real contracts, such as deposit, pledge and commodatum, are not perfected until the delivery of the object of the obligation. (n)
-	- **ARTICLE 1317.**
-	  id:: 9952ac75-a0c7-4ad5-8229-9496e664e3a2
+	- id:: 9952ac75-a0c7-4ad5-8229-9496e664e3a2
 	  collapsed:: true
 		- No one may contract in the name of another without being authorized by the latter, or unless he has by law a right to represent him.
 		- A contract entered into in the name of another by one who has no authority or legal representation, or who has acted beyond his powers, shall be unenforceable, unless it is ratified, expressly or impliedly, by the person on whose behalf it has been executed, before it is revoked by the other contracting party. (1259a)

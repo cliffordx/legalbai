@@ -154,8 +154,7 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 	  collapsed:: true
 		- When the plaintiff’s own negligence was the immediate and proximate cause of his injury, he cannot recover damages.
 		- But if his negligence was only contributory, the immediate and proximate cause of the injury being the defendant’s lack of due care, the plaintiff may recover damages, but the courts shall mitigate the damages to be awarded. (n)
-	- **ARTICLE 2180.**
-	  id:: da241e50-f4cd-46af-af2e-fd692c15a255
+	- id:: da241e50-f4cd-46af-af2e-fd692c15a255
 	  collapsed:: true
 		- The obligation imposed by ((d635e13b-045f-4eaf-89fe-b4730f48cd71)) is demandable not only for one’s own acts or omissions, but also for those of persons for whom one is responsible.
 		  id:: 634fba6f-dfe5-4364-b94a-591aa70e039a
