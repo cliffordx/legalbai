@@ -1,0 +1,3 @@
+- **[15:25:15]** I'm back, lol ;)
+	- Anyways, here's a screenshot of my `vibe reviewing` atm:
+	- ![CleanShot 2025-05-31 at 15.23.05@2x.png](../assets/CleanShot_2025-05-31_at_15.23.05@2x_1748676266056_0.png){:width 572.19921875}
