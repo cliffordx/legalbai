@@ -1,3 +1,5 @@
+- **[19:36:40]** Gemini 2.5 Pro is good at finding the bug in the code while Claude Sonnet 4 (Reasoning) is really good at overall refactoring of code. Let me explain. `CopyWebpackPlugin` is the culprit. Claude reiterated its mistake around 4x to no avail. In frustration, I asked Gemini regarding the issue. And Gemini spot
+	- ![CleanShot 2025-06-09 at 19.33.37@2x.png](../assets/CleanShot_2025-06-09_at_19.33.37@2x_1749469059673_0.png){:width 735.8358154296875}
 - **Impeachment Timeline & Legal Process Flow**
   ==The flowchart highlights tensions between procedural delays and accountability mandates under Art. XI.==
 	- ![CleanShot 2025-06-09 at 14.20.19@2x.png](../assets/CleanShot_2025-06-09_at_14.20.19@2x_1749450618435_0.png){:width 552.2457275390625}
