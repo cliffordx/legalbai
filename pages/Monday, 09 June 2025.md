@@ -1,0 +1,13 @@
+- **Impeachment Timeline & Legal Process Flow**
+  ==The flowchart highlights tensions between procedural delays and accountability mandates under Art. XI.==
+	- ![CleanShot 2025-06-09 at 14.20.19@2x.png](../assets/CleanShot_2025-06-09_at_14.20.19@2x_1749450618435_0.png){:width 552.2457275390625}
+		- This diagram maps VP Sara Duterte’s impeachment proceedings from the December 2024 complaint filing to current constitutional disputes.
+	- ## Key stages:
+		- **House Approval** (Feb 2025) → **Senate Delay** (trial set for June 11, 2025)
+		- **Legal Challenges**:
+			- *Mandamus* (force trial) vs. *Prohibition* (stop trial) petitions to Supreme Court
+			- Debate over "forthwith" (immediate trial) vs. Senate’s "non-continuing body" claim
+		- **Senate Proposals**:
+			- Tolentino’s 19-day expedited trial vs. Dela Rosa’s dismissal resolution
+		- **Scholars’ View**: UP Law faculty argues trial transcends congressional sessions (constituent power).
+		- **Outcomes**: SC ruling could trigger trial continuation (20th Congress), dismissal, or constitutional crisis.
