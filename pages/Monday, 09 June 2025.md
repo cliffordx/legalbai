@@ -4,7 +4,7 @@
 - **Impeachment Timeline & Legal Process Flow**
   ==The flowchart highlights tensions between procedural delays and accountability mandates under Art. XI.==
 	- ![CleanShot 2025-06-09 at 14.20.19@2x.png](../assets/CleanShot_2025-06-09_at_14.20.19@2x_1749450618435_0.png){:width 552.2457275390625}
-		- This diagram maps VP Sara Duterte’s impeachment proceedings from the December 2024 complaint filing to current constitutional disputes.
+		- This diagram maps VP Sara Duterte’s impeachment proceedings from the December 2024 complaint filing to current constitutional disputes. [Full Article](https://www.perplexity.ai/page/impeachment-process-in-the-phi-I5ATOnksTr6O8pj9wmaZEg)
 	- ## Key stages:
 		- **House Approval** (Feb 2025) → **Senate Delay** (trial set for June 11, 2025)
 		- **Legal Challenges**:
