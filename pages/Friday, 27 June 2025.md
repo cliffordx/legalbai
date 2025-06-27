@@ -1,5 +1,5 @@
 - **[15:17:53]**  *There is no perfect way to study and review in the bar.*
-	- *Learn your circadian rythm. learn to know your optimal time to study. Understand yourself.*
+	- *Learn your circadian rhythm. learn to know your optimal time to study. Understand yourself.*
 	- *Start cutting back. Time. Content. Debriefing. Analysis. - **Atty.** Mia Gentugaya
 		- I think I'm on the right track.
 		- 4 hours per day starting -60 days to DAY-D.
