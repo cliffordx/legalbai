@@ -1,3 +1,12 @@
+- **[15:17:53]**  *There is no perfect way to study and review in the bar.*
+	- *Learn your circadian rythm. learn to know your optimal time to study. Understand yourself.*
+	- *Start cutting back. Time. Content. Debriefing. Analysis. - **Atty.** Mia Gentugaya
+		- I think I'm on the right track.
+		- 4 hours per day starting -60 days to DAY-D.
+		- I mirror my circadian time intended for the bar exam time slot. I will sleep early at 9am. Wake up at 4am.
+		- *Pomodoro technique.*
+		- Good for most, but I learned it's not for me. My mind wonder a lot so I forced myself to focus uninterrupted as long as I can. Let's say, I fix it at 10 minutes or at most 3 hours and if my mind wonder or cannot understand anymore, or distracted, just reset the time. I learned this from Huberman podcast.
+		- Currently, working at 3 hours uninterrupted and 25 minutes break. So for the whole day, 6 hours of study, I think, is good enough.
 - ## Highlights of the Latest Labor Law Amendments (2023–2024)
 - ### **1. Gig Economy and Employer-Employee Relationship**
 	- **Borromeo v. Lazada (G.R. No. 265610, April 2, 2024):** The Supreme Court clarified the application of the four-fold test and the economic reality test in determining employer-employee relationships, especially for gig economy workers like delivery riders. The Court emphasized that contractual labels (e.g., "independent contractor") do not control; actual control and economic dependence are determinative. This ruling has broad implications for all non-traditional work arrangements, including those involving TV broadcasters and other freelancers[1].
