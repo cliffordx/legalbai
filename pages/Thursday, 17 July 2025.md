@@ -1,3 +1,5 @@
+- **[21:19:20]** Comet Browser by Perplexity is on 🔥
+	- ![CleanShot 2025-07-17 at 21.14.35@2x.png](../assets/CleanShot_2025-07-17_at_21.14.35@2x_1752758426043_0.png){:width 886.0975952148438}
 - **[18:25:56]** I'm releasing my own Prompting Guide for generating a bar exam question for 2025:
 - ```textile
   
