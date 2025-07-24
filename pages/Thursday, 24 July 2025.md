@@ -1,0 +1,2 @@
+- ## The Case of the Sentient Lemon: When Socratic Method Meets AI Delirium"
+- ![AI-JOKE.jpg](../assets/AI-JOKE_1753358397880_0.jpg){:width 792.2162475585938}
