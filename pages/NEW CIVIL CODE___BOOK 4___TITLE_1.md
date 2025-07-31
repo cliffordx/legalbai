@@ -166,7 +166,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- If the uncertainty consists in whether the day will come or not, the obligation is conditional, and it shall be regulated by the rules of the preceding Section. (1125a)
 			  id:: 634fba6e-e32b-4444-bb86-142f5b0b0fcc
 		- **ARTICLE 1194.**
-		  collapsed:: true
 			- In case of loss, deterioration or improvement of the thing before the arrival of the day certain, the rules in ((de0b0637-d341-4339-8d9d-fced7724fb07)) shall be observed. (n)
 		- **ARTICLE 1195.**
 		  collapsed:: true
@@ -344,7 +343,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 				- [^2]: Compromise under Art. 2028 of the Civil Code; Impossibility of fulfillment under ((177c6213-853e-42db-929a-dcff7d26dde7)) of the New Civil Code; Happening of a fortuitous event under ((d741e29e-cd2e-4df3-9930-d288bdd00d25)) of the New Civil Code.
 					- [^3]: See *How Payment or Performance Is Made.*
 	- ### SECTION 1 - Payment or Performance
-	  collapsed:: true
 		- **ARTICLE 1232.**
 		  collapsed:: true
 			- Payment means not only the delivery of money but also the performance, in any other manner, of an obligation. (n)
@@ -369,7 +367,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- Payment made by a third person who does not intend to be reimbursed by the debtor is deemed to be a donation, which requires the debtor’s consent.
 			- But the payment is in any case valid as to the creditor who has accepted it. (n)
 		- **ARTICLE 1239.**
-		  collapsed:: true
 			- In obligations to give, payment made by one who does not have the free disposal of the thing due and capacity to alienate it shall not be valid, without prejudice to the provisions of ((b3e18d0a-ae3d-4ad7-89b9-f3c2bafb2c33)) under the Title on “Natural Obligations.” (1160a)
 		- **ARTICLE 1240.**
 		  collapsed:: true
@@ -542,7 +539,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- Confusion does not extinguish a joint obligation except as regards the share corresponding to the creditor or debtor in whom the two characters concur. (1194)
 	- ### SECTION 5 - Compensation
-	  collapsed:: true
 		- **ARTICLE 1278.**
 		  collapsed:: true
 			- Compensation shall take place when two persons, in their own right, are creditors and debtors of each other. (1195)
@@ -590,7 +586,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- If a person should have against him several debts which are susceptible of compensation, the rules on the application of payments shall apply to the order of the compensation. (1201)
 		- **ARTICLE 1290.**
-		  collapsed:: true
 			- When all the requisites mentioned in ((b2bc497c-2888-41b4-a762-b19d6597c889)) are present, compensation takes effect by operation of law, and extinguishes both debts to the concurrent amount, even though the creditors and debtors are not aware of the compensation. (1202a)
 	- ### SECTION 6 - [[Novation]]
 		- **ARTICLE 1291.**
