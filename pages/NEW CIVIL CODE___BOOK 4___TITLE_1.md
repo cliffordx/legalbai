@@ -331,7 +331,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 			- The nullity of the principal obligation carries with it that of the penal clause. (1155)
 - ## 🔴 CHAPTER 4 - Extinguishment of Obligations
 	- ### General Provisions
-	  collapsed:: true
 		- **ARTICLE 1231.**
 		- Obligations are extinguished:
 			- (1) By [[payment]] or performance[^3];
@@ -532,7 +531,6 @@ date-uploaded:: 16:03; Thursday, 27th October 2022
 		  collapsed:: true
 			- It is presumed that the accessory obligation of pledge has been remitted when the thing pledged, after its delivery to the creditor, is found in the possession of the debtor, or of a third person who owns the thing. (1191a)
 	- ### SECTION 4 - Confusion or Merger of Rights
-	  collapsed:: true
 		- **ARTICLE 1275.**
 		  collapsed:: true
 			- The obligation is extinguished from the time the characters of creditor and debtor are merged in the same person. (1192a)
