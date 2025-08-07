@@ -8,7 +8,6 @@ sys-category:: [[44]]
 
 - # RULE 131 - Burden of Proof, Burden of Evidence and Presumptions
 - **SECTION 1.** *Burden of proof* and Burden of Evidence.
-  collapsed:: true
 	- Burden of proof is the duty of a party to present evidence on the facts in issue necessary to establish his claim or defense by the amount of evidence required by law. Burden of proof never shifts.
 	- Burden of evidence is the duty of a party to present evidence sufficient to establish or rebut a fact in issue to establish a prima facie case. Burden of evidence may shift from one party to the other in the course of the proceedings, depending on the exigencies of the case. (1a)
 - **SECTION 2.** *Conclusive presumptions.*
